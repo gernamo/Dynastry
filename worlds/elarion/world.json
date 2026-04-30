@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.1",
+  "world_id": "w_elarion01",
+  "slug": "elarion",
+  "name": "Elarion",
+  "description": "A luminous realm where forests are made of living crystals and beings communicate through frequencies of color. Once pure, the light fractured during the Red Eclipse, birthing zones called Shadow Groves.",
+  "tags": ["fantasy", "ecology", "bioluminescence", "dynastry-canon"],
+  "status": "canonical",
+  "created_by": "@gernamo",
+  "created_at": "2026-04-15T10:00:00Z",
+  "updated_at": "2026-04-30T20:00:00Z",
+  "visual": {
+    "canonical_seed": 839201,
+    "model": "flux-1.1-pro",
+    "style_prompt": "epic fantasy, crystalline forests, bioluminescent flowers, rivers of liquid light, ethereal beings of color, cinematic lighting, painterly",
+    "reference_images": ["images/cover.png"],
+    "consistency_level": "high"
+  },
+  "lore_summary": {
+    "era_start": "Age of Light",
+    "core_themes": ["consciousness", "harmony", "fall", "rebirth"],
+    "rules": [
+      "Light is sentient and carries thought",
+      "Beings communicate through color frequencies",
+      "Shadow Groves corrupt light into mimicry"
+    ]
+  },
+  "governance": {
+    "allow_forks": true,
+    "allow_merges": false,
+    "canon_policy": "maintainer_only"
+  },
+  "ethical": {
+    "reviewed": true,
+    "reviewer": "aletheia_v0",
+    "review_date": "2026-04-15T10:30:00Z"
+  },
+  "license": "Dynastry Open World License v0.9"
+}
