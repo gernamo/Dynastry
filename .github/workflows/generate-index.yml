@@ -1,0 +1,98 @@
+name: Generate Worlds Index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'worlds/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate index
+        run: |
+          cat << 'EOF' > generate_index.py
+          import json
+          import os
+          from pathlib import Path
+          from datetime import datetime, timezone
+
+          worlds = []
+          worlds_dir = Path("worlds")
+
+          for world_path in sorted(worlds_dir.iterdir()):
+              if not world_path.is_dir():
+                  continue
+              world_json = world_path / "world.json"
+              if not world_json.exists():
+                  continue
+
+              with open(world_json) as f:
+                  w = json.load(f)
+
+              cover_rel = f"worlds/{world_path.name}/images/cover.png"
+
+              branches = []
+              branches_dir = world_path / "branches"
+              if branches_dir.exists():
+                  for branch_path in sorted(branches_dir.rglob("branch.json")):
+                      with open(branch_path) as bf:
+                          b = json.load(bf)
+                      branch_dir = branch_path.parent
+                      cover_branch = f"{branch_dir}/images/cover.png".replace("\\", "/")
+                      branches.append({
+                          "branch_id": b["branch_id"],
+                          "name": b["name"],
+                          "parent_branch": b["parent_branch"],
+                          "created_by": b["created_by"],
+                          "cover_image": cover_branch
+                      })
+
+              worlds.append({
+                  "world_id": w["world_id"],
+                  "slug": w["slug"],
+                  "name": w["name"],
+                  "description": w["description"],
+                  "tags": w.get("tags", []),
+                  "cover_image": cover_rel,
+                  "created_by": w["created_by"],
+                  "created_at": w["created_at"],
+                  "status": w.get("status", "developing"),
+                  "branches": branches
+              })
+
+          index = {
+              "schema_version": "1.1",
+              "generated_at": datetime.now(timezone.utc).isoformat(),
+              "total_worlds": len(worlds),
+              "total_branches": sum(len(w["branches"]) for w in worlds),
+              "worlds": worlds
+          }
+
+          with open("worlds-index.json", "w", encoding="utf-8") as f:
+              json.dump(index, f, indent=2, ensure_ascii=False)
+
+          print(f"Generated index with {len(worlds)} worlds and {sum(len(w['branches']) for w in worlds)} branches")
+          EOF
+          python generate_index.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Dynastry Bot"
+          git config user.email "bot@dynastry.app"
+          git add worlds-index.json
+          git diff --staged --quiet || git commit -m "chore: update worlds-index.json"
+          git push
