@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Dynastry Branch",
+  "type": "object",
+  "required": [
+    "schema_version", "branch_id", "world_id", "name",
+    "parent_branch", "created_by", "created_at", "visual"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "const": "1.1" },
+    "branch_id": {
+      "type": "string",
+      "pattern": "^b_[a-z0-9]{6,12}$"
+    },
+    "world_id": {
+      "type": "string",
+      "pattern": "^w_[a-z0-9]{6,12}$",
+      "description": "Mundo del que es rama"
+    },
+    "name": { "type": "string", "minLength": 2, "maxLength": 80 },
+    "description": { "type": "string", "minLength": 20, "maxLength": 500 },
+    "parent_branch": {
+      "type": "string",
+      "description": "ID de rama padre o 'canon' si deriva del mundo base"
+    },
+    "divergence_event": {
+      "type": "object",
+      "required": ["timeline_ref", "description"],
+      "properties": {
+        "timeline_ref": { "type": "string" },
+        "description": { "type": "string" }
+      }
+    },
+    "created_by": { "type": "string", "pattern": "^@[a-zA-Z0-9_-]+$" },
+    "created_at": { "type": "string", "format": "date-time" },
+    "visual": {
+      "type": "object",
+      "properties": {
+        "inherits_world_visual": { "type": "boolean" },
+        "seed_override": { "type": ["integer", "null"] },
+        "seed_modifier": {
+          "type": ["string", "null"],
+          "pattern": "^[+-][0-9]+$"
+        },
+        "style_adjustment": { "type": "string" }
+      }
+    },
+    "narrative_scope": {
+      "type": "object",
+      "properties": {
+        "focus": { "type": "array", "items": { "type": "string" } },
+        "allowed_content": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["characters", "events", "locations", "factions", "magic_systems"]
+          }
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "merged", "archived"]
+    },
+    "ethical": {
+      "type": "object",
+      "required": ["reviewed"],
+      "properties": {
+        "reviewed": { "type": "boolean" },
+        "reviewer": { "type": "string" }
+      }
+    }
+  }
+}
