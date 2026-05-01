@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-05-01T21:26:00.003444+00:00",
+  "generated_at": "2026-05-01T21:54:14.004423+00:00",
   "total_worlds": 1,
   "total_branches": 1,
   "worlds": [
@@ -22,9 +22,16 @@
       "branches": [
         {
           "branch_id": "b_shattered01",
+          "branch_slug": "shattered-glade",
           "name": "The Shattered Glade",
+          "description": "A divergence where the corruption of Shadow Groves spreads faster than expected, and an entire region of Elarion falls before the Auryn can react.",
           "parent_branch": "canon",
           "created_by": "@tester01",
+          "created_at": "2026-04-20T14:30:00Z",
+          "divergence_event": {
+            "timeline_ref": "Year 985 of the Age of Light",
+            "description": "The Eclipse aftermath: instead of one fall, three regions collapse simultaneously"
+          },
           "cover_image": "worlds/elarion/branches/shattered-glade/images/cover.png"
         }
       ]
