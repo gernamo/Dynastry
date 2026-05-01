@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Dynastry World",
+  "type": "object",
+  "required": [
+    "schema_version", "world_id", "slug", "name",
+    "description", "created_by", "created_at", "visual"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "const": "1.1" },
+    "world_id": {
+      "type": "string",
+      "pattern": "^w_[a-z0-9]{6,12}$",
+      "description": "Identificador único, ej: w_elarion01"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Para URL: elarion, vastion-9"
+    },
+    "name": { "type": "string", "minLength": 2, "maxLength": 80 },
+    "description": { "type": "string", "minLength": 20, "maxLength": 500 },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "maxItems": 10
+    },
+    "status": {
+      "type": "string",
+      "enum": ["seed", "developing", "canonical", "archived"]
+    },
+    "created_by": {
+      "type": "string",
+      "pattern": "^@[a-zA-Z0-9_-]+$"
+    },
+    "created_at": { "type": "string", "format": "date-time" },
+    "updated_at": { "type": "string", "format": "date-time" },
+    "visual": {
+      "type": "object",
+      "required": ["canonical_seed", "model", "style_prompt"],
+      "properties": {
+        "canonical_seed": { "type": "integer", "minimum": 1 },
+        "model": {
+          "type": "string",
+          "enum": ["sdxl", "flux-1.1-pro", "recraft-v3", "dall-e-3"]
+        },
+        "style_prompt": { "type": "string", "minLength": 20 },
+        "reference_images": {
+          "type": "array",
+          "items": { "type": "string", "format": "uri-reference" }
+        },
+        "consistency_level": {
+          "type": "string",
+          "enum": ["low", "medium", "high"]
+        }
+      }
+    },
+    "lore_summary": {
+      "type": "object",
+      "properties": {
+        "era_start": { "type": "string" },
+        "core_themes": {
+          "type": "array",
+          "items": { "type": "string" },
+          "maxItems": 6
+        },
+        "rules": {
+          "type": "array",
+          "items": { "type": "string" },
+          "maxItems": 10
+        }
+      }
+    },
+    "governance": {
+      "type": "object",
+      "properties": {
+        "allow_forks": { "type": "boolean", "default": true },
+        "allow_merges": { "type": "boolean", "default": false },
+        "canon_policy": {
+          "type": "string",
+          "enum": ["open", "maintainer_only", "community_vote"]
+        }
+      }
+    },
+    "ethical": {
+      "type": "object",
+      "required": ["reviewed"],
+      "properties": {
+        "reviewed": { "type": "boolean" },
+        "reviewer": { "type": "string", "enum": ["aletheia_v0", "manual"] },
+        "review_date": { "type": "string", "format": "date-time" }
+      }
+    },
+    "license": {
+      "type": "string",
+      "const": "Dynastry Open World License v0.9"
+    }
+  }
+}
