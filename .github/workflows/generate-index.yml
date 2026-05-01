@@ -49,16 +49,22 @@ jobs:
               branches_dir = world_path / "branches"
               if branches_dir.exists():
                   for branch_path in sorted(branches_dir.rglob("branch.json")):
-                      with open(branch_path) as bf:
-                          b = json.load(bf)
-                      branch_dir = branch_path.parent
-                      cover_branch = f"{branch_dir}/images/cover.png".replace("\\", "/")
-                      branches.append({
-                          "branch_id": b["branch_id"],
-                          "name": b["name"],
-                          "parent_branch": b["parent_branch"],
-                          "created_by": b["created_by"],
-                          "cover_image": cover_branch
+                  with open(branch_path) as bf:
+                      b = json.load(bf)
+                  branch_dir = branch_path.parent
+                  branch_slug = branch_dir.name
+                  cover_branch = f"{branch_dir}/images/cover.png".replace("\\", "/")
+                  branches.append({
+                      "branch_id": b["branch_id"],
+                      "branch_slug": branch_slug,
+                      "name": b["name"],
+                      "description": b.get("description", ""),
+                      "parent_branch": b["parent_branch"],
+                      "created_by": b["created_by"],
+                      "created_at": b.get("created_at", ""),
+                      "divergence_event": b.get("divergence_event", None),
+                      "cover_image": cover_branch
+                  })
                       })
 
               worlds.append({
