@@ -26,7 +26,6 @@ jobs:
         run: |
           cat << 'EOF' > generate_index.py
           import json
-          import os
           from pathlib import Path
           from datetime import datetime, timezone
 
@@ -49,22 +48,21 @@ jobs:
               branches_dir = world_path / "branches"
               if branches_dir.exists():
                   for branch_path in sorted(branches_dir.rglob("branch.json")):
-                  with open(branch_path) as bf:
-                      b = json.load(bf)
-                  branch_dir = branch_path.parent
-                  branch_slug = branch_dir.name
-                  cover_branch = f"{branch_dir}/images/cover.png".replace("\\", "/")
-                  branches.append({
-                      "branch_id": b["branch_id"],
-                      "branch_slug": branch_slug,
-                      "name": b["name"],
-                      "description": b.get("description", ""),
-                      "parent_branch": b["parent_branch"],
-                      "created_by": b["created_by"],
-                      "created_at": b.get("created_at", ""),
-                      "divergence_event": b.get("divergence_event", None),
-                      "cover_image": cover_branch
-                  })
+                      with open(branch_path) as bf:
+                          b = json.load(bf)
+                      branch_dir = branch_path.parent
+                      branch_slug = branch_dir.name
+                      cover_branch = f"{branch_dir}/images/cover.png".replace("\\", "/")
+                      branches.append({
+                          "branch_id": b["branch_id"],
+                          "branch_slug": branch_slug,
+                          "name": b["name"],
+                          "description": b.get("description", ""),
+                          "parent_branch": b["parent_branch"],
+                          "created_by": b["created_by"],
+                          "created_at": b.get("created_at", ""),
+                          "divergence_event": b.get("divergence_event", None),
+                          "cover_image": cover_branch
                       })
 
               worlds.append({
@@ -91,7 +89,7 @@ jobs:
           with open("worlds-index.json", "w", encoding="utf-8") as f:
               json.dump(index, f, indent=2, ensure_ascii=False)
 
-          print(f"Generated index with {len(worlds)} worlds and {sum(len(w['branches']) for w in worlds)} branches")
+          print(f"Generated index with {len(worlds)} worlds")
           EOF
           python generate_index.py
 
@@ -100,5 +98,4 @@ jobs:
           git config user.name "Dynastry Bot"
           git config user.email "bot@dynastry.app"
           git add worlds-index.json
-          git diff --staged --quiet || git commit -m "chore: update worlds-index.json"
-          git push
+          git diff --staged --quiet || git commit -m "chore:
