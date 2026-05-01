@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.1",
+  "generated_at": "2026-05-01T20:38:31.909818+00:00",
+  "total_worlds": 1,
+  "total_branches": 1,
+  "worlds": [
+    {
+      "world_id": "w_elarion01",
+      "slug": "elarion",
+      "name": "Elarion",
+      "description": "A luminous realm where forests are made of living crystals and beings communicate through frequencies of color. Once pure, the light fractured during the Red Eclipse, birthing zones called Shadow Groves.",
+      "tags": [
+        "fantasy",
+        "ecology",
+        "bioluminescence",
+        "dynastry-canon"
+      ],
+      "cover_image": "worlds/elarion/images/cover.png",
+      "created_by": "@gernamo",
+      "created_at": "2026-04-15T10:00:00Z",
+      "status": "canonical",
+      "branches": [
+        {
+          "branch_id": "b_shattered01",
+          "name": "The Shattered Glade",
+          "parent_branch": "canon",
+          "created_by": "@tester01",
+          "cover_image": "worlds/elarion/branches/shattered-glade/images/cover.png"
+        }
+      ]
+    }
+  ]
+}
