@@ -1,0 +1,65 @@
+import json
+from pathlib import Path
+from datetime import datetime, timezone
+
+worlds = []
+worlds_dir = Path("worlds")
+
+for world_path in sorted(worlds_dir.iterdir()):
+    if not world_path.is_dir():
+        continue
+    world_json = world_path / "world.json"
+    if not world_json.exists():
+        continue
+
+    with open(world_json) as f:
+        w = json.load(f)
+
+    cover_rel = "worlds/" + world_path.name + "/images/cover.png"
+
+    branches = []
+    branches_dir = world_path / "branches"
+    if branches_dir.exists():
+        for branch_path in sorted(branches_dir.rglob("branch.json")):
+            with open(branch_path) as bf:
+                b = json.load(bf)
+            branch_dir = branch_path.parent
+            branch_slug = branch_dir.name
+            cover_branch = str(branch_dir).replace("\\", "/") + "/images/cover.png"
+            branches.append({
+                "branch_id": b["branch_id"],
+                "branch_slug": branch_slug,
+                "name": b["name"],
+                "description": b.get("description", ""),
+                "parent_branch": b["parent_branch"],
+                "created_by": b["created_by"],
+                "created_at": b.get("created_at", ""),
+                "divergence_event": b.get("divergence_event", None),
+                "cover_image": cover_branch
+            })
+
+    worlds.append({
+        "world_id": w["world_id"],
+        "slug": w["slug"],
+        "name": w["name"],
+        "description": w["description"],
+        "tags": w.get("tags", []),
+        "cover_image": cover_rel,
+        "created_by": w["created_by"],
+        "created_at": w["created_at"],
+        "status": w.get("status", "developing"),
+        "branches": branches
+    })
+
+index = {
+    "schema_version": "1.1",
+    "generated_at": datetime.now(timezone.utc).isoformat(),
+    "total_worlds": len(worlds),
+    "total_branches": sum(len(w["branches"]) for w in worlds),
+    "worlds": worlds
+}
+
+with open("worlds-index.json", "w", encoding="utf-8") as f:
+    json.dump(index, f, indent=2, ensure_ascii=False)
+
+print("Generated index with", len(worlds), "worlds")
