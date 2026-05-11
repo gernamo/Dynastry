@@ -1,0 +1,16 @@
+{
+  "name": "The Glass Road",
+  "slug": "glass-road",
+  "tags": [
+    "road",
+    "glass",
+    "reflection",
+    "continent"
+  ],
+  "status": "developing",
+  "world_id": "w_glass01",
+  "created_at": "2026-05-11T15:00:00Z",
+  "created_by": "@gernamo",
+  "description": "A road of melted glass that crosses an entire continent, smooth as still water and reflecting things that are not above it.",
+  "schema_version": "1.1"
+}
