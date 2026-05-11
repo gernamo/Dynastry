@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-05-01T21:54:14.004423+00:00",
-  "total_worlds": 1,
+  "generated_at": "2026-05-11T13:00:27.296332+00:00",
+  "total_worlds": 2,
   "total_branches": 1,
   "worlds": [
     {
@@ -35,6 +35,23 @@
           "cover_image": "worlds/elarion/branches/shattered-glade/images/cover.png"
         }
       ]
+    },
+    {
+      "world_id": "w_glass01",
+      "slug": "glass-road",
+      "name": "The Glass Road",
+      "description": "A road of melted glass that crosses an entire continent, smooth as still water and reflecting things that are not above it.",
+      "tags": [
+        "road",
+        "glass",
+        "reflection",
+        "continent"
+      ],
+      "cover_image": "worlds/glass-road/images/cover.png",
+      "created_by": "@gernamo",
+      "created_at": "2026-05-11T15:00:00Z",
+      "status": "developing",
+      "branches": []
     }
   ]
 }
