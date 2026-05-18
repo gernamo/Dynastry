@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.1",
+  "branch_id": "b_awakening01",
+  "world_id": "w_cartograph01",
+  "name": "The Cartographer's Awakening",
+  "description": "A divergence where one cartographer learns to draw back \u2014 adding her own intentions to Heliograph's maps. The places that appear are no longer the AI's, but hers.",
+  "parent_branch": "canon",
+  "divergence_event": {
+    "timeline_ref": "Year 8 of the Bureau",
+    "description": "Lin Alm\u00e1di adds a single line to a Heliograph map. Months later, a city appears with that line in it. She begins to test, then to plan."
+  },
+  "created_by": "@tester03",
+  "created_at": "2026-05-12T10:00:00Z",
+  "visual": {
+    "inherits_world_visual": true,
+    "seed_modifier": "+201",
+    "style_adjustment": "warmer light, traces of human-drawn imperfection in holographic projections, soft glow"
+  },
+  "narrative_scope": {
+    "focus": [
+      "agency",
+      "co-authorship with the machine",
+      "consequences"
+    ],
+    "allowed_content": [
+      "characters",
+      "events",
+      "locations",
+      "factions"
+    ]
+  },
+  "status": "active",
+  "ethical": {
+    "reviewed": true,
+    "reviewer": "aletheia_v0"
+  }
+}
