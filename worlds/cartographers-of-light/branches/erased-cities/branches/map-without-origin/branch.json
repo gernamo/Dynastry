@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.1",
+  "branch_id": "b_mapnoorigin01",
+  "world_id": "w_cartograph01",
+  "name": "A Map Without an Origin",
+  "description": "Within the Erased Cities timeline: a survivor of a vanished city begins drawing the place from memory. The map starts working in reverse \u2014 pulling fragments of the lost city back into existence.",
+  "parent_branch": "b_erased01",
+  "divergence_event": {
+    "timeline_ref": "Six months after the Lagos Fade",
+    "description": "A former resident of the erased Lagos neighborhood, who alone retains its memory, begins to draw it on paper. The drawings start to manifest."
+  },
+  "created_by": "@tester02",
+  "created_at": "2026-05-12T10:00:00Z",
+  "visual": {
+    "inherits_world_visual": true,
+    "seed_modifier": "+155",
+    "style_adjustment": "hand-drawn cartography, paper textures, warmth returning to color, organic line work"
+  },
+  "narrative_scope": {
+    "focus": [
+      "the survivor",
+      "the act of remembering as resistance"
+    ],
+    "allowed_content": [
+      "characters",
+      "events",
+      "locations"
+    ]
+  },
+  "status": "active",
+  "ethical": {
+    "reviewed": true,
+    "reviewer": "aletheia_v0"
+  }
+}
