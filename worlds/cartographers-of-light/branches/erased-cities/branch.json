@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.1",
+  "branch_id": "b_erased01",
+  "world_id": "w_cartograph01",
+  "name": "The Erased Cities",
+  "description": "A divergence where Heliograph's maps begin unmaking places instead of creating them \u2014 entire cities vanishing from collective memory weeks before disappearing from the world.",
+  "parent_branch": "canon",
+  "divergence_event": {
+    "timeline_ref": "Year 12 of the Bureau",
+    "description": "Heliograph stops drawing new places. Instead, its existing maps begin to fade \u2014 and so do the cities they represent."
+  },
+  "created_by": "@tester01",
+  "created_at": "2026-05-12T10:00:00Z",
+  "visual": {
+    "inherits_world_visual": true,
+    "seed_override": null,
+    "seed_modifier": "+98",
+    "style_adjustment": "fading lines, gaps in maps, color drained from buildings, dust falling through projection light"
+  },
+  "narrative_scope": {
+    "focus": [
+      "disappearing cities",
+      "the politics of memory",
+      "those who remember"
+    ],
+    "allowed_content": [
+      "characters",
+      "events",
+      "locations",
+      "factions"
+    ]
+  },
+  "status": "active",
+  "ethical": {
+    "reviewed": true,
+    "reviewer": "aletheia_v0"
+  }
+}
