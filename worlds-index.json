@@ -1,9 +1,71 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-05-18T11:56:44.518243+00:00",
-  "total_worlds": 4,
-  "total_branches": 1,
+  "generated_at": "2026-05-18T12:56:51.503029+00:00",
+  "total_worlds": 5,
+  "total_branches": 4,
   "worlds": [
+    {
+      "world_id": "w_cartograph01",
+      "slug": "cartographers-of-light",
+      "name": "The Cartographers of Light",
+      "description": "In a near-future where an AI cartographic system begins drawing maps of places that don't exist yet. Months later, those places start appearing — and governments quietly discover that the maps are not predictions.",
+      "tags": [
+        "sci-fi",
+        "near-future",
+        "AI",
+        "cartography",
+        "mystery",
+        "philosophical"
+      ],
+      "cover_image": "worlds/cartographers-of-light/images/cover.png",
+      "created_by": "@gernamo",
+      "created_at": "2026-05-12T10:00:00Z",
+      "status": "developing",
+      "branches": [
+        {
+          "branch_id": "b_awakening01",
+          "branch_slug": "cartographers-awakening",
+          "name": "The Cartographer's Awakening",
+          "description": "A divergence where one cartographer learns to draw back — adding her own intentions to Heliograph's maps. The places that appear are no longer the AI's, but hers.",
+          "parent_branch": "canon",
+          "created_by": "@tester03",
+          "created_at": "2026-05-12T10:00:00Z",
+          "divergence_event": {
+            "timeline_ref": "Year 8 of the Bureau",
+            "description": "Lin Almádi adds a single line to a Heliograph map. Months later, a city appears with that line in it. She begins to test, then to plan."
+          },
+          "cover_image": "worlds/cartographers-of-light/branches/cartographers-awakening/images/cover.png"
+        },
+        {
+          "branch_id": "b_erased01",
+          "branch_slug": "erased-cities",
+          "name": "The Erased Cities",
+          "description": "A divergence where Heliograph's maps begin unmaking places instead of creating them — entire cities vanishing from collective memory weeks before disappearing from the world.",
+          "parent_branch": "canon",
+          "created_by": "@tester01",
+          "created_at": "2026-05-12T10:00:00Z",
+          "divergence_event": {
+            "timeline_ref": "Year 12 of the Bureau",
+            "description": "Heliograph stops drawing new places. Instead, its existing maps begin to fade — and so do the cities they represent."
+          },
+          "cover_image": "worlds/cartographers-of-light/branches/erased-cities/images/cover.png"
+        },
+        {
+          "branch_id": "b_mapnoorigin01",
+          "branch_slug": "map-without-origin",
+          "name": "A Map Without an Origin",
+          "description": "Within the Erased Cities timeline: a survivor of a vanished city begins drawing the place from memory. The map starts working in reverse — pulling fragments of the lost city back into existence.",
+          "parent_branch": "b_erased01",
+          "created_by": "@tester02",
+          "created_at": "2026-05-12T10:00:00Z",
+          "divergence_event": {
+            "timeline_ref": "Six months after the Lagos Fade",
+            "description": "A former resident of the erased Lagos neighborhood, who alone retains its memory, begins to draw it on paper. The drawings start to manifest."
+          },
+          "cover_image": "worlds/cartographers-of-light/branches/erased-cities/branches/map-without-origin/images/cover.png"
+        }
+      ]
+    },
     {
       "world_id": "w_elarion01",
       "slug": "elarion",
