@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-05-11T13:00:27.296332+00:00",
-  "total_worlds": 2,
+  "generated_at": "2026-05-18T11:51:17.070383+00:00",
+  "total_worlds": 3,
   "total_branches": 1,
   "worlds": [
     {
@@ -35,6 +35,23 @@
           "cover_image": "worlds/elarion/branches/shattered-glade/images/cover.png"
         }
       ]
+    },
+    {
+      "world_id": "w_ember01",
+      "slug": "ember-reef",
+      "name": "The Ember Reef",
+      "description": "A coral reef of glowing embers deep below the surface, where fish carry small flames in their bodies and currents weave the heat into shapes.",
+      "tags": [
+        "underwater",
+        "fire",
+        "mystical",
+        "ocean"
+      ],
+      "cover_image": "worlds/ember-reef/images/cover.png",
+      "created_by": "@gernamo",
+      "created_at": "2026-05-11T13:00:00Z",
+      "status": "developing",
+      "branches": []
     },
     {
       "world_id": "w_glass01",
