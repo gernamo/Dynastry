@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-05-18T11:51:17.070383+00:00",
-  "total_worlds": 3,
+  "generated_at": "2026-05-18T11:56:44.518243+00:00",
+  "total_worlds": 4,
   "total_branches": 1,
   "worlds": [
     {
@@ -67,6 +67,25 @@
       "cover_image": "worlds/glass-road/images/cover.png",
       "created_by": "@gernamo",
       "created_at": "2026-05-11T15:00:00Z",
+      "status": "developing",
+      "branches": []
+    },
+    {
+      "world_id": "w_kt7x2m",
+      "slug": "kia-theter-nucleo",
+      "name": "El Núcleo",
+      "description": "Un núcleo urbano tan densamente poblado que ha dejado de parecer una ciudad. Kia y Theter lo atraviesan juntos, construyendo entre el ruido algo que nadie más tiene.",
+      "tags": [
+        "supervivencia",
+        "ayuda-mutua",
+        "urbano",
+        "vitalismo",
+        "duo",
+        "juguetón"
+      ],
+      "cover_image": "worlds/kia-theter-nucleo/images/cover.png",
+      "created_by": "@gernamo",
+      "created_at": "2026-05-11T12:00:00Z",
       "status": "developing",
       "branches": []
     }
