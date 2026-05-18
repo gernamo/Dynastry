@@ -1,0 +1,11 @@
+# El Núcleo
+
+Hay lugares que crecen tanto que olvidan para qué sirven. El Núcleo es uno de ellos. Capas de infraestructura apiladas durante generaciones — tuberías sobre tuberías, puentes que conectan edificios que conectan otros puentes — hasta que la ciudad dejó de tener suelo reconocible. La luz solar llega a ciertas horas a ciertos niveles. A otros no llega nunca. Los que viven aquí no lo llaman hogar con nostalgia. Lo llaman hogar porque no conocen otra cosa, y eso, curiosamente, los hace libres.
+
+Kia tiene una forma de leer el Núcleo como si fuera un organismo vivo. Sabe cuándo un corredor va a llenarse antes de que llegue la gente. Sabe qué mercados abren de verdad y cuáles son fachada. No lo aprendió en ningún lado — lo fue absorbiendo, año tras año, moviéndose. Theter, en cambio, es el que actúa. Donde Kia lee, Theter responde. Juntos forman algo que individualmente ninguno de los dos es: una inteligencia que se mueve.
+
+La ayuda mutua en el Núcleo no es ideología. Es física. Si no te sostiene nadie cuando el nivel tres se inunda, te ahogas. Si no compartes el dato de qué ruta está cortada, pierdes medio día. Kia y Theter lo saben mejor que nadie — no porque sean especiales, sino porque llevan más tiempo prestando atención. La red de favores, información y comida compartida que han ido tejiendo a su alrededor no tiene nombre. Simplemente existe, y crece.
+
+Lo que hay entre sus miradas tardó en aparecer. Al principio era desconfianza útil — dos personas que se necesitaban pero se medían. Después fue algo más parecido a la sincronía. Ahora hay momentos en que uno empieza un movimiento y el otro ya lo está completando, sin que nadie haya dicho nada. En un lugar tan ruidoso como el Núcleo, eso es una forma de silencio propio.
+
+El Núcleo no tiene villanos claros ni salvadores. Tiene presiones: niveles que se gentrifying hacia arriba, corporaciones que compran acceso al agua, rumores de que el nivel uno — el más profundo, el más oscuro — está siendo sellado. Kia y Theter no son héroes en ese sentido. Son dos personas que se niegan a que el lugar los aplaste, y que por ahora, juntos, lo están logrando.
