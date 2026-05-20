@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.1",
-  "generated_at": "2026-05-20T11:54:32.233577+00:00",
+  "schema_version": "1.2",
+  "generated_at": "2026-05-20T14:07:06.100242+00:00",
   "total_worlds": 7,
   "total_branches": 4,
   "worlds": [
@@ -186,11 +186,43 @@
         "big4",
         "afterwork"
       ],
-      "cover_image": "worlds/simios-big4/images/cover.png",
+      "cover_image": "worlds/simios-big4/images/hero.png",
       "created_by": "@germannavarretemoreno",
       "created_at": "2026-05-19T12:00:00Z",
       "status": "developing",
-      "branches": []
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "Planta 14, KPG & Associates. Llevan tres horas 'a punto de irse a casa'.",
+          "image_path": "worlds/simios-big4/images/hero.png"
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El Bar de Abajo. Territorio neutral entre la oficina y la vida real. Más cerca de la oficina.",
+          "image_path": "worlds/simios-big4/images/scene_1.png"
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "La reorganización de departamentos se decidió siempre aquí, nunca en la reunión de dirección.",
+          "image_path": "worlds/simios-big4/images/scene_2.png"
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "La oferta lleva cuatro días sin responder. El plazo vence mañana. Mañana también vence el trimestre.",
+          "image_path": "worlds/simios-big4/images/scene_3.png"
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Dos horas después. Nadie se fue. Alguien pidió otra ronda. El ciclo continúa.",
+          "image_path": "worlds/simios-big4/images/scene_4.png"
+        }
+      ]
     }
   ]
 }
