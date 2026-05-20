@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-05-20T06:17:23.439809+00:00",
-  "total_worlds": 6,
+  "generated_at": "2026-05-20T11:54:32.233577+00:00",
+  "total_worlds": 7,
   "total_branches": 4,
   "worlds": [
     {
@@ -168,6 +168,27 @@
       "cover_image": "worlds/kia-theter-nucleo/images/cover.png",
       "created_by": "@gernamo",
       "created_at": "2026-05-11T12:00:00Z",
+      "status": "developing",
+      "branches": []
+    },
+    {
+      "world_id": "w_sm4b4x",
+      "slug": "simios-big4",
+      "name": "Afterwork Eterno",
+      "description": "Una oficina de primates humanizados atrapados en el ciclo sin fin de la consultoría corporativa. Todos quieren irse. Nadie lo hace.",
+      "tags": [
+        "comedia",
+        "coral",
+        "sarcasmo",
+        "corporativo",
+        "primates",
+        "oficina",
+        "big4",
+        "afterwork"
+      ],
+      "cover_image": "worlds/simios-big4/images/cover.png",
+      "created_by": "@germannavarretemoreno",
+      "created_at": "2026-05-19T12:00:00Z",
       "status": "developing",
       "branches": []
     }
