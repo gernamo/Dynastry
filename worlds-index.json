@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
-  "generated_at": "2026-05-18T12:56:51.503029+00:00",
-  "total_worlds": 5,
+  "generated_at": "2026-05-20T06:17:23.439809+00:00",
+  "total_worlds": 6,
   "total_branches": 4,
   "worlds": [
     {
@@ -112,6 +112,26 @@
       "cover_image": "worlds/ember-reef/images/cover.png",
       "created_by": "@gernamo",
       "created_at": "2026-05-11T13:00:00Z",
+      "status": "developing",
+      "branches": []
+    },
+    {
+      "world_id": "w_erk4tw",
+      "slug": "erikka-fourth-wall",
+      "name": "Erikka y el Borde de Todo",
+      "description": "Erikka cree que sueña con las estrellas. Lo que en realidad hace es encontrar las costuras de la página — los bordes donde la tinta se vuelve vacío y el vacío se vuelve otra cosa.",
+      "tags": [
+        "cuarta-pared",
+        "meta-narrativa",
+        "cómic",
+        "noche",
+        "juguetón",
+        "viaje",
+        "realidad-vs-ficción"
+      ],
+      "cover_image": "worlds/erikka-fourth-wall/images/cover.png",
+      "created_by": "@germannavarretemoreno",
+      "created_at": "2026-05-19T12:00:00Z",
       "status": "developing",
       "branches": []
     },
