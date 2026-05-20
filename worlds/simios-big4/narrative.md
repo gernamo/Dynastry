@@ -1,0 +1,11 @@
+# Afterwork Eterno
+
+En la planta 14 de un edificio de cristal sin nombre, una manada de primates con traje lleva años haciendo lo mismo: trabajar, quejarse, pedir otro gin-tonic y volver a trabajar. La empresa se llama KPG & Associates. Nadie sabe qué significa la K. Nadie pregunta.
+
+La saga transcurre casi siempre fuera de la oficina — en el bar de abajo, en el parking, en el Burger King de la esquina a las 2am — pero la oficina nunca desaparece del todo. Está en los móviles, en las conversaciones, en la forma en que todos miran el reloj aunque llevan horas sin fichar. El afterwork no es escape. Es la oficina con peor iluminación.
+
+El elenco es coral y está construido como un catálogo de arquetipos en colisión: El Analista Eterno (un macaco de cara seria que lleva seis años 'a punto de irse a una startup'), La Senior que Sabe Demasiado (una chimpancé que conoce todos los secretos de la firma y los usa como moneda), El Becario Entusiasta (un gibón joven que todavía cree en los valores de empresa), El Burnout Funcional (un orangután que produce más que nadie y no recuerda la última vez que durmió bien), y La Manager que Sonríe (un gorila que traduce todo el sufrimiento colectivo a lenguaje de feedback positivo). Cada uno es una contradicción andante. Ninguno es el villano. Todos son el problema.
+
+La regla central del mundo es simple y brutal: nadie se va. No porque no puedan — alguno tiene ofertas, alguno tiene ahorros, alguno tiene un sueño concreto — sino porque el sistema está diseñado para que el momento de irse siempre sea 'después del cierre de año'. Y el cierre de año siempre está a tres meses. El tiempo en KPG & Associates no avanza de forma lineal: se repite, con ligeras variaciones, como un PowerPoint reciclado con el logo del nuevo cliente.
+
+El tono es el de un documental que nadie pidió sobre una especie que no debería haber evolucionado tan rápido. La cámara los observa sin juzgar, pero tampoco miente. Hay ternura en el retrato — estos simios se quieren, a su manera torpe y competitiva — pero la ternura no suaviza el diagnóstico. Están atrapados. Y lo saben. Y van a pedir otra ronda.
