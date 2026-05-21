@@ -1,0 +1,60 @@
+{
+  "name": "El Analista Se Va",
+  "slug": "el-analista-se-va",
+  "tags": [
+    "sarcasmo",
+    "coral",
+    "corporativo",
+    "primates",
+    "afterwork",
+    "sabático",
+    "traición",
+    "caos"
+  ],
+  "status": "active",
+  "world_id": "w_sm4b4x",
+  "branch_id": "b_xt9k2m",
+  "created_at": "2026-05-19T12:00:00Z",
+  "created_by": "@germannavarretemoreno",
+  "description": "El Analista Eterno anuncia en el afterwork que se toma un año sabático. KPG & Associates no tiene protocolo para esto. Nadie lo tiene.",
+  "parent_slug": "simios-big4",
+  "parent_branch": "canon",
+  "schema_version": "1.2",
+  "divergence_event": {
+    "description": "El Analista Eterno, que lleva seis años 'a punto de irse', lo dice en voz alta y en serio: se toma un año sabático. Para él. Para su familia. Sin fecha de vuelta negociable.",
+    "timeline_ref": "Afterwork de un jueves cualquiera, planta baja, bar El Corredor, tercer gin-tonic de la ronda"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "El momento exacto en que alguien dice la verdad en voz alta. El bar sigue girando. Él ya no.",
+      "image_path": "images/hero.png"
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El Corredor, planta baja. Un jueves como todos los jueves, hasta que deja de serlo.",
+      "image_path": "images/scene_1.png"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El segundo de silencio dura exactamente un segundo. Luego la manada hace lo que sabe hacer.",
+      "image_path": "images/scene_2.png"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La Manager que Sonríe encuentra las palabras correctas en el idioma equivocado. Como siempre.",
+      "image_path": "images/scene_3.png"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Se fue el primero. El taburete vacío hace más ruido que cualquier cosa que dijeron esta noche.",
+      "image_path": "images/scene_4.png"
+    }
+  ],
+  "cover_image": "worlds/simios-big4/branches/el-analista-se-va/images/hero.png"
+}
