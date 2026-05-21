@@ -1,0 +1,59 @@
+{
+  "name": "Afterwork Eterno: El que Dijo que se Iba",
+  "slug": "afterwork-sabatico",
+  "tags": [
+    "comedia",
+    "coral",
+    "caos",
+    "sabático",
+    "manada",
+    "alcohol",
+    "euforia",
+    "corporativo"
+  ],
+  "status": "active",
+  "world_id": "w_sm4b4x",
+  "branch_id": "b_qs7r2p",
+  "created_at": "2026-05-19T12:00:00Z",
+  "created_by": "@germannavarretemoreno",
+  "description": "En un afterwork como cualquier otro, alguien lo dice en voz alta. La manada no sabe si aplaudir, llorar o pedir otra ronda. Probablemente las tres.",
+  "parent_branch": "canon",
+  "schema_version": "1.2",
+  "divergence_event": {
+    "description": "Un miembro de la manada anuncia en voz alta que deja KPG & Associates para tomarse un año sabático. Es la primera vez que alguien lo dice en serio. El sistema no tiene protocolo para esto.",
+    "timeline_ref": "Un jueves cualquiera, tercer gin-tonic, bar de abajo"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Alguien lo dijo en voz alta. La manada todavía no sabe cómo procesar eso, pero está intentándolo con mucho entusiasmo y poco orden.",
+      "image_path": "images/hero.png"
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El bar de abajo. Un jueves. El momento exacto en que el aire cambió de composición.",
+      "image_path": "images/scene_1.png"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La manada delibera. Nadie escucha a nadie, pero todos tienen algo urgente que decir.",
+      "image_path": "images/scene_2.png"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La Senior que Sabe Demasiado reveló que ella también había estado a punto de irse. En 2019. Y en 2021. Y el marzo pasado.",
+      "image_path": "images/scene_3.png"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "A medianoche nadie le preguntó si de verdad lo iba a hacer. Esa pregunta era demasiado real para un jueves.",
+      "image_path": "images/scene_4.png"
+    }
+  ],
+  "cover_image": "worlds/sm4b4x/branches/afterwork-sabatico/images/hero.png"
+}
