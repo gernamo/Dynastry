@@ -1,0 +1,13 @@
+# El Analista Se Va
+
+Ocurre un jueves. No un lunes de propósitos ni un enero de resoluciones — un jueves, que es el día en que la guardia baja porque el viernes ya casi se huele. El Analista Eterno lleva el tercer gin-tonic en la mano y dice, sin preámbulo, sin PowerPoint de soporte: se toma un año sabático. Para él. Para su familia. Ya está.
+
+El bar El Corredor, planta baja del edificio de cristal sin nombre, absorbe el impacto como puede. Hay un segundo de silencio — un segundo entero, que en términos de primates corporativos equivale a una eternidad geológica — y luego todo explode. No de forma ordenada. De forma de manada.
+
+La Manager que Sonríe es la primera en reaccionar, que es su trabajo aunque nadie se lo haya pedido esta noche. 'Qué valiente', dice, con una sonrisa que tarda medio segundo más de lo normal en llegar. 'Un reset personal. Eso es exactamente lo que el mercado va a valorar en ti cuando vuelvas.' El Analista asiente sin escucharla. Ya conoce el idioma. Lo habla desde hace seis años.
+
+El Burnout Funcional no dice nada durante diez minutos. Luego pide otra ronda. Luego dice, mirando el vaso: 'Yo también tengo familia.' Nadie sabe muy bien qué hacer con eso, así que todos fingen no haberlo oído, que es la respuesta corporativa estándar ante la verdad inconveniente. El Becario Entusiasta, por su parte, está procesando la información con la cara de quien acaba de descubrir que Papá Noel tiene contrato indefinido en KPG. Si el Analista puede irse, el sistema tiene una grieta. Y las grietas son contagiosas.
+
+La Senior que Sabe Demasiado observa desde el extremo de la barra. Lleva años acumulando secretos de la firma como quien colecciona moneda extranjera — útil en viajes, inútil en casa. Sabe que el Analista tiene una oferta de una startup desde hace catorce meses. Sabe que su mujer le dio un ultimátum en diciembre. Sabe que el año sabático es la versión diplomática de 'me largo'. No dice nada. Guarda el dato. En KPG, la información es la única divisa que no se devalúa.
+
+Al final de la noche, el Analista se va el primero. Es la primera vez en seis años que se va el primero. El resto se queda en el bar, con los móviles encima de la mesa mostrando notificaciones de Slack que nadie abre, hablando de él como si ya fuera un concepto y no una persona. Mañana habrá una reunión. Habrá un plan de transición. Habrá un Excel. Pero esta noche, en El Corredor, algo ha cambiado de forma irreversible: alguien ha demostrado que el sistema tiene salida. Y eso, en KPG & Associates, es el acto más subversivo posible.
