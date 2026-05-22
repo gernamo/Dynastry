@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-21T14:37:45.163728+00:00",
+  "generated_at": "2026-05-22T05:35:14.648559+00:00",
   "total_worlds": 7,
-  "total_branches": 5,
+  "total_branches": 6,
   "worlds": [
     {
       "world_id": "w_cartograph01",
@@ -234,6 +234,52 @@
               "aspect_ratio": "16:9",
               "narrative_caption": "Se fue el primero. El taburete vacío hace más ruido que cualquier cosa que dijeron esta noche.",
               "image_path": "worlds/simios-big4/branches/el-analista-se-va/images/scene_4.png"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_vx7r3q",
+          "branch_slug": "el-analista-vuelve",
+          "name": "El Analista Vuelve",
+          "description": "El Analista Eterno regresa a KPG & Associates con empresa propia. Hace lo mismo que ellos. Le va bien. Nadie sabe cómo procesar esto.",
+          "parent_branch": "b_xt9k2m",
+          "created_by": "@german",
+          "created_at": "2026-05-19T12:00:00Z",
+          "divergence_event": {
+            "description": "El Analista no desaparece en el año sabático. Vuelve a la planta 14 con tarjeta de visita propia y una empresa que hace consultoría. La misma consultoría. Con mejor branding.",
+            "timeline_ref": "Tres meses después del jueves del gin-tonic"
+          },
+          "cover_image": "worlds/simios-big4/branches/el-analista-vuelve/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "Vuelve con tarjeta de visita. Vuelve con logo. Vuelve al mismo edificio, al mismo cristal, al mismo ascensor — pero esta vez pulsa un piso diferente.",
+              "image_path": "worlds/simios-big4/branches/el-analista-vuelve/images/hero.png"
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Trajo croissants. Nadie había pedido croissants. Nadie iba a rechazarlos.",
+              "image_path": "worlds/simios-big4/branches/el-analista-vuelve/images/scene_1.png"
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "El Excel lleva tres años abierto. Esta tarde, por primera vez, lo cierra antes de terminar de leerlo.",
+              "image_path": "worlds/simios-big4/branches/el-analista-vuelve/images/scene_2.png"
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "La tarjeta dice Analyx. La Senior la sostiene como quien sostiene una prueba de algo que preferiría no haber entendido.",
+              "image_path": "worlds/simios-big4/branches/el-analista-vuelve/images/scene_3.png"
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Brindaron por él. Con su tarjeta de crédito, su empresa, su nombre. Y lo hicieron bien. Llevan años practicando exactamente esto.",
+              "image_path": "worlds/simios-big4/branches/el-analista-vuelve/images/scene_4.png"
             }
           ]
         }
