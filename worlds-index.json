@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-26T23:10:53.301664+00:00",
+  "generated_at": "2026-05-26T23:11:23.348277+00:00",
   "total_worlds": 8,
-  "total_branches": 6,
+  "total_branches": 7,
   "worlds": [
     {
       "world_id": "w_cartograph01",
@@ -188,7 +188,54 @@
       "created_by": "@quietmornings",
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_otherplat01",
+          "branch_slug": "the-other-platform",
+          "name": "The Other Platform",
+          "description": "What if, at the junction, she got off at his platform instead of her own — chasing a face she'd never seen, with no idea which of the strangers stepping onto the cold concrete was him.",
+          "parent_branch": "canon",
+          "created_by": "@latenightowl",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "timeline_ref": "The junction, 04:12 — the train splits",
+            "description": "Instead of staying on for her own stop, she grabs her backpack and steps off at his platform, having only ever known him through four-minute windows."
+          },
+          "cover_image": "worlds/last-connection/branches/the-other-platform/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "She didn't decide. She just found herself standing on his platform, not knowing which stranger was him.",
+              "image_path": "worlds/last-connection/branches/the-other-platform/images/hero.png"
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Four or five people stepped down into the same blue dark. Any of them. None of them looked up.",
+              "image_path": "worlds/last-connection/branches/the-other-platform/images/scene_1.png"
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "'vending machine. blue light. I'm the idiot who can't tell which one is you.'",
+              "image_path": "worlds/last-connection/branches/the-other-platform/images/scene_2.png"
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "A figure near the far end stopped walking. The whole branch holds its breath here.",
+              "image_path": "worlds/last-connection/branches/the-other-platform/images/scene_3.png"
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Some leaps are about the landing. This one is about the half-second of air.",
+              "image_path": "worlds/last-connection/branches/the-other-platform/images/scene_4.png"
+            }
+          ]
+        }
+      ],
       "images": [
         {
           "role": "hero",
