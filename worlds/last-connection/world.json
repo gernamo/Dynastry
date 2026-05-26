@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.2",
+  "world_id": "w_lastconn01",
+  "slug": "last-connection",
+  "name": "Last Connection",
+  "description": "Two strangers on the same night train share nothing but a failing onboard wifi. They never speak in person \u2014 only through messages. Every stop brings them one station closer to the one where someone gets off for good.",
+  "tags": [
+    "romance",
+    "slow-burn",
+    "night-train",
+    "messaging",
+    "coming-of-age",
+    "bittersweet"
+  ],
+  "status": "developing",
+  "created_by": "@quietmornings",
+  "created_at": "2026-05-22T12:00:00Z",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "23:40 to the coast. Wifi works four minutes, dies for six. You learn to make the four count.",
+      "image_path": "images/hero.png"
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Nobody talks on this train. They just glow, each in their own little rectangle of light.",
+      "image_path": "images/scene_1.png"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "'is anyone else's wifi useless or is it just me.' Six minutes of nothing. Then: 'it's everyone's.'",
+      "image_path": "images/scene_2.png"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Connection lost. Six minutes to think about what you almost typed. Six minutes to delete it.",
+      "image_path": "images/scene_3.png"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "The train splits at the junction. Whoever gets off first disappears into a different morning.",
+      "image_path": "images/scene_4.png"
+    }
+  ],
+  "cover_image": "worlds/last-connection/images/hero.png"
+}
