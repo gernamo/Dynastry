@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-26T23:12:27.857192+00:00",
+  "generated_at": "2026-05-26T23:12:57.355321+00:00",
   "total_worlds": 8,
-  "total_branches": 9,
+  "total_branches": 10,
   "worlds": [
     {
       "world_id": "w_cartograph01",
@@ -232,6 +232,52 @@
               "aspect_ratio": "16:9",
               "narrative_caption": "The platform was empty. The vending machine still hummed. The chat only ever worked on the train.",
               "image_path": "worlds/last-connection/branches/missed/images/scene_4.png"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_signallost01",
+          "branch_slug": "signal-lost",
+          "name": "Signal Lost",
+          "description": "What if the wifi never failed? No dead spots, no six-minute silences — just a clean, endless connection. And without the constraint, the thing between them never quite ignited. The story of how too much access killed the spark.",
+          "parent_branch": "canon",
+          "created_by": "@nodeadspots",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "timeline_ref": "23:41 — the network holds",
+            "description": "The onboard wifi, for once, doesn't drop. A clean signal the whole way. The forced pauses that made every message matter never happen."
+          },
+          "cover_image": "worlds/last-connection/branches/signal-lost/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "The router held all night. Clean signal, coast to coast. And that was exactly the problem.",
+              "image_path": "worlds/last-connection/branches/signal-lost/images/hero.png"
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "No four-minute windows. No six-minute deaths. Just full bars and infinite, weightless time.",
+              "image_path": "worlds/last-connection/branches/signal-lost/images/scene_1.png"
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "'where are you headed. cool. yeah I needed to get away too. ha.' Easy. Meaning nothing.",
+              "image_path": "worlds/last-connection/branches/signal-lost/images/scene_2.png"
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "'nice talking to you,' she typed, and meant it exactly as much as it sounds.",
+              "image_path": "worlds/last-connection/branches/signal-lost/images/scene_3.png"
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Somewhere a router worked perfectly, and because of it, nothing happened at all.",
+              "image_path": "worlds/last-connection/branches/signal-lost/images/scene_4.png"
             }
           ]
         },
