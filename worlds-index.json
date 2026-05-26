@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-26T23:12:57.355321+00:00",
+  "generated_at": "2026-05-26T23:13:28.962464+00:00",
   "total_worlds": 8,
-  "total_branches": 10,
+  "total_branches": 11,
   "worlds": [
     {
       "world_id": "w_cartograph01",
@@ -232,6 +232,52 @@
               "aspect_ratio": "16:9",
               "narrative_caption": "The platform was empty. The vending machine still hummed. The chat only ever worked on the train.",
               "image_path": "worlds/last-connection/branches/missed/images/scene_4.png"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_read3am01",
+          "branch_slug": "read-at-3am",
+          "name": "Read at 3AM",
+          "description": "Months after the signal-lost night, she finds the old carriage chat still open on her phone. On a sleepless 3AM she types into the dead thread — and the read receipt turns blue. He kept it open too.",
+          "parent_branch": "b_signallost01",
+          "created_by": "@nodeadspots",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "timeline_ref": "Three months later, 03:00, a sleepless night",
+            "description": "She reopens the dormant onboard chat thread out of insomnia and types into it, assuming it's dead. The message shows as read."
+          },
+          "cover_image": "worlds/last-connection/branches/read-at-3am/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "Three months later. 3 a.m. She couldn't sleep, and the dead thread was still there.",
+              "image_path": "worlds/last-connection/branches/read-at-3am/images/hero.png"
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "'I think the wifi worked too well that night. We'd have had a better chance if it kept dying.'",
+              "image_path": "worlds/last-connection/branches/read-at-3am/images/scene_1.png"
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "She sent it into a void. Then the little word appeared beneath it. Read.",
+              "image_path": "worlds/last-connection/branches/read-at-3am/images/scene_2.png"
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "The three dots started. Stopped. Started again. He was in the same sleepless dark, drafting the brave thing.",
+              "image_path": "worlds/last-connection/branches/read-at-3am/images/scene_3.png"
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "'I kept it open too,' he sent. Then: 'what stop are you near these days?'",
+              "image_path": "worlds/last-connection/branches/read-at-3am/images/scene_4.png"
             }
           ]
         },
