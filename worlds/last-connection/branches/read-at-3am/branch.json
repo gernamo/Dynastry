@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.2",
+  "branch_id": "b_read3am01",
+  "world_id": "w_lastconn01",
+  "parent_slug": "last-connection",
+  "slug": "read-at-3am",
+  "name": "Read at 3AM",
+  "description": "Months after the signal-lost night, she finds the old carriage chat still open on her phone. On a sleepless 3AM she types into the dead thread \u2014 and the read receipt turns blue. He kept it open too.",
+  "tags": [
+    "romance",
+    "second-chance",
+    "hopeful",
+    "messaging",
+    "quiet"
+  ],
+  "parent_branch": "b_signallost01",
+  "divergence_event": {
+    "timeline_ref": "Three months later, 03:00, a sleepless night",
+    "description": "She reopens the dormant onboard chat thread out of insomnia and types into it, assuming it's dead. The message shows as read."
+  },
+  "created_by": "@nodeadspots",
+  "created_at": "2026-05-22T12:00:00Z",
+  "status": "active",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Three months later. 3 a.m. She couldn't sleep, and the dead thread was still there.",
+      "image_path": "images/hero.png"
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "'I think the wifi worked too well that night. We'd have had a better chance if it kept dying.'",
+      "image_path": "images/scene_1.png"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "She sent it into a void. Then the little word appeared beneath it. Read.",
+      "image_path": "images/scene_2.png"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "The three dots started. Stopped. Started again. He was in the same sleepless dark, drafting the brave thing.",
+      "image_path": "images/scene_3.png"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "'I kept it open too,' he sent. Then: 'what stop are you near these days?'",
+      "image_path": "images/scene_4.png"
+    }
+  ],
+  "cover_image": "worlds/last-connection/branches/read-at-3am/images/hero.png"
+}
