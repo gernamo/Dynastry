@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.2",
+  "branch_id": "b_longway01",
+  "world_id": "w_lastconn01",
+  "parent_slug": "last-connection",
+  "slug": "the-long-way",
+  "name": "The Long Way",
+  "description": "The figure turned. It was him. And the worst, best thing happened: in person, with all the time in the world, they had nothing to say. The four-minute magic was gone. So they had to learn each other the slow way, from zero.",
+  "tags": [
+    "romance",
+    "slow-burn",
+    "awkward",
+    "hopeful",
+    "real"
+  ],
+  "parent_branch": "b_otherplat01",
+  "divergence_event": {
+    "timeline_ref": "The figure turns \u2014 and it's him",
+    "description": "He turns, and it's him. But the intimacy of the dead-spot windows doesn't survive contact with daylight and unlimited time. They have to start over, badly, in person."
+  },
+  "created_by": "@thearchitect",
+  "created_at": "2026-05-22T12:00:00Z",
+  "status": "active",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "He turned, and it was him. And it was awful. Three feet apart, full signal, nothing to say.",
+      "image_path": "images/hero.png"
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "A slightly shorter, more tired, more real person than the one she'd built from four-minute windows.",
+      "image_path": "images/scene_1.png"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "They knew each other's deepest fears and could not, for the life of them, figure out where to get breakfast.",
+      "image_path": "images/scene_2.png"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Then, for a second or two, it caught. A real laugh. A real silence that didn't hurt.",
+      "image_path": "images/scene_3.png"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "She gave him a number that worked everywhere. Not just on the 23:40. Some things you learn the long way.",
+      "image_path": "images/scene_4.png"
+    }
+  ],
+  "cover_image": "worlds/last-connection/branches/the-long-way/images/hero.png"
+}
