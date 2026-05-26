@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-26T23:11:55.902431+00:00",
+  "generated_at": "2026-05-26T23:12:27.857192+00:00",
   "total_worlds": 8,
-  "total_branches": 8,
+  "total_branches": 9,
   "worlds": [
     {
       "world_id": "w_cartograph01",
@@ -232,6 +232,52 @@
               "aspect_ratio": "16:9",
               "narrative_caption": "The platform was empty. The vending machine still hummed. The chat only ever worked on the train.",
               "image_path": "worlds/last-connection/branches/missed/images/scene_4.png"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_longway01",
+          "branch_slug": "the-long-way",
+          "name": "The Long Way",
+          "description": "The figure turned. It was him. And the worst, best thing happened: in person, with all the time in the world, they had nothing to say. The four-minute magic was gone. So they had to learn each other the slow way, from zero.",
+          "parent_branch": "b_otherplat01",
+          "created_by": "@thearchitect",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "timeline_ref": "The figure turns — and it's him",
+            "description": "He turns, and it's him. But the intimacy of the dead-spot windows doesn't survive contact with daylight and unlimited time. They have to start over, badly, in person."
+          },
+          "cover_image": "worlds/last-connection/branches/the-long-way/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "He turned, and it was him. And it was awful. Three feet apart, full signal, nothing to say.",
+              "image_path": "worlds/last-connection/branches/the-long-way/images/hero.png"
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "A slightly shorter, more tired, more real person than the one she'd built from four-minute windows.",
+              "image_path": "worlds/last-connection/branches/the-long-way/images/scene_1.png"
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "They knew each other's deepest fears and could not, for the life of them, figure out where to get breakfast.",
+              "image_path": "worlds/last-connection/branches/the-long-way/images/scene_2.png"
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Then, for a second or two, it caught. A real laugh. A real silence that didn't hurt.",
+              "image_path": "worlds/last-connection/branches/the-long-way/images/scene_3.png"
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "She gave him a number that worked everywhere. Not just on the 23:40. Some things you learn the long way.",
+              "image_path": "worlds/last-connection/branches/the-long-way/images/scene_4.png"
             }
           ]
         },
