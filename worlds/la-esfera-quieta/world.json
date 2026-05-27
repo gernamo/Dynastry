@@ -1,0 +1,51 @@
+{
+  "name": "La Esfera Quieta",
+  "slug": "la-esfera-quieta",
+  "tags": [
+    "misterio",
+    "tensión",
+    "sobrenatural",
+    "familia",
+    "silencio",
+    "horror-quieto"
+  ],
+  "status": "developing",
+  "world_id": "w_esf7kx",
+  "created_at": "2026-05-19T12:00:00Z",
+  "created_by": "@saninthesun",
+  "description": "Una niña duerme. El perro no se mueve. Algo en la casa ya sabe lo que nadie más sabe todavía.",
+  "schema_version": "1.2",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "La esfera no hace ruido. Eso es lo primero que llama la atención — que una cosa que brilla así no haga absolutamente ningún sonido.",
+      "image_path": "images/hero.png"
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La niña duerme. El perro lleva horas sin moverse. Hay una diferencia entre descansar y vigilar, y esta noche el perro no descansa.",
+      "image_path": "images/scene_1.png"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La madre se despierta a la misma hora desde hace semanas. No sabe por qué. Su cuerpo simplemente la levanta y la lleva hasta aquí.",
+      "image_path": "images/scene_2.png"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Cada noche llega un poco más cerca. Esta noche sus dedos casi la rozan. Algo en su interior le dice que todavía no — pero esa voz cada vez es más débil.",
+      "image_path": "images/scene_3.png"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Desde afuera, la casa parece normal. Eso es lo más inquietante de todo — que nadie en la calle sepa que adentro, algo lleva semanas esperando.",
+      "image_path": "images/scene_4.png"
+    }
+  ],
+  "cover_image": "worlds/la-esfera-quieta/images/hero.png"
+}
