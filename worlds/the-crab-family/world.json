@@ -1,0 +1,51 @@
+{
+  "name": "The Crab Family",
+  "slug": "the-crab-family",
+  "tags": [
+    "strange-joy",
+    "beach",
+    "animals-speak",
+    "family",
+    "everyday-magic",
+    "disorienting-wonder"
+  ],
+  "status": "developing",
+  "world_id": "w_crabfm",
+  "created_at": "2026-05-19T14:32:00Z",
+  "created_by": "@gala",
+  "description": "A beach where animals speak as naturally as the tide. A crab emerges one afternoon and introduces you to a family that's always been there — waiting.",
+  "schema_version": "1.2",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Marin emerges from the sand, patient and familiar, as if you've always known this moment was coming.",
+      "image_path": "images/hero.png"
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "The beach looks like every other afternoon. Your parents are still reading. Nothing has changed except everything.",
+      "image_path": "images/scene_1.png"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "They arrive one by one. A family patient and curious, taking turns. The beach becomes a place of introduction.",
+      "image_path": "images/scene_2.png"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "You understand now. They've always been speaking. You're just finally listening.",
+      "image_path": "images/scene_3.png"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "You leave the beach changed. Tomorrow, you'll come back. The question isn't whether you'll return — it's what else you'll learn to hear.",
+      "image_path": "images/scene_4.png"
+    }
+  ],
+  "cover_image": "worlds/the-crab-family/images/hero.png"
+}
