@@ -1,0 +1,51 @@
+{
+  "name": "The Threshold",
+  "slug": "adolescent-threshold",
+  "tags": [
+    "cartoon",
+    "adolescent",
+    "urban",
+    "irreverent",
+    "baroque-romantic",
+    "surreal-dissolution"
+  ],
+  "status": "developing",
+  "world_id": "w_thr0ld",
+  "created_at": "2026-05-19T12:00:00Z",
+  "created_by": "@gernamo",
+  "description": "A cartoon saga about irreverent teenagers operating from an abandoned hideout, where every mission begins at a single doorway. Histrionic aesthetics, dissolving linework, and the collision of reckless impulse with accidental philosophy.",
+  "schema_version": "1.2",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "The Threshold Collective at rest—or never quite at rest. Every mission begins here, at the doorway where impulse meets philosophy.",
+      "image_path": "images/hero.png"
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "The entrance. Ochre, rust, something forgotten. A hand reaches. The frame seems to breathe.",
+      "image_path": "images/scene_1.png"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Inside: philosophy scrawled over impulse. Someone's reading Baudelaire. Someone else just knocked over a bottle of paint. The mission hasn't started yet.",
+      "image_path": "images/scene_2.png"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "They move through the neighborhood like it owes them something. The city doesn't notice them yet. It will.",
+      "image_path": "images/scene_3.png"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Back at the threshold. Changed, or changed again. The door waits. It always waits.",
+      "image_path": "images/scene_4.png"
+    }
+  ],
+  "cover_image": "worlds/adolescent-threshold/images/hero.png"
+}
