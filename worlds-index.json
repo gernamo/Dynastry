@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-28T21:17:45.019855+00:00",
+  "generated_at": "2026-05-28T22:07:41.964367+00:00",
   "total_worlds": 11,
-  "total_branches": 11,
+  "total_branches": 12,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -21,7 +21,54 @@
       "created_by": "@gernamo",
       "created_at": "2026-05-19T12:00:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_jmthy1",
+          "branch_slug": "jimmy-discovers-the-hall",
+          "name": "The Discovery",
+          "description": "Before the Threshold Collective existed, there was Jimmy—a red-haired boy who lived outdoors and stumbled into an abandoned hallway that would become their headquarters. The moment he stepped inside, he knew.",
+          "parent_branch": "canon",
+          "created_by": "@germannavarretemoreno",
+          "created_at": "2026-05-19T12:00:00Z",
+          "divergence_event": {
+            "description": "Jimmy discovers the abandoned hallway alone and realizes it's meant to be his—before he runs to tell the others.",
+            "timeline_ref": "Before the door was found"
+          },
+          "cover_image": "worlds/adolescent-threshold/branches/jimmy-discovers-the-hall/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "Jimmy steps into the hallway and feels it all at once—the crushing vastness, the waiting silence, and the absolute certainty that this place is his.",
+              "image_path": "worlds/adolescent-threshold/branches/jimmy-discovers-the-hall/images/hero.png"
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "The door was hidden behind a dumpster, the kind of entrance that only exists if you're not looking for it. Jimmy was always looking.",
+              "image_path": "worlds/adolescent-threshold/branches/jimmy-discovers-the-hall/images/scene_1.png"
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "The hallway swallowed him whole. Tall, webbed, dissolving at its edges like watercolor. For a moment, he was impossibly small.",
+              "image_path": "worlds/adolescent-threshold/branches/jimmy-discovers-the-hall/images/scene_2.png"
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Then something shifted. He wasn't small anymore. This hallway—peeling, breathing, dissolving—was waiting for him.",
+              "image_path": "worlds/adolescent-threshold/branches/jimmy-discovers-the-hall/images/scene_3.png"
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "He ran to tell them. By the time he reached the street, he was shouting—completely certain. The door would never really close again.",
+              "image_path": "worlds/adolescent-threshold/branches/jimmy-discovers-the-hall/images/scene_4.png"
+            }
+          ]
+        }
+      ],
       "images": [
         {
           "role": "hero",
