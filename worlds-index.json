@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-28T15:49:03.406004+00:00",
-  "total_worlds": 10,
+  "generated_at": "2026-05-28T21:17:45.019855+00:00",
+  "total_worlds": 11,
   "total_branches": 11,
   "worlds": [
     {
@@ -698,6 +698,57 @@
           "aspect_ratio": "16:9",
           "narrative_caption": "Dos horas después. Nadie se fue. Alguien pidió otra ronda. El ciclo continúa.",
           "image_path": "worlds/simios-big4/images/scene_4.png"
+        }
+      ]
+    },
+    {
+      "world_id": "w_crabfm",
+      "slug": "the-crab-family",
+      "name": "The Crab Family",
+      "description": "A beach where animals speak as naturally as the tide. A crab emerges one afternoon and introduces you to a family that's always been there — waiting.",
+      "tags": [
+        "strange-joy",
+        "beach",
+        "animals-speak",
+        "family",
+        "everyday-magic",
+        "disorienting-wonder"
+      ],
+      "cover_image": "worlds/the-crab-family/images/hero.png",
+      "created_by": "@gala",
+      "created_at": "2026-05-19T14:32:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "Marin emerges from the sand, patient and familiar, as if you've always known this moment was coming.",
+          "image_path": "worlds/the-crab-family/images/hero.png"
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "The beach looks like every other afternoon. Your parents are still reading. Nothing has changed except everything.",
+          "image_path": "worlds/the-crab-family/images/scene_1.png"
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "They arrive one by one. A family patient and curious, taking turns. The beach becomes a place of introduction.",
+          "image_path": "worlds/the-crab-family/images/scene_2.png"
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "You understand now. They've always been speaking. You're just finally listening.",
+          "image_path": "worlds/the-crab-family/images/scene_3.png"
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "You leave the beach changed. Tomorrow, you'll come back. The question isn't whether you'll return — it's what else you'll learn to hear.",
+          "image_path": "worlds/the-crab-family/images/scene_4.png"
         }
       ]
     }
