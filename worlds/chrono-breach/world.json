@@ -1,0 +1,52 @@
+{
+  "name": "Chrono Breach",
+  "slug": "chrono-breach",
+  "tags": [
+    "sci-fi",
+    "time-travel",
+    "dark",
+    "antimateria",
+    "physics",
+    "thriller",
+    "sin-city-style"
+  ],
+  "status": "developing",
+  "world_id": "w_chr0b7",
+  "created_at": "2026-05-19T14:32:00Z",
+  "created_by": "@german",
+  "description": "A physicist discovers the mathematics of wormholes and antimateria—unlocking time travel. But every jump tears reality thinner. Dark forces will kill for her research.",
+  "schema_version": "1.2",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "She opened a door to another moment and saw the future burning. Now she can't close it.",
+      "image_path": "images/hero.png"
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "The Blackwood Lab exists in the spaces between official records. Here, the laws of physics are negotiable.",
+      "image_path": "images/scene_1.png"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "They found her. The question was never if—it was how many.",
+      "image_path": "images/scene_2.png"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "She opened too many doors. Now all of them are open at once.",
+      "image_path": "images/scene_3.png"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "The Blackwood Lab is burning. But Maya Reeves is still standing. And she finally understands what the equations were trying to tell her.",
+      "image_path": "images/scene_4.png"
+    }
+  ],
+  "cover_image": "worlds/chrono-breach/images/hero.png"
+}
