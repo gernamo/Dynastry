@@ -39,12 +39,15 @@ def get_images_array(data, base_path):
     for img in images:
         if not img.get("image_path"):
             continue
-        normalized.append({
+        normalized_img = {
             "role": img.get("role"),
             "aspect_ratio": img.get("aspect_ratio"),
             "narrative_caption": img.get("narrative_caption", ""),
             "image_path": f"{base_path}/{img['image_path']}"
-        })
+        }
+        if img.get("scene_text"):
+            normalized_img["scene_text"] = img["scene_text"]
+        normalized.append(normalized_img)
     
     return normalized if normalized else None
 
