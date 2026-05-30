@@ -1,0 +1,11 @@
+# Chrono Breach
+
+Dr. Maya Reeves wasn't supposed to see it. The equations appeared in her lab at 3 a.m.—not on her screens, but *in the air itself*—geometries of light and mathematics that shouldn't exist outside theoretical space. She'd been running simulations for seven years, chasing the mathematics of wormholes, convinced antimateria was the key to collapsing spacetime in controlled ways. But simulation and reality are different currencies. The moment she touched the first equation, it burned her hand. The moment she understood it, everything changed.
+
+The wormhole she created was three inches wide and lasted four seconds. Through it, she saw her own lab—but wrong. The instruments were rust. The walls were scorched. A version of the future where something had broken irreparably. She closed the portal by pure instinct, pulling her consciousness back like a hand from a flame. The lab didn't collapse. The city didn't end. But the air around the breach-point stayed cold for hours, and birds refused to land on that roof ever again.
+
+That was eighteen months ago. Now her equations are carved into every surface of the Blackwood Lab—a converted power station beneath the city, where she's learned to make the math *visible*, equations hanging in plasma and electricity whenever a portal opens. Each breach tears a small hole in causality. Each one leaves the planet slightly more fragile. She's mapped seventeen stable points in time—moments she can reach without triggering cascading instabilities. But she's also learned she's not alone in knowing what she knows.
+
+The Corsairs came first—a syndicate of collectors who traffic in impossible things. They want her research to sell to the highest bidder: governments, corporations, people who see time as a commodity to be mined. Then came Temporal Affairs, a shadow division of intelligence that officially doesn't exist, convinced that controlling the timeline is the only way to prevent apocalypse. And then there are the others—the ones who've glimpsed what happens if someone opens a breach they can't close. The ones who know that Maya's mathematics could unravel everything.
+
+She has the keys to every moment. The question isn't whether she'll use them. It's whether reality will survive the locks she breaks.
