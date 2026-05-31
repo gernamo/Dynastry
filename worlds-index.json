@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-31T21:34:05.418917+00:00",
-  "total_worlds": 13,
+  "generated_at": "2026-05-31T22:47:15.394840+00:00",
+  "total_worlds": 14,
   "total_branches": 12,
   "worlds": [
     {
@@ -161,6 +161,62 @@
             "description": "A former resident of the erased Lagos neighborhood, who alone retains its memory, begins to draw it on paper. The drawings start to manifest."
           },
           "cover_image": "worlds/cartographers-of-light/branches/erased-cities/branches/map-without-origin/images/cover.png"
+        }
+      ]
+    },
+    {
+      "world_id": "w_cpolt7",
+      "slug": "casa-pueblo-poltergeist",
+      "name": "La Casa del Pueblo",
+      "description": "En un pueblo español casi abandonado, una familia regresa a la casa de sus raíces durante el verano. Los niños comienzan a descubrir que el poltergeist que los rodea no es aleatorio — es un guardián de secretos enterrados, pistas de un pasado que sus padres nunca les contaron.",
+      "tags": [
+        "spanish-gothic",
+        "family-mystery",
+        "supernatural",
+        "light-and-dust",
+        "rural-dread",
+        "coming-of-age-horror"
+      ],
+      "cover_image": "worlds/casa-pueblo-poltergeist/images/hero.png",
+      "created_by": "@handle",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "The house speaks in light. Every broken window is a mouth.",
+          "image_path": "worlds/casa-pueblo-poltergeist/images/hero.png",
+          "scene_text": "EXTERIOR — AFTERNOON\n\nA stone pueblo house, shutters half-closed. Through a shattered window frame, light enters in solid beams, carrying dust like visible breath. The particles hang in the air, suspended, refusing to settle. They move without wind.\n\nFor a moment — just a moment — the dust shifts. Forms a shape. Then disperses."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "The pueblo holds its breath. Most houses are tombs. This one is awake.",
+          "image_path": "worlds/casa-pueblo-poltergeist/images/scene_1.png",
+          "scene_text": "EXTERIOR — LATE AFTERNOON\n\nA street lined with stone houses. Most are sealed, shuttered, empty. One stands slightly apart. Through its windows, visible even from the street, light moves in ways that don't match the sun's angle.\n\nA car pulls up. A family gets out. The mother pauses before the door, recognizing something. The children don't wait — they're already drawn to the broken glass, to the light pouring through."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "The dust isn't empty. Something lives in the light.",
+          "image_path": "worlds/casa-pueblo-poltergeist/images/scene_2.png",
+          "scene_text": "INTERIOR KITCHEN — AFTERNOON\n\nA child enters. The room is half-sealed by shutters, but where glass is broken, light invades in thick sculptural beams. Dust hangs in every shaft like a visible medium.\n\nThe child watches. A glass sits on the table — untouched since morning. It rocks, slightly. The dust in the air swirls around it, clockwise.\n\nCHILD: Mamá?\n\nNo answer. The child's hand reaches toward the glass. The moment skin might touch it, the dust in the beam flares, blocking vision. When it clears, the glass is three inches further away."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Touch it. The house will remember for you.",
+          "image_path": "worlds/casa-pueblo-poltergeist/images/scene_3.png",
+          "scene_text": "INTERIOR STAIRWELL — AFTERNOON\n\nA child's hand presses against the wall beneath the stairs. The stone is cold. Old.\n\nThe dust around the hand stills. Then — not pain, not exactly — a *knowing*. Flash-quick images that aren't visual: fear, a door slamming, a voice raised, something hidden here, something that was *meant* to stay hidden.\n\nThe child pulls back. The dust resumes its ordinary drift. But the child understands now. The house doesn't haunt randomly.\n\nIt protects."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "The house has chosen. The children are inside now. They always were.",
+          "image_path": "worlds/casa-pueblo-poltergeist/images/scene_4.png",
+          "scene_text": "INTERIOR — LATE AFTERNOON\n\nThe parents move through the house mechanically, as if following a path they've walked before. They don't look at the children. They don't look at the walls.\n\nThe children sit in a shaft of dust-laden light, watching the street outside — the empty pueblo, the sealed houses, the life that has evacuated. The dust around them swirls in patterns that don't follow physics.\n\nOne child turns to the other.\n\nCHILD: Do you remember? From before?\n\nThe answer isn't words. It's the dust shifting, settling, keeping its secrets between the light."
         }
       ]
     },
