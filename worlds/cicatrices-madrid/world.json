@@ -1,0 +1,56 @@
+{
+  "name": "Cicatrices",
+  "slug": "cicatrices-madrid",
+  "tags": [
+    "crime-thriller",
+    "madrid",
+    "detective",
+    "dark",
+    "visceral",
+    "psychological"
+  ],
+  "status": "developing",
+  "world_id": "w_cic4d7",
+  "created_at": "2026-05-19T12:00:00Z",
+  "created_by": "@germannavarretemoreno",
+  "description": "A scarred detective in Madrid hunts killers as a way of life. When a body appears in a ball pit in the wealthy north, everything he's learned about monsters stops making sense.",
+  "schema_version": "1.2",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Twenty years of hunting. Every scar a closed case. Every scar a dead end.",
+      "image_path": "images/hero.png",
+      "scene_text": "His face catches the fluorescent light of the station as he reads the initial report. The scars pull taut across his jaw. Other detectives have learned not to stare. He sets the folder down slowly, deliberately, as if the act of placing it requires the same precision he once learned to use with a knife.\n\nHE: (to himself) a ball pit.\n\nHe stands. He does not change his expression. But something in his chest — something that has been sleeping — opens its eyes."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "The ball pit is where children laugh. Where nothing bad happens. Until it does.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "The plastic balls are still tumbling slightly from the hose water. Red ones, blue ones, yellow ones — all of it obscene now. Forensics is photographing the angles, the depth, the way the body settled. The maintenance worker is outside, being questioned by a junior detective who is trying not to vomit.\n\nHe stands at the edge of the cordon. He does not look at the body yet. He looks at the space itself — the ceiling height, the sightlines, the way sound would travel. A child could scream here and be muffled by plastic. A killer could work here uninterrupted.\n\nA JUNIOR OFFICER approaches.\nJUNIOR OFFICER: The victim's name is Martina Sáenz. Twenty-three. Dental student. Parents live three blocks from here.\n\nHe nods. He still does not look at the body."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "The cuts are not angry. The cuts are careful. The cuts are a conversation between killer and victim—and the killer is saying something.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "He bends over the body in the forensics tent. The coroner, Rodriguez, has worked with him long enough to know not to speak unless spoken to. He studies the wrist wounds first. They are not deep enough to be immediately fatal. They are exploratory. Teaching cuts.\n\nThen the torso. Then the thighs. The pattern is deliberate — precise intervals, symmetrical placement. This was not rage. This was choreography.\n\nHE: how long?\nRODRIGUEZ: six, maybe seven hours. Based on the water saturation and the ball pit environment, somewhere between midnight and dawn.\n\nHe closes his eyes. He can see it now — the killer's hands moving with the certainty of ritual. Not the first time. Never the first time."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "He has sat across from seventeen killers. He knows how they breathe. He knows what they want to confess.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "The interrogation room is empty for now. He sits in the detective's chair, not the victim's side. He has already run the preliminary databases — the killing method does not match any of the known cases in the region. Which means either this is the first, or the others were never reported. Or they were reported in a way that obscured the pattern.\n\nHe pulls up the file on his phone. Martina Sáenz. Dental student. No criminal connections. No obvious enemies. A girl who lived in a neighborhood where nothing bad happens — until it does.\n\nHE: (to the empty chair) why her?"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "He knows how this ends. He has always known. It ends with him or the killer. There is no third option.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "The ball pit is cordoned off now, the gates locked, the space sealed like a crypt. He walks past it three times that night. Each time he sees something different in the arrangement of the cordon tape, in the angle of the shadows, in the way the plastic balls press against the netting.\n\nHe walks the perimeter of the neighborhood. He notes the cameras, the blind spots, the places where a person could move without being seen. He has learned that killers are not supernatural — they are simply patient. They study. They wait.\n\nBy 4 a.m., he is sitting in his car outside the Sáenz family's house. The lights are still on. He wonders if they are sleeping. He wonders if they will ever sleep again. And he wonders, with the clarity that only twenty years of hunting gives you, whether the killer is still in the city. Whether he is still moving. Whether another ball pit, another playground, another space built for children, is being chosen right now."
+    }
+  ],
+  "cover_image": "worlds/cicatrices-madrid/images/hero.png"
+}
