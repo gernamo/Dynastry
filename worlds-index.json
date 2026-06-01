@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-31T22:47:15.394840+00:00",
-  "total_worlds": 14,
+  "generated_at": "2026-06-01T21:47:44.410847+00:00",
+  "total_worlds": 15,
   "total_branches": 12,
   "worlds": [
     {
@@ -758,6 +758,63 @@
           "aspect_ratio": "16:9",
           "narrative_caption": "The train splits at the junction. Whoever gets off first disappears into a different morning.",
           "image_path": "worlds/last-connection/images/scene_4.png"
+        }
+      ]
+    },
+    {
+      "world_id": "w_nvtv47",
+      "slug": "niña-tv-aventura",
+      "name": "La Ruleta de la Pantalla",
+      "description": "Una niña es absorbida involuntariamente por la televisión de su cuarto y se ve atrapada en una ruleta de mundos — películas de terror, documentales, aventuras espaciales, thrillers. Cada salto es un destello cegador que la lanza a un nuevo género, un nuevo peligro, una nueva supervivencia.",
+      "tags": [
+        "fantasía",
+        "viaje entre mundos",
+        "aventura",
+        "hiperrrealista",
+        "terror",
+        "coming-of-age",
+        "surrealismo"
+      ],
+      "cover_image": "worlds/niña-tv-aventura/images/hero.png",
+      "created_by": "@germannavarrete",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "El destello la golpea sin advertencia. La televisión no pide permiso.",
+          "image_path": "worlds/niña-tv-aventura/images/hero.png",
+          "scene_text": "LA NIÑA está sentada en la oscuridad de su cuarto, la pantalla el único brillo. Sus ojos reflejan la luz. Sin transición, sin razón, el brillo se vuelve insoportable — blanco puro, cegador. Siente el tirón. Es como si la pantalla la jalara desde adentro, como si cada átomo de su cuerpo respondiera a una frecuencia que no puede oír pero siente en los huesos.\n\nDESTELLO. Todo es luz. Todo es ruido. Y luego, silencio.\n\nElla ya no está en su cuarto."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Primer mundo: terror en blanco y negro. Ella corre porque sus instintos gritan que corra.",
+          "image_path": "worlds/niña-tv-aventura/images/scene_1.png",
+          "scene_text": "Bosque. Noche. Lluvia que no tiene origen. LA NIÑA corre entre árboles retorcidos, el suelo fangoso succionando cada paso. Su respiración es lo único real — jadeos cortos, pánico puro. Las sombras la persiguen, formas sin rostro que no sabe si son hombres, bestias o algo peor.\n\nNo recuerda cómo llegó aquí. No importa. Lo único que importa es correr.\n\nLos árboles se cierran. La luz desaparece. Y justo cuando sus pulmones van a explotar, todo se corta en negro."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Segundo salto: el espacio. Aquí no hay aire. Aquí no hay reglas.",
+          "image_path": "worlds/niña-tv-aventura/images/scene_2.png",
+          "scene_text": "DESTELLO.\n\nLA NIÑA flota. No hay arriba ni abajo. Su cuerpo gira lentamente en el vacío — la Tierra es un punto azul atrás, cada vez más pequeño. El silencio es absoluto, ni siquiera el sonido de su respiración la alcanza aquí.\n\nIntenta gritar. Su grito muere en su garganta.\n\nLa frialdad del espacio la rodea. Está viva. Está consciente. Pero está sola en una manera que su mente no puede procesar. El terror es diferente aquí — no hay depredadores, no hay perseguidor. Solo la infinidad mirándola."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Tercer mundo: ella es pequeña. Aquí, pequeño significa vulnerable.",
+          "image_path": "worlds/niña-tv-aventura/images/scene_3.png",
+          "scene_text": "Sabana. Atardecer que quema en oro. LA NIÑA está agachada en el pasto, cada nervio gritando.\n\nEl león está a metros. Su cabeza es más grande que ella. Sus ojos — ámbar, inteligentes, hambrientos — la ven como lo que es: presa.\n\nNo puede correr. No puede esconderse. Solo puede estar quieta y esperar. El aliento del felino llega hasta ella, cálido, con olor a sangre ajena. La nariz del león se arruga. Inhala. Y LA NIÑA entiende, en ese instante, que nada de esto es ficción. El dolor sería real. La muerte sería real.\n\nLa regla de la TV es esta: sobrevives o la TV cambia de canal dejándote atrás."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Y entonces llega un mundo donde no tiene miedo. Donde podría quedarse para siempre.",
+          "image_path": "worlds/niña-tv-aventura/images/scene_4.png",
+          "scene_text": "DESTELLO.\n\nLA NIÑA está de pie en un campo que no existe en la realidad — flores que brillan desde adentro, colores que sus ojos no deberían poder ver. El aire huele a música. La luz es suave, dorada, perfecta.\n\nPor primera vez desde que entró en la TV, respira sin pánico.\n\nNo hay depredadores. No hay perseguidor. Solo paz. Solo belleza. Y una voz — no sabe de dónde viene — que susurra: aquí es seguro. Aquí puedes quedarte.\n\nLA NIÑA mira sus manos. Mira el campo infinito. Y se pregunta: ¿por qué lucharía por volver a un cuarto oscuro cuando puedo estar aquí? ¿Cuál es el mundo real ahora — el que dejé atrás, o el que estoy viviendo?\n\nLa ruleta sigue girando. Y ella no está segura si quiere que se detenga."
         }
       ]
     },
