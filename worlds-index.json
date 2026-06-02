@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-02T21:49:11.606093+00:00",
-  "total_worlds": 16,
+  "generated_at": "2026-06-02T22:25:25.896706+00:00",
+  "total_worlds": 17,
   "total_branches": 12,
   "worlds": [
     {
@@ -758,6 +758,62 @@
           "aspect_ratio": "16:9",
           "narrative_caption": "The train splits at the junction. Whoever gets off first disappears into a different morning.",
           "image_path": "worlds/last-connection/images/scene_4.png"
+        }
+      ]
+    },
+    {
+      "world_id": "w_lndluz",
+      "slug": "linda-decadencia-luz",
+      "name": "Linda",
+      "description": "Una mujer en caída libre por el alcohol. Pero sus amigas no la soltarán. Desde la más absoluta oscuridad, la luz se filtra lentamente — sin redención fácil, solo el peso real de caer y la imposible gracia de ser sostenida.",
+      "tags": [
+        "drama íntimo",
+        "amistad",
+        "adicción",
+        "redención",
+        "luz en la oscuridad",
+        "personaje femenino"
+      ],
+      "cover_image": "worlds/linda-decadencia-luz/images/hero.png",
+      "created_by": "@handle",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "En el borrón. Donde todo pierde forma.",
+          "image_path": "worlds/linda-decadencia-luz/images/hero.png",
+          "scene_text": "Linda está sola. La botella está vacía. El cuarto gira, las paredes se disuelven en gris, su propio cuerpo se siente ajeno — como si la gravedad tirara desde varios ángulos a la vez. La oscuridad no es silenciosa; es un zumbido constante que ella identifica como su propia respiración.\n\nNo hay salvación en esta imagen. Solo caída."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El espacio donde sucumbió.",
+          "image_path": "worlds/linda-decadencia-luz/images/scene_1.png",
+          "scene_text": "La puerta se abre sin golpear. Ana entra primero — ha aprendido a no anunciar su llegada, porque Linda nunca está lista, nunca responde, nunca quiere.\n\nANA: otra vez.\n\nEl departamento huele a alcohol rancio y a ropa sin lavar. Hay botellas bajo la cama, una vaso roto en la alfombra. Linda es apenas un bulto en las sábanas, la espalda hacia la puerta."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Cuando llegan sin juzgar.",
+          "image_path": "worlds/linda-decadencia-luz/images/scene_2.png",
+          "scene_text": "Las tres están sentadas en el colchón. No hay palabras todavía.\n\nAna sostiene una botella de agua. Rosa tiene los ojos rojos de llorar. Marta está mirando a Linda como si intentara verla realmente, más allá del cuerpo que colapsa.\n\nLINDA: (voz rota) no merezco esto.\n\nROSA: nadie merece nada. Estamos aquí.\n\nLa mano de Ana toca el hombro de Linda — despacio, como si tocara algo frágil que pudiera romperse o despertar."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El enfoque. La luz que duele.",
+          "image_path": "worlds/linda-decadencia-luz/images/scene_3.png",
+          "scene_text": "Linda abre los ojos.\n\nPor primera vez en días — o semanas, ha perdido la cuenta — ve nítido. Las caras de sus amigas vuelven a tener forma. No son fantasmas. Son reales, están aquí, la están mirando como si ella importara.\n\nLINDA: (susurrando) no sé cómo dejé que llegara tan lejos.\n\nMARTA: no importa cómo llegaste. Importa que estés aquí ahora.\n\nLinda llora. Es el primer llanto que no es borracho, el primero que duele de verdad."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Sostenida. No salvada. Sostenida.",
+          "image_path": "worlds/linda-decadencia-luz/images/scene_4.png",
+          "scene_text": "El amanecer entra por la ventana.\n\nNo es épico. Es apenas la transición de la noche a la mañana. Pero para Linda, que ha pasado semanas en ese borrón, en ese desmoronamiento, es suficiente.\n\nANA: ¿necesitas algo?\n\nLINDA: estar despierta. Solo eso.\n\nSus amigas están ahí. No van a irse. No porque Linda lo merezca, no porque esté \"arreglada\", sino porque así es el amor verdadero — no espera la perfección, solo sostiene el peso."
         }
       ]
     },
