@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-01T21:47:44.410847+00:00",
-  "total_worlds": 15,
+  "generated_at": "2026-06-02T21:49:11.606093+00:00",
+  "total_worlds": 16,
   "total_branches": 12,
   "worlds": [
     {
@@ -961,6 +961,63 @@
           "aspect_ratio": "16:9",
           "narrative_caption": "Dos horas después. Nadie se fue. Alguien pidió otra ronda. El ciclo continúa.",
           "image_path": "worlds/simios-big4/images/scene_4.png"
+        }
+      ]
+    },
+    {
+      "world_id": "w_s0t4n0",
+      "slug": "sotano-timos",
+      "name": "El Sótano",
+      "description": "Un grupo de amigos se reúne en las entrañas de la ciudad para tramar robos perfectos basados en timos inteligentes. En la oscuridad de ese sótano, donde el tiempo parece dislocado entre lo moderno y lo clásico, cada plan es un acto de teatro criminal.",
+      "tags": [
+        "atracos",
+        "conspiración",
+        "timos",
+        "amistad",
+        "noir",
+        "crimen inteligente",
+        "sótano"
+      ],
+      "cover_image": "worlds/sotano-timos/images/hero.png",
+      "created_by": "@germannavarrete",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "En el sótano, los detalles son todo. Un papel, una mano, el humo de un cigarrillo — y la línea roja que lo cambia todo.",
+          "image_path": "worlds/sotano-timos/images/hero.png",
+          "scene_text": "Las manos se mueven sobre la mesa como piezas de ajedrez. Papeles, fotos, diagramas. El cigarrillo tiembla entre los dedos de ÉL, la ceniza a punto de caer.\n\nELLA entra sin hacer ruido. El pañuelo rojo alrededor de su cuello es lo primero que ven. Siempre lo es.\n\nELLA: ¿y si entramos por el lado norte?\n\nÉL: ya está sellado.\n\nELLA: entonces lo desbloqueamos antes.\n\nEl silencio que sigue es el silencio de un plan que acaba de cambiar de forma."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El sótano no es un lugar. Es una conspiración con paredes.",
+          "image_path": "worlds/sotano-timos/images/scene_1.png",
+          "scene_text": "El sótano respira. Las luces oscilan ligeramente, como si el mismo aire dudara de su propia existencia. En las esquinas, las sombras son tan negras que podrían esconder historias.\n\nUn globo terráqueo marca capitales que ya no existen. Un teléfono de disco espera una llamada que nunca llegará. Y en el rincón, ropa vieja cuelga como si alguien acabara de desaparecer dentro de ella.\n\nAquí debajo, el tiempo no funciona igual. Aquí, un plan de robo puede durar horas o años."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Cuatro mentes, un plan. El sótano desaparece cuando hablan.",
+          "image_path": "worlds/sotano-timos/images/scene_2.png",
+          "scene_text": "Se inclinan juntos como si rezaran a una deidad de papel y tinta. Las caras están medio en sombra — la luz cae dura sobre una mejilla, deja la otra desaparecida.\n\nELLA: el falsificador dice que puede hacerlo en tres días.\n\nÉL (el hacker): tres es demasiado. El servidor cambia de configuración en dos.\n\nLa mujer con el pañuelo rojo sonríe. No es una sonrisa de felicidad. Es la sonrisa de alguien que ya ve el final.\n\nELLA: entonces hacemos que el falsificador trabaje más rápido.\n\nNadie discute. En el sótano, ella siempre tiene la última palabra."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El pañuelo rojo no es un accesorio. Es una promesa.",
+          "image_path": "worlds/sotano-timos/images/scene_3.png",
+          "scene_text": "Sus dedos corren por la seda del pañuelo. Rojo sangre. Rojo de boca. Rojo de advertencia.\n\nELLA: cada vez que lo uso, es porque alguien tiene que desaparecer de la ecuación.\n\nLa voz es plana. Sin emoción. El humo del cigarrillo sube como un espíritu que abandona la habitación.\n\nELLA: esta vez, ¿quién será?"
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El plan está hecho. Ahora solo queda esperar a quién le toca desaparecer.",
+          "image_path": "worlds/sotano-timos/images/scene_4.png",
+          "scene_text": "El sótano exhala.\n\nLos papeles están dispersos como las piezas de un juego que alguien acaba de ganar. Las colillas llenan el cenicero — cinco cigarrillos para un plan que cambió las vidas de cuatro personas.\n\nLa bombilla oscila. En la penumbra, el gancho del abrigo está vacío. El pañuelo rojo se fue con ella.\n\nEn el sótano, el silencio es un personaje más. Y ahora, espera."
         }
       ]
     },
