@@ -1,0 +1,9 @@
+La app de delivery SilentLevel tiene una tasa de satisfacción perfecta. Los clientes reciben sus pedidos, califican cinco estrellas, y sonríen mientras comen. Nadie se queja. Nadie se acuerda de quejarse, en realidad.
+
+Marcus lleva tres meses repartiendo. Su rating es 4.98 — casi perfecto para ser nuevo. Pero hace una semana notó algo raro: después de cada entrega, la gente que abre la puerta tiene la misma expresión vacía. No es satisfacción. Es ausencia. Como si alguien hubiera apagado una luz adentro.
+
+La voz del despacho nunca tiene nombre. Nunca tiene tono. Solo da direcciones y le dice que su siguiente entrega le subirá el rating. Marcus sigue las rutas, pero empieza a conectar los puntos. Los edificios donde deja las bolsas tienen gente que después no recuerda haber pedido nada. En el 4D del Riverside, una mujer abre la puerta, recibe el paquete, y su cara se borra — literalmente se borra, como si alguien presionara undo en Photoshop.
+
+Hay una regla que nadie dice en voz alta pero que todos sienten: los que llegan a Level 0 desaparecen. No mueren. Simplemente no existen en la memoria de nadie. Marcus vio a otro delivery driver hace dos semanas, alguien llamado Kevin con 2.1 de rating. Nadie en el grupo de WhatsApp se acuerda de Kevin. Cuando Marcus pregunta por él, los otros delivery leen el mensaje y no responden, como si nunca hubiera estado allí.
+
+Ahora Marcus está en 4.97 y bajando. La última entrega fue un error — una mujer le pidió que no dejara el paquete, que ella no lo había pedido. Pero la app ya había marcado entrega completada. Su rating cayó 0.01 puntos. Marcus sabe qué significa eso. Sabe adónde van los que bajan demasiado. Y sabe que alguien — o algo — está usando la app para borrar cosas de la ciudad, una entrega a la vez.
