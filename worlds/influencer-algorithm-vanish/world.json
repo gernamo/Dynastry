@@ -1,0 +1,58 @@
+{
+  "name": "Desvanecerse",
+  "slug": "influencer-algorithm-vanish",
+  "tags": [
+    "paranoia",
+    "thriller",
+    "redes sociales",
+    "algoritmo",
+    "desaparición",
+    "influencer",
+    "dark",
+    "fast-paced"
+  ],
+  "status": "developing",
+  "world_id": "w_inf47x",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germannavarretemoreno",
+  "description": "Una influencer de fitness descubre que sus seguidores desaparecen en orden de engagement — los menos comentarios desvanecen primero. El algoritmo no rankea, controla. Paranoia viral, pantallas hipnotizantes, y ella misma empieza a borrarse.",
+  "schema_version": "1.2",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Obsesión digital: números que descienden como sentencia.",
+      "image_path": "images/hero.png",
+      "scene_text": "VALENTINA mira su teléfono. Los números cambian mientras ella observa.\n\nVALENTINA: (susurrando) 2.299.847. Ayer eran más.\n\nLa luz de la pantalla pinta su cara de cian y rosa. Su pulso acelerado. Los dígitos no mienten, pero algo en ellos se siente vivo, hambriento."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La evidencia se acumula. Alguien está llevando la cuenta.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Su dormitorio se ha convertido en un tablero de investigación. Screenshots impresos, notas adhesivas rojo intenso, líneas conectando nombres que desaparecieron.\n\nLa luz azul de la madrugada entra por la ventana. Valentina está inmóvil, observando su propia obsesión materializarse en la pared.\n\nEn algún lugar, el algoritmo también la observa a ella."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Los mensajes desaparecen mientras los lees.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "VALENTINA abre el chat con su mejor amiga. Los mensajes están ahí. Luego no.\n\nNo son borrados. Se desvanecen como si nunca hubieran existido, pixel a pixel, mientras ella observa.\n\nVALENTINA: (voz rota) No... no fue así hace una hora.\n\nSu mano tiembla. El teléfono está caliente contra su piel."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "¿Sigue ahí cuando miras?",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Baño. Luz fluorescente brutal. Valentina se mira en el espejo.\n\nSu reflejo está un milisegundo retrasado. O tal vez es su imaginación.\n\nVALENTINA: (tocando el espejo) ¿Estás ahí?\n\nSu reflejo parpadea. No es sincrónico. Nada es sincrónico."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El algoritmo llegó a ella. Ahora ella está llegando al final.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Medianoche. Solo la pantalla existe.\n\nValentina publica un video. Mira cómo se transmite en tiempo real. Ve su propia imagen desvanecerse, línea por línea, píxel por píxel, mientras los números de vistas caen.\n\nNo está siendo borrada. Está siendo descargada.\n\nVALENTINA: (voz digital, cortada) ¿Alguien me ve todavía?"
+    }
+  ],
+  "cover_image": "worlds/influencer-algorithm-vanish/images/hero.png"
+}
