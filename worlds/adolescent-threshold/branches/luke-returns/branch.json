@@ -1,0 +1,63 @@
+{
+  "name": "Luke Returns",
+  "slug": "luke-returns",
+  "tags": [
+    "adolescent",
+    "reunion",
+    "baroque-romantic",
+    "dissolution",
+    "surprise",
+    "hermanos"
+  ],
+  "status": "active",
+  "world_id": "w_thr0ld",
+  "branch_id": "b_luke01",
+  "created_at": "2026-05-19T12:00:00Z",
+  "created_by": "@germannavarretemoreno",
+  "description": "Jimmy regresa a casa ardiendo de certeza sobre la puerta. Luke, su hermano adoptado hace años, aparece en la puerta de la casa mojado y asustado, huyendo. El encuentro entre el descubrimiento y la reaparición lo cambia todo.",
+  "parent_slug": "adolescent-threshold",
+  "parent_branch": "b_jmthy1",
+  "schema_version": "1.2",
+  "divergence_event": {
+    "description": "Luke, Jimmy's adopted brother thought lost years ago, appears at the house seeking refuge, interrupting Jimmy's moment of revelation",
+    "timeline_ref": "moments after Jimmy discovers the basement door, as he rushes home"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Luke aparece en el umbral, mojado, asustado, mirando a alguien que casi no recuerda.",
+      "image_path": "images/hero.png",
+      "scene_text": "La puerta se abre. Entra aire frío, lluvia. Un chico — casi un hombre — de pie en el marco, gotitas cayendo al piso de madera gastada. Sus ojos buscan, reconocen, se quiebran.\n\nLUKE: ¿Jimmy?\n\nSu voz es como si viniera del agua. Como si hubiera estado ahogándose todo este tiempo."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El espacio interior respira. Dos hermanos que no se conocen completamente, pero reconocen algo.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El pasillo es estrecho. Las paredes tiemblan ligeramente — o quizá es solo la percepción de Jimmy, su cuerpo aún electrizado por lo que vio abajo. Luke ocupa el espacio mojado, goteando, sus hombros temblando.\n\nJIMMY: no es posible.\n\nLUKE: escapé. Hace tres noches. Caminé hasta aquí. No sabía si seguirías viviendo aquí, pero...\n\nSu voz se corta. Ambos están susurrando en un espacio que no merece susurros."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Jimmy reconoce algo en los ojos de Luke que creía perdido para siempre.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Se miran. Años no desaparecen así, pero en este instante, algo de esos años se derrite.\n\nJIMMY: Te fuiste.\n\nLUKE: Me llevaron. No fue... yo no elegí.\n\nJimmy ve en Luke al niño que era. Y Luke ve en Jimmy a alguien que se convirtió en extraño. Pero en la grieta entre esos dos conocimientos, existe algo que ninguno puede nombrar aún.\n\nJIMMY: Entra. Tienes que secarte."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Jimmy intenta contar lo que encontró, pero las palabras se enredan con la reaparición de Luke.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Luke está envuelto en una manta vieja. Su pelo gotea aún sobre sus hombros. Jimmy se pasea — no puede estar quieto — sus manos gesticulan con la urgencia de alguien que acaba de descubrir algo que lo define.\n\nJIMMY: Abajo, en el sótano. La puerta. No sé cómo explicarlo, pero es... es mío. Nuestro, tal vez. No sé.\n\nLUKE: ¿Qué es?\n\nJIMMY: Un lugar donde todo respira. Donde todo se disuelve y vuelve a ser.\n\nLuke lo escucha. Y en su cara mojada, cansada, ve a alguien que acaba de regresar de un abismo y encuentra a su hermano hablando de puertas mágicas como si el mundo entero tuviera sentido."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La certeza de Jimmy se convierte en algo más grande y más frágil: la posibilidad de que existan hilos que conectan lo que creíamos perdido.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "La lluvia golpea la ventana. Jimmy está de pie junto a la pared, la mano plana contra el yeso gastado. Luke está hundido en el sofá, la manta envolviendo su cuerpo como un capullo.\n\nEl silencio entre ellos es enorme. No es incómodo. Es el silencio de dos personas que acaban de descubrir que el universo es más extraño de lo que imaginaban.\n\nLUKE: ¿Crees que debo bajar. A ver la puerta.\n\nJIMMY: Sí. Pero primero tienes que descansar. Porque una vez que bajes, todo cambia.\n\nY dice esto como si lo supiera. Como si la puerta no solo lo hubiera elegido a él."
+    }
+  ],
+  "cover_image": "worlds/adolescent-threshold/branches/luke-returns/images/hero.png"
+}
