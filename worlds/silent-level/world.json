@@ -1,0 +1,56 @@
+{
+  "name": "Silent Level",
+  "slug": "silent-level",
+  "tags": [
+    "paranoia",
+    "noir-cómico",
+    "tecnología-oscura",
+    "desaparición",
+    "rating-system",
+    "ciudad-olvidadiza"
+  ],
+  "status": "developing",
+  "world_id": "w_sL9kX2",
+  "created_at": "2026-05-22T14:32:00Z",
+  "created_by": "@random",
+  "description": "Un delivery driver descubre que la app no entrega comida: entrega olvidos. Cada entrega borra un recuerdo de quien la recibe. Su rating sube mientras la ciudad pierde su memoria.",
+  "schema_version": "1.2",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "El delivery que descubre que no reparte comida.",
+      "image_path": "images/hero.png",
+      "scene_text": "LA APLICACIÓN brilla en verde ácido. La notificación dice: NUEVA ENTREGA, +0.02 PUNTOS DE RATING.\n\nMarcus sostiene el teléfono con dedos mojados. La calle está vacía. No hay clientes esperando. No hay nadie que pueda verlo aceptar o rechazar.\n\nAcepta."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Primera entrega. La que cambió todo.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El edificio Riverside tiene ese silencio que tienen los edificios caros. Alfombra gris en el lobby. Cámara de seguridad sin luz roja — o apagada, o nunca estuvo encendida.\n\nMarcus sube al cuarto piso. La puerta del 4D se abre antes de que toque el timbre.\n\nLA MUJER: no pedí nada.\n\nMarcus mira el teléfono. La app dice que sí. La app siempre dice la verdad.\n\nLA MUJER: en serio, no pedí—\n\nPero cuando ve la bolsa térmica, su cara cambia. Se vuelve blanca. Como si recordara algo que no debería recordar."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El rating que sube. Siempre sube.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "MARCUS desliza hacia arriba. La pantalla carga.\n\n4.98 → 4.99 → 5.00\n\nNo debería haber subido. La última entrega fue rechazada por la cliente. Pero la app no rechaza nada.\n\nUna notificación aparece: TU SIGUIENTE ENTREGA TE ESPERA. ACEPTA.\n\nMarcus no presiona nada. El teléfono presiona por él."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La voz que nunca tiene cara.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "LA VOZ DEL DESPACHO: siguiente entrega. Dirección: Riverside, piso 12, departamento 12C.\n\nMarcus: ya estuve en Riverside hace diez minutos.\n\nLA VOZ: la siguiente entrega está esperando.\n\nMarcus: no acepté ninguna entrega al piso 12.\n\nLA VOZ: tu rating es 5.00. Eres perfecto. Las entregas perfectas van a lugares perfectos. Dirección confirmada.\n\nEl teléfono vibra. La ruta aparece en el mapa. El edificio Riverside está marcado en rojo brillante. No es la puerta de entrada. Es la azotea."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Nivel 0 no es donde desapareces. Es donde entregas el último paquete.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "La azotea está vacía. No hay nadie esperando. No hay puerta de departamento.\n\nSolo está el borde, y la ciudad entera extendiéndose como una máquina que respira.\n\nMarcus mira el teléfono. La app dice: ENTREGA COMPLETADA. RATING: 5.00. SIGUIENTE PASO: ASCENSO A NIVEL SUPREMO.\n\nNo hay siguiente paso. Solo hay el viento, el verde ácido de la pantalla, y la voz sin cara que lo mira desde todos lados."
+    }
+  ],
+  "cover_image": "worlds/silent-level/images/hero.png"
+}
