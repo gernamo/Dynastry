@@ -1,0 +1,63 @@
+{
+  "name": "El Encuentro en el Parque",
+  "slug": "cicatrices-encuentro-en-el-parque",
+  "tags": [
+    "conversación",
+    "detective",
+    "tensión",
+    "madrid",
+    "primer-encuentro",
+    "visceral"
+  ],
+  "status": "active",
+  "world_id": "w_cic4d7",
+  "branch_id": "b_encu47",
+  "created_at": "2026-05-19T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "El detective llega a la escena y encuentra a la mujer que descubrió el cuerpo. En la tensión del interrogatorio, algo más oscuro emerge entre ellos.",
+  "parent_slug": "cicatrices-madrid",
+  "parent_branch": "canon",
+  "schema_version": "1.2",
+  "divergence_event": {
+    "description": "El detective se presenta ante la testigo. Lo que sucede entre ellos no es protocolo.",
+    "timeline_ref": "Martes, mayo. Poco después de que el cuerpo es encontrado."
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Él llega como si supiera exactamente qué encontraría.",
+      "image_path": "images/hero.png",
+      "scene_text": "El detective entra en la escena sin urgencia. Los uniformes se apartan. Ha hecho esto cientos de veces — cada cicatriz en su cara es el mapa de un caso cerrado. Pero algo en el aire del parque es diferente hoy. Los plásticos de colores brillan bajo el sol de mayo como si estuvieran contaminados de significado."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El parque infantil se ha convertido en una escena de crimen.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "TÉCNICO 1: (voz de fondo) Tenemos cinco más aquí...\n\nEL DETECTIVE llega a la banqueta de metal. El perímetro amarillo rodea la fosa como un vendaje. Los plásticos de colores sobresalen de la excavación, algunos manchados, otros intactos. Es una profanación tan clara, tan deliberada, que casi parece broma."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Ella siente el peso de su atención antes de que diga nada.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "ÉL: Cuéntame qué viste.\n\nELLA: (la voz le falla) Yo solo... vine a limpiar. A las seis. Siempre a las seis.\n\nÉl se sienta junto a ella. Tan cerca que ella puede oler el café frío en su ropa, el humo de cigarrillos antiguos. No invade. Observa. Espera.\n\nÉL: El cuerpo. Describe el cuerpo."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Ella describe lo que vio. Él escucha como si entendiera cada palabra antes de que la pronuncie.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "ELLA: Las manos. Tenía las manos... ordenadas. Como si alguien las hubiera puesto así. Palmas hacia arriba, los dedos un poco separados.\n\nÉL no escribe nada. Solo escucha.\n\nELLA: Y el vestido era rosa, pero no era sangre lo que lo manchaba. Era algo más... más limpio. Más pensado.\n\nUn silencio. Ella abre los ojos lentamente y lo mira. En ese instante, algo se reconoce entre ellos — dos personas que acaban de cruzar una línea."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Algo se rompe en el silencio entre ellos.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "ELLA: Sus ojos estaban abiertos.\n\nSu voz se quiebra.\n\nELLA: Y me miraban.\n\nÉl no se mueve. No la toca. Pero en ese momento, ella sabe que él entiende exactamente lo que significa haber visto eso — no solo un cuerpo, sino la presencia en los ojos. La acusación silenciosa. La culpa de seguir viva.\n\nÉL: Volveremos a hablar.\n\nNo es una amenaza. Es una promesa."
+    }
+  ],
+  "cover_image": "worlds/cicatrices-madrid/branches/cicatrices-encuentro-en-el-parque/images/hero.png"
+}
