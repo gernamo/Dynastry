@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-15T15:38:52.553882+00:00",
+  "generated_at": "2026-06-15T16:59:25.012758+00:00",
   "total_worlds": 20,
-  "total_branches": 15,
+  "total_branches": 16,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -1365,6 +1365,57 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [
+        {
+          "branch_id": "b_laesp2",
+          "branch_slug": "la-espera",
+          "name": "La Espera",
+          "description": "Antes de entrar a la Pista, Mira lleva a Kai a un lugar prohibido de Nexus y le muestra lo que realmente sucede con los corredores que desaparecen. El conocimiento lo cambia todo.",
+          "parent_branch": "b_vdpr01",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "En lugar de ir directo a los Escluses, Mira desvía a Kai hacia la Zona Roja — una sección sellada de Nexus donde los administradores guardan algo que no quieren que vea nadie. Allí descubre la verdad sobre su hermano y sobre qué significa realmente desaparecer.",
+            "timeline_ref": "Acto 1 (Llegada) — momentos antes de los Escluses"
+          },
+          "cover_image": "worlds/void-racers/branches/la-espera/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "Kai es detenido justo antes de los Escluses. Mira tiene algo que mostrarle.",
+              "image_path": "worlds/void-racers/branches/la-espera/images/hero.png",
+              "scene_text": "Kai estaba a cinco minutos de los Escluses cuando Mira lo agarró del brazo. Sus dedos eran fuertes. Tiraron de él hacia un pasillo lateral — una ruta que no estaba en ningún mapa que Kai hubiera visto.\n\nMIRA: Necesitas ver esto antes. Ahora.\n\nKAI: ¿Antes de qué? Mira, los administradores van a—\n\nMIRA: No van a notar. Quince minutos. Solo quince minutos."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "La Zona Roja no aparece en los mapas. Mira sabe dónde está.",
+              "image_path": "worlds/void-racers/branches/la-espera/images/scene_1.png",
+              "scene_text": "El pasillo era más frío que el resto de la estación. Kai podía sentirlo — un aire que filtraba a través de grietas en las paredes, un aire que venía del vacío. Las luces rojas parpadeaban como un pulso débil.\n\nMIRA: Mi hermano entró a la Pista hace tres meses. Fue el último en su carrera. Los administradores dijeron que había ido a otra colonia. Que había conseguido un trabajo en el exterior.\n\nKAI: Mira, no tenemos tiempo para—\n\nMIRA: Lo sé. Por eso estamos aquí."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "El hermano de Mira no desapareció. Está aquí. Ha estado aquí todo el tiempo.",
+              "image_path": "worlds/void-racers/branches/la-espera/images/scene_2.png",
+              "scene_text": "La cápsula de contención brillaba con una luz azul enfermiza. Dentro flotaba un cuerpo — joven, tal vez catorce o quince años, los ojos abiertos, las manos descansando a los costados. Su traje magnético era rosa eléctrico. Como el de Mira.\n\nMIRA: Se llamaba Ryo. Ganó su primera carrera. Perdió la segunda.\n\nEl gel translúcido se movía lentamente alrededor del cuerpo, como si respirara.\n\nMIRA: No desaparecen, Kai. Sus cuerpos quedan aquí. En la Zona Roja. Preservados. Estudiados. Y la estación sigue como si nunca hubieran existido."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Mira toca el cristal. Su hermano no puede sentirlo.",
+              "image_path": "worlds/void-racers/branches/la-espera/images/scene_3.png",
+              "scene_text": "MIRA: Los administradores saben. Siempre han sabido. El deporte necesita perdedores, Kai. Necesita cuerpos. Y la estación necesita que los niños sigan corriendo, sigan asumiendo riesgos, sigan creyendo que solo desaparecen.\n\nKAI: ¿Por qué me muestras esto? ¿Por qué ahora?\n\nMIRA: Porque si vas a entrar a esa Pista, necesitas decidir sabiendo la verdad. No con esperanza. No con ignorancia.\n\nSu voz se quiebra.\n\nMIRA: Necesitas decidir si vale la pena."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Ahora Kai sabe. Y tiene que seguir caminando hacia los Escluses de todos modos.",
+              "image_path": "worlds/void-racers/branches/la-espera/images/scene_4.png",
+              "scene_text": "Caminaron en silencio. No había nada que decir. Kai podía sentir el peso de lo que acababa de ver — no en su cuerpo, sino en su mente, donde vivía de verdad.\n\nMIRA: Todavía puedes no entrar. Puedo decirles que estás enfermo. Que necesitas otro intento más tarde.\n\nKAI: ¿Y entonces qué? ¿Desaparecer en la estación como todos los demás que no corren?\n\nLa puerta de los Escluses estaba cerca ahora. Podían oír el zumbido del respirador."
+            }
+          ]
+        },
         {
           "branch_id": "b_vdpr01",
           "branch_slug": "primer-intento",
