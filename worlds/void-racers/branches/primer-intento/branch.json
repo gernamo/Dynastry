@@ -1,0 +1,91 @@
+{
+  "name": "Primer Intento",
+  "tags": [
+    "acto-1",
+    "primer-intento",
+    "fallo-del-traje",
+    "adrenalina",
+    "punto-de-quiebre",
+    "kai-protagonista"
+  ],
+  "status": "developing",
+  "world_id": "w_vdrce7",
+  "branch_id": "b_vdpr01",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "void-racers-primer-intento",
+  "description": "Kai entra a la Pista por primera vez y su traje falla en el vacío. Pero cuando vuelve a aferrarse, descubre que el miedo y la adrenalina son la misma cosa — y que eso podría destruirlo.",
+  "parent_slug": "void-racers",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "El traje magnético de Kai falla durante el primer intento, dejándolo flotando en el vacío durante tres segundos. En lugar de caer en pánico, descubre una adicción a la cercanía de la muerte que lo cambia para siempre.",
+    "timeline_ref": "Acto 1 — La Carrera"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "Acto 1 — Después de la Meta"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Acto 1 — Los Escluses"
+    },
+    "diverges_from": "canon_acto_1",
+    "divergence_question": "¿Qué sucede cuando un niño descubre que estar cerca de la muerte lo hace sentir más vivo que nunca?"
+  },
+  "inherited_from_canon": {
+    "tone": "adrenalina salvaje, miedo real, amistad quebrada y forjada, belleza caótica",
+    "places_used": [
+      "Los Escluses — Zona de Espera",
+      "La Pista — Fragmento Primero",
+      "Estación Nexus — Plataforma Central"
+    ],
+    "characters_used": [
+      "KAI",
+      "MIRA"
+    ],
+    "visual_treatment": "Cel-shaded anime style, bold confident linework, flat shading, saturated neon palette (electric green, hot pink, electric blue) exploding against deep space black, energetic asymmetrical composition, dynamic splash-page energy"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Antes de entrar. Las manos tiemblan.",
+      "image_path": "images/hero.png",
+      "scene_text": "KAI está en los Escluses. El respirador zumba. Su traje magnético verde neón brilla bajo luces que parpardean como un latido.\n\nMIRA está a su lado, confiada, susurrando consejos que Kai intenta memorizar pero que desaparecen en ruido blanco.\n\nLa puerta se ilumina. Los campos de contención azul eléctrico se abren."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La pista lo atrapa. Está ganando.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "La gravedad cambia. Cae de 0.8G a caída libre en un instante.\n\nPlataformas de hierro flotan como islas en océano negro. Nebulosa rosa y verde gira lentamente al fondo — hermosa de una forma que duele.\n\nKai salta. Salta bien. Su traje se adhiere, rebota, vuela. Está haciéndolo."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El traje falla. Kai flota en el vacío.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "En el tercio final de la pista, el sector de gravedad cero lo golpea diferente.\n\nUna bobina magnética deja de responder. Kai pierde contacto. Flota hacia un lado. De repente está en el vacío.\n\nFlota. Cae. No hay aire. Solo su respiración en el casco.\n\nTres segundos. Quizás cuatro. Ve su muerte clara como cristal."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El traje se reactiva. Kai vuelve.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "El traje reactiva. Salta. Se adhiere nuevamente con un chasquido que Kai siente en cada célula.\n\nCruza la meta.\n\nGana."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Kai respira. Su corazón late como nunca.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Kai se detiene, temblando, dentro de la Plataforma Central.\n\nNo está asustado. Está vivo. Más vivo de lo que ha estado jamás.\n\nSu corazón late tan fuerte que puede sentirlo en los oídos. Sus manos tiemblan — pero no de miedo. De adrenalina pura. De haber estado muerto y haber vuelto."
+    }
+  ],
+  "cover_image": "worlds/void-racers/branches/primer-intento/images/hero.png"
+}
