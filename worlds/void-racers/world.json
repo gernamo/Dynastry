@@ -1,0 +1,117 @@
+{
+  "name": "Void Racers",
+  "slug": "void-racers",
+  "tags": [
+    "animación",
+    "ciencia ficción",
+    "deporte futurista",
+    "aventura",
+    "niños protagonistas",
+    "espacio",
+    "peligro",
+    "amistad"
+  ],
+  "places": [
+    {
+      "name": "Estación Nexus — Plataforma Central",
+      "atmosphere": "industrial, amenazante, fosforescente, desolada",
+      "visual_description": "Estructura metálica masiva flotando en el vacío, luces fosforito parpadeando, grietas por donde se ve el espacio negro detrás, aire enrarecido, estatuas de corredores que desaparecieron"
+    },
+    {
+      "name": "La Pista — Fragmento Primero",
+      "atmosphere": "caótica, bella, mortal, energética",
+      "visual_description": "Ruinas de un planeta destruido, plataformas flotantes conectadas por puentes magnéticos inestables, gravedad que cambia cada 30 segundos, nebulosa rosa y verde girando de fondo"
+    },
+    {
+      "name": "Los Escluses — Zona de Espera",
+      "atmosphere": "tensa, claustrofóbica, anticipatoria",
+      "visual_description": "Cámara sellada con campos de contención azul eléctrico, niños en trajes magnéticos esperando su turno, paredes de cristal reforzado mostrando el vacío afuera, respiradores zumbando"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_vdrce7",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "KAI",
+      "arc_summary": "De forastero asustado a corredor que se atreve a romper las reglas ocultas del deporte.",
+      "visual_description": "Niño de 12 años, delgado, traje magnético verde neón desgastado, casco con visor azul reflectante, cicatriz en la mejilla izquierda, siempre con las manos temblorosas antes de correr"
+    },
+    {
+      "role": "support",
+      "label": "MIRA",
+      "arc_summary": "Mentora de Kai, tiene un secreto sobre lo que le pasó al último corredor perdedor.",
+      "visual_description": "Niña de 13 años, pelo corto, traje magnético rosa eléctrico, movimientos ágiles y confiados, pero con una cicatriz emocional en los ojos"
+    },
+    {
+      "role": "environment",
+      "label": "EL VACIO",
+      "arc_summary": "El verdadero antagonista: la gravedad, la muerte, la indiferencia del universo.",
+      "visual_description": "No es un personaje, es presencia — el espacio negro, las nebulosas distantes, las plataformas que tiemblan, los trajes que fallan"
+    }
+  ],
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "En 2056, niños compiten en un deporte futurista letal jugado en plataformas flotantes entre fragmentos de mundos destruidos. Adrenalina, gravedad inestable, y amistades probadas en el vacío.",
+  "story_bible": {
+    "tone": [
+      "adrenalina salvaje",
+      "miedo real",
+      "amistad quebrada y forjada",
+      "belleza caótica"
+    ],
+    "setting": "Estación orbital Nexus — fragmentos de planetas destruidos flotando en el vacío intergaláctico, conectados por plataformas magnéticas inestables, atmósferas extrañas, gravedad variable",
+    "timeline": {
+      "span": "Acto 1 (Llegada) a Acto 5 (Revelación)",
+      "type": "narrative_act",
+      "unit": "actos",
+      "anchor": "El viaje de un niño desde el primer intento hasta descubrir la verdad del deporte"
+    },
+    "world_rules": [
+      "La gravedad cambia según la zona — algunos sectores tienen caída libre total, otros tienen 0.3G",
+      "El Void Racing requiere trajes magnéticos que se adhieren a superficies, pero fallan sin previo aviso",
+      "Caer al vacío significa muerte — no hay red de seguridad",
+      "El deporte tiene una regla no escrita: el que llega último desaparece de la estación"
+    ],
+    "visual_treatment": "Cel-shaded anime style, bold confident linework, flat shading, saturated neon palette (electric green, hot pink, electric blue) exploding against deep space black, energetic asymmetrical composition, dynamic splash-page energy"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Kai llega a la estación Nexus sin saber que acaba de entrar en una arena.",
+      "image_path": "images/hero.png",
+      "scene_text": "Kai está de pie en el borde de la plataforma de observación, mirando hacia el vacío negro. Sus manos tiemblan contra la barandilla magnética. Detrás, un mundo nuevo gira lentamente — nebulosas rosa y verde, fragmentos de planetas que no reconoce.\n\nUNA VOZ ADULTA: (a través de un comunicador): Bienvenido, colono. Tienes 48 horas de aclimatación. Luego, debes elegir: trabajo de mantenimiento, o Racing.\n\nKai cierra los ojos. En su mundo anterior sabía cómo sobrevivir. Aquí, no tiene idea."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Mira ha estado esperando a alguien como Kai. Alguien que no sepa las reglas todavía.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Los Escluses están vacíos excepto por Mira. Ella sostiene un registro de corredores — nombres, fechas, resultados. El último nombre tiene una línea roja a través suyo.\n\nMIRA: (sin mirar hacia arriba) Eres nuevo. Te veo en el rostro — ese miedo limpio.\n\nKai entra lentamente. Ella finalmente lo ve.\n\nMIRA: Mi hermano tuvo ese mismo miedo. Hizo tres carreras. En la tercera fue el último.\n\nKAI: ¿Y entonces?\n\nMIRA: Entonces desapareció. Como todos.\n\nEl zumbido del respirador llena el silencio."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "En la pista, todo lo que aprendiste en tierra firme deja de importar.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "La gravedad cambia. Kai está corriendo por una plataforma — tres segundos — y luego el campo magnético se agota. El suelo desaparece.\n\nEsta vez siente la diferencia entre el miedo teórico y el miedo real. El vacío no es un concepto. Es una presencia física que tira de ti.\n\nSu traje magnético se activa de emergencia. Apenas. Sus dedos rozan una saliente, se aferran, se deslizan. Ve a Mira pasar volando junto a él — ella sabe cómo hacerlo, ella sabe dónde está el siguiente punto de amarre.\n\nKai no. Cae unos metros más antes de que su traje lo agarre de nuevo. El corazón le explota en el pecho. Sigue corriendo. Porque en Nexus, detenerse significa desaparecer."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "En el mapa de la pista hay un área que no debería existir. Kai encuentra la verdad de Nexus.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Bajo la superficie de la pista principal, en una sección que no aparece en ningún mapa oficial, hay una cámara. Sellada. En descomposición.\n\nY dentro, el traje magnético de un niño. Vacío.\n\nMira toma la mano de Kai. Su voz es firme, pero sus manos tiemblan.\n\nMIRA: Cien corredores han desaparecido en cinco años. Los administradores dicen que se fueron. Pero sus trajes están aquí. Todos.\n\nKAI: ¿Qué pasó? ¿Adónde fueron?\n\nMIRA: Eso es lo que no entiendo aún. Pero el siguiente corredor que pierda... va a ser diferente. Esta vez alguien está mirando."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "En el vacío, Kai entiende que el deporte nunca fue sobre ganar. Era sobre quién elige seguir adelante.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Kai está flotando. El traje magnético falló — no por accidente. Él lo apagó. Porque si iba a entender la verdad, tenía que sentir lo que sintieron los otros cien.\n\nEsta es la gravedad real de Nexus. No la que cambia cada treinta segundos en la pista.\n\nLa que tira de ti hacia la nada, sin importar lo que hagas.\n\nPero Kai respira. Aún respira. Y en algún lugar, en el horizonte de nebulosas lejanas, hay algo más. Algo que los administradores no ven. Algo que solo los que han estado verdaderamente perdidos pueden encontrar.\n\nMira está en la radio. Su voz crackles a través del vacío.\n\nMIRA: Kai. Enciende el traje. Vuelve. Hay más gente que necesita saber."
+    }
+  ],
+  "cover_image": "worlds/void-racers/images/hero.png"
+}
