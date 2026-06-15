@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-15T17:05:57.196475+00:00",
+  "generated_at": "2026-06-15T17:25:04.123528+00:00",
   "total_worlds": 20,
-  "total_branches": 17,
+  "total_branches": 18,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -1365,6 +1365,57 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [
+        {
+          "branch_id": "b_fugne3",
+          "branch_slug": "fuga-de-nexus",
+          "name": "Fuga de Nexus",
+          "description": "Después de descubrir la Zona Roja, Kai y Mira huyen por los pasillos oscuros de Nexus mientras los administradores los persiguen y el traje de Kai comienza a fallar. La carrera ya no es en la Pista — es aquí, ahora, en el corazón de la estación.",
+          "parent_branch": "b_laesp2",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "En lugar de dirigirse directamente a los Escluses, Kai y Mira activan una alarma silenciosa al salir de la Zona Roja. Los administradores saben que vieron la verdad. El traje magnético de Kai comienza a fallar — saboteado intencionalmente. La persecución comienza dentro de la estación antes de que siquiera entren en la Pista.",
+            "timeline_ref": "Acto 2 — Inmediatamente después de la Zona Roja"
+          },
+          "cover_image": "worlds/void-racers/branches/fuga-de-nexus/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "El traje magnético comienza a fallar. Treinta minutos antes del vacío.",
+              "image_path": "worlds/void-racers/branches/fuga-de-nexus/images/hero.png",
+              "scene_text": "KAI corre. Sus pulmones queman. El indicador de magnetismo en su visor cae: 73%, 68%, 64%. Demasiado rápido.\n\nMira grita algo que no puede oír sobre el zumbido del aire comprimido saliendo por grietas que antes no estaban allí. Las luces rojas de emergencia parpadean como el latido de algo moribundo.\n\nSu pie izquierdo resbala. Por un instante — un instante horrible — siente la gravedad cero. Flota. El pánico lo tira hacia abajo. El traje recupera agarre y lo pega violentamente a la plataforma.\n\nMira sigue corriendo."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "La estación se despierta. Cada compuerta que cierran es una puerta que no volverán a abirir.",
+              "image_path": "worlds/void-racers/branches/fuga-de-nexus/images/scene_1.png",
+              "scene_text": "Los pasillos se transforman. No son rutas — son trampas que se activan en secuencia. Cada sección que dejan atrás se sella con un sonido de metal retorciéndose.\n\nLa gravedad aquí es 0.4G. Sus pies apenas tocan el piso. Correr se convierte en saltar. Cada salto los acerca más al vacío.\n\nKai mira hacia atrás una sola vez y ve las sombras detrás de ellos — no personas, sino drones de seguridad de Nexus activándose en los pasillos, sus cámaras rojo sangre escaneando."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Mira conoce otra ruta. Una que no está en los mapas.",
+              "image_path": "worlds/void-racers/branches/fuga-de-nexus/images/scene_2.png",
+              "scene_text": "El conducto de ventilación es estrecho. La oscuridad es total excepto por las luces de sus trajes.\n\nMIRA: esto no está en los mapas. Pero mi hermano... él me mostró. Antes.\n\nKAI: ¿antes de qué?\n\nMIRA: antes de desaparecer.\n\nEl conducto termina. Se abre al vacío. A través del metal roto, ven la esclusa de emergencia — dos sectores más arriba, pero al otro lado del vacío. No hay camino. Solo aire muerto y la posibilidad de caer para siempre."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "No hay red de seguridad. No hay segunda oportunidad.",
+              "image_path": "worlds/void-racers/branches/fuga-de-nexus/images/scene_3.png",
+              "scene_text": "Kai calcula el salto en tres segundos. Distancia: 8 metros. Gravedad: 0. Su traje: 34% magnetismo.\n\nMira está en la otra plataforma, brazo extendido.\n\nKai corre hacia el borde del vacío. Sus pulmones gritan. Por un instante insano siente algo como libertad — ese instante donde la gravedad suelta su agarre y el universo es solo silencio y espacio.\n\nLa mano de Mira lo agarra. Duro. Real. Lo tira hacia atrás antes de que derive demasiado lejos."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "La esclusa de emergencia. El único camino que queda.",
+              "image_path": "worlds/void-racers/branches/fuga-de-nexus/images/scene_4.png",
+              "scene_text": "La palanca roja está fría.\n\nKai tira. Los sellos magnéticos de la esclusa comienzan a abrir — lentamente, como si Nexus quisiera una última oportunidad de detenerlos. El cristal reforzado muestra el vacío directamente ahora.\n\nMira susurra algo que Kai apenas escucha: \"cuando se abra completamente, entraremos. Cerramos la puerta interior. Después... después pedimos ayuda a la Pista. Los administradores no pueden tocarnos si hay testigos\".\n\nKai asiente. Su traje está en 12% de magnetismo. Los drones de seguridad suenan en los pasillos atrás. Segundos.\n\nLa esclusa se abre. El vacío espera."
+            }
+          ]
+        },
         {
           "branch_id": "b_laesp2",
           "branch_slug": "la-espera",
