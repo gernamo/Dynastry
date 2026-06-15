@@ -1,0 +1,105 @@
+{
+  "name": "Más Allá del Vacío",
+  "tags": [
+    "misterio",
+    "ciencia ficción",
+    "conspiración",
+    "deporte futurista",
+    "revelación",
+    "amistad probada",
+    "peligro oculto"
+  ],
+  "status": "developing",
+  "world_id": "w_vdrce7",
+  "branch_id": "b_masav3",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "El Observatorio Oculto",
+      "atmosphere": "alienígena, prohibida, hipnotizante, peligrosa",
+      "visual_description": "Una estructura de cristal negro flotando en el espacio profundo, visible solo como un destello de luz eléctrica azul. Dentro: máquinas pulsantes, luces que no coinciden con nada en Nexus, pantallas mostrando datos incomprensibles. Las paredes vibran con una frecuencia que duele."
+    }
+  ],
+  "branch_slug": "mas-alla-del-vacio",
+  "description": "Kai gana su primera carrera, pero su traje falla en el momento de la victoria. En el vacío, ve una luz que no debería existir. Y cuando sale de la Pista, Mira lo espera con alguien que debería haber desaparecido hace meses.",
+  "parent_slug": "void-racers",
+  "is_canonical": false,
+  "parent_branch": "b_laesp2",
+  "new_characters": [
+    {
+      "role": "support",
+      "label": "TALON",
+      "arc_summary": "Un corredor que perdió hace meses y debería estar en la Zona Roja. Pero está aquí. Y sabe qué hay más allá del vacío.",
+      "visual_description": "Niño de 14 años, traje magnético destrozado con parches improvisados de color gris pálido, medio ojo cubierto por una cicatriz que cruza toda la cara, movimientos lentos como si llevara un peso invisible. Respira con dificultad — hay algo roto dentro."
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Kai corre sabiendo la verdad sobre la Zona Roja. Gana — pero su traje magnético falla justo en la plataforma final. En ese instante de vacío, ve una luz anómala en el espacio. Algo que los administradores nunca mostraron en los mapas de la Pista.",
+    "timeline_ref": "Acto 2 - Durante la Primera Carrera"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "Acto 3 - El Encuentro"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Acto 2 - La Primera Carrera"
+    },
+    "continues_from": "b_laesp2",
+    "divergence_question": "¿Qué es esa luz en el vacío? ¿Y por qué alguien que debería estar desaparecido está esperando a Kai cuando sale de la Pista?"
+  },
+  "inherited_from_canon": {
+    "tone": "adrenalina salvaje, miedo real, amistad quebrada y forjada, belleza caótica",
+    "places_used": [
+      "La Pista — Fragmento Primero",
+      "Los Escluses — Zona de Espera",
+      "Estación Nexus — Plataforma Central"
+    ],
+    "characters_used": [
+      "KAI",
+      "MIRA"
+    ],
+    "visual_treatment": "Cel-shaded anime style, bold confident linework, flat shading, saturated neon palette (electric green, hot pink, electric blue) exploding against deep space black, energetic asymmetrical composition, dynamic splash-page energy"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "En la caída, vio la luz.",
+      "image_path": "images/hero.png",
+      "scene_text": "KAI cae.\n\nSu traje magnético grita — un sonido que no debería ser posible en el vacío, pero ahí está, vibrando en sus huesos. La gravedad lo suelta. Las plataformas desaparecen arriba.\n\nY entonces la ve. Una luz azul eléctrica, respirando en el espacio como un corazón de máquina. No está en los mapas. No está en nada que sea conocido."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Se sostuvo por milímetros.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El borde cortante del metal pesa más que toda su fuerza. Pero Kai tira. Sus dedos encuentran grietas. Encuentra aire — enrarecido, sucio, pero aire.\n\nArriba, la plataforma final. Abajo, el vacío infinito. Y entre ambos, la luz azul latiendo como un pulso que no debería existir."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Ganó. Pero algo estaba esperando.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Los Escluses zumban como siempre. El aire es espeso, artificial. Kai respira como si hubiera estado ahogándose.\n\nMira está ahí. Pero no está sola.\n\nEl otro niño tiene una cicatriz que atraviesa medio rostro. Sus ojos — el que puede ver — están fijos en Kai con una intensidad que quema como fuego. Lo reconoce de los carteles. De hace tres meses. Debería estar desaparecido."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "\"No puedes quedarte aquí\".",
+      "image_path": "images/scene_3.png",
+      "scene_text": "TALON: Viste la luz. En la caída.\n\nKAI no puede negar lo que sabe.\n\nTALON: Entonces ya no eres seguro aquí. Los administradores no van a dejar que vuelvas a correr. Porque ahora sabes que existe. Y eso significa que tienes que elegir: quedarte con Mira y olvidar. O venir conmigo.\n\nMira aprieta la mano de Kai. Sus dedos tiemblan."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "\"Hay más de nosotros. Y estamos esperando\".",
+      "image_path": "images/scene_4.png",
+      "scene_text": "A través del cristal reforzado, la estructura respira. Azul eléctrico pulsando como un corazón de máquina. No está en los mapas de Nexus. Nunca estuvo.\n\nTalon se para al lado de Kai.\n\nTALON: Si pudiste ver la luz, estás listo para saber qué estamos realmente compitiendo. Por qué existe el Void Racing. Y qué pasa cuando ganas.\n\nMira no suelta la mano de Kai. Pero sus ojos están en la estructura azul, en el espacio profundo, en la pregunta que no puede deshacer."
+    }
+  ],
+  "cover_image": "worlds/void-racers/branches/ms-all-del-vaco/images/hero.png"
+}
