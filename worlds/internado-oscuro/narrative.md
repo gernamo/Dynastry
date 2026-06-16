@@ -1,0 +1,9 @@
+Mateo no llegó al desayuno. Su cama estaba fría, las sábanas estiradas con precisión militar como si nadie las hubiera tocado. Paula lo supo de inmediato — algo en el aire del internado cambió esa mañana. Los pasillos, siempre opresivos, se volvieron más estrechos. Las paredes púrpura y verde oscuro parecían sudar.
+
+La búsqueda comenzó con discretión. El Director caminaba los corredores con su habitual expresión impenetrable, pero sus manos temblaban. No llamó a la policía. Eso fue lo primero que Paula notó. Un alumno desaparecido y el Director sellaba el internado como si quisiera contener algo que ya hubiera escapado.
+
+Los pasillos guardaban secretos. Cada puerta cerrada, cada esquina oscura, cada rincón olvidado parecía susurrar el nombre de Mateo. Pero fue en el sótano donde todo comenzó a tener sentido — no el sótano de las calderas, sino el otro. El que figuraba en los planos antiguos. El que el Director insistía en que no existía.
+
+Lo que yacía bajo el internado no era nuevo. Las cadenas oxidadas en las paredes databan de siglos. Los nombres grabados en la piedra, borrosos pero reconocibles, contaban una historia de desapariciones cíclicas. Mateo no era el primero. No sería el último. Y el Director lo sabía. Lo había sabido siempre.
+
+Cada generación el internado reclamaba su tributo. Y cada generación, alguien descendía en la oscuridad para descubrirlo demasiado tarde. Paula estaba a mitad del camino — sus pies ya tocaban los primeros peldaños del sótano prohibido, su linterna revelando detalles que la destruirían. No había regreso desde ahí. Solo la aceptación de que algunas cosas permanecen enterradas por una razón.
