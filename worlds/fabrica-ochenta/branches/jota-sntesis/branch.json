@@ -1,0 +1,94 @@
+{
+  "name": "Jota: Síntesis",
+  "tags": [
+    "80s",
+    "drogas sintéticas",
+    "transformación",
+    "viaje interior",
+    "fábrica",
+    "surrealismo",
+    "sin filtro"
+  ],
+  "status": "developing",
+  "world_id": "w_f8c4a2",
+  "branch_id": "b_jt9k2m",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "jota-sintesis",
+  "description": "Jota prueba una droga sintética que lo sumerge en un viaje sin retorno. No hay maldad, solo transformación — la fábrica y el químico dialogan en su cuerpo, y lo que emerge al amanecer no es lo que entró.",
+  "parent_slug": "fabrica-ochenta",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Jota saca una pastilla diferente. No la conoce. La toma. Lo que viene después no es caída sino apertura.",
+    "timeline_ref": "Medianoche — cuando la noche ya respira con ritmo propio"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "Madrugada — el otro lado del viaje"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Medianoche en la fábrica"
+    },
+    "diverges_from": "canon — en el momento en que las alucinaciones comienzan en serio",
+    "divergence_question": "¿Qué pasa si la droga no destruye sino que abre? ¿Qué encuentra Jota en el otro lado?"
+  },
+  "inherited_from_canon": {
+    "tone": "ácido, crudo, onírico, visceral, sin filtro",
+    "places_used": [
+      "Planta de Producción",
+      "Cuarto de Control",
+      "Pasillo de Tuberías"
+    ],
+    "characters_used": [
+      "MARCO",
+      "KIRA",
+      "JOTA",
+      "LA FÁBRICA"
+    ],
+    "visual_treatment": "Charcoal & Graphite"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "La pastilla blanca. El tamaño de una lenteja. Sin marca. Sin nombre.",
+      "image_path": "images/hero.png",
+      "scene_text": "Jota la saca de su bolsillo con los dedos gruesos. Está transpirando aunque hace frío.\n\nMARCO: ¿Qué es eso?\n\nJOTA: Algo nuevo. No sé qué es.\n\nNo espera respuesta. La pone en la lengua. La traga sin agua. Marco y Kira lo miran desde el rincón, pero ya está en otro lado."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Baja sin pensar. Las piernas lo llevan. El químico está hablando ahora.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Sus pies encuentran cada peldaño de memoria. No mira hacia abajo. Arriba, Marco grita algo que suena como su nombre, pero viene de muy lejos.\n\nJota siente el metal frío bajo su palma. O no es frío. O es frío pero significa algo diferente ahora. Cada escalón es una puerta abriéndose."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Las máquinas tienen pulso. Él tiene pulso. Son el mismo pulso.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Jota toca una tubería gigante con la palma abierta. No está fría ni caliente. Está viva. Él la siente latir contra su piel.\n\nSu cuerpo empieza a sentirse diferente. No equivocado. Diferente. Sus manos tienen demasiados dedos o demasiados pocos, pero no le importa cuál es la verdad. La verdad es líquida aquí."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Hay una puerta que nunca vio antes. O siempre estuvo ahí.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "El pasillo respira con él. Las tuberías no gotean; respiran. Jota camina sin decidir caminar. Sus pies saben dónde ir.\n\nAl fondo, donde el pasillo debería terminar en una pared, hay una puerta. Luz sale de abajo. No luz normal. Luz que tiene color sin ser color.\n\nJota extiende la mano. La puerta se abre."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Cuando sale, es casi el amanecer. Su cuerpo está aquí. Pero algo se quedó del otro lado.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Jota está en el Cuarto de Control. Sus ojos parpadean. Marco y Kira lo ven desde el rincón.\n\nNo preguntan nada. Saben que cruzó una línea.\n\nJota respira. El aire entra y sale, pero no es el mismo aire que salió. Algo fundamental cambió. Algo entró. Algo se quedó."
+    }
+  ],
+  "cover_image": "worlds/fabrica-ochenta/branches/jota-sntesis/images/hero.png"
+}
