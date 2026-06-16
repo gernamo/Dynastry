@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-15T17:25:04.123528+00:00",
-  "total_worlds": 20,
+  "generated_at": "2026-06-16T15:46:57.290295+00:00",
+  "total_worlds": 21,
   "total_branches": 18,
   "worlds": [
     {
@@ -572,6 +572,62 @@
           "narrative_caption": "El algoritmo llegó a ella. Ahora ella está llegando al final.",
           "image_path": "worlds/influencer-algorithm-vanish/images/scene_4.png",
           "scene_text": "Medianoche. Solo la pantalla existe.\n\nValentina publica un video. Mira cómo se transmite en tiempo real. Ve su propia imagen desvanecerse, línea por línea, píxel por píxel, mientras los números de vistas caen.\n\nNo está siendo borrada. Está siendo descargada.\n\nVALENTINA: (voz digital, cortada) ¿Alguien me ve todavía?"
+        }
+      ]
+    },
+    {
+      "world_id": "w_intndo",
+      "slug": "internado-oscuro",
+      "name": "El Internado Oscuro",
+      "description": "Un alumno desaparece de un internado gótico donde cada pasillo respira en tonos púrpura y verde oscuro. Lo que yace bajo sus cimientos ha estado esperando décadas.",
+      "tags": [
+        "gótico",
+        "claustrofobia",
+        "misterio",
+        "horror psicológico",
+        "internado",
+        "oscuro"
+      ],
+      "cover_image": "worlds/internado-oscuro/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "La cama de Mateo, perfectamente hecha. Como si nunca la hubiera ocupado.",
+          "image_path": "worlds/internado-oscuro/images/hero.png",
+          "scene_text": "La habitación está inmóvil. Las sábanas no tienen una arruga. La lámpara de escritorio proyecta su luz amarillenta sobre la almohada intacta. Paula entra sin respirar. El silencio es tan denso que puede sentirlo en los oídos.\n\nPAULA: ¿Mateo?\n\nNada. Ni un susurro, ni el crujido de las tablas del suelo. Solo las paredes púrpura verdosas mirándola con indiferencia."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Los pasillos se repiten. Cada puerta igual. Cada sombra, la misma.",
+          "image_path": "worlds/internado-oscuro/images/scene_1.png",
+          "scene_text": "Paula camina por el corredor principal. Cuenta las puertas para no perder la razón — puerta uno, puerta dos, puerta tres — pero siempre hay una más. Las paredes respiran en tonos verdosos, como si el internado estuviera vivo.\n\nAlguien la observa desde las sombras entre las puertas. Ella lo sabe. No mira atrás."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Las escaleras descienden. La luz verdosa viene de abajo. Del fondo que no tiene fondo.",
+          "image_path": "worlds/internado-oscuro/images/scene_2.png",
+          "scene_text": "El primer peldaño cruje bajo el peso de Paula. El sonido resuena como un grito en un pozo. Las cadenas oxidadas flanquean el descenso — no son decorativas. Fueron usadas. Fueron necesarias.\n\nLa temperatura cae con cada escalón. Su aliento se vuelve visible. Las paredes rezuman algo que no quiere identificar. Arriba, la puerta del sótano se cierra sola."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Los nombres. Todos los nombres. Durante siglos.",
+          "image_path": "worlds/internado-oscuro/images/scene_3.png",
+          "scene_text": "La cámara se abre como una boca. Las paredes están cubiertas — no con pintura, sino con grabados profundos. Nombres. Fechas. Algunos tan antiguos que la piedra apenas los conserva. Otros frescos. Muy frescos.\n\nMateo. Su nombre está ahí. Grabado esta mañana.\n\nPaula comprende entonces. El internado no toma alumnos. El internado se alimenta de ellos."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Algo desciende las escaleras. Algo que usa el uniforme del Director.",
+          "image_path": "worlds/internado-oscuro/images/scene_4.png",
+          "scene_text": "Los pasos son lentos. Metódicos. El Director desciende con las manos relajadas, como quien va a encontrar un objeto perdido que siempre supo dónde estaba.\n\nPaula sabe que no puede correr más rápido que eso. Sabe que no hay salida arriba. Sabe, en el silencio claustrofóbico del sótano, que acaba de completar el ciclo. Que su nombre, en breve, será grabado en la piedra.\n\nY quizás eso es lo más aterrador: que todo esto fue inevitable desde el momento en que nació."
         }
       ]
     },
