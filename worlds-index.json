@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-16T15:46:57.290295+00:00",
-  "total_worlds": 21,
+  "generated_at": "2026-06-16T16:10:01.767951+00:00",
+  "total_worlds": 22,
   "total_branches": 18,
   "worlds": [
     {
@@ -499,6 +499,64 @@
       "created_at": "2026-05-19T12:00:00Z",
       "status": "developing",
       "branches": []
+    },
+    {
+      "world_id": "w_f8c4a2",
+      "slug": "fabrica-ochenta",
+      "name": "Fábrica de los Ochenta",
+      "description": "Zona industrial deprimida, años 80. Un grupo de amigos se reúne en una fábrica abandonada para escapar. Alcohol, drogas, y la realidad que empieza a deformarse en alucinaciones ácidas y surrealistas.",
+      "tags": [
+        "80s",
+        "decadencia urbana",
+        "drogas",
+        "surrealismo",
+        "ácido",
+        "fábrica",
+        "amigos",
+        "autodestrucción"
+      ],
+      "cover_image": "worlds/fabrica-ochenta/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "Marco llega primero. La fábrica aún es refugio.",
+          "image_path": "worlds/fabrica-ochenta/images/hero.png",
+          "scene_text": "Silencio de herrumbre y vidrio roto. Sus pasos suenan demasiado alto en el espacio vacío. Enciende un cigarrillo con manos que casi tiemblan — no por miedo, sino por algo más parecido a anticipación.\n\nLa luz del atardecer entra sesgada, transforma los pilares en barras de una jaula. Espera. Siempre espera."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Kira ya está de más. El control empieza a fallar.",
+          "image_path": "worlds/fabrica-ochenta/images/scene_1.png",
+          "scene_text": "KIRA:\n¿escuchas eso?\n\nMARCO:\n¿qué cosa?\n\nKIRA:\nno hay nada. exacto.\n\nJota ríe pero es una risa que no termina, que rebota en las paredes de hormigón. Las pastillas empiezan a trabajar. Alguien abre otra botella. El cuarto huele a sudor y a algo químico que no debería tener olor pero lo tiene."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Jota ya no controla qué es suyo y qué es la fábrica.",
+          "image_path": "worlds/fabrica-ochenta/images/scene_2.png",
+          "scene_text": "Las tuberías gotean pero cuando mira más cerca el goteo son palabras. Gotean palabras que no entiende. Su cuerpo pesa toneladas. O no pesa nada. Las manos le cuelgan como no le colgaban antes.\n\nJOTA:\nno puedo... no puedo...\n\nNadie responde. O todos responden en la misma voz que no es la suya."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "La fábrica respira. Marco ya no sabe si está adentro o si es la fábrica.",
+          "image_path": "worlds/fabrica-ochenta/images/scene_3.png",
+          "scene_text": "Las paredes respiran. O tal vez es él quien respira por las paredes. Kira está en todas partes: en las sombras, en el goteo, en ese sonido que las máquinas nunca hicieron cuando funcionaban.\n\nMARCO:\n¿cuánto tiempo...?\n\nLa pregunta se pierde en una risotada que no reconoce. La fábrica es un pulmón. Está dentro del pulmón. O es el pulmón."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Salieron. O todavía están adentro.",
+          "image_path": "worlds/fabrica-ochenta/images/scene_4.png",
+          "scene_text": "El silencio es más fuerte que el ruido. Marco abre los ojos (¿cuándo los cerró?) y no sabe si el tiempo pasó o si fue un segundo estirado hasta la eternidad.\n\nLa fábrica sigue en pie. Indiferente. Las máquinas esperan. Y algún lugar en la ciudad, otros chicos descubren sus puertas."
+        }
+      ]
     },
     {
       "world_id": "w_glass01",
