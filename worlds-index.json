@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-16T16:50:26.358740+00:00",
+  "generated_at": "2026-06-16T18:27:54.765939+00:00",
   "total_worlds": 23,
-  "total_branches": 19,
+  "total_branches": 20,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -1056,6 +1056,57 @@
               "aspect_ratio": "16:9",
               "narrative_caption": "Some leaps are about the landing. This one is about the half-second of air.",
               "image_path": "worlds/last-connection/branches/the-other-platform/images/scene_4.png"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_reckoning01",
+          "branch_slug": "the-reckoning",
+          "name": "The Reckoning",
+          "description": "Ella baja en su andén. Lo ve. Pero él no está solo. Y en el segundo en que ella lo reconoce, descubre que algunas cosas no pueden existir fuera de la oscuridad.",
+          "parent_branch": "b_otherplat01",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Ella ve a alguien que reconoce. Pero él ya pertenece a un mundo que ella no puede entrar. El encuentro que construyeron en fragmentos se quiebra contra la realidad.",
+            "timeline_ref": "El andén. Las 5:17 de la mañana."
+          },
+          "cover_image": "worlds/last-connection/branches/the-reckoning/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "Baja. Su teléfono vibra. Pero ya está mirando.",
+              "image_path": "worlds/last-connection/branches/the-reckoning/images/hero.png",
+              "scene_text": "ELLA desciende con la mochila, el cuerpo en movimiento casi sin conciencia. El andén es más grande de lo que esperaba. Más vacío. Más real.\n\nSu teléfono parpadea: un mensaje. Ella no lo lee aún. Está buscando."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Busca entre los desconocidos. Cualquiera de ellos podría ser él.",
+              "image_path": "worlds/last-connection/branches/the-reckoning/images/scene_1.png",
+              "scene_text": "El andén respira con gente que sigue caminando. Ella queda inmóvil. Rostros que pasan sin verla. ¿Cuál? ¿Cuál de estos extraños que bajan del tren es el único que la conoce?"
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Él levanta la vista. Ella ve que ve.",
+              "image_path": "worlds/last-connection/branches/the-reckoning/images/scene_2.png",
+              "scene_text": "ÉL se detiene. Hay una pausa — microscópica, pero ella la ve. Su cuerpo reconoce a su cuerpo a través del andén, a través de la oscuridad que acaban de dejado atrás.\n\nLA MUJER a su lado aprieta su brazo. \"¿Qué pasa?\" dice, pero Él ya no responde."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Él ve. Y luego, elige no verla.",
+              "image_path": "worlds/last-connection/branches/the-reckoning/images/scene_3.png",
+              "scene_text": "El instante en que sus ojos se encuentran es completo. Ella ve el pánico. Ve el reconocimiento. Ve todo lo que construyeron en fragmentos materializarse en la cara de un extraño.\n\nY ve cómo muere.\n\nÉL aparta la vista. Su mano se tensa en la de LA MUJER. Camina. No mira atrás."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "El andén vuelve a estar vacío. Ella sigue aquí.",
+              "image_path": "worlds/last-connection/branches/the-reckoning/images/scene_4.png",
+              "scene_text": "Ella permanece inmóvil. El teléfono en su mano ya no vibra.\n\nEl vending machine sigue parpadeando. El tren sigue en la vía. La vida sigue, indiferente a los fragmentos de dos personas que creyeron que cuatro minutos de wifi podrían sostener algo real.\n\nElla baja a la estación. O sube de nuevo al tren. O simplemente se queda, mirando por dónde desapareció, en este andén que no era el suyo."
             }
           ]
         }
