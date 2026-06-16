@@ -1,0 +1,109 @@
+{
+  "name": "El Internado Oscuro",
+  "slug": "internado-oscuro",
+  "tags": [
+    "gótico",
+    "claustrofobia",
+    "misterio",
+    "horror psicológico",
+    "internado",
+    "oscuro"
+  ],
+  "places": [
+    {
+      "name": "Los Pasillos del Internado",
+      "atmosphere": "opresivo, repetitivo, desorientador",
+      "visual_description": "Muros de piedra gris verdosa, puertas idénticas a ambos lados, una única ventana al fondo que nunca deja entrar luz completa, suelo de baldosas gastadas"
+    },
+    {
+      "name": "La Habitación de Mateo",
+      "atmosphere": "abandonado, esperante, silencioso",
+      "visual_description": "Cama sin hacer, una lámpara de escritorio de metal oxidado, paredes en tonos púrpura deslavado, una ventana pequeña con rejas"
+    },
+    {
+      "name": "Los Sótanos",
+      "atmosphere": "infernal, ancestral, irreversible",
+      "visual_description": "Escaleras de piedra que descienden en espiral, paredes rezumantes, luz verdosa que emana de las grietas, cadenas oxidadas en las paredes"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_intndo",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "MATEO",
+      "arc_summary": "Desaparece en la noche y se convierte en la pregunta que destrozará a quienes lo buscan.",
+      "visual_description": "Uniforme de internado, cuerpo delgado, postura encorvada por el miedo, cabello oscuro pegado a la frente"
+    },
+    {
+      "role": "support",
+      "label": "PAULA",
+      "arc_summary": "Última persona que ve a Mateo. Su búsqueda la llevará a lugares que no debería conocer.",
+      "visual_description": "Compañera de internado, ojos grandes y alerta, ropa oscura, movimientos cautelosos"
+    },
+    {
+      "role": "antagonist",
+      "label": "EL DIRECTOR",
+      "arc_summary": "Guarda el secreto más antiguo del internado y hará lo necesario para que permanezca enterrado.",
+      "visual_description": "Figura alta y delgada, silueta en penumbra, manos pálidas, movimiento lento"
+    }
+  ],
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "Un alumno desaparece de un internado gótico donde cada pasillo respira en tonos púrpura y verde oscuro. Lo que yace bajo sus cimientos ha estado esperando décadas.",
+  "story_bible": {
+    "tone": "claustrofóbico, sofocante, sin respiro",
+    "setting": "Internado gótico aislado, pasillos repetitivos, sótanos profundos",
+    "timeline": {
+      "span": "Desaparición inicial hasta el descubrimiento final",
+      "type": "narrative_act",
+      "unit": "actos",
+      "anchor": "La desaparición y sus consecuencias"
+    },
+    "world_rules": [
+      "Cada estancia es monocromática en púrpura o verde oscuro",
+      "Lo que está bajo el internado no debe ser perturbado",
+      "Quien desciende, raramente regresa igual"
+    ],
+    "visual_treatment": "Charcoal & Graphite"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "La cama de Mateo, perfectamente hecha. Como si nunca la hubiera ocupado.",
+      "image_path": "images/hero.png",
+      "scene_text": "La habitación está inmóvil. Las sábanas no tienen una arruga. La lámpara de escritorio proyecta su luz amarillenta sobre la almohada intacta. Paula entra sin respirar. El silencio es tan denso que puede sentirlo en los oídos.\n\nPAULA: ¿Mateo?\n\nNada. Ni un susurro, ni el crujido de las tablas del suelo. Solo las paredes púrpura verdosas mirándola con indiferencia."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Los pasillos se repiten. Cada puerta igual. Cada sombra, la misma.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Paula camina por el corredor principal. Cuenta las puertas para no perder la razón — puerta uno, puerta dos, puerta tres — pero siempre hay una más. Las paredes respiran en tonos verdosos, como si el internado estuviera vivo.\n\nAlguien la observa desde las sombras entre las puertas. Ella lo sabe. No mira atrás."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Las escaleras descienden. La luz verdosa viene de abajo. Del fondo que no tiene fondo.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "El primer peldaño cruje bajo el peso de Paula. El sonido resuena como un grito en un pozo. Las cadenas oxidadas flanquean el descenso — no son decorativas. Fueron usadas. Fueron necesarias.\n\nLa temperatura cae con cada escalón. Su aliento se vuelve visible. Las paredes rezuman algo que no quiere identificar. Arriba, la puerta del sótano se cierra sola."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Los nombres. Todos los nombres. Durante siglos.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "La cámara se abre como una boca. Las paredes están cubiertas — no con pintura, sino con grabados profundos. Nombres. Fechas. Algunos tan antiguos que la piedra apenas los conserva. Otros frescos. Muy frescos.\n\nMateo. Su nombre está ahí. Grabado esta mañana.\n\nPaula comprende entonces. El internado no toma alumnos. El internado se alimenta de ellos."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Algo desciende las escaleras. Algo que usa el uniforme del Director.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Los pasos son lentos. Metódicos. El Director desciende con las manos relajadas, como quien va a encontrar un objeto perdido que siempre supo dónde estaba.\n\nPaula sabe que no puede correr más rápido que eso. Sabe que no hay salida arriba. Sabe, en el silencio claustrofóbico del sótano, que acaba de completar el ciclo. Que su nombre, en breve, será grabado en la piedra.\n\nY quizás eso es lo más aterrador: que todo esto fue inevitable desde el momento en que nació."
+    }
+  ],
+  "cover_image": "worlds/internado-oscuro/images/hero.png"
+}
