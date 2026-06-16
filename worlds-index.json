@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-16T16:22:18.381383+00:00",
-  "total_worlds": 22,
+  "generated_at": "2026-06-16T16:50:26.358740+00:00",
+  "total_worlds": 23,
   "total_branches": 19,
   "worlds": [
     {
@@ -1141,6 +1141,62 @@
           "narrative_caption": "Sostenida. No salvada. Sostenida.",
           "image_path": "worlds/linda-decadencia-luz/images/scene_4.png",
           "scene_text": "El amanecer entra por la ventana.\n\nNo es épico. Es apenas la transición de la noche a la mañana. Pero para Linda, que ha pasado semanas en ese borrón, en ese desmoronamiento, es suficiente.\n\nANA: ¿necesitas algo?\n\nLINDA: estar despierta. Solo eso.\n\nSus amigas están ahí. No van a irse. No porque Linda lo merezca, no porque esté \"arreglada\", sino porque así es el amor verdadero — no espera la perfección, solo sostiene el peso."
+        }
+      ]
+    },
+    {
+      "world_id": "w_lttlsk",
+      "slug": "little-skate-music",
+      "name": "Little",
+      "description": "Un chico que vive en el flujo del skate — estudios, música, movimiento. Todo tranquilo, todo en su lugar.",
+      "tags": [
+        "slice-of-life",
+        "música",
+        "skate",
+        "adolescencia",
+        "calma",
+        "identidad"
+      ],
+      "cover_image": "worlds/little-skate-music/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "El skate es donde todo converge.",
+          "image_path": "worlds/little-skate-music/images/hero.png",
+          "scene_text": "Little está parado en la tabla, sin moverse. No va a ir a ningún lado esta noche. Solo está aquí, en la plaza, con la luz que se va. Los auriculares cuelgan de su cuello. La música ya pasó — ahora es el momento de estar quieto.\n\nEl concreto bajo sus pies siente como un pulso. Las ruedas no se mueven, pero él siente que algo en él sigue girando. Es suficiente."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Los estudios tienen su propio ritmo.",
+          "image_path": "worlds/little-skate-music/images/scene_1.png",
+          "scene_text": "LITTLE lee en la biblioteca, donde todo es silencio. Los apuntes están abiertos. Una taza de café, ya fría, a un lado. Afuera, a través de la ventana, la ciudad despierta. Pero aquí dentro, solo hay palabras y luz.\n\nLittle no se apresura. Sabe que después de esto vendrá el skate. Y después, la música. Todo en su lugar."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El movimiento es un lenguaje sin palabras.",
+          "image_path": "worlds/little-skate-music/images/scene_2.png",
+          "scene_text": "La tabla bajo los pies. El concreto responde. No hay prisa — Little no está corriendo hacia nada. Solo está en movimiento, y eso es suficiente.\n\nLa música está en los auriculares, pero también está aquí: en el sonido de las ruedas, en el ritmo del cuerpo, en la respiración. Todo es música."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "La música es donde el cuerpo sabe qué hacer.",
+          "image_path": "worlds/little-skate-music/images/scene_3.png",
+          "scene_text": "LITTLE toca en la sala de ensayo. Sus compañeros están aquí, pero él solo oye la música. Los dedos en las cuerdas saben su camino. Es lo mismo que en el skate — el cuerpo hace lo que debe hacer, y la mente se queda atrás.\n\nSus compañeros dicen que toca como si estuviera en otra parte. Está en el skate, piensa Little. Siempre está en el skate."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Todo quieto y en movimiento al mismo tiempo.",
+          "image_path": "worlds/little-skate-music/images/scene_4.png",
+          "scene_text": "Medianoche. La plaza vacía. Una farola amarilla. Little rueda sin ir a ningún lado, música en los auriculares, solo por estar aquí.\n\nEsta es la vida que quería. No grande. No ruidosa. Solo esto: tranquila, fluida, completa. Todo en su lugar."
         }
       ]
     },
