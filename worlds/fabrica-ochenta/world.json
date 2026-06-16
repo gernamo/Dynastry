@@ -1,0 +1,123 @@
+{
+  "name": "Fábrica de los Ochenta",
+  "slug": "fabrica-ochenta",
+  "tags": [
+    "80s",
+    "decadencia urbana",
+    "drogas",
+    "surrealismo",
+    "ácido",
+    "fábrica",
+    "amigos",
+    "autodestrucción"
+  ],
+  "places": [
+    {
+      "name": "Planta de Producción",
+      "atmosphere": "amenazante, industrial, claustrofóbica",
+      "visual_description": "Maquinaria gigante, silenciosa, herrumbre y óxido. Cadenas oxidadas cuelgan del techo. Luz industrial dura, sombras cortantes."
+    },
+    {
+      "name": "Cuarto de Control",
+      "atmosphere": "decadencia, refugio frágil, vigilancia fantasmal",
+      "visual_description": "Paneles de control apagados, botones negros cubiertos de polvo. Una ventana que mira la planta. Graffiti en las paredes, botellas tiradas."
+    },
+    {
+      "name": "Pasillo de Tuberías",
+      "atmosphere": "sofocante, pulsante, orgánica",
+      "visual_description": "Tuberías enormes recorren las paredes. Goteo constante. Luz que rebota en superficies mojadas. Humedad pegajosa."
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_f8c4a2",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "MARCO",
+      "arc_summary": "De observador a sumergido en el caos, su consciencia se disuelve conforme la noche avanza.",
+      "visual_description": "Joven de 20s, chamarra de cuero raída, cigarrillo permanente, postura hundida. Ojos que buscan escapatoria."
+    },
+    {
+      "role": "support",
+      "label": "KIRA",
+      "arc_summary": "La que ya no vuelve, la que cruzó la línea primero y tira a otros hacia adelante.",
+      "visual_description": "Mujer de 20s, ropa oscura rasgada, maquillaje corrido. Movimientos erráticos, risa que raspa."
+    },
+    {
+      "role": "support",
+      "label": "JOTA",
+      "arc_summary": "Buscador de olvido, su cuerpo es el primero en traicionarlo.",
+      "visual_description": "Corpulento, sudoroso incluso al inicio, manos grandes y nerviosas. Botella siempre en la mano."
+    },
+    {
+      "role": "environment",
+      "label": "LA FÁBRICA",
+      "arc_summary": "De refugio a prisión onírica, sus espacios se retuercen según el delirio.",
+      "visual_description": "Paredes de hormigón descascarado, tuberías oxidadas, cristales rotos, luz que filtra en ángulos hostiles. Maquinaria inmóvil pero amenazante."
+    }
+  ],
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "Zona industrial deprimida, años 80. Un grupo de amigos se reúne en una fábrica abandonada para escapar. Alcohol, drogas, y la realidad que empieza a deformarse en alucinaciones ácidas y surrealistas.",
+  "story_bible": {
+    "tone": [
+      "ácido",
+      "crudo",
+      "onírico",
+      "visceral",
+      "sin filtro"
+    ],
+    "setting": "Fábrica abandonada en zona industrial suburbana, años 80",
+    "timeline": {
+      "span": "Atardecer a madrugada",
+      "type": "narrative_act",
+      "unit": "horas",
+      "anchor": "Una noche en la fábrica"
+    },
+    "world_rules": [
+      "La droga y el alcohol disuelven los límites entre realidad y alucinación",
+      "La fábrica actúa como personaje vivo, sus espacios deforman según el estado mental",
+      "El humor negro coexiste con el horror corporal"
+    ],
+    "visual_treatment": "Charcoal & Graphite"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Marco llega primero. La fábrica aún es refugio.",
+      "image_path": "images/hero.png",
+      "scene_text": "Silencio de herrumbre y vidrio roto. Sus pasos suenan demasiado alto en el espacio vacío. Enciende un cigarrillo con manos que casi tiemblan — no por miedo, sino por algo más parecido a anticipación.\n\nLa luz del atardecer entra sesgada, transforma los pilares en barras de una jaula. Espera. Siempre espera."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Kira ya está de más. El control empieza a fallar.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "KIRA:\n¿escuchas eso?\n\nMARCO:\n¿qué cosa?\n\nKIRA:\nno hay nada. exacto.\n\nJota ríe pero es una risa que no termina, que rebota en las paredes de hormigón. Las pastillas empiezan a trabajar. Alguien abre otra botella. El cuarto huele a sudor y a algo químico que no debería tener olor pero lo tiene."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Jota ya no controla qué es suyo y qué es la fábrica.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Las tuberías gotean pero cuando mira más cerca el goteo son palabras. Gotean palabras que no entiende. Su cuerpo pesa toneladas. O no pesa nada. Las manos le cuelgan como no le colgaban antes.\n\nJOTA:\nno puedo... no puedo...\n\nNadie responde. O todos responden en la misma voz que no es la suya."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La fábrica respira. Marco ya no sabe si está adentro o si es la fábrica.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Las paredes respiran. O tal vez es él quien respira por las paredes. Kira está en todas partes: en las sombras, en el goteo, en ese sonido que las máquinas nunca hicieron cuando funcionaban.\n\nMARCO:\n¿cuánto tiempo...?\n\nLa pregunta se pierde en una risotada que no reconoce. La fábrica es un pulmón. Está dentro del pulmón. O es el pulmón."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Salieron. O todavía están adentro.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "El silencio es más fuerte que el ruido. Marco abre los ojos (¿cuándo los cerró?) y no sabe si el tiempo pasó o si fue un segundo estirado hasta la eternidad.\n\nLa fábrica sigue en pie. Indiferente. Las máquinas esperan. Y algún lugar en la ciudad, otros chicos descubren sus puertas."
+    }
+  ],
+  "cover_image": "worlds/fabrica-ochenta/images/hero.png"
+}
