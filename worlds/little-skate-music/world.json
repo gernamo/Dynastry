@@ -1,0 +1,102 @@
+{
+  "name": "Little",
+  "slug": "little-skate-music",
+  "tags": [
+    "slice-of-life",
+    "música",
+    "skate",
+    "adolescencia",
+    "calma",
+    "identidad"
+  ],
+  "places": [
+    {
+      "name": "La plaza de skate",
+      "atmosphere": "ritmo, libertad, acogedor",
+      "visual_description": "Concreto gastado, líneas blancas, bancos de madera, gráfitis descoloridos. Luz dorada al atardecer. El sonido de ruedas es constante. Una o dos farolas para la noche."
+    },
+    {
+      "name": "La sala de ensayo",
+      "atmosphere": "concentración, intimidad, energía contenida",
+      "visual_description": "Paredes oscuras, espejos rayados, instrumentos en percheros. Cables en el suelo. Una ventana pequeña con luz difusa. Posters de bandas en las paredes."
+    },
+    {
+      "name": "La biblioteca",
+      "atmosphere": "calma, soledad productiva, orden",
+      "visual_description": "Luz natural de ventanas altas. Mesas de madera clara. Libros en pilas. Un rincón tranquilo junto a una ventana. Silencio casi absoluto."
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_lttlsk",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "LITTLE",
+      "arc_summary": "Descubre que el skate es donde todas sus piezas — estudio, música, cuerpo, mente — convergen en paz.",
+      "visual_description": "Chico adolescente, delgado, movimiento fluido. Cabello despeinado de forma natural. Ropa simple, cómoda — sudadera, jeans gastados, zapatillas de skate. Siempre con auriculares alrededor del cuello o puestos. Postura relajada incluso en reposo."
+    }
+  ],
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "Un chico que vive en el flujo del skate — estudios, música, movimiento. Todo tranquilo, todo en su lugar.",
+  "story_bible": {
+    "tone": [
+      "tranquilo",
+      "fluido",
+      "introspectivo",
+      "luminoso"
+    ],
+    "setting": "Ciudad contemporánea, calles de skate, espacios de estudio, salas de ensayo",
+    "timeline": {
+      "span": "Una semana de flujo",
+      "type": "narrative_act",
+      "unit": "días",
+      "anchor": "Días en la vida de Little"
+    },
+    "world_rules": [
+      "El skate es el eje — todo lo demás orbita alrededor",
+      "No hay prisa. La vida de Little se mide en sesiones, no en metas",
+      "La música y el movimiento son lenguajes del mismo silencio"
+    ],
+    "visual_treatment": "Cinematic Gouache"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "El skate es donde todo converge.",
+      "image_path": "images/hero.png",
+      "scene_text": "Little está parado en la tabla, sin moverse. No va a ir a ningún lado esta noche. Solo está aquí, en la plaza, con la luz que se va. Los auriculares cuelgan de su cuello. La música ya pasó — ahora es el momento de estar quieto.\n\nEl concreto bajo sus pies siente como un pulso. Las ruedas no se mueven, pero él siente que algo en él sigue girando. Es suficiente."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Los estudios tienen su propio ritmo.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "LITTLE lee en la biblioteca, donde todo es silencio. Los apuntes están abiertos. Una taza de café, ya fría, a un lado. Afuera, a través de la ventana, la ciudad despierta. Pero aquí dentro, solo hay palabras y luz.\n\nLittle no se apresura. Sabe que después de esto vendrá el skate. Y después, la música. Todo en su lugar."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El movimiento es un lenguaje sin palabras.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "La tabla bajo los pies. El concreto responde. No hay prisa — Little no está corriendo hacia nada. Solo está en movimiento, y eso es suficiente.\n\nLa música está en los auriculares, pero también está aquí: en el sonido de las ruedas, en el ritmo del cuerpo, en la respiración. Todo es música."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La música es donde el cuerpo sabe qué hacer.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "LITTLE toca en la sala de ensayo. Sus compañeros están aquí, pero él solo oye la música. Los dedos en las cuerdas saben su camino. Es lo mismo que en el skate — el cuerpo hace lo que debe hacer, y la mente se queda atrás.\n\nSus compañeros dicen que toca como si estuviera en otra parte. Está en el skate, piensa Little. Siempre está en el skate."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Todo quieto y en movimiento al mismo tiempo.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Medianoche. La plaza vacía. Una farola amarilla. Little rueda sin ir a ningún lado, música en los auriculares, solo por estar aquí.\n\nEsta es la vida que quería. No grande. No ruidosa. Solo esto: tranquila, fluida, completa. Todo en su lugar."
+    }
+  ],
+  "cover_image": "worlds/little-skate-music/images/hero.png"
+}
