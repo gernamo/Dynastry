@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-17T16:56:24.087177+00:00",
+  "generated_at": "2026-06-17T18:27:06.213752+00:00",
   "total_worlds": 23,
-  "total_branches": 21,
+  "total_branches": 22,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -918,6 +918,57 @@
               "aspect_ratio": "16:9",
               "narrative_caption": "'I kept it open too,' he sent. Then: 'what stop are you near these days?'",
               "image_path": "worlds/last-connection/branches/read-at-3am/images/scene_4.png"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_readatwn01",
+          "branch_slug": "read-at-dawn",
+          "name": "Read at Dawn",
+          "description": "Después de tres meses escribiéndose en la oscuridad, él pregunta dónde está ella. Esta vez, ella decide encontrarlo en persona — el riesgo que evitaron en el tren.",
+          "parent_branch": "b_read3am01",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Cuando él pregunta dónde está, ella responde con una dirección, una hora, y el nombre de una estación. Por primera vez, eligen verse.",
+            "timeline_ref": "3 meses después de Read at 3AM"
+          },
+          "cover_image": "worlds/last-connection/branches/read-at-dawn/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "El momento en que ella decide escribir la dirección.",
+              "image_path": "worlds/last-connection/branches/read-at-dawn/images/hero.png",
+              "scene_text": "3:04 AM. La pantalla brilla en la oscuridad de su cuarto. Las tres puntos dejan de parpadear. Ella lee: *what stop are you near these days?*\n\nElla respira. Ha pasado tres meses sin tocarse, sin saber ni siquiera cómo responder a una pregunta tan simple. Pero esta vez es diferente. Esta vez no va a esconderse detrás de la distancia.\n\nSHE: estoy en la costa. en la estación de la línea sur. mañana a las 6:40."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Ella llega primero al andén.",
+              "image_path": "worlds/last-connection/branches/read-at-dawn/images/scene_1.png",
+              "scene_text": "El amanecer llega lentamente a la costa. La estación está casi vacía — un trabajador en las vías, una mujer con un bebé dormido en un banco. Ella camina el andén una vez, luego otra.\n\nNo ha dormido. Ha pasado toda la noche en el auto, conduciendo hacia aquí, hacia esta estación, hacia él. Ahora está parada bajo la marquesina gastada y respira el aire salado."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Él llega. Ella lo reconoce antes de que él la vea.",
+              "image_path": "worlds/last-connection/branches/read-at-dawn/images/scene_2.png",
+              "scene_text": "HE walks onto the platform with the careful slowness of someone who has been awake all night, searching. His gray jacket — the one he mentioned once, three months ago in a four-minute window — catches the light.\n\nSHE sees him first. Her heart does something that wifi could never do."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Se ven. Por primera vez, en la luz.",
+              "image_path": "worlds/last-connection/branches/read-at-dawn/images/scene_3.png",
+              "scene_text": "HE stops. She stops. The platform holds its breath with them.\n\nNo hay palabras. No hay cuatro minutos. No hay wifi. Solo esto: el reconocimiento en los ojos del otro, la certeza de que todo lo que se dijeron en la oscuridad era verdad.\n\nÉl camina hacia ella. Lentamente. Como si el tiempo pudiera detenerse si lo hacía con suficiente cuidado."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "El primer toque. El primer amanecer.",
+              "image_path": "worlds/last-connection/branches/read-at-dawn/images/scene_4.png",
+              "scene_text": "Él tiende la mano. Ella la toma. No es complicado. No es lo que imaginaron. Es mejor — es real, es piel contra piel, es el calor del otro después de meses de frío pantalla.\n\nHE: hola.\n\nSHE: hola.\n\nY entonces él sonríe, y ella sonríe, y el amanecer sigue llegando. El tren se va sin ellos. No importa. Esta vez, encontraron a alguien que se quedó."
             }
           ]
         },
