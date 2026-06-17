@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-17T18:27:06.213752+00:00",
+  "generated_at": "2026-06-17T19:09:53.782837+00:00",
   "total_worlds": 23,
-  "total_branches": 22,
+  "total_branches": 23,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -389,6 +389,57 @@
               "narrative_caption": "Algo se rompe en el silencio entre ellos.",
               "image_path": "worlds/cicatrices-madrid/branches/cicatrices-encuentro-en-el-parque/images/scene_4.png",
               "scene_text": "ELLA: Sus ojos estaban abiertos.\n\nSu voz se quiebra.\n\nELLA: Y me miraban.\n\nÉl no se mueve. No la toca. Pero en ese momento, ella sabe que él entiende exactamente lo que significa haber visto eso — no solo un cuerpo, sino la presencia en los ojos. La acusación silenciosa. La culpa de seguir viva.\n\nÉL: Volveremos a hablar.\n\nNo es una amenaza. Es una promesa."
+            }
+          ]
+        },
+        {
+          "branch_id": "b_resurr8",
+          "branch_slug": "resurreccin",
+          "name": "Resurrección",
+          "description": "Después del interrogatorio en el parque, él la sigue a su apartamento. Lo que sucede entre ellos desentierra algo que juró había enterrado hace años.",
+          "parent_branch": "b_encu47",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "El detective sigue a la testigo a su apartamento. En la intimidad y la oscuridad, ella revela un detalle que lo devuelve a un caso que creía cerrado.",
+            "timeline_ref": "Después del interrogatorio en Chamartín"
+          },
+          "cover_image": "worlds/cicatrices-madrid/branches/resurreccin/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "Él no regresa a la comisaría. Tiene otro lugar adonde ir.",
+              "image_path": "worlds/cicatrices-madrid/branches/resurreccin/images/hero.png",
+              "scene_text": "THE DETECTIVE\nSale del perímetro sin hablar con nadie. Los técnicos siguen trabajando. Las madres siguen llorando. Él camina en dirección opuesta.\n\nTiene la dirección de ella del formulario que llenó en el parque. Arguelles. Quinto piso sin ascensor. Mientras camina, las cicatrices en sus manos comienzan a arder — una sensación que no ha sentido en años. Una advertencia."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Cada escalón lo acerca a algo que no puede cerrar una vez abierto.",
+              "image_path": "worlds/cicatrices-madrid/branches/resurreccin/images/scene_1.png",
+              "scene_text": "He climbs without hearing anything but his own breathing. The stairwell smells like cooking and time. Third floor. Fourth floor. By the fifth, his heart is steady. Cold. He knocks.\n\nShe opens immediately.\n\nTHE WITNESS\nKnew you'd come.\n\nNo question in her voice. Just fact."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "En la oscuridad, los extraños se vuelven cómplices.",
+              "image_path": "worlds/cicatrices-madrid/branches/resurreccin/images/scene_2.png",
+              "scene_text": "The lamp throws everything into sharp relief. She sits on the edge of the bed. He stands by the door, not sitting, not leaving.\n\nTHE WITNESS\nNo preguntaste cómo llegué aquí. A Madrid. A ese trabajo.\n\nTHE DETECTIVE\nNo.\n\nTHE WITNESS\nPorque ya lo sabías.\n\nSilence. The kind that builds pressure.\n\nTHE WITNESS (CONT'D)\nHabía una marca. En la muñeca. Un tatuaje.\n\nHe stops breathing.\n\nTHE DETECTIVE\n¿Qué marca?"
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "El símbolo no miente. Ni los símbolos, ni los muertos, ni el tiempo.",
+              "image_path": "worlds/cicatrices-madrid/branches/resurreccin/images/scene_3.png",
+              "scene_text": "She extends her arm slowly. The tattoo is small, precise, geometric. He has seen it before. Seven years ago. On another wrist. Another body.\n\nTHE DETECTIVE\nDescribe el cuerpo. Todo.\n\nTHE WITNESS\nYa lo hice.\n\nTHE DETECTIVE\nOtra vez. Cada detalle.\n\nShe recounts everything. Every cut. Every placement. The careful, deliberate nature of it. And as she speaks, he understands: this is not a copycat. This is not a coincidence. This is the same hand. The same mind. The same killer he thought he had put away."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Lo que creía cerrado vuelve a abrirse. Y ella es la llave.",
+              "image_path": "worlds/cicatrices-madrid/branches/resurreccin/images/scene_4.png",
+              "scene_text": "THE DETECTIVE\nSiete años. Lo cerré hace siete años.\n\nTHE WITNESS\n¿Lo cerraste? ¿O lo guardaste?\n\nHe doesn't answer. He can't. Because she's right. He didn't close it. He just stopped looking. And now the past is sitting on a narrow bed in a fifth-floor apartment in Arguelles, waiting to pull him back down.\n\nTHE DETECTIVE\nNo puedes decirle a nadie lo que viste. A nadie.\n\nTHE WITNESS\nYa lo sé.\n\nAnd in those three words, they become something else. Not detective and witness. Not strangers. Something darker. Something bound."
             }
           ]
         }
