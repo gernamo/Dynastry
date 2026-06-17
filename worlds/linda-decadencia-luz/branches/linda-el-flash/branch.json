@@ -1,0 +1,99 @@
+{
+  "name": "Linda: El Flash",
+  "tags": [
+    "drama íntimo",
+    "trauma",
+    "despertar",
+    "depredación",
+    "amistad bajo presión",
+    "supervivencia",
+    "personaje femenino"
+  ],
+  "status": "developing",
+  "world_id": "w_lndluz",
+  "branch_id": "b_flash7",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "linda-el-flash",
+  "description": "Una noche en el borrón, un extraño. Cuando la claridad vuelve, ella ve. No redención — despertar al horror. Y luego, aprender a vivir con eso.",
+  "parent_slug": "linda-decadencia-luz",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [
+    {
+      "role": "antagonist",
+      "label": "ÉL",
+      "arc_summary": "Es malo. No tiene redención. Solo presencia, daño, y la certeza de que ella nunca fue segura.",
+      "visual_description": "Un hombre de mediana edad, rasgos ordinarios que se vuelven amenazantes en retrospectiva. Manos que se mueven con familiaridad depredadora. Visto en el borrón como sombra; después del flash, cada detalle es afilado y nauseabundo."
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Linda encuentra a un hombre en la oscuridad. Él la conoce; ella no. Lo que ocurre en esa noche permanece difuminado hasta que un flash — una grieta en la niebla — le muestra la verdad. Él era malo. Ella estaba desdefensa. Y ahora debe vivir sabiendo.",
+    "timeline_ref": "En la noche más profunda del borrón"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "Después del flash"
+    },
+    "start": {
+      "order": 1,
+      "marker": "La noche del encuentro"
+    },
+    "diverges_from": "canon — el momento antes de que sus amigas la sostengan",
+    "divergence_question": "¿Qué ocurre cuando el horror que la rodea no viene del alcohol, sino de manos que la tocaron mientras estaba invisible?"
+  },
+  "inherited_from_canon": {
+    "tone": [
+      "drama íntimo",
+      "sin redención fácil",
+      "peso real"
+    ],
+    "places_used": [],
+    "characters_used": [
+      "LINDA",
+      "LAS TRES"
+    ],
+    "visual_treatment": "Charcoal & Graphite"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "El momento donde la niebla se abre. Ella ve.",
+      "image_path": "images/hero.png",
+      "scene_text": "El flash llega sin aviso. Un destello de luz blanca que atraviesa todo. Y con él, la secuencia. Sus manos. Su peso. La imposibilidad de su propia voz. No hay vuelta atrás desde aquí. La niebla se rasgó y dejó a la desnuda, viendo todo claro, y nunca volverá a ser borrosa de la misma forma."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Él la conoce. Ella no.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "La calle es una mancha de lluvia y luz amarilla. Linda camina — o cae hacia adelante, no hay diferencia. Y entonces está ahí. Un hombre que habla como si la conociera, como si supiera exactamente lo que ella necesita en la oscuridad. Su voz es firme. Tranquilizadora. Ella no ve su cara claro. En el borrón, las caras nunca están claras. Pero él está ahí, y en ese momento, eso es suficiente."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "En la niebla, ella no puede decir que no.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Lo que ocurre después no tiene contorno claro. El borrón lo protege a él y la devora a ella. Sus manos. Su peso. Ella intenta hablar pero las palabras no salen, o salen pero no las escucha nadie, o nunca existieron. El tiempo se colapsa. Ella desaparece dentro de la noche que ella misma creó, y él la usa mientras desaparece."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La luz vuelve. Y ella sabe.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Despierta — o lleva despierta horas, el tiempo no funciona bien. La luz entra por la ventana. Su cuerpo duele de formas que no entiende. Y entonces viene el flash otra vez, pero esta vez no desaparece. Se queda. Fragmentos. Sus manos. Su respiración. La certeza absoluta de que esto pasó y ella estaba indefensa.\n\nSe mira las manos como si fueran de otra persona."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Sus amigas la encuentran. Ahora saben.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Las tres están cerca cuando lo cuenta — o cuando no lo cuenta, cuando solo tiembla y ellas entienden. La rabia en sus caras es diferente a la compasión del canon. Es la rabia de ver a alguien que amaban siendo usado por un depredador mientras desaparecía.\n\nAhora no luchan solo contra la bebida. Luchan por una mujer que necesitaba desaparecer porque el mundo la tocó de formas que no podía nombrar. Y ella, lentamente, tiene que aprender a vivir en un cuerpo que fue suyo y no fue suyo al mismo tiempo."
+    }
+  ],
+  "cover_image": "worlds/linda-decadencia-luz/branches/linda-el-flash/images/hero.png"
+}
