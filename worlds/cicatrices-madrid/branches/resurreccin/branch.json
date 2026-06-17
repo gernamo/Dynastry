@@ -1,0 +1,98 @@
+{
+  "name": "Resurrección",
+  "tags": [
+    "crime-thriller",
+    "madrid",
+    "detective",
+    "dark",
+    "visceral",
+    "psychological",
+    "obsession",
+    "past-returns"
+  ],
+  "status": "developing",
+  "world_id": "w_cic4d7",
+  "branch_id": "b_resurr8",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "Her Apartment",
+      "atmosphere": "confined, intimate, a witness's refuge",
+      "visual_description": "Small, sparse, badly lit by a single floor lamp in the corner. Heavy curtains. A narrow bed. Books stacked on the floor. The walls are bare except for one photograph she won't let him see. The kitchen is visible from the main room—just a counter, a sink, the shadow of someone who lives small."
+    }
+  ],
+  "branch_slug": "cicatrices-resurreccion",
+  "description": "Después del interrogatorio en el parque, él la sigue a su apartamento. Lo que sucede entre ellos desentierra algo que juró había enterrado hace años.",
+  "parent_slug": "cicatrices-madrid",
+  "is_canonical": false,
+  "parent_branch": "b_encu47",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "El detective sigue a la testigo a su apartamento. En la intimidad y la oscuridad, ella revela un detalle que lo devuelve a un caso que creía cerrado.",
+    "timeline_ref": "Después del interrogatorio en Chamartín"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "La marca reconocida"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Salida del parque"
+    },
+    "continues_from": "b_encu47",
+    "divergence_question": "¿Qué pasa cuando el pasado que juraste enterrado resurge a través de la persona que crees que te entiende?"
+  },
+  "inherited_from_canon": {
+    "tone": "dark, visceral, psychological, obsessive",
+    "places_used": [
+      "Madrid",
+      "Chamartín"
+    ],
+    "characters_used": [
+      "THE DETECTIVE",
+      "THE WITNESS"
+    ],
+    "visual_treatment": "High-Contrast Noir Comic"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Él no regresa a la comisaría. Tiene otro lugar adonde ir.",
+      "image_path": "images/hero.png",
+      "scene_text": "THE DETECTIVE\nSale del perímetro sin hablar con nadie. Los técnicos siguen trabajando. Las madres siguen llorando. Él camina en dirección opuesta.\n\nTiene la dirección de ella del formulario que llenó en el parque. Arguelles. Quinto piso sin ascensor. Mientras camina, las cicatrices en sus manos comienzan a arder — una sensación que no ha sentido en años. Una advertencia."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Cada escalón lo acerca a algo que no puede cerrar una vez abierto.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "He climbs without hearing anything but his own breathing. The stairwell smells like cooking and time. Third floor. Fourth floor. By the fifth, his heart is steady. Cold. He knocks.\n\nShe opens immediately.\n\nTHE WITNESS\nKnew you'd come.\n\nNo question in her voice. Just fact."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "En la oscuridad, los extraños se vuelven cómplices.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "The lamp throws everything into sharp relief. She sits on the edge of the bed. He stands by the door, not sitting, not leaving.\n\nTHE WITNESS\nNo preguntaste cómo llegué aquí. A Madrid. A ese trabajo.\n\nTHE DETECTIVE\nNo.\n\nTHE WITNESS\nPorque ya lo sabías.\n\nSilence. The kind that builds pressure.\n\nTHE WITNESS (CONT'D)\nHabía una marca. En la muñeca. Un tatuaje.\n\nHe stops breathing.\n\nTHE DETECTIVE\n¿Qué marca?"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El símbolo no miente. Ni los símbolos, ni los muertos, ni el tiempo.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "She extends her arm slowly. The tattoo is small, precise, geometric. He has seen it before. Seven years ago. On another wrist. Another body.\n\nTHE DETECTIVE\nDescribe el cuerpo. Todo.\n\nTHE WITNESS\nYa lo hice.\n\nTHE DETECTIVE\nOtra vez. Cada detalle.\n\nShe recounts everything. Every cut. Every placement. The careful, deliberate nature of it. And as she speaks, he understands: this is not a copycat. This is not a coincidence. This is the same hand. The same mind. The same killer he thought he had put away."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Lo que creía cerrado vuelve a abrirse. Y ella es la llave.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "THE DETECTIVE\nSiete años. Lo cerré hace siete años.\n\nTHE WITNESS\n¿Lo cerraste? ¿O lo guardaste?\n\nHe doesn't answer. He can't. Because she's right. He didn't close it. He just stopped looking. And now the past is sitting on a narrow bed in a fifth-floor apartment in Arguelles, waiting to pull him back down.\n\nTHE DETECTIVE\nNo puedes decirle a nadie lo que viste. A nadie.\n\nTHE WITNESS\nYa lo sé.\n\nAnd in those three words, they become something else. Not detective and witness. Not strangers. Something darker. Something bound."
+    }
+  ],
+  "cover_image": "worlds/cicatrices-madrid/branches/resurreccin/images/hero.png"
+}
