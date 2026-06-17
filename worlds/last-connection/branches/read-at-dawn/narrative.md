@@ -1,0 +1,11 @@
+Después de eso, todo cambió de velocidad. Él preguntó. Ella respondió no con palabras cautelosas sino con algo radical: *estoy en la costa. en la estación de la línea sur. mañana a las 6:40.*
+
+No fue una pregunta. Fue una dirección. Fue una invitación sin vuelta atrás. Él leyó el mensaje tres veces. Luego escribió: *voy.*
+
+Nadie había planeado esto. En el tren habían estado a salvo en la oscuridad, en la certeza de que nunca se verían. Habían podido ser perfectamente honestos porque la distancia hacía que la honestidad fuera gratis. Pero esto — esto era diferente. Verse significaba que las cosas que habían dicho importaban de verdad. Significaba que no era un juego de wifi y pausas forzadas. Significaba riesgo.
+
+Ella llegó primero, porque tenía que saber dónde pararse. Llegó temprano y caminó el andén una vez, luego otra. El amanecer estaba haciendo su trabajo lentamente, tiñendo el cielo de gris rosa. El aire olía a sal y a metal de vías mojadas. Había gente en el andén pero no mucha — trabajadores, viajeros somnolientos, una mujer con un bebé dormido. Ninguno de ellos sabía que ella estaba esperando que su vida cambiara.
+
+Cuando lo vio, lo supo. No porque se pareciera a lo que había imaginado — ni siquiera sabía si había imaginado algo específico. Lo supo porque en el momento en que lo vio, dejó de tener dudas. Él llevaba una chaqueta gris que ella reconoció, no porque la hubiera descrito, sino porque de alguna manera ya la conocía. Él la buscaba en la multitud de la estación, y cuando sus ojos se encontraron, fue como si el wifi volviera a prenderse — como si todos esos cuatro minutos de conversación en la oscuridad finalmente tuvieran un cuerpo, un rostro, una mano que podía alcanzar la suya.
+
+Él caminó hacia ella lentamente. Ambos sabían que esto no se podía deshacer. Que una vez que se miraran de verdad, en la luz del amanecer, la conversación tendría que continuar de una manera diferente — sin pausas, sin tiempo muerto, sin la seguridad de poder desconectarse. Pero eso era exactamente lo que querían. Lo que siempre habían querido.
