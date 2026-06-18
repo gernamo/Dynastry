@@ -1,0 +1,103 @@
+{
+  "name": "Continuità",
+  "tags": [
+    "cartoon",
+    "adolescent",
+    "urban",
+    "irreverent",
+    "baroque-romantic",
+    "surreal-dissolution",
+    "continuista"
+  ],
+  "status": "developing",
+  "world_id": "w_thr0ld",
+  "branch_id": "b_thr1nt",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "The Wall of Names",
+      "atmosphere": "haunting, intimate, layered with absence",
+      "visual_description": "superficie di mattone dentro il seminterrato, coperta di incisioni — nomi graffiti, date sbiadite, simboli ripetuti ossessivamente. La luce del seminterrato la colpisce di lato, creando ombre profonde in ogni solco."
+    }
+  ],
+  "branch_slug": "threshold-continuity",
+  "description": "Il collettivo scopre che altri hanno trovato la porta prima di loro. E che se ne sono andati. Ora qualcosa di nuovo arriva — e il gruppo deve decidere se accogliere o escludere.",
+  "parent_slug": "adolescent-threshold",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [
+    {
+      "role": "catalyst",
+      "label": "THE NEWCOMER",
+      "arc_summary": "Arriva cercando qualcosa che il collettivo non sa ancora di avere.",
+      "visual_description": "figura snella, vestiti che sembrano venire da prima — non storici, solo *sfalsati nel tempo*. Capelli che cadono in un modo che non si muove del tutto con lei. Occhi che guardano il collettivo come se già li conoscesse."
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "il collettivo trova incisioni sul muro della porta — nomi, date, simboli — prove che altri ragazzi avevano già scoperto questo luogo, anni fa. Nessuno ricorda chi fossero. Nessuno sa dove siano andati.",
+    "timeline_ref": "dopo i primi mesi di occupazione della Soglia"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "l'arrivo della nuova persona"
+    },
+    "start": {
+      "order": 1,
+      "marker": "il giorno dopo la scoperta degli incisioni"
+    },
+    "diverges_from": "post-canon, continuazione diretta",
+    "divergence_question": "Cosa accade quando il collettivo scopre di non essere i primi? E quando qualcuno nuovo bussa dalla Soglia?"
+  },
+  "inherited_from_canon": {
+    "tone": "irreverent, histrionic, baroque-romantic, dissolving",
+    "places_used": [
+      "The Basement Door",
+      "The Neighborhood"
+    ],
+    "characters_used": [
+      "THE COLLECTIVE"
+    ],
+    "visual_treatment": "Soft Pastel / Editorial"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "I nomi di chi era venuto prima.",
+      "image_path": "images/hero.png",
+      "scene_text": "Stanno tutti lì, attorno alla parete. Nessuno ha acceso le luci ancora.\n\nUNO: Chi cazzo erano?\n\nL'ALTRO CHE LEGGE: Non lo so. Ma erano come noi. Erano qui.\n\nUNO: Allora dov'è finito? Dov'è finito *lui*, dov'è finito *lei*?\n\nSilenzio. Solo il suono della città che non si accorge di nulla, fuori."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La Soglia. Sempre com'è stata. O così credevano.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "La porta è ancora aperta. Nessuno l'ha chiusa da tre giorni.\n\nIl collettivo entra e esce, entra e esce, come se il gesto potesse cancellare quello che hanno imparato. Come se, passando ancora una volta per la soglia, potessero tornare a essere i primi.\n\nMa la parete resta. Custodisce i nomi."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Nessuno ricorda. O non vogliono ricordare.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "UNO: Signora, lei era qui... trent'anni fa? Ricorda dei ragazzi? Ragazzi strani, che entravano e uscivano dal seminterrato?\n\nVECCHIA SIGNORA: [continuando a sistemare frutta, senza guardare] Dimenticanza è una gentilezza, ragazzo. Non fare domande su chi non c'è più.\n\nUNO: Ma—\n\nVECCHIA SIGNORA: [adesso guarda, ma con gli occhi di chi guarda attraverso] La porta dimentica chi entra. È il suo compito."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La porta non era mai stata solo loro.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "La porta si apre.\n\nLe facce del collettivo cambiano tutte nello stesso momento—un'espressione collettiva di riconoscimento e terrore, come se stessero vedendo un'eco di se stessi.\n\nLa ragazza varca la soglia. I suoi occhi li guardano come se già li conoscesse. Come se fosse già tornata.\n\nUNO: [sussurra] Chi sei?\n\nLA RAGAZZA: [con una voce che sembra arrivar da lontano] Sono quella che stava cercando la porta."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Adesso cosa fanno?",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Nessuno ha chiuso la porta.\n\nIl collettivo la guarda. La ragazza guarda il collettivo. Tutti guardano la parete con i nomi.\n\nUNO: Dov'eri? Prima di qui?\n\nLA RAGAZZA: In ogni luogo che la porta mi ha portato. Finché non mi ha riportata qui.\n\nL'ALTRO CHE LEGGE: [leggermente) Allora la porta non dimentica. La porta ritorna.\n\nSilenzio. Il respiro collettivo della soglia. E la domanda che nessuno osa fare: accogliamo, o escludiamo? E qual è la differenza?"
+    }
+  ],
+  "cover_image": "worlds/adolescent-threshold/branches/continuit/images/hero.png"
+}
