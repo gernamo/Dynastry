@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-18T07:25:50.152406+00:00",
-  "total_worlds": 23,
+  "generated_at": "2026-06-18T07:55:12.330824+00:00",
+  "total_worlds": 24,
   "total_branches": 23,
   "worlds": [
     {
@@ -658,6 +658,61 @@
           "narrative_caption": "Salieron. O todavía están adentro.",
           "image_path": "worlds/fabrica-ochenta/images/scene_4.png",
           "scene_text": "El silencio es más fuerte que el ruido. Marco abre los ojos (¿cuándo los cerró?) y no sabe si el tiempo pasó o si fue un segundo estirado hasta la eternidad.\n\nLa fábrica sigue en pie. Indiferente. Las máquinas esperan. Y algún lugar en la ciudad, otros chicos descubren sus puertas."
+        }
+      ]
+    },
+    {
+      "world_id": "w_famr7k",
+      "slug": "familia-rara",
+      "name": "Familia Rara",
+      "description": "Una casa donde cuatro personas rotas viven rituales domésticos con humor retorcido. Nadie está donde debería estar, pero todos dependen de todos. La madre es hermana, el padre es hijo, la abuela es la verdadera jefa, y el tío nunca se fue.",
+      "tags": [
+        "humor retorcido",
+        "doméstico",
+        "estructura familiar rara",
+        "intimidad incómoda",
+        "cotidiano oscuro"
+      ],
+      "cover_image": "worlds/familia-rara/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "Alrededor de la mesa, donde todo sucede.",
+          "image_path": "worlds/familia-rara/images/hero.png",
+          "scene_text": "LA MADRE: otra vez pediste sal antes de probar.\nEL PADRE: porque sé que va a estar salada.\nLA ABUELA: (sin levantar la vista) Está perfecta.\nEL TÍO: (riendo solo) Perfecta."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "La cocina antes de que lleguen.",
+          "image_path": "worlds/familia-rara/images/scene_1.png",
+          "scene_text": "La abuela ha estado aquí desde el amanecer. Las manos en la masa, la mente en otro lugar. El vapor sube del pote. Afuera, la casa sigue dormida. En unos minutos, todo cambia."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El padre despierta, o pretende hacerlo.",
+          "image_path": "worlds/familia-rara/images/scene_2.png",
+          "scene_text": "EL PADRE: ¿Qué hora es?\nLA MADRE: (desde la cocina) La hora en que siempre es.\nEL PADRE: Ah. Bien."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Las manos dicen más que las bocas.",
+          "image_path": "worlds/familia-rara/images/scene_3.png",
+          "scene_text": "EL TÍO: (a nadie en particular) Alguien pasó la sal sin pedir.\nSilencio.\nLA ABUELA: Fue él.\nEL PADRE: No fui yo.\nLA MADRE: (riendo) Claro que fue él. Siempre es él."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "La mesa después. El ritual cumplido.",
+          "image_path": "worlds/familia-rara/images/scene_4.png",
+          "scene_text": "Se fueron a otros cuartos. La abuela apila platos sin prisa. El padre duerme en el sofá. La madre hojea un libro que no lee. El tío desaparece como hace cada noche. Mañana, lo mismo. Mañana, y el próximo día."
         }
       ]
     },
