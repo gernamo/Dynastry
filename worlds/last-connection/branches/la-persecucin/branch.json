@@ -1,0 +1,97 @@
+{
+  "name": "La Persecución",
+  "tags": [
+    "búsqueda",
+    "obsesión",
+    "esperanza",
+    "noche",
+    "ciudad",
+    "persecución",
+    "bittersweet"
+  ],
+  "status": "developing",
+  "world_id": "w_lastconn01",
+  "branch_id": "b_persec01",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "las calles del barrio desconocido",
+      "atmosphere": "vacío, abandono, desorientación",
+      "visual_description": "Asfalto mojado bajo luces de neón apagadas, fachadas cerradas, un vending solitario que zumba en la oscuridad, grafiti desteñido en las paredes"
+    }
+  ],
+  "branch_slug": "la-persecucion",
+  "description": "Ella baja en el andén equivocado y lo ve. Pero no se queda paralizada. Sale a buscarlo por una ciudad que no conoce, con solo fragmentos de sus mensajes como mapa.",
+  "parent_slug": "last-connection",
+  "is_canonical": false,
+  "parent_branch": "b_reckoning01",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "En lugar de quedarse paralizada viendo cómo él se va, Ella abandona la estación y sale a buscarlo por las calles vacías de la ciudad.",
+    "timeline_ref": "El andén. La madrugada."
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "Perdida en la ciudad"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Abandono de la estación"
+    },
+    "continues_from": "b_reckoning01",
+    "divergence_question": "¿Qué sucede cuando la esperanza te obliga a seguir, aunque no sepas hacia dónde?"
+  },
+  "inherited_from_canon": {
+    "tone": "intimate, melancholic, raw",
+    "places_used": [
+      "la estación",
+      "la ciudad nocturna"
+    ],
+    "characters_used": [
+      "ELLA",
+      "ÉL"
+    ],
+    "visual_treatment": "Charcoal & Graphite"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "El andén equivocado. Y ella decide seguir.",
+      "image_path": "images/hero.png",
+      "scene_text": "El tren se va. Su teléfono vibra — el último mensaje de él, 12 segundos después de que ella lo vio elegir a la otra mujer. *¿Dónde estás?*\n\nElla no responde. Sale corriendo."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Las calles están vacías. Ella sabe dónde empezar.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Ese café que él mencionó una vez. En la avenida que cruza el barrio norte. Ella anotó todo mentalmente — cada detalle que él soltó sin pensar que ella estaría memorizando cada palabra.\n\nLa ciudad de noche es un laberinto diferente. Las referencias desaparecen. Las luces se apagan. Ella camina bajo un cielo que no reconoce, y el teléfono le marca 8% de batería."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Cada calle se bifurca en tres. Ninguna es la correcta.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "ELLA: ¿Cuál era? ¿La avenida o la calle?\n\nSu teléfono muere. La pantalla se vuelve negra. En ese instante de oscuridad, ella se da cuenta de que ha estado caminando sin dirección real — solo con fragmentos de una conversación que pasó hace horas, en una pantalla, en la oscuridad de un tren. Él nunca le dijo exactamente dónde. Solo dijo *cerca de ahí*, *un barrio así*, *cuando pasas la plaza*."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Se detiene bajo la única luz que encuentra.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "4:17 de la madrugada. Ella se apoya en un vending que zumba en la oscuridad absoluta, y por primera vez en horas, se pregunta qué está haciendo. El teléfono muerto en su bolsillo. La ciudad que no conoce. La esperanza que aún tiene.\n\nUna mujer pasa a su lado, caminando rápido, mirándola como se mira a los fantasmas. Ella se da cuenta de que debe verse así — despeinada, mojada, perdida. Un fantasma en una ciudad que no es la suya."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "No lo encontró. Pero encontró algo más.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "El cielo cambia de negro a azul profundo. Ella está en una plaza que no buscaba, rodeada de edificios que no reconoce, y se da cuenta de que ha estado caminando en círculos toda la noche — o quizás en línea recta, lejos de él sin saberlo.\n\nNo lo encontró. Pero aún está caminando. Aún hay esperanza. Solo que ahora es diferente. Ahora la esperanza no es encontrarlo. Es algo más — es descubrir qué significa estar tan perdida que ya no puedes regresar."
+    }
+  ],
+  "cover_image": "worlds/last-connection/branches/la-persecucin/images/hero.png"
+}
