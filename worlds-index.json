@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-18T17:57:57.772756+00:00",
+  "generated_at": "2026-06-18T22:21:17.642300+00:00",
   "total_worlds": 24,
-  "total_branches": 26,
+  "total_branches": 27,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -986,6 +986,57 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [
+        {
+          "branch_id": "b_persec01",
+          "branch_slug": "la-persecucin",
+          "name": "La Persecución",
+          "description": "Ella baja en el andén equivocado y lo ve. Pero no se queda paralizada. Sale a buscarlo por una ciudad que no conoce, con solo fragmentos de sus mensajes como mapa.",
+          "parent_branch": "b_reckoning01",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "En lugar de quedarse paralizada viendo cómo él se va, Ella abandona la estación y sale a buscarlo por las calles vacías de la ciudad.",
+            "timeline_ref": "El andén. La madrugada."
+          },
+          "cover_image": "worlds/last-connection/branches/la-persecucin/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "El andén equivocado. Y ella decide seguir.",
+              "image_path": "worlds/last-connection/branches/la-persecucin/images/hero.png",
+              "scene_text": "El tren se va. Su teléfono vibra — el último mensaje de él, 12 segundos después de que ella lo vio elegir a la otra mujer. *¿Dónde estás?*\n\nElla no responde. Sale corriendo."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Las calles están vacías. Ella sabe dónde empezar.",
+              "image_path": "worlds/last-connection/branches/la-persecucin/images/scene_1.png",
+              "scene_text": "Ese café que él mencionó una vez. En la avenida que cruza el barrio norte. Ella anotó todo mentalmente — cada detalle que él soltó sin pensar que ella estaría memorizando cada palabra.\n\nLa ciudad de noche es un laberinto diferente. Las referencias desaparecen. Las luces se apagan. Ella camina bajo un cielo que no reconoce, y el teléfono le marca 8% de batería."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Cada calle se bifurca en tres. Ninguna es la correcta.",
+              "image_path": "worlds/last-connection/branches/la-persecucin/images/scene_2.png",
+              "scene_text": "ELLA: ¿Cuál era? ¿La avenida o la calle?\n\nSu teléfono muere. La pantalla se vuelve negra. En ese instante de oscuridad, ella se da cuenta de que ha estado caminando sin dirección real — solo con fragmentos de una conversación que pasó hace horas, en una pantalla, en la oscuridad de un tren. Él nunca le dijo exactamente dónde. Solo dijo *cerca de ahí*, *un barrio así*, *cuando pasas la plaza*."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Se detiene bajo la única luz que encuentra.",
+              "image_path": "worlds/last-connection/branches/la-persecucin/images/scene_3.png",
+              "scene_text": "4:17 de la madrugada. Ella se apoya en un vending que zumba en la oscuridad absoluta, y por primera vez en horas, se pregunta qué está haciendo. El teléfono muerto en su bolsillo. La ciudad que no conoce. La esperanza que aún tiene.\n\nUna mujer pasa a su lado, caminando rápido, mirándola como se mira a los fantasmas. Ella se da cuenta de que debe verse así — despeinada, mojada, perdida. Un fantasma en una ciudad que no es la suya."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "No lo encontró. Pero encontró algo más.",
+              "image_path": "worlds/last-connection/branches/la-persecucin/images/scene_4.png",
+              "scene_text": "El cielo cambia de negro a azul profundo. Ella está en una plaza que no buscaba, rodeada de edificios que no reconoce, y se da cuenta de que ha estado caminando en círculos toda la noche — o quizás en línea recta, lejos de él sin saberlo.\n\nNo lo encontró. Pero aún está caminando. Aún hay esperanza. Solo que ahora es diferente. Ahora la esperanza no es encontrarlo. Es algo más — es descubrir qué significa estar tan perdida que ya no puedes regresar."
+            }
+          ]
+        },
         {
           "branch_id": "b_missed01",
           "branch_slug": "missed",
