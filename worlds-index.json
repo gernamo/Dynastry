@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-18T22:33:33.151887+00:00",
+  "generated_at": "2026-06-18T22:52:52.115791+00:00",
   "total_worlds": 25,
-  "total_branches": 27,
+  "total_branches": 28,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -621,7 +621,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_fisura",
+          "branch_slug": "espejo-adentro-la-fisura",
+          "name": "Espejo Adentro: La Fisura",
+          "description": "Cuando la madre dice que no a una falda, ella obedece. Pero el silencio que viene después es el verdadero quiebre. Una rama donde el control se resquebraja desde adentro, lentamente, hasta que no hay vuelta atrás.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "En la tienda, su madre dice no a la falda. Ella no la compra. Pero en ese acto de obediencia, algo muere dentro.",
+            "timeline_ref": "Edad 21-22"
+          },
+          "cover_image": "worlds/espejo-adentro/branches/espejo-adentro-la-fisura/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "En la tienda, una falda simple. Su madre dice que no. Ella obedece. Pero algo muere en ese acto.",
+              "image_path": "worlds/espejo-adentro/branches/espejo-adentro-la-fisura/images/hero.png",
+              "scene_text": "La falda cuelga en el perchero como una pregunta sin respuesta. Ella la mira, luego mira a su madre. Los ojos de su madre dicen no antes de que los labios se muevan.\n\nELLA: ¿No te gusta?\n\nLA MADRE: No te queda.\n\nNo es verdad. Le queda perfectamente. Pero ella suelta la falda de todas formas y cuelga lo que su madre señala — pantalones seguros, color seguro, forma segura. En el mostrador, mientras pagan, ella siente algo que duele pero no sangra."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "El camino a casa es más largo. Cada paso es un paso hacia lo que viene después.",
+              "image_path": "worlds/espejo-adentro/branches/espejo-adentro-la-fisura/images/scene_1.png",
+              "scene_text": "La madre camina adelante. Ella camina atrás. Esa ha sido siempre la forma.\n\nLA MADRE: La próxima vez no pierdas tiempo en tiendas que no entienden lo que necesitas.\n\nELLA: Está bien. No la quería tanto.\n\nMiente. La quería. Pero la mentira se instala en su boca como si siempre hubiera vivido ahí. Y con cada paso que da hacia el departamento, siente que está dejando algo atrás — no la falda, algo más profundo. Algo que nunca va a poder recoger."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "En el baño, sola. La ropa verdadera. El espejo que finalmente devuelve algo reconocible.",
+              "image_path": "worlds/espejo-adentro/branches/espejo-adentro-la-fisura/images/scene_2.png",
+              "scene_text": "Abre el armario bajo el lavamanos — donde había escondido todo hace semanas — y se pone la ropa que es suya. Pantalones que caen bien. Una remera que no grita. Cosas simples, cosas verdaderas.\n\nSe mira en el espejo. La chica que devuelve faldas, que obedece, que miente en la acera — esa chica está desapareciendo. Y lo sabe. Lo siente en los huesos.\n\nSuena su teléfono. Alex. Ella no contesta. Sabe que si habla ahora, va a llorar, y si llora, va a tener que explicar, y si explica, va a tener que decidir."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "La decisión está tomada. Pero nadie lo sabe aún. El silencio antes de la tormenta.",
+              "image_path": "worlds/espejo-adentro/branches/espejo-adentro-la-fisura/images/scene_3.png",
+              "scene_text": "Mira el teléfono. Tres llamadas perdidas de Alex. Un mensaje: «¿Estás bien?»\n\nNo contesta. Porque contestar significa seguir en el mundo donde obedece. Donde dice que sí cuando quiere decir que no. Donde cuelga faldas en perchas y sonríe para que su madre no vea el fuego adentro.\n\nMaña su madre va a saber. Mañana va a haber gritos o silencio, que es lo mismo. Pero esta noche, en la oscuridad, ella sabe que no puede volver a ser la de antes. La fisura es demasiado profunda. Y está creciendo hacia afuera, hacia todo lo que viene."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "En el café. ALEX está ahí. Y ella, finalmente, puede respirar.",
+              "image_path": "worlds/espejo-adentro/branches/espejo-adentro-la-fisura/images/scene_4.png",
+              "scene_text": "ALEX: Tu mamá llamó a mi casa.\n\nELLA: Lo sé.\n\nALEX: Dijo que estabas siendo egoísta. Que habías cambiado.\n\nELLA: Cambié.\n\nAlex toma un sorbo de café. Mira por la ventana. No dice nada más porque no necesita. Ella está aquí, en la ropa que es suya, con la persona que no se va. Y aunque todo lo demás se está desmoronando — la relación con su madre, la seguridad falsa del departamento, las noches sin dormir — esto, esto es real. Es pequeño. Pero es verdadero.\n\nY eso es suficiente para empezar."
+            }
+          ]
+        }
+      ],
       "images": [
         {
           "role": "hero",
