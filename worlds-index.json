@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-18T22:21:17.642300+00:00",
-  "total_worlds": 24,
+  "generated_at": "2026-06-18T22:33:33.151887+00:00",
+  "total_worlds": 25,
   "total_branches": 27,
   "worlds": [
     {
@@ -601,6 +601,64 @@
       "created_at": "2026-05-19T12:00:00Z",
       "status": "developing",
       "branches": []
+    },
+    {
+      "world_id": "w_espejo",
+      "slug": "espejo-adentro",
+      "name": "Espejo Adentro",
+      "description": "Un viaje íntimo y crudo de transformación: una mujer descubriendo quién es dentro de un cuerpo que grita lo contrario. Palizas, incomprensión, la amistad que no se quiebra. Sin filtro.",
+      "tags": [
+        "identidad",
+        "transición",
+        "transformación",
+        "intimidad",
+        "crudo",
+        "amistad",
+        "familia",
+        "vulnerabilidad"
+      ],
+      "cover_image": "worlds/espejo-adentro/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "El momento antes de poder nombrarse.",
+          "image_path": "worlds/espejo-adentro/images/hero.png",
+          "scene_text": "ELLA se detiene frente al espejo del baño. La luz fluorescente tiembla. Su reflejo no encaja en su piel — nunca encajó. Toca el vidrio con los dedos y el espejo devuelve a alguien que no es ella.\n\nPero sabe, ahora, que quién es ella está adentro, gritando."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Cuando todo aún es silencio.",
+          "image_path": "worlds/espejo-adentro/images/scene_1.png",
+          "scene_text": "ELLA abre los ojos en la madrugada y lo sabe de nuevo. El cuerpo que tiene no es suyo. Mira la ropa en la silla — la que la familia espera que use — y no puede.\n\nAún no sabe cómo decirlo. Aún cree que si no lo dice, desaparecerá."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El mundo no perdona.",
+          "image_path": "worlds/espejo-adentro/images/scene_2.png",
+          "scene_text": "Las voces llegan antes que los puños. Ella camina por una calle que conoce y de repente no es segura. Alguien grita algo sobre su cuerpo, sobre lo que no es, sobre lo que se atreve a ser.\n\nEl golpe duele menos que la certeza de que volverá a pasar."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "La primera vez que alguien escucha de verdad.",
+          "image_path": "worlds/espejo-adentro/images/scene_3.png",
+          "scene_text": "ELLA: He estado callando durante años.\n\nALEX no dice nada. Solo la mira.\n\nELLA: Soy mujer. Soy... Yo soy.\n\nEl aire del café respira con ella. ALEX extiende la mano sobre la mesa. No es un gesto grande. Es suficiente."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El espejo finalmente devuelve lo que es.",
+          "image_path": "worlds/espejo-adentro/images/scene_4.png",
+          "scene_text": "Seis años después. El espejo ya no miente.\n\nElla se ve — el cabello que creció, la ropa que es suya, las cicatrices en los brazos que son historias. La familia aún no entiende. Algunos amigos se fueron. Pero ALEX sigue.\n\nY ella sigue siendo ella. Finalmente."
+        }
+      ]
     },
     {
       "world_id": "w_f8c4a2",
