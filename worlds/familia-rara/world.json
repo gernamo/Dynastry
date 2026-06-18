@@ -1,0 +1,120 @@
+{
+  "name": "Familia Rara",
+  "slug": "familia-rara",
+  "tags": [
+    "humor retorcido",
+    "doméstico",
+    "estructura familiar rara",
+    "intimidad incómoda",
+    "cotidiano oscuro"
+  ],
+  "places": [
+    {
+      "name": "La Cocina",
+      "atmosphere": "Calor, ácido, íntimo",
+      "visual_description": "Azulejos viejos, manchas que son antiguas, luz cálida de la ventana. La mesa donde pasan todas las cosas. Olores de comida que se repiten."
+    },
+    {
+      "name": "La Mesa",
+      "atmosphere": "Tensión disfrazada de normalidad",
+      "visual_description": "Madera clara, rayones de años, vasos de distintos colores. Ahí se come, se habla, se calla."
+    },
+    {
+      "name": "El Sofá",
+      "atmosphere": "Cómodo y claustrofóbico",
+      "visual_description": "Hundido, gastado, con mantas que no cubren nada. Lugar donde se descansa y se evade."
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_famr7k",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "LA MADRE",
+      "arc_summary": "La hermana mayor que nunca creció pero lo sabe todo.",
+      "visual_description": "Mujer de cuarenta y pico, ropa suelta, cabello que no se peina pero se ve bien así. Movimientos nerviosos, siempre con las manos ocupadas. Ojos que ven todo."
+    },
+    {
+      "role": "protagonist",
+      "label": "EL PADRE",
+      "arc_summary": "El hijo que se convirtió en padre sin quererlo.",
+      "visual_description": "Hombre más joven que la madre, cara suave, postura hundida en el sofá. Ropa cómoda. Siempre parece que está a punto de decir algo pero no lo dice."
+    },
+    {
+      "role": "protagonist",
+      "label": "LA ABUELA",
+      "arc_summary": "La jefa silenciosa que controla con el silencio.",
+      "visual_description": "Vieja, pequeña, piel arrugada. Casi siempre en la cocina, delantal, manos que nunca paran. Mirada que no perdona."
+    },
+    {
+      "role": "protagonist",
+      "label": "EL TÍO",
+      "arc_summary": "El de paso que se quedó porque nadie le pidió que se fuera.",
+      "visual_description": "Hombre de edad indefinida, ropa que no le queda bien, sonrisa que aparece y desaparece. Está y no está al mismo tiempo."
+    }
+  ],
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "Una casa donde cuatro personas rotas viven rituales domésticos con humor retorcido. Nadie está donde debería estar, pero todos dependen de todos. La madre es hermana, el padre es hijo, la abuela es la verdadera jefa, y el tío nunca se fue.",
+  "story_bible": {
+    "tone": [
+      "ácido",
+      "íntimo",
+      "retorcido",
+      "vivo"
+    ],
+    "setting": "Una casa — cocina, mesa, sofá. Contemporáneo sin fecha, sin lugar específico.",
+    "timeline": {
+      "span": "Un ciclo doméstico que se vuelve extraño",
+      "type": "narrative_act",
+      "unit": "escenas",
+      "anchor": "Los rituales que se repiten"
+    },
+    "world_rules": [
+      "Los rituales domésticos revelan la estructura rara",
+      "El humor es el lenguaje de amor de esta familia",
+      "Nadie dice lo importante en voz alta",
+      "La casa es el personaje que contiene todo"
+    ],
+    "visual_treatment": "Watercolor and Ink"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Alrededor de la mesa, donde todo sucede.",
+      "image_path": "images/hero.png",
+      "scene_text": "LA MADRE: otra vez pediste sal antes de probar.\nEL PADRE: porque sé que va a estar salada.\nLA ABUELA: (sin levantar la vista) Está perfecta.\nEL TÍO: (riendo solo) Perfecta."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La cocina antes de que lleguen.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "La abuela ha estado aquí desde el amanecer. Las manos en la masa, la mente en otro lugar. El vapor sube del pote. Afuera, la casa sigue dormida. En unos minutos, todo cambia."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El padre despierta, o pretende hacerlo.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "EL PADRE: ¿Qué hora es?\nLA MADRE: (desde la cocina) La hora en que siempre es.\nEL PADRE: Ah. Bien."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Las manos dicen más que las bocas.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "EL TÍO: (a nadie en particular) Alguien pasó la sal sin pedir.\nSilencio.\nLA ABUELA: Fue él.\nEL PADRE: No fui yo.\nLA MADRE: (riendo) Claro que fue él. Siempre es él."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La mesa después. El ritual cumplido.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Se fueron a otros cuartos. La abuela apila platos sin prisa. El padre duerme en el sofá. La madre hojea un libro que no lee. El tío desaparece como hace cada noche. Mañana, lo mismo. Mañana, y el próximo día."
+    }
+  ],
+  "cover_image": "worlds/familia-rara/images/hero.png"
+}
