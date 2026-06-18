@@ -1,0 +1,7 @@
+En esta casa, nadie está donde debería estar y todos lo saben. La madre bromea sobre su incompetencia como adulta mientras prepara la comida con precisión de cirujana. El padre se hunde en el sofá y deja que ella tome decisiones que lo afectan, sonriendo como si le divirtiera ser prescindible. La abuela controla todo desde la cocina sin levantar la voz — una mirada es suficiente. El tío está en el rincón, presente como un mueble que aprendió a hablar.
+
+Los rituales son siempre iguales. La cena a las siete. Las bromas que rozan lo cruel. El silencio que llena más que cualquier grito. Se aman de formas que un terapeuta encontraría perturbadora: con sarcasmo, con negligencia cuidadosa, con ese humor negro que solo funciona cuando sabes exactamente dónde duele.
+
+La casa es el personaje que contiene todo. Sus paredes han escuchado conversaciones que no son de una familia normal. Sus muebles saben de rituales que se repiten porque cambiar las cosas sería admitir que algo está roto. Y está roto, claro. Siempre lo estuvo. Pero adentro de esa rotura, algo funciona. Algo late.
+
+Esta es la historia de cómo una estructura imposible sostiene cuatro vidas. De cómo el humor retorcido es la única lengua que hablan. De cómo la intimidad más profunda nace del caos cotidiano, en una cocina que huele a comida repetida, alrededor de una mesa rayada, bajo la mirada silenciosa de una abuela que lo ve todo.
