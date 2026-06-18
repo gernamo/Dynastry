@@ -1,0 +1,122 @@
+{
+  "name": "Espejo Adentro",
+  "slug": "espejo-adentro",
+  "tags": [
+    "identidad",
+    "transición",
+    "transformación",
+    "intimidad",
+    "crudo",
+    "amistad",
+    "familia",
+    "vulnerabilidad"
+  ],
+  "places": [
+    {
+      "name": "El Baño",
+      "atmosphere": "Insoportablemente íntima, sin escape",
+      "visual_description": "Espejo roto o empañado, luz fluorescente dura, azulejos fríos. Es donde todo comienza y regresa."
+    },
+    {
+      "name": "La Calle",
+      "atmosphere": "Hostil, expuesta, sola",
+      "visual_description": "Aceras mojadas, gente que mira, luz de farolas que rasguña. Cuerpos en movimiento, ella quieta en el caos."
+    },
+    {
+      "name": "El Departamento",
+      "atmosphere": "Privada pero vigilada, refugio roto",
+      "visual_description": "Paredes que escuchan, habitación donde las cosas cambien lentamente. Una ropa nueva que aparece. Un espacio negociado."
+    },
+    {
+      "name": "El Café",
+      "atmosphere": "Segura, pequeña, verdadera",
+      "visual_description": "Lugar donde ALEX y ella se sientan sin necesidad de hablar. Tazas tibias, luz suave de tarde. Una esquina donde es posible existir."
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_espejo",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "ELLA",
+      "arc_summary": "De la negación silenciosa a reclamar su verdad en el cuerpo, pasando por el dolor, la ira, y la fragilidad de quien se atreve a ser.",
+      "visual_description": "Silueta en transición: cabello que crece de formas incómodas, ropa que no encaja del todo en el cuerpo, gestos que buscan ser propios. Ojos que sostienen la verdad aunque el resto tiemble. Manos que a veces se esconden."
+    },
+    {
+      "role": "support",
+      "label": "ALEX",
+      "arc_summary": "El que no se va. La brújula que no gira aunque todo se desmorone.",
+      "visual_description": "Amigo de años, presencia constante. Ropa simple, gestos directos. En las escenas, está ahí sin hacer teatro — solo presente."
+    },
+    {
+      "role": "environment",
+      "label": "LA FAMILIA",
+      "arc_summary": "El peso que queda, incluso cuando no hablan. La ausencia que duele más que la presencia.",
+      "visual_description": "Presencia difusa, voces, siluetas que aparecen en marcos de puertas. Incomprensión hecha cuerpo."
+    }
+  ],
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "Un viaje íntimo y crudo de transformación: una mujer descubriendo quién es dentro de un cuerpo que grita lo contrario. Palizas, incomprensión, la amistad que no se quiebra. Sin filtro.",
+  "story_bible": {
+    "tone": [
+      "íntimo",
+      "crudo",
+      "vulnerable",
+      "sin romanticismo"
+    ],
+    "setting": "Ciudad contemporánea, espacios domésticos y urbanos, sin nombre específico",
+    "timeline": {
+      "span": "Desde los 20 hasta los 26 años",
+      "type": "character_age",
+      "unit": "años",
+      "anchor": "La edad de la protagonista"
+    },
+    "world_rules": [
+      "El cuerpo es el campo de batalla — lo que se ve y lo que se siente nunca coinciden",
+      "La identidad no se revela de golpe; se construye en fragmentos, en actos pequeños",
+      "La incomprensión es constante, pero hay grietas por donde entra luz",
+      "La amistad verdadera no mira hacia otro lado"
+    ],
+    "visual_treatment": "Cel-Shaded / Anime"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "El momento antes de poder nombrarse.",
+      "image_path": "images/hero.png",
+      "scene_text": "ELLA se detiene frente al espejo del baño. La luz fluorescente tiembla. Su reflejo no encaja en su piel — nunca encajó. Toca el vidrio con los dedos y el espejo devuelve a alguien que no es ella.\n\nPero sabe, ahora, que quién es ella está adentro, gritando."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Cuando todo aún es silencio.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "ELLA abre los ojos en la madrugada y lo sabe de nuevo. El cuerpo que tiene no es suyo. Mira la ropa en la silla — la que la familia espera que use — y no puede.\n\nAún no sabe cómo decirlo. Aún cree que si no lo dice, desaparecerá."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El mundo no perdona.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Las voces llegan antes que los puños. Ella camina por una calle que conoce y de repente no es segura. Alguien grita algo sobre su cuerpo, sobre lo que no es, sobre lo que se atreve a ser.\n\nEl golpe duele menos que la certeza de que volverá a pasar."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La primera vez que alguien escucha de verdad.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "ELLA: He estado callando durante años.\n\nALEX no dice nada. Solo la mira.\n\nELLA: Soy mujer. Soy... Yo soy.\n\nEl aire del café respira con ella. ALEX extiende la mano sobre la mesa. No es un gesto grande. Es suficiente."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El espejo finalmente devuelve lo que es.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Seis años después. El espejo ya no miente.\n\nElla se ve — el cabello que creció, la ropa que es suya, las cicatrices en los brazos que son historias. La familia aún no entiende. Algunos amigos se fueron. Pero ALEX sigue.\n\nY ella sigue siendo ella. Finalmente."
+    }
+  ],
+  "cover_image": "worlds/espejo-adentro/images/hero.png"
+}
