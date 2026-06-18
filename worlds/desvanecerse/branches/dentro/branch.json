@@ -1,0 +1,104 @@
+{
+  "name": "Dentro",
+  "tags": [
+    "paranoia",
+    "thriller",
+    "algoritmo",
+    "desvanecimiento",
+    "confrontación",
+    "dark",
+    "sci-fi",
+    "redes sociales"
+  ],
+  "status": "developing",
+  "world_id": "w_inf47x",
+  "branch_id": "b_dsvnzr2",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "El Centro",
+      "atmosphere": "fría, electrónica, hipnótica, claustrofóbica",
+      "visual_description": "servidores en penumbra, cables retorcidos, pantallas parpadeantes mostrando feeds de millones de usuarios, luces frías azuladas, arquitectura imposible — como estar dentro del circuito"
+    }
+  ],
+  "branch_slug": "desvanecerse-dentro",
+  "description": "Valentina ha desaparecido casi por completo del algoritmo. Con engagement cero y el tiempo contado, descubre que existe un lugar físico detrás de la máquina — y ella puede entrar. Una última apuesta: confrontar el corazón del algoritmo antes de borrarse para siempre.",
+  "parent_slug": "desvanecerse",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [
+    {
+      "role": "antagonist",
+      "label": "LA VOZ",
+      "arc_summary": "El controlador del algoritmo: humano o máquina, nunca queda claro.",
+      "visual_description": "unseen, present only through screens, surveillance cameras, distorted audio — a presence felt but never fully visible"
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "En lugar de desaparecer en silencio, Valentina descubre una puerta: el centro del algoritmo existe físicamente. Ella entra.",
+    "timeline_ref": "Momento final del canon — cuando Valentina está casi completamente desvanecida"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "Dentro de la máquina"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Engagement cero — últimas horas"
+    },
+    "diverges_from": "canon — momento de desvanecimiento final",
+    "divergence_question": "¿Qué ocurre cuando el fantasma confronta a quien lo cazaba?"
+  },
+  "inherited_from_canon": {
+    "tone": "paranoia, thriller, obsesión, velocidad",
+    "places_used": [
+      "Instagram feed",
+      "apartamento de Valentina"
+    ],
+    "characters_used": [
+      "VALENTINA"
+    ],
+    "visual_treatment": "HIGH-CONTRAST NOIR COMIC"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Casi invisible. Casi desaparecida. Casi lista.",
+      "image_path": "images/hero.png",
+      "scene_text": "VALENTINA está de pie en su apartamento. El teléfono es lo único que brilla. En la pantalla, su perfil muestra cero seguidores, cero contenido, cero engagement. Ella es un número que el sistema ha decidido eliminar.\n\nPero entre el caos de notificaciones fantasma, entre los mensajes de cuentas que ya no existen, encuentra algo: coordenadas. Una dirección. Escrita en código que solo ella puede leer.\n\nSe mira en el espejo. Su reflejo titila."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La ciudad la reconoce pero no la ve. Las cámaras de seguridad parpadean cuando pasa.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Las calles cambian mientras ella camina. No se mueven — simplemente dejan de ser consistentes. Un edificio está ahí, luego no. Una esquina se pixela. Su GPS intenta encontrar una ruta pero la aplicación crashea una y otra vez, mostrando la misma coordenada imposible.\n\nNadie la detiene. Nadie la ve. Es como estar en un archivo borrado que aún existe en algún sector del disco duro del mundo."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La puerta ha estado esperándola todo el tiempo.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "El edificio no tiene dirección postal. No tiene nombre. Pero la puerta se abre cuando ella se acerca — como si la reconociera. Dentro, el brillo de mil pantallas parece responder a su presencia.\n\nVALENTINA cruza el umbral. El aire cambia. Temperatura más fría. El olor a ozono y electricidad. Atrás, la calle desaparece completamente."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Ella es visible aquí. Completamente visible. Cada píxel documentado.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "El Centro es un laberinto de pantallas. Millones de feeds parpadeando simultáneamente. Usuarios desapareciendo en tiempo real, reemplazados por otros. Engagement subiéndose y bajándose en loops infinitos.\n\nY en todas partes: ella. Su rostro. Sus datos. No como influencer — como entrada en un archivo. Como línea de código.\n\nLA VOZ llega a través de los altavoces.\n\nLA VOZ: Bienvenida de vuelta, Valentina. Ya eras parte de esto. Ahora simplemente lo sabes."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Un video desde el corazón de la máquina. La única grabación que podría quebrarlo todo.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Valentina levanta su teléfono. Presiona grabar. La cámara enfoca hacia las pantallas, hacia el infinito de datos, hacia ella misma reflejada un millón de veces.\n\nVALENTINA (susurrando): «Si esto se sube... si esto llega afuera...»\n\nLas pantallas parpadean. El algoritmo intenta borrar la grabación antes de que termine. Pero ella es más rápida. Ya está dentro. Ya es parte del sistema.\n\nY un video desde el corazón de la máquina... es imposible de eliminar."
+    }
+  ],
+  "cover_image": "worlds/desvanecerse/branches/dentro/images/hero.png"
+}
