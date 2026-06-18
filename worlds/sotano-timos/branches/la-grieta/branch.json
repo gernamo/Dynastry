@@ -1,0 +1,99 @@
+{
+  "name": "La Grieta",
+  "tags": [
+    "atracos",
+    "conspiración",
+    "timos",
+    "amistad",
+    "noir",
+    "crimen inteligente",
+    "traición",
+    "sótano",
+    "plan paralelo"
+  ],
+  "status": "developing",
+  "world_id": "w_s0t4n0",
+  "branch_id": "b_gr13t4",
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "la-grieta",
+  "description": "El Estratega ignora la advertencia. El golpe continúa. Y ella actúa en paralelo — un plan que nadie en el sótano ve venir.",
+  "parent_slug": "sotano-timos",
+  "is_canonical": false,
+  "parent_branch": "b_dv1j7k",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "El Estratega ignora la advertencia de ella y despliega el plan completo. Ella comienza su propio juego en paralelo — uno que nadie ve venir.",
+    "timeline_ref": "Noche del golpe al Intermediario"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "Después del golpe"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Noche en el sótano"
+    },
+    "continues_from": "b_dv1j7k",
+    "divergence_question": "¿Qué sucede cuando ella actúa en paralelo al equipo? ¿A quién le debe lealtad: al sótano o a su propio secreto?"
+  },
+  "inherited_from_canon": {
+    "tone": [
+      "noir",
+      "tensión",
+      "traición",
+      "oscuro"
+    ],
+    "places_used": [
+      "El Sótano"
+    ],
+    "characters_used": [
+      "ELLA",
+      "EL ESTRATEGA",
+      "EL HACKER",
+      "EL FALSIFICADOR"
+    ],
+    "visual_treatment": "High-Contrast Noir Comic"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "La mano que toca la foto no tiembla. La decisión ya está tomada.",
+      "image_path": "images/hero.png",
+      "scene_text": "Ella se levanta sin decir nada. Camina hacia el muro de fotos. Su dedo toca la cicatriz en la imagen del Intermediario — un roce apenas perceptible.\n\nLos otros siguen hablando. El Estratega despliega las rutas. El Hacker construye accesos digitales. El Falsificador prepara documentos.\n\nElla no los mira. Sólo mira la foto. Y en ese silencio, comienza un plan que nadie en el sótano conoce."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El Estratega no se detiene. El plan continúa como si ella nunca hubiera hablado.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El Estratega extiende las fotos sobre la mesa de hormigón. Ruta de acceso. Ventana de cuarenta minutos. Los servidores. Su voz es quirúrgica, perfecta, despiadada.\n\nEL HACKER: Ya tengo el acceso de red. Estamos dentro en tres minutos.\n\nEL FALSIFICADOR: Los documentos están listos. Entran como empleados de mantenimiento.\n\nEL ESTRATEGA: Entonces lo hacemos. La noche que viene.\n\nElla escucha sin hablar. Ve el cálculo en sus ojos — que su advertencia es ruido, emoción en un trabajo que requiere frialdad. El sótano se convierte en máquina y ella, en fantasma."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Una llamada. Una dirección. Los otros no preguntan.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Ella sale del sótano y su teléfono vibra antes de que haya cerrado la puerta. Ella responde sin saludar.\n\nELLA: ¿Está donde dijiste?\n\nLA VOZ AL OTRO LADO: Siempre. ¿Vienes?\n\nELLA: Mañana a la medianoche. Cuando ellos estén adentro.\n\nCuelga. En el sótano, el Estratega sigue haciendo planes para el dinero. Ella hace planes para algo más — algo que el Intermediario guarda en la misma bóveda, algo que nadie en el sótano sabe que existe."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Ella entra por donde el Estratega nunca buscó.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Mientras los otros tres caminan hacia el garaje en sus trajes de mantenimiento falsificados, ella cruza la calle opuesta. Conoce esta entrada — la conoce porque vino años atrás, buscando al Intermediario en las sombras.\n\nLa cámara de seguridad ya está ciega. La puerta lateral ya está abierta. Ella entra en la oscuridad que solo ella conoce.\n\nEL INTERMEDIARIO espera arriba, con su dinero seguro en la bóveda. No sabe que hay dos equipos dentro de su castillo. No sabe que una de ellas está aquí para algo que vale más que oro."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El sótano espera. Ella sabe que no pueden volver a ser lo que eran.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "El sótano está vacío cuando ella regresa. Las fotos están boca abajo en la mesa. Su café está frío. El Estratega, el Hacker, el Falsificador — están en algún lugar de la ciudad, creyendo que ganaron.\n\nElla tiene en las manos lo que sacó de la bóveda. No es dinero. Es más pequeño, más pesado, más letal.\n\nEn pocas horas, el Estratega la va a llamar. Va a decir que el golpe fue perfecto, que el dinero está seguro, que ella estaba equivocada sobre el Intermediario. Ella va a escuchar y no decir nada. Porque él no sabe lo que ella sabe: que ella entró en la misma bóveda, robó lo que de verdad importa, y dejó una pregunta que solo el Intermediario puede responder.\n\nLa grieta en el sótano ya no es una advertencia. Es un hecho."
+    }
+  ],
+  "cover_image": "worlds/sotano-timos/branches/la-grieta/images/hero.png"
+}
