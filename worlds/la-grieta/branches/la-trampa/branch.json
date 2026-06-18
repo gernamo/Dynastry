@@ -1,0 +1,94 @@
+{
+  "name": "La Trampa",
+  "tags": [
+    "traición",
+    "bóveda",
+    "atracos",
+    "conspiración",
+    "sótano",
+    "punto de quiebre",
+    "timo dentro del timo"
+  ],
+  "status": "developing",
+  "world_id": "w_s0t4n0",
+  "branch_id": "b_tr4mp",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "la-trampa",
+  "description": "El golpe sale perfecto. Pero en la bóveda, ella descubre que el Intermediario la estaba esperando a ella — no al grupo. Alguien en el sótano lo sabía.",
+  "parent_slug": "la-grieta",
+  "is_canonical": false,
+  "parent_branch": "b_gr13t4",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Ella entra en la bóveda por su lado del plan paralelo y descubre que el Intermediario estaba adentro esperándola a ella específicamente. No fue casualidad. Alguien en el sótano sabía.",
+    "timeline_ref": "Durante el robo del Intermediario"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "La bóveda abierta, el secreto expuesto"
+    },
+    "start": {
+      "order": 1,
+      "marker": "El robo en marcha"
+    },
+    "continues_from": "b_gr13t4",
+    "divergence_question": "¿Quién en el sótano la traicionó, y por qué el Intermediario la esperaba a ella?"
+  },
+  "inherited_from_canon": {
+    "tone": "noir, tenso, conspiración, desconfianza",
+    "places_used": [
+      "El Sótano",
+      "La Bóveda del Intermediario"
+    ],
+    "characters_used": [
+      "EL ESTRATEGA",
+      "ELLA",
+      "EL HACKER",
+      "EL FALSIFICADOR",
+      "EL INTERMEDIARIO"
+    ],
+    "visual_treatment": "High-Contrast Noir Comic"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "El descubrimiento no hace ruido.",
+      "image_path": "images/hero.png",
+      "scene_text": "La puerta de la bóveda se abre sin resistencia. Demasiada facilidad. Ella lo siente en los dedos antes de entender con la mente.\n\nAdentro, la oscuridad casi completa. Un único fluorescente parpadeante ilumina cajas, contenedores, y luego — una silla. Con alguien sentado.\n\nELLA: ¿Cuánto tiempo llevas esperando?\n\nEL INTERMEDIARIO: Desde que supiste de esta bóveda."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Arriba, el plan funciona.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El garaje está vacío excepto por el auto que llega a tiempo. El Falsificador está al volante, los códigos de acceso pegados en el espejo — no memorizados, porque eso sería arriesgado. El Hacker está en el sótano, tres kilómetros de distancia, escribiendo arquitecturas de acceso en una pantalla que solo él puede leer.\n\nEL ESTRATEGA (por radio): Sesenta segundos.\n\nEl Falsificador entra. Las puertas se abren sin alarma. Nada falla. Nada debería fallar. El plan es perfecto.\n\nMas abajo, en la bóveda, ella está a punto de descubrir que lo perfecto es lo más peligroso."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La caja está donde debería estar. Él también.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "El segundo piso de la bóveda es silencio puro. Las paredes son grueso hormigón. La caja está en el estante exacto donde ella supo que estaría — información que consiguió hace años, cuando era alguien diferente, cuando el Intermediario todavía creía que ella era leal.\n\nSu mano toca el metal frío. Por un segundo, solo eso. El peso.\n\nY luego la sombra detrás de ella se mueve.\n\nEL INTERMEDIARIO: No gires aún. Déjame disfrutar esto un momento."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Él la estaba esperando. Alguien en el sótano lo sabía.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Ella se da la vuelta. La luz le pega los ojos. El Intermediario está exactamente donde ella escuchó el sonido — una silla de metal, las manos descansadas, sin arma visible. Sonriendo.\n\nELLA: ¿Cuánto tiempo llevas esperando?\n\nEL INTERMEDIARIO: Desde que supiste de esta bóveda. Desde antes.\n\nElla mira alrededor. En el suelo, una fotografía. Ella misma, años atrás, con un uniforme que no debería existir. Con él, entonces más joven, entonces leal.\n\nEL INTERMEDIARIO: Alguien en el sótano quería que supieras que lo sé. Que siempre lo supe."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "En el sótano, nadie responde.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "El Estratega mira el radio. Ella debería reportar. El plan decía que reportaría en treinta segundos.\n\nNada.\n\nEL HACKER: ¿Dónde está?\n\nEL ESTRATEGA: En la bóveda.\n\nEL FALSIFICADOR: Se suponía que no estaría en la bóveda.\n\nY en el silencio que sigue, el Estratega ve la quinta silla — la que no estaba ayer. La que está posicionada de tal forma que quien se siente ahí oye todo. Ve todo.\n\nEL ESTRATEGA: ¿Quién más sabía del plan paralelo?"
+    }
+  ],
+  "cover_image": "worlds/la-grieta/branches/la-trampa/images/hero.png"
+}
