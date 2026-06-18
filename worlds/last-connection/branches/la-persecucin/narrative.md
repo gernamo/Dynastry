@@ -1,0 +1,9 @@
+El andén desaparece bajo sus pies. No hay tiempo para paralización — su cuerpo ya se mueve, ya está subiendo las escaleras de la estación, ya está en la calle. Hace frío. Su teléfono tiene 12% de batería y en la pantalla está el último mensaje de él: *¿Dónde estás?* No va a responder. No puede. Pero puede buscarlo.
+
+Él mencionó un barrio una vez, de pasada, en uno de esos fragmentos de cuatro minutos donde contaba cosas que no debería. Un café donde trabajaba. Una calle con un nombre que ella anotó mentalmente porque en ese momento supo que era importante, aunque no sabía por qué. Ahora lo sabe.
+
+Las calles están vacías. La madrugada tiene ese peso particular de las ciudades que nunca duermen del todo pero que están fingiendo hacerlo. Ella camina y sus pasos suenan demasiado fuertes. Su mochila pesa como una certeza y la esperanza pesa aún más — esa sensación de que si sigue caminando, si dobla la esquina correcta, lo va a encontrar de pie bajo una luz, esperando que ella llegara.
+
+Pero la ciudad es más grande que un mapa de migajas. Cada calle se bifurca en tres. Cada esquina la lleva a un lugar que no reconoce. Y mientras camina, otras cosas empiezan a pasar — encuentros pequeños, desvíos que no planeó, momentos que la van sacando del camino sin que ella se dé cuenta. Para cuando se detiene a respirar, bajo un vending que zumba en la oscuridad, ya no sabe si está más cerca de él o más perdida que nunca.
+
+Pero aún tiene esperanza. Aún cree que si sigue, si no se detiene, va a encontrarlo. Es lo único que la mantiene caminando en una ciudad que no es la suya, con un teléfono que se está muriendo y un corazón que se niega a aceptar que algunas distancias no se pueden recorrer a pie.
