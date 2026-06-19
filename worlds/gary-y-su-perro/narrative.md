@@ -1,0 +1,9 @@
+Gary tiene una rutina. Despierta a las 6:47. El café entra en la taza antes de las 6:50. El perro come a las 7:15, siempre en el mismo plato. Pasean por la misma ruta, regresan, Gary se sienta en la ventana con el periódico de ayer. La tarde es para las cosas que no se nombran. Así ha sido durante años en este departamento de paredes delgadas y vecinos silenciosos.
+
+Pero el sábado, mientras Gary estira el brazo para riego las dos plantas de la ventana, escucha el primer ruido — no es el silencio que espera. Es una puerta, cajas, una voz. La vecina ha llegado.
+
+No es que Gary sea un hombre que rechace el contacto. Solo que lo ha evitado con tanto cuidado, con tanta precisión, que cuando ella cruza el pasillo llevando una lámpara, él siente que algo en el departamento se quiebra. El perro lo siente también — sus orejas se tensan. La rutina que era perfecta porque nadie la cuestionaba, de repente parece ridícula. ¿O siempre fue ridícula?
+
+Esos cinco días que siguen son un ejercicio en incomodidad. Gary tose cuando ella tose. Ella pone música a las 8pm, él cambia su horario de cena. El perro deja de dormir en el mismo rincón. Y en algún momento, sin que Gary entienda bien cuándo, empieza a esperar el sonido de sus pasos, a ordenar su día alrededor de sus ausencias. La rutina se deshace no porque ella la rompa, sino porque Gary descubre que ya no quiere vivir como si estuviera solo.
+
+La última mañana, Gary no prepara el café a las 6:50. Lo prepara a las 7:10, cuando escucha que ella despierta. El perro lo mira. Y por primera vez en años, Gary sonríe de una manera que se parece más a estar asustado que a estar tranquilo.
