@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-19T13:22:58.605962+00:00",
+  "generated_at": "2026-06-19T14:40:22.080265+00:00",
   "total_worlds": 26,
-  "total_branches": 29,
+  "total_branches": 30,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -944,7 +944,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_garycd",
+          "branch_slug": "gary-y-la-cada",
+          "name": "Gary y la caída",
+          "description": "Gary se cruza con la vecina en el rellano cuando ella sale de la ducha. Lo que sucede después no es vergüenza — es caos compartido, y todo cambia.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Gary se cruza con la vecina en el rellano cuando ella sale de la ducha. En lugar de ocultarse, se enreda con la correa del perro y ambos caen. La vergüenza se convierte en caos compartido.",
+            "timeline_ref": "Día 2, mañana temprano"
+          },
+          "cover_image": "worlds/gary-y-su-perro/branches/gary-y-la-cada/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "El instante en que Gary deja de controlar todo.",
+              "image_path": "worlds/gary-y-su-perro/branches/gary-y-la-cada/images/hero.png",
+              "scene_text": "Gary sale del departamento con la maceta. El pasillo está quieto. El perro respira. Y entonces — la puerta de ella. Agua en los hombros, toalla en la cabeza, teléfono en la oreja. Sorpresa. Instinto. Gary mira al suelo.\n\nPero el perro tira.\n\nGARY cae."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Treinta y seis horas de intentar no pensar en ella.",
+              "image_path": "worlds/gary-y-su-perro/branches/gary-y-la-cada/images/scene_1.png",
+              "scene_text": "Gary lleva treinta y seis horas sin dormir bien. El sonido de su puerta al abrirse lo despierta. Sus pasos en el pasillo rompen el silencio que él ha cultivado durante años.\n\nHoy sale con una excusa frágil: riego para las plantas. Es suficiente.\n\nAbre su puerta. El pasillo huele a algo diferente — detergente, movimiento, vida."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Ella sale con toda la intención del mundo de no estar lista.",
+              "image_path": "worlds/gary-y-su-perro/branches/gary-y-la-cada/images/scene_2.png",
+              "scene_text": "LA VECINA sale del departamento envuelta en toalla, otra en la cabeza, hablando por el móvil. No espera ver a nadie. Gary tampoco espera esto — ella sin armadura, sin preparación, agua aún brillando en sus hombros.\n\nSus ojos se encuentran por una fracción de segundo.\n\nGary mira al suelo. El perro huele el cambio en el aire."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "El momento en que todo se desmorona y nada importa.",
+              "image_path": "worlds/gary-y-su-perro/branches/gary-y-la-cada/images/scene_3.png",
+              "scene_text": "Gary hace lo que haría cualquier hombre educado: baja la vista. Pero el perro tira exactamente en el momento equivocado.\n\nSus pies buscan equilibrio. La maceta se escapa. El mundo gira.\n\nCae."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Y entonces ella ríe. De verdad.",
+              "image_path": "worlds/gary-y-su-perro/branches/gary-y-la-cada/images/scene_4.png",
+              "scene_text": "Gary abre los ojos esperando encontrar horror. En cambio, ella está ahí — con la mano en la boca, y todo lo que sale es risa.\n\nNo de burla. De alivio. De verdad.\n\nLa toalla sigue en su cabeza. El agua sigue en el suelo. Y por primera vez en años, Gary no sabe qué hacer — así que se queda donde está, mirándola, mientras el perro lo lame la cara.\n\nElla baja el móvil. Sigue riendo."
+            }
+          ]
+        }
+      ],
       "images": [
         {
           "role": "hero",
