@@ -1,0 +1,109 @@
+{
+  "name": "Gary y su perro",
+  "slug": "gary-y-su-perro",
+  "tags": [
+    "contemporáneo",
+    "fricción doméstica",
+    "humor incómodo",
+    "intimidad forzada",
+    "rutina rota"
+  ],
+  "places": [
+    {
+      "name": "El departamento de Gary",
+      "atmosphere": "tranquilo, claustrofóbico, ordenado, ligeramente triste",
+      "visual_description": "Luz dorada por las mañanas, paredes color crema manchadas, muebles viejos pero limpios, todo en su lugar. La cocina tiene una tetera de metal viejo. El piso tiene esa textura de linóleo gastado. La pared hacia el departamento de al lado es el corazón invisible de todo."
+    },
+    {
+      "name": "El pasillo compartido",
+      "atmosphere": "neutro, frontera, incómodo, revelador",
+      "visual_description": "Puerta de Gary, puerta de la vecina. Luz mortecina de una ventana alta. Buzón oxidado. El suelo tiene marcas de pasos antiguos. Dos umbrales que antes no se tocaban."
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_garysd",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "GARY",
+      "arc_summary": "Gary descubre que su rutina perfecta es solo resistencia pasiva, y que tal vez necesitaba que alguien rompiera su silencio.",
+      "visual_description": "Hombre de mediana edad, pijama gastado, pantuflas de fieltro, cabello despeinado de alguien que acaba de despertar. Lleva los mismos jeans en varias escenas. Movimientos lentos, deliberados, de alguien que ha optimizado su vida."
+    },
+    {
+      "role": "support",
+      "label": "EL PERRO",
+      "arc_summary": "El perro siente la incomodidad antes que Gary y se convierte en su espejo emocional.",
+      "visual_description": "Perro mediano, acomodaticio, siempre cerca de Gary. Orejas caídas, ojos que notan todo. A veces aparece de perfil, mirando hacia la pared que divide los departamentos."
+    },
+    {
+      "role": "antagonist",
+      "label": "LA VECINA",
+      "arc_summary": "La vecina no sabe que está rompiendo nada; solo vive. Su presencia accidental es un espejo que Gary no pidió.",
+      "visual_description": "Mujer que entra con energía, bolsas de mudanza, pasos fuertes. No la vemos de frente — la conocemos por sus siluetas en la puerta, sus sombras en la pared compartida, el sonido de su vida."
+    }
+  ],
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "Gary y su perro viven en la tranquilidad de una rutina perfecta hasta que una nueva vecina se muda al departamento de al lado, trayendo fricción, incomodidad y un humor extraño a su mundo ordenado.",
+  "story_bible": {
+    "tone": [
+      "incómodo",
+      "cálido",
+      "absurdo",
+      "tierno a pesar de todo"
+    ],
+    "setting": "Un edificio de departamentos viejo, probablemente en una ciudad latinoamericana. Pasillos estrechos, paredes delgadas, el tipo de lugar donde escuchas todo.",
+    "timeline": {
+      "span": "Una semana en la vida de Gary",
+      "type": "narrative_act",
+      "unit": "días",
+      "anchor": "La llegada de la vecina"
+    },
+    "world_rules": [
+      "Las paredes son tan delgadas que la privacidad es solo una ilusión.",
+      "La rutina de Gary es sagrada pero también terriblemente frágil.",
+      "El perro es un testigo silencioso que siente los cambios antes que Gary.",
+      "La incomodidad es el idioma que hablan Gary y la vecina."
+    ],
+    "visual_treatment": "Watercolor and Ink"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Gary y su mundo perfecto, justo antes de que todo cambie.",
+      "image_path": "images/hero.png",
+      "scene_text": "GARY tiene 6:47 de la mañana. La tetera sisea. El perro espera en la puerta de la cocina, las orejas caídas, paciente como siempre.\n\nPero algo es diferente hoy. El aire huele a cartón mojado, a mudanza. Del otro lado de la pared llega un ruido sordo — cajas, pasos."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La puerta de al lado se abre. La tranquilidad tiene una fecha de vencimiento.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El pasillo nunca ha estado tan lleno. Cajas, una lámpara de metal, pasos que Gary no reconoce. A través de la puerta entreabierta de su departamento, ve a LA VECINA — solo su silueta, solo sus manos cargando cosas.\n\nEl perro se acerca a la puerta. Gary lo detiene, pero sus propias manos tiemblan un poco cuando cierra."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Gary intenta comer. Pero escucha todo.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "La sopa está tibia. Gary trae la cuchara a su boca, pero no la acerca — está escuchando. Del otro lado de la pared, música. No es fuerte, pero es música. Ella está cocinando.\n\nEl perro levanta la cabeza. Gary deja la cuchara. Por primera vez en años, su cena no importa. Lo que importa es lo que pasa allá, en el departamento que no es el suyo."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Gary cambia la hora. Un acto tan pequeño que es un acto de guerra.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "7:10. Gary mira el reloj en la pared. Nunca ha hecho café a las 7:10.\n\nPero está esperando. Escuchó la ducha de ella hace quince minutos. Está esperando a que ella despierte, para que el departamento suene habitado, y entonces — solo entonces — él prepara el café. El perro lo observa, confundido por la ruptura."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La puerta está abierta. Gary no sabe si cerrarla o dejarla así.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "El perro está en el umbral, mirando hacia el pasillo. Gary está en la cocina, el café hecho a las 7:10, la taza en la mano.\n\nNo ha visto a la vecina en cinco días. Solo la ha escuchado. Y ahora, para la primera vez, podría salir. Podría dejar la puerta abierta. ¿Y qué pasaría entonces?"
+    }
+  ],
+  "cover_image": "worlds/gary-y-su-perro/images/hero.png"
+}
