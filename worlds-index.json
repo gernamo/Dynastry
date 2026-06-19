@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-18T22:52:52.115791+00:00",
+  "generated_at": "2026-06-19T06:00:09.360990+00:00",
   "total_worlds": 25,
-  "total_branches": 28,
+  "total_branches": 29,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -670,6 +670,57 @@
               "narrative_caption": "En el café. ALEX está ahí. Y ella, finalmente, puede respirar.",
               "image_path": "worlds/espejo-adentro/branches/espejo-adentro-la-fisura/images/scene_4.png",
               "scene_text": "ALEX: Tu mamá llamó a mi casa.\n\nELLA: Lo sé.\n\nALEX: Dijo que estabas siendo egoísta. Que habías cambiado.\n\nELLA: Cambié.\n\nAlex toma un sorbo de café. Mira por la ventana. No dice nada más porque no necesita. Ella está aquí, en la ropa que es suya, con la persona que no se va. Y aunque todo lo demás se está desmoronando — la relación con su madre, la seguridad falsa del departamento, las noches sin dormir — esto, esto es real. Es pequeño. Pero es verdadero.\n\nY eso es suficiente para empezar."
+            }
+          ]
+        },
+        {
+          "branch_id": "b_fisura",
+          "branch_slug": "la-fisura",
+          "name": "La fisura",
+          "description": "Una tarde de compras donde pedir algo pequeño se vuelve imposible. La madre cierra la puerta; ella se traga la verdad. Una herida que no cicatriza.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Una tarde de compras con su madre. Ella quiere una falda. Su madre no quiere. Ella lo asume, pero adentro algo se quiebra.",
+            "timeline_ref": "Años 20-22"
+          },
+          "cover_image": "worlds/espejo-adentro/branches/la-fisura/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "4:5",
+              "narrative_caption": "La falda azul en un estante que no es suyo.",
+              "image_path": "worlds/espejo-adentro/branches/la-fisura/images/hero.png",
+              "scene_text": "Ella entra a la tienda detrás de su madre. Entre los estantes de ropa ordenada y sin vida, hay una falda — azul oscuro, recta, simple. Está en una sección que no está hecha para cuerpos como el suyo, para vidas como la suya.\n\nSu mano la toca. Sostiene la tela, que es más fría de lo que esperaba. La madre se da cuenta. La luz de neón lo ve todo."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Una tienda donde todo está en su lugar.",
+              "image_path": "worlds/espejo-adentro/branches/la-fisura/images/scene_1.png",
+              "scene_text": "La tienda es fluorescencia y orden. Ropa colgada en hileras perfectas, espejos que no mienten, gente que mira sin ver. Su madre ya eligió lo que vinieron a buscar. Ella camina detrás, observando las secciones como si fueran códigos que podría descifrar.\n\nHay una zona donde la ropa es diferente. Más recta. Menos pretendida. Es ahí donde ve la falda."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Sin decirlo en voz alta, ella pregunta.",
+              "image_path": "worlds/espejo-adentro/branches/la-fisura/images/scene_2.png",
+              "scene_text": "La falda está en sus manos. Se gira hacia el espejo — no para verse bonita, sino para ver si es posible. La tela es suave. Cae de una forma que tiene sentido.\n\nLA MADRE: (desde atrás, en voz baja) ¿De verdad?\n\nElla no responde. En el espejo, ambas se ven. Y en ese silencio, la respuesta llega sin palabras."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Ella pone la falda de vuelta.",
+              "image_path": "worlds/espejo-adentro/branches/la-fisura/images/scene_3.png",
+              "scene_text": "LA MADRE: (en voz baja, apenas audible) ¿Qué dirán? ¿Viste cómo te miran? No es el momento. No así.\n\nElla asiente. Las manos le tiemblan un poco. La falda vuelve al estante, entre otras faldas que tampoco son suyas. El acto toma tres segundos. Adentro, toma años."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "16:9",
+              "narrative_caption": "Esa noche, sola, la herida se abre.",
+              "image_path": "worlds/espejo-adentro/branches/la-fisura/images/scene_4.png",
+              "scene_text": "El departamento está oscuro. Su madre está en otra habitación. Ella se sienta en el borde de la cama, las manos quietas en el regazo. Desde el baño, la luz fluorescente se cuela como una acusación.\n\nPiensa en la falda azul. Piensa en lo que costó no pedir. Piensa en si alguna vez volverá a intentarlo, o si esta noche fue el final de algo que no alcanzó a comenzar."
             }
           ]
         }
