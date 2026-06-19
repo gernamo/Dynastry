@@ -1,0 +1,90 @@
+{
+  "name": "Gary y la conversación",
+  "tags": [
+    "conversación",
+    "intimidad cotidiana",
+    "vulnerabilidad",
+    "primer encuentro real",
+    "rutina rota"
+  ],
+  "status": "developing",
+  "world_id": "w_garysd",
+  "branch_id": "b_garyco",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "gary-la-conversacion",
+  "description": "Después de la caída en el pasillo, Gary invita a la vecina a tomar café. Lo que sucede en esa cocina pequeña es el primer diálogo real entre ellos — natural, desarmado, el momento donde ambos dejan de esconderse.",
+  "parent_slug": "gary-y-la-caida",
+  "is_canonical": false,
+  "parent_branch": "b_garycd",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "En lugar de que ambos se retiren a sus departamentos, Gary invita a la vecina a tomar café. La conversación que sigue es el primer encuentro donde ninguno de los dos se esconde.",
+    "timeline_ref": "Minutos después de la caída en el pasillo"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "El silencio después de la conversación"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Momento después de la caída"
+    },
+    "continues_from": "b_garycd",
+    "divergence_question": "¿Qué pasa cuando dos personas que se han evitado finalmente hablan sin filtro?"
+  },
+  "inherited_from_canon": {
+    "tone": "incómodo, cálido, absurdo, tierno a pesar de todo",
+    "places_used": [
+      "El departamento de Gary",
+      "El pasillo compartido"
+    ],
+    "characters_used": [
+      "GARY",
+      "LA VECINA",
+      "EL PERRO"
+    ],
+    "visual_treatment": "Watercolor and Ink"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "El sí que cambia todo.",
+      "image_path": "images/hero.png",
+      "scene_text": "GARY: ¿Puedes... puedes venir mañana?\nElla lo mira desde el pasillo, cabello mojado, sin respuesta preparada.\nELLA: Sí. Quiero decir — sí, claro.\nGary cierra la puerta lentamente, como si el movimiento fuera a romper algo. El perro está en el suelo, mirándolo."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Gary improvisa lo que nunca improvisa: una invitación.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El pasillo desaparece detrás de ellos. La cocina huele a café viejo y a algo más — jabón de baño, pelo mojado, la vida de ella colándose en el orden de él.\nGARY: Tengo café. Recién hecho.\nELLA: Está bien. No tengo que quedarme mucho.\nPero ella se sienta."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El perro sabe antes que Gary: algo ha cambiado.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "La tetera silba. Gary vierte con cuidado, como si cada movimiento fuera una ceremonia.\nELLA: ¿Cuánto tiempo llevas aquí?\nGARY: Muchos años. Demasiados, tal vez.\nElla sonríe. Luego, sin aviso:\nELLA: La noche pasada escuché música. Violín. Pensé que estaba soñando.\nGary deja de verter."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El secreto que guardaba sale de su boca sin permiso.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "GARY: Era yo. Los martes. Toco cuando... cuando estoy solo.\nElla no dice que eso es triste. No dice nada. Solo:\nELLA: Fue bonito.\nY Gary no sabe qué hacer con eso."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Ella no pregunta si puede volver. Pregunta cuándo.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "En la puerta, ella se detiene.\nELLA: ¿Puedo venir mañana?\nNo dice \"para tomar café\". No necesita decirlo.\nGary respira.\nGARY: Sí.\nElla asiente. Se va. La puerta cierra. Gary no prepara la cena a las 7. Se queda en la cocina, mirando la taza que ella no terminó."
+    }
+  ],
+  "cover_image": "worlds/gary-y-la-caida/branches/gary-y-la-conversacin/images/hero.png"
+}
