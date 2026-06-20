@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-19T15:19:40.766118+00:00",
-  "total_worlds": 26,
+  "generated_at": "2026-06-20T16:16:36.339070+00:00",
+  "total_worlds": 27,
   "total_branches": 30,
   "worlds": [
     {
@@ -201,6 +201,61 @@
           "aspect_ratio": "16:9",
           "narrative_caption": "Back at the threshold. Changed, or changed again. The door waits. It always waits.",
           "image_path": "worlds/adolescent-threshold/images/scene_4.png"
+        }
+      ]
+    },
+    {
+      "world_id": "w_cal_brj",
+      "slug": "calendario-de-las-brujas",
+      "name": "El calendario de las brujas",
+      "description": "Una mujer regresa a su pueblo tras 15 años y descubre una carta que su madre guardó en silencio: la confesión de un amor nunca resuelto. Entre el reencuentro y la verdad, emergen las grietas de lo que nunca se dijeron.",
+      "tags": [
+        "drama íntimo",
+        "amor no superado",
+        "reencuentro",
+        "secretos familiares",
+        "realista contemporáneo"
+      ],
+      "cover_image": "worlds/calendario-de-las-brujas/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "Lo que 15 años guardó en silencio, finalmente en las manos.",
+          "image_path": "worlds/calendario-de-las-brujas/images/hero.png",
+          "scene_text": "La carta está abierta. El papel tiembla — no por el viento, sino por las manos de ELLA. Cada palabra es un pulso, cada línea una confesión que duele más porque es verdad. Sepia. Sombra. El resto del mundo desaparece."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Después de quince años, regresa.",
+          "image_path": "worlds/calendario-de-las-brujas/images/scene_1.png",
+          "scene_text": "El andén está vacío. ELLA baja del tren con una maleta pequeña. LA MADRE está de espaldas, las manos en los bolsillos, esperando. Se miran. El abrazo que siguen es corto, incómodo, el de dos extrañas que comparten historia pero no presente."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "La encuentra en un lugar que siempre estuvo ahí.",
+          "image_path": "worlds/calendario-de-las-brujas/images/scene_2.png",
+          "scene_text": "En el cajón de la cómoda, debajo de ropa que huele a años, la carta. Sin abrir. Con su nombre. Letra de su madre. Fecha: hace diez años.\n\nELLA la sostiene como si ardiera. Desde la puerta, LA MADRE aparece.\n\nLA MADRE: Eso es lo que nunca pude decirte.\n\nSu voz tiembla. ELLA no se gira."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Cada palabra reescribe lo que creía saber.",
+          "image_path": "worlds/calendario-de-las-brujas/images/scene_3.png",
+          "scene_text": "Habla de un hombre. Del amor que LA MADRE tuvo antes de que ELLA naciera. Del que se fue. De la elección imposible.\n\nCada línea duele porque es verdad. ELLA lee con el rostro en sombra, y cuando levanta los ojos ve a LA MADRE de verdad por primera vez en 15 años: no como la mujer que la crió, sino como una mujer que también fue abandonada."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Entre ellas, ahora, está todo lo que nunca dijeron.",
+          "image_path": "worlds/calendario-de-las-brujas/images/scene_4.png",
+          "scene_text": "Están sentadas. La carta está en la mesa. El silencio respira entre ellas.\n\nLA MADRE: No pedí perdón en la carta. No sabía cómo.\n\nELLA: ¿Y ahora?\n\nLA MADRE no responde. Pero por primera vez en 15 años, se miran de verdad. No saben si esto es un comienzo o el final de algo que murió hace mucho. Lo único cierto es que ahora lo saben ambas."
         }
       ]
     },
