@@ -1,0 +1,101 @@
+{
+  "name": "El calendario de las brujas",
+  "slug": "calendario-de-las-brujas",
+  "tags": [
+    "drama íntimo",
+    "amor no superado",
+    "reencuentro",
+    "secretos familiares",
+    "realista contemporáneo"
+  ],
+  "places": [
+    {
+      "name": "Estación de tren",
+      "atmosphere": "espera, incertidumbre, encuentro frío",
+      "visual_description": "andén vacío, luz grisácea, banco de madera donde se sientan, reloj detenido en la pared"
+    },
+    {
+      "name": "Casa familiar",
+      "atmosphere": "nostalgia, extrañeza, peso del tiempo",
+      "visual_description": "habitación conocida pero extraña, paredes con marcas de lo que fue, muebles en el mismo sitio, una ventana que da al pueblo"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_cal_brj",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "ELLA",
+      "arc_summary": "Regresa buscando una respuesta que no sabía que necesitaba; descubre que la pregunta verdadera siempre estuvo guardada en casa.",
+      "visual_description": "mujer de treinta y tantos, rostro que guarda madurez y fragilidad, ojos que buscan reconocer el lugar que dejó. Lleva poco equipaje."
+    },
+    {
+      "role": "protagonist",
+      "label": "LA MADRE",
+      "arc_summary": "Mantiene un secreto que pesa más que la distancia; la carta es su último acto de honestidad.",
+      "visual_description": "rostro envejecido por 15 años de silencio, arrugas que cuentan historias no dichas, manos que tiemblan ligeramente al recibir a su hija"
+    }
+  ],
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "Una mujer regresa a su pueblo tras 15 años y descubre una carta que su madre guardó en silencio: la confesión de un amor nunca resuelto. Entre el reencuentro y la verdad, emergen las grietas de lo que nunca se dijeron.",
+  "story_bible": {
+    "tone": [
+      "descubrimiento doloroso",
+      "drama crudo",
+      "romanticismo no superado"
+    ],
+    "setting": "Pueblo rural contemporáneo, casa familiar, estación de tren",
+    "timeline": {
+      "span": "15 años atrás a presente",
+      "type": "relative",
+      "unit": "years",
+      "anchor": "años desde la partida de la hija"
+    },
+    "world_rules": [
+      "El silencio entre madre e hija es más fuerte que las palabras",
+      "La carta es física, real, guardada durante 15 años sin abrir",
+      "El amor del pasado no es una conclusión sino una herida abierta"
+    ],
+    "visual_treatment": "Charcoal & Graphite"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Lo que 15 años guardó en silencio, finalmente en las manos.",
+      "image_path": "images/hero.png",
+      "scene_text": "La carta está abierta. El papel tiembla — no por el viento, sino por las manos de ELLA. Cada palabra es un pulso, cada línea una confesión que duele más porque es verdad. Sepia. Sombra. El resto del mundo desaparece."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Después de quince años, regresa.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El andén está vacío. ELLA baja del tren con una maleta pequeña. LA MADRE está de espaldas, las manos en los bolsillos, esperando. Se miran. El abrazo que siguen es corto, incómodo, el de dos extrañas que comparten historia pero no presente."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "La encuentra en un lugar que siempre estuvo ahí.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "En el cajón de la cómoda, debajo de ropa que huele a años, la carta. Sin abrir. Con su nombre. Letra de su madre. Fecha: hace diez años.\n\nELLA la sostiene como si ardiera. Desde la puerta, LA MADRE aparece.\n\nLA MADRE: Eso es lo que nunca pude decirte.\n\nSu voz tiembla. ELLA no se gira."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Cada palabra reescribe lo que creía saber.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Habla de un hombre. Del amor que LA MADRE tuvo antes de que ELLA naciera. Del que se fue. De la elección imposible.\n\nCada línea duele porque es verdad. ELLA lee con el rostro en sombra, y cuando levanta los ojos ve a LA MADRE de verdad por primera vez en 15 años: no como la mujer que la crió, sino como una mujer que también fue abandonada."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Entre ellas, ahora, está todo lo que nunca dijeron.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Están sentadas. La carta está en la mesa. El silencio respira entre ellas.\n\nLA MADRE: No pedí perdón en la carta. No sabía cómo.\n\nELLA: ¿Y ahora?\n\nLA MADRE no responde. Pero por primera vez en 15 años, se miran de verdad. No saben si esto es un comienzo o el final de algo que murió hace mucho. Lo único cierto es que ahora lo saben ambas."
+    }
+  ],
+  "cover_image": "worlds/calendario-de-las-brujas/images/hero.png"
+}
