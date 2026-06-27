@@ -1,0 +1,108 @@
+{
+  "name": "Elena & Mel",
+  "slug": "elena-mel",
+  "tags": [
+    "drama íntimo",
+    "madre e hijo",
+    "descubrimiento",
+    "melancólico",
+    "contemporáneo",
+    "conversaciones"
+  ],
+  "places": [
+    {
+      "name": "El Ascensor",
+      "atmosphere": "claustrofóbica, reveladora, atrapada",
+      "visual_description": "Acero inoxidable rayado, luz fluorescente que parpadea levemente, números rojos en el panel. Espejos que duplican el espacio. Olor a metal y polvo."
+    },
+    {
+      "name": "Departamento de Elena",
+      "atmosphere": "solitaria, reflexiva, sin vida",
+      "visual_description": "Paredes blancas, pisos de madera clara. Libros apilados, películas en estantes. Una luz cálida de lámpara de pie que no ilumina bien. Ventanas que dan a una ciudad gris."
+    },
+    {
+      "name": "Bar de Madrugada",
+      "atmosphere": "cómplice, desinhibida, honesta",
+      "visual_description": "Luces cálidas anaranjadas, mesero que no hace preguntas, botellas medio vacías sobre la mesa. Piso de mosaicos desgastados. La ciudad afuera es solo oscuridad y neón."
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_elm7kq",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "ELENA",
+      "arc_summary": "Ve a su hijo por primera vez no como decepción sino como persona con su propio mundo.",
+      "visual_description": "Mujer de 50s, cabello corto gris, una belleza gastada de años sin dormir bien. Usa lentes de aro fino. Ropa de tono neutro, siempre un abrigo gastado. Postura de alguien que se ha cerrado en sí misma."
+    },
+    {
+      "role": "protagonist",
+      "label": "MEL",
+      "arc_summary": "Descubre que su madre no siempre fue inaccesible; que su frialdad era miedo a no comprenderlo.",
+      "visual_description": "Hombre de 20s, cabello largo, la mirada de alguien que espera siempre ser juzgado. Ropa deportiva o suéter raído. En sus manos sostiene cosas cuando habla — una botella, un encendedor, un cuaderno."
+    }
+  ],
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "Una directora de cine y su hijo atrapados en un ascensor descubren años de incomprensión en pocas horas. Lo que sigue son momentos frágiles de verdad: conversaciones nocturnas, cenas silenciosas, borracheras que revelan. Dos personas aprendiendo a verse.",
+  "story_bible": {
+    "tone": [
+      "melancólico",
+      "íntimo",
+      "observacional",
+      "humor inadvertido"
+    ],
+    "setting": "Ciudad contemporánea. Departamento de Elena, bares nocturnos, restaurantes, y el ascensor como primer espacio de verdad.",
+    "timeline": {
+      "span": "Desde el accidente hasta una noche de revelaciones",
+      "type": "narrative_act",
+      "unit": "actos",
+      "anchor": "El accidente en el ascensor como punto de quiebre"
+    },
+    "world_rules": [
+      "Los momentos de descubrimiento son breves, frágiles, fáciles de perder.",
+      "El silencio es tan importante como el diálogo.",
+      "No hay resoluciones fáciles, solo entendimiento provisional."
+    ],
+    "visual_treatment": "Cinematic Gouache"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "Tres horas en acero inoxidable.",
+      "image_path": "images/hero.png",
+      "scene_text": "El ascensor se detiene entre pisos con un sonido metálico sordo. Elena mira los números rojos: piso 8. Mel respira, intentando no entrar en pánico.\n\nELENA: no te preocupes. llamarán en un minuto.\n\nMEL: ¿cómo lo sabés?\n\nELENA: porque siempre sale así.\n\nEl silencio vuelve. Tres horas. Los espejos duplican sus caras incómodas. Mel sostiene un encendedor entre los dedos, haciendo girar la rueda sin encender nada. Elena observa esto como si fuera un detalle de una escena que está dirigiendo mal."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Una mujer que dirige películas que nadie ve.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Elena sostiene una taza de café que hace una hora se enfrió. La luz de la mañana entra diagonal por la ventana, iluminando polvo que flota sin prisa. Su departamento huele a cigarrillo apagado y a libros viejos.\n\nDesde la otra habitación, silencio. Mel está ahí — siempre está ahí en algún lugar del departamento — pero es como si vivieran en edificios distintos.\n\nElla abre la laptop. Un email de un festival alemán: su última película no pasó la preselección. Cuatro palabras de rechazo muy cortés. Elena cierra la pantalla sin responder."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Tres horas sin poder escapar uno del otro.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "MEL: ¿por qué nunca vienes a nada mío?\n\nELENA: vine a tu cumpleaños.\n\nMEL: hace dos años.\n\nEl silencio es un animal que respira. Elena mira el panel de números como si pudiera forzarlos con la mente. Mel sigue haciendo girar el encendedor.\n\nELENA: no sé qué decir en esos lugares.\n\nMEL: podrías intentar preguntar.\n\nElla lo mira por primera vez desde que empezó el viaje. Realmente lo mira. Y ve a alguien que también está solo."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "El momento donde algo cede.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "MEL: cuando era chico veía tus películas.\n\nELENA: ¿en serio?\n\nMEL: las pirateé todas. Las veía en mi cuarto. A veces dos, tres veces.\n\nElena no sabe qué hacer con esto. Es como si alguien le dijera que dejó un regalo en una habitación hace años y nunca se dio cuenta de que él lo abría cada noche.\n\nMel sostiene el encendedor hacia la luz fluorescente. El metal brilla.\n\nMEL: no sé si eso significa algo para vos.\n\nELENA: significa todo."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "16:9",
+      "narrative_caption": "Dos personas aprendiendo a ocupar el mismo espacio.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Es una semana después. Elena ha cocinado algo que no quedó bien, pero Mel come igual. Entre ellos, una botella de vino tinto casi vacía. El encendedor descansa sobre la mesa, entre los platos.\n\nELENA: quiero ver lo que hacés. De verdad.\n\nMEL: ¿aunque no lo entiendas?\n\nELENA: aunque no lo entienda.\n\nMel sostiene el encendedor, lo hace girar. Una vez, dos veces. No lo enciende.\n\nMEL: mañana hay algo. Si querés venir.\n\nElla asiente. Fuera, la ciudad respira en la oscuridad. No es promesa. No es cierre. Es apenas una puerta entrebierta, un paso más cerca. Y por ahora, es suficiente."
+    }
+  ],
+  "cover_image": "worlds/elena-mel/images/hero.png"
+}
