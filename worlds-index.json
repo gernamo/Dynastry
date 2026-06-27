@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-20T16:16:36.339070+00:00",
-  "total_worlds": 27,
+  "generated_at": "2026-06-27T16:53:55.242772+00:00",
+  "total_worlds": 28,
   "total_branches": 30,
   "worlds": [
     {
@@ -617,6 +617,62 @@
             "description": "The Eclipse aftermath: instead of one fall, three regions collapse simultaneously"
           },
           "cover_image": "worlds/elarion/branches/shattered-glade/images/cover.png"
+        }
+      ]
+    },
+    {
+      "world_id": "w_elm7kq",
+      "slug": "elena-mel",
+      "name": "Elena & Mel",
+      "description": "Una directora de cine y su hijo atrapados en un ascensor descubren años de incomprensión en pocas horas. Lo que sigue son momentos frágiles de verdad: conversaciones nocturnas, cenas silenciosas, borracheras que revelan. Dos personas aprendiendo a verse.",
+      "tags": [
+        "drama íntimo",
+        "madre e hijo",
+        "descubrimiento",
+        "melancólico",
+        "contemporáneo",
+        "conversaciones"
+      ],
+      "cover_image": "worlds/elena-mel/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T12:00:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "4:5",
+          "narrative_caption": "Tres horas en acero inoxidable.",
+          "image_path": "worlds/elena-mel/images/hero.png",
+          "scene_text": "El ascensor se detiene entre pisos con un sonido metálico sordo. Elena mira los números rojos: piso 8. Mel respira, intentando no entrar en pánico.\n\nELENA: no te preocupes. llamarán en un minuto.\n\nMEL: ¿cómo lo sabés?\n\nELENA: porque siempre sale así.\n\nEl silencio vuelve. Tres horas. Los espejos duplican sus caras incómodas. Mel sostiene un encendedor entre los dedos, haciendo girar la rueda sin encender nada. Elena observa esto como si fuera un detalle de una escena que está dirigiendo mal."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Una mujer que dirige películas que nadie ve.",
+          "image_path": "worlds/elena-mel/images/scene_1.png",
+          "scene_text": "Elena sostiene una taza de café que hace una hora se enfrió. La luz de la mañana entra diagonal por la ventana, iluminando polvo que flota sin prisa. Su departamento huele a cigarrillo apagado y a libros viejos.\n\nDesde la otra habitación, silencio. Mel está ahí — siempre está ahí en algún lugar del departamento — pero es como si vivieran en edificios distintos.\n\nElla abre la laptop. Un email de un festival alemán: su última película no pasó la preselección. Cuatro palabras de rechazo muy cortés. Elena cierra la pantalla sin responder."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Tres horas sin poder escapar uno del otro.",
+          "image_path": "worlds/elena-mel/images/scene_2.png",
+          "scene_text": "MEL: ¿por qué nunca vienes a nada mío?\n\nELENA: vine a tu cumpleaños.\n\nMEL: hace dos años.\n\nEl silencio es un animal que respira. Elena mira el panel de números como si pudiera forzarlos con la mente. Mel sigue haciendo girar el encendedor.\n\nELENA: no sé qué decir en esos lugares.\n\nMEL: podrías intentar preguntar.\n\nElla lo mira por primera vez desde que empezó el viaje. Realmente lo mira. Y ve a alguien que también está solo."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "El momento donde algo cede.",
+          "image_path": "worlds/elena-mel/images/scene_3.png",
+          "scene_text": "MEL: cuando era chico veía tus películas.\n\nELENA: ¿en serio?\n\nMEL: las pirateé todas. Las veía en mi cuarto. A veces dos, tres veces.\n\nElena no sabe qué hacer con esto. Es como si alguien le dijera que dejó un regalo en una habitación hace años y nunca se dio cuenta de que él lo abría cada noche.\n\nMel sostiene el encendedor hacia la luz fluorescente. El metal brilla.\n\nMEL: no sé si eso significa algo para vos.\n\nELENA: significa todo."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "16:9",
+          "narrative_caption": "Dos personas aprendiendo a ocupar el mismo espacio.",
+          "image_path": "worlds/elena-mel/images/scene_4.png",
+          "scene_text": "Es una semana después. Elena ha cocinado algo que no quedó bien, pero Mel come igual. Entre ellos, una botella de vino tinto casi vacía. El encendedor descansa sobre la mesa, entre los platos.\n\nELENA: quiero ver lo que hacés. De verdad.\n\nMEL: ¿aunque no lo entiendas?\n\nELENA: aunque no lo entienda.\n\nMel sostiene el encendedor, lo hace girar. Una vez, dos veces. No lo enciende.\n\nMEL: mañana hay algo. Si querés venir.\n\nElla asiente. Fuera, la ciudad respira en la oscuridad. No es promesa. No es cierre. Es apenas una puerta entrebierta, un paso más cerca. Y por ahora, es suficiente."
         }
       ]
     },
@@ -2359,7 +2415,6 @@
       "world_id": "w_vdrce7",
       "slug": "void-racers",
       "name": "Void Racers",
-      "video_url": "https://kcucmhgltwppaxrzqgkq.supabase.co/storage/v1/object/public/video_sagas/Escena_inicial_-_2026-06-24_202606241957.mp4",
       "description": "En 2056, niños compiten en un deporte futurista letal jugado en plataformas flotantes entre fragmentos de mundos destruidos. Adrenalina, gravedad inestable, y amistades probadas en el vacío.",
       "tags": [
         "animación",
