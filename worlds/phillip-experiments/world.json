@@ -1,0 +1,103 @@
+{
+  "name": "Phillip y los Experimentos",
+  "slug": "phillip-experiments",
+  "tags": [
+    "infancia",
+    "ciencia",
+    "caos luminoso",
+    "amor platónico",
+    "urban",
+    "experimentos"
+  ],
+  "places": [
+    {
+      "name": "Aula urbana",
+      "atmosphere": "curiosidad contenida, expectativa",
+      "visual_description": "Luz natural de ventana grande, escritorios desordenados, pizarra con ecuaciones borradas a medias, rincones con materiales olvidados"
+    },
+    {
+      "name": "Laboratorio improvisado (escondite de Phillip)",
+      "atmosphere": "secreto, asombro, peligro suave",
+      "visual_description": "Rincón oculto en la ciudad: sótano, azotea, o esquina de parque; frascos, tubos, papeles de apuntes, vestigios de reacciones pasadas"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_phil01",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "PHILLIP",
+      "arc_summary": "Phillip persigue el conocimiento y la admiración silenciosa, dejando rastros de magia científica donde pasa",
+      "visual_description": "Niño de 8 años, cabello despeinado, manos manchadas de tinta y residuos químicos, ropa de laboratorio improvisada (chaleco viejo, bolsillos llenos), ojos brillantes de curiosidad"
+    },
+    {
+      "role": "support",
+      "label": "LA PROFESORA",
+      "arc_summary": "Es el horizonte que Phillip mira sin que ella lo sepa",
+      "visual_description": "Mujer joven, ropa clara, presencia calmada, siempre notando detalles pero nunca las conexiones completas"
+    }
+  ],
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "description": "Un niño de 8 años, genio silencioso de la ciencia, fabrica experimentos secretos en la ciudad. Mientras tanto, admira en silencio a su profesora sin que ella sepa quién es realmente.",
+  "story_bible": {
+    "tone": [
+      "luminoso",
+      "caótico",
+      "tierno",
+      "ingenuo"
+    ],
+    "setting": "Ciudad contemporánea, aula urbana, espacios improvisados",
+    "timeline": {
+      "span": "Mañana a tardecita",
+      "type": "narrative_act",
+      "unit": "hours",
+      "anchor": "Un día de experimentos y revelaciones"
+    },
+    "world_rules": [
+      "Phillip experimenta en secreto; nadie sabe la verdadera escala de sus proyectos",
+      "Cada experimento sale torcido de forma inesperada pero hermosa",
+      "La profesora es el telón de fondo invisible de sus motivaciones"
+    ],
+    "visual_treatment": "Watercolor & Ink"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "En el silencio de su laboratorio, Phillip sostiene lo que podría ser su mayor descubrimiento o su mayor accidente.",
+      "image_path": "images/hero.png",
+      "scene_text": "La reacción brilla. No debería brillar — Phillip consultó tres fuentes distintas y ninguna mencionaba luminiscencia. Pero aquí está, azul suave contra sus dedos, casi pulsando.\n\nEscribe en su cuaderno: «¿Por qué?» Luego: «¿Quién lo sabrá?»\n\nNadie. Solo él. Como siempre."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Phillip llega al colegio con los bolsillos llenos de secretos.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "LA PROFESORA escribe ecuaciones en la pizarra. Números que no significan nada para la mayoría, pero que para Phillip son poesía.\n\nÉl toca el fondo de su bolsillo. Dentro hay tres componentes que encontró, robados de distintos lugares. Nunca pensó en llamarlos \"robados\" — para él, solo están donde deberían estar ahora.\n\nElla se gira. Phillip mira hacia abajo demasiado rápido. En su cuaderno, sin que ella vea, dibuja la forma de sus hombros."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "En su laboratorio secreto, Phillip mezcla lo que cree que será magia.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Los tres componentes entran en el frasco en orden exacto. Phillip contó los segundos. Ahora, esperaba.\n\nNada.\n\nEsperó más. Los segundos se convirtieron en minutos. Luego, lentamente, el líquido cambió de color — primero verde pálido, luego un azul que no había previsto. Phillip sostuvo el frasco hacia la luz, inclinándolo.\n\nLa reacción continuó. Mejor. Diferente a lo planeado, pero mejor."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El experimento funciona. Ella camina junto a él sin verlo.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Phillip corre al colegio con el frasco escondido en su mochila. Necesitaba mostrar. Necesitaba que alguien supiera.\n\nCuando entra al pasillo, la ve. LA PROFESORA sale de la sala de profesores, caminando hacia la salida.\n\nÉl levanta el frasco sin pensar. El azul brilla. Por un segundo, cree que ella lo verá, que se detendrá, que preguntará. Pero ella pasa, mirando su teléfono.\n\nFilipp sostiene el frasco a contraluz. Solo él sabe lo que contiene."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "En la oscuridad, Phillip espera a que alguien descubra lo que él ya sabe.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "De vuelta en el sótano, Phillip coloca el frasco en un estante junto a otros experimentos fallidos. Algunos aún tienen color. Otros se han oxidado a café. Este brilla.\n\nEn su cuaderno escribe: «Si alguien lo encuentra, ¿sabrá que fue yo?» Luego tacha la pregunta.\n\nMañana volverá a clase. La verá. Ella no sabrá que el azul que vio en la ventanilla de un edificio lejano, ese color raro que podría jurar que vio anoche, fue él. Siempre será así."
+    }
+  ],
+  "cover_image": "worlds/phillip-experiments/images/hero.png"
+}
