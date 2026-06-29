@@ -1,0 +1,27 @@
+{
+  "name": "Gonan: La Ciudad que No Perdona",
+  "slug": "gonan-ciudad-venganza",
+  "tags": [
+    "supervivencia",
+    "venganza",
+    "urbano",
+    "oscuro",
+    "coming-of-age",
+    "callejero"
+  ],
+  "status": "developing",
+  "world_id": "w_gon47x",
+  "created_at": "2026-05-11T12:00:00Z",
+  "created_by": "@germannavarretemoreno",
+  "description": "Una ciudad caótica y sin piedad donde la venganza es el único idioma que todos hablan. En sus tejados y callejones, un niño abandonado llamado Gonan aprende a sobrevivir — y con el tiempo, a devolver cada golpe.",
+  "schema_version": "1.1",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "4:5",
+      "narrative_caption": "",
+      "image_path": "images/hero.png"
+    }
+  ],
+  "cover_image": "worlds/gonan-ciudad-venganza/images/hero.png"
+}
