@@ -1,0 +1,7 @@
+Phillip tiene ocho años y una mente que hierve con preguntas que la mayoría de los adultos nunca se hacen. En las mañanas, cuando llega al colegio, ve a su profesora y siente algo que no tiene palabra — no es amor como en los cuentos, es más como orbitar alrededor de alguien que brilla. Pero Phillip no sabe cómo decirlo, así que lo convierte en energía: la canaliza hacia experimentos.
+
+En su laboratorio secreto (un sótano que encontró, una azotea abandonada, depende del día), mezcla cosas. Escribe fórmulas en papeles rotos. Intenta recrear reacciones que vio en videos, que imaginó, que soñó. Cada experimento es un regalo tácito para el universo — y por extensión, para ella, aunque ella nunca lo sabrá.
+
+Hoy, Phillip llegó con algo nuevo en los bolsillos. Algo que podría funcionar. O explotar. O convertirse en algo completamente inesperado — eso es lo hermoso de la ciencia a los ocho años: el accidente es a menudo más interesante que el plan.
+
+La profesora pasa por su lado en el pasillo. No lo ve realmente, o lo ve de la forma en que los adultos ven a los niños: como fondo. Pero Phillip siente su proximidad como un cambio de temperatura. Cuando ella se va, él abre su cuaderno de apuntes y escribe una ecuación que no significa nada, o significa todo, depende de cómo se mire.
