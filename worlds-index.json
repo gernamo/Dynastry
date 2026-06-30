@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-29T15:35:37.041350+00:00",
-  "total_worlds": 30,
+  "generated_at": "2026-06-30T13:46:32.276092+00:00",
+  "total_worlds": 31,
   "total_branches": 30,
   "worlds": [
     {
@@ -585,6 +585,62 @@
           "narrative_caption": "He knows how this ends. He has always known. It ends with him or the killer. There is no third option.",
           "image_path": "worlds/cicatrices-madrid/images/scene_4.png",
           "scene_text": "The ball pit is cordoned off now, the gates locked, the space sealed like a crypt. He walks past it three times that night. Each time he sees something different in the arrangement of the cordon tape, in the angle of the shadows, in the way the plastic balls press against the netting.\n\nHe walks the perimeter of the neighborhood. He notes the cameras, the blind spots, the places where a person could move without being seen. He has learned that killers are not supernatural — they are simply patient. They study. They wait.\n\nBy 4 a.m., he is sitting in his car outside the Sáenz family's house. The lights are still on. He wonders if they are sleeping. He wonders if they will ever sleep again. And he wonders, with the clarity that only twenty years of hunting gives you, whether the killer is still in the city. Whether he is still moving. Whether another ball pit, another playground, another space built for children, is being chosen right now."
+        }
+      ]
+    },
+    {
+      "world_id": "w_despr1",
+      "slug": "desprendimiento-minimalista",
+      "name": "Desprendimiento",
+      "description": "Una chica de familia adinerada decide soltar todo lo que posee y vivir con lo mínimo, documentando cada paso del camino. Un experimento de libertad grabado en tiempo real.",
+      "tags": [
+        "documental-personal",
+        "minimalismo",
+        "vulnerabilidad",
+        "renuncia",
+        "autodescubrimiento",
+        "videoblog"
+      ],
+      "cover_image": "worlds/desprendimiento-minimalista/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T14:30:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Ella decide mirar a la cámara y decir la verdad.",
+          "image_path": "worlds/desprendimiento-minimalista/images/hero.png",
+          "scene_text": "ELLA\nVoy a soltar todo. No sé exactamente qué significa eso todavía, pero lo voy a descubrir mientras lo documento.\n\nElla respira hondo. La luz de la tarde atraviesa la habitación como si estuviera esperando que diera este paso."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Lo que creía que no podría soltar nunca.",
+          "image_path": "worlds/desprendimiento-minimalista/images/scene_1.png",
+          "scene_text": "Ella sostiene el bolso que le regaló su madre para su vigésimo primer cumpleaños. Cuero italiano. Una inversión, dijeron. Un clásico.\n\nElla lo mira. Luego lo coloca suavemente en una caja. La cámara registra el temblor de sus manos. No es dramatismo. Es real."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "El momento donde la falta de dinero la asusta de verdad.",
+          "image_path": "worlds/desprendimiento-minimalista/images/scene_2.png",
+          "scene_text": "ELLA (a la cámara)\nTengo dinero aún. En el banco. Pero no lo voy a usar. No para esto.\n\nElla mira el sleeping bag que compró en una tienda de segunda mano por treinta euros. No tiene colchón. No hay almohada. Tiene una sudadera enrollada que hará las veces de ambos.\n\nSu corazón late más rápido de lo que quiere admitir."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Lo que descubre que necesitaba menos que cualquier otra cosa.",
+          "image_path": "worlds/desprendimiento-minimalista/images/scene_3.png",
+          "scene_text": "Semanas después. Ella come un desayuno simple — avena, manzana, té.\n\nNo piensa en calorías. No piensa en si es lo bastante bueno. Solo siente hambre y luego saciedad. Una sensación tan sencilla que casi la hace llorar.\n\nLa cámara sigue grabando, pero ella casi se olvida de que está ahí."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Y ahora, ¿quién es?",
+          "image_path": "worlds/desprendimiento-minimalista/images/scene_4.png",
+          "scene_text": "ELLA (en voz baja, casi para sí)\nNo sé si esto es el final de algo o el principio. Supongo que es ambos.\n\nElla se ve reflejada en el vidrio — más delgada, más clara, alguien que todavía está averiguando cómo ser. La ciudad brillante debajo.\n\nLa cámara sigue encendida. Siempre está encendida. Y ella está lista para que el mundo vea lo que viene después."
         }
       ]
     },
