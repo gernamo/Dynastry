@@ -1,0 +1,102 @@
+{
+  "name": "La Traición del Umbral",
+  "tags": [
+    "traición",
+    "elección",
+    "oscuridad",
+    "adolescencia",
+    "irreversible",
+    "el-guardián"
+  ],
+  "status": "developing",
+  "world_id": "w_thr0ld",
+  "branch_id": "b_trai01",
+  "created_at": "2026-05-22T14:32:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "la-traicion-del-umbral",
+  "description": "Uno de los niños ha estado negociando en secreto con el Guardián. Cuando su contacto sale a la luz, elige cruzar la puerta y quedarse del otro lado. El Colectivo pierde a alguien que creían conocer.",
+  "parent_slug": "adolescent-threshold",
+  "is_canonical": false,
+  "parent_branch": "b_intru1",
+  "new_characters": [
+    {
+      "role": "protagonist",
+      "label": "EL TRAIDOR",
+      "arc_summary": "De miembro del Colectivo a elegido del Guardián: un quiebre de lealtad que no es rebelión sino seducción.",
+      "reference_prompt": "mid-shot of a trembling adolescent standing between a peeling doorframe and their group, hand already reaching toward the darkness beyond, their shadow stretching wrong on the basement wall, watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch --ar 9:16",
+      "visual_description": "adolescente androgino, manos que tiemblan ligeramente, ropa desaliñada con símbolos dibujados en los márgenes de las mangas, ojos que evaden contacto directo pero que brillan con una certeza que no tenía antes"
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Uno de los niños ha estado en contacto secreto con el Guardián, dejándole mensajes, pidiéndole cosas. Cuando la prueba física sale a la luz, el niño no niega. Elige quedarse del otro lado.",
+    "timeline_ref": "días después de que aparecen los primeros dibujos del Guardián"
+  },
+  "inherited_places": [
+    {
+      "name": "El Sótano del Umbral",
+      "role": "environment"
+    }
+  ],
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "la puerta cierra. El niño ya no vuelve."
+    },
+    "start": {
+      "order": 1,
+      "marker": "el sótano hierve de tensión no nombrada"
+    },
+    "continues_from": "b_intru1",
+    "divergence_question": "¿Qué pasa cuando alguien del Colectivo elige voluntariamente al Guardián?"
+  },
+  "inherited_from_canon": {
+    "tone": "histrionic, irreverent, baroque-romantic, surreal-dissolution",
+    "places_used": [
+      "El Sótano del Umbral"
+    ],
+    "characters_used": [
+      "COLECTIVO (múltiples niños adolescentes)"
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La puerta no fuerza. Solo abre.",
+      "image_path": "images/hero.png",
+      "scene_text": "EL TRAIDOR está frente al marco, mano ya posada sobre la madera. Su cuerpo vibra con una calma que es casi visible. Los otros permanecen a distancia, como si hubiera trazado un círculo invisible alrededor de sí mismo.\n\nsu respiración es profunda. No tiene miedo.\n\nEL COLECTIVO intenta hablar. Las palabras se quiebran. Nadie sabe qué decir a alguien que está eligiendo voluntariamente desaparecer."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Hay un mensaje que no fue escrito por ninguno de ellos.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "UNO DE ELLOS encuentra el papel. No lo busca; cae como por accidente durante una misión fallida en el sótano. La tinta aún está tibia.\n\nLas líneas son de Guardián—eso ya lo saben. Pero las palabras... «Sé que escuchas. Sé que entiendes.»\n\nMira alrededor. Todos están ocupados fingiendo que no han visto nada. Pero hay uno cuya respiración cambió. Cuyos ojos brillan con culpa que no puede ocultar.\n\nNo confronta. No aún. Primero necesita saber."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Los regalos aparecen cada noche. Y siempre en el mismo rincón.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "La investigación es silenciosa. Sutil. Cada pregunta disfrazada de broma, cada observación plantada como duda. «¿Notaste que ese dibujo nuevo está más cerca de donde se sienta siempre?» «¿Viste esa pluma? Nunca la había visto en el barrio.»\n\nEl traidor empieza a comportarse diferente. Come menos. Permanece más tiempo frente a la puerta, la mano rozando el marco como en trance. Una noche, lo ven escribir algo en el piso con polvo descascarado de pintura. A la mañana siguiente, está borrado, pero hay un símbolo nuevo en la pared opuesta.\n\nNo es confrontación. Es una lenta revelación de que alguien que creían conocer, nunca lo fue. Y que el Guardián conoce exactamente cómo seducir a los solitarios."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "«No es traición si nunca pertenecí realmente.»",
+      "image_path": "images/scene_3.png",
+      "scene_text": "La evidencia está sobre la mesa: los mensajes, las notas escritas en letra reconocible, los símbolos que aparecieron noche tras noche. EL TRAIDOR no lo niega. No lo defiende. Solo sonríe.\n\n«¿Saben por qué vine aquí en primer lugar?» pregunta. «No por ustedes. Porque sabía que encontraría esto. Que encontraría... a alguien que realmente entiende.»\n\nSu mano ya está en el marco de la puerta.\n\n«El Guardián no me pidió que mintiera. Solo que escuchara. Y lo hice. Y ahora...» pausa. Respira profundo. «Ahora me voy.\"\n\nNadie puede detenerlo. Ni siquiera saben si deberían intentarlo."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La puerta cierra. Lo que queda es peor que una muerte.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "El sótano está silencioso de una forma que nunca lo fue. La puerta está cerrada. No hay sonido del otro lado—ni pasos, ni voces, ni nada que sugiera que alguien recién acaba de cruzar.\n\nSolo está lo que dejó atrás: una prenda de ropa, una libreta con notas que de repente todos entienden que eran cartas. Y en la pared, donde los dibujos del Guardián se agrupaban más densamente, una última marca: una mano abierta, como un adiós. O como un saludo a alguien que bienvenida.\n\nUno de ellos toca el marco. Aún está tibio.\n\n«¿Creen que volverá?» pregunta alguien.\n\nNadie responde. Todos saben que la verdadera pregunta es: «¿Creen que alguno de nosotros cruzará también?»"
+    }
+  ],
+  "cover_image": "worlds/adolescent-threshold/branches/la-traicin-del-umbral/images/hero.png"
+}
