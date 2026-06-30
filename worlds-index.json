@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-30T22:51:36.551232+00:00",
+  "generated_at": "2026-06-30T22:58:20.806803+00:00",
   "total_worlds": 31,
-  "total_branches": 32,
+  "total_branches": 33,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -167,6 +167,57 @@
               "narrative_caption": "Ahora saben: nunca fue un escondite. Era una trampa.",
               "image_path": "worlds/adolescent-threshold/branches/la-intrusin/images/scene_4.png",
               "scene_text": "La puerta sigue abierta.\n\nNo cierra. Cada vez que alguien se acerca, se abre un poco más. Y las marcas en el marco forman palabras ahora—o números, o coordenadas. MAYA copia todo en su libreta, porque si algo está invitándolos, merece ser documentado.\n\nLa pregunta ya no es: ¿qué está al otro lado?\n\nLa pregunta es: ¿cuándo vendrá a reclamar lo que dejó aquí?"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_trai01",
+          "branch_slug": "la-traicin-del-umbral",
+          "name": "La Traición del Umbral",
+          "description": "Uno de los niños ha estado negociando en secreto con el Guardián. Cuando su contacto sale a la luz, elige cruzar la puerta y quedarse del otro lado. El Colectivo pierde a alguien que creían conocer.",
+          "parent_branch": "b_intru1",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T14:32:00Z",
+          "divergence_event": {
+            "description": "Uno de los niños ha estado en contacto secreto con el Guardián, dejándole mensajes, pidiéndole cosas. Cuando la prueba física sale a la luz, el niño no niega. Elige quedarse del otro lado.",
+            "timeline_ref": "días después de que aparecen los primeros dibujos del Guardián"
+          },
+          "cover_image": "worlds/adolescent-threshold/branches/la-traicin-del-umbral/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La puerta no fuerza. Solo abre.",
+              "image_path": "worlds/adolescent-threshold/branches/la-traicin-del-umbral/images/hero.png",
+              "scene_text": "EL TRAIDOR está frente al marco, mano ya posada sobre la madera. Su cuerpo vibra con una calma que es casi visible. Los otros permanecen a distancia, como si hubiera trazado un círculo invisible alrededor de sí mismo.\n\nsu respiración es profunda. No tiene miedo.\n\nEL COLECTIVO intenta hablar. Las palabras se quiebran. Nadie sabe qué decir a alguien que está eligiendo voluntariamente desaparecer."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Hay un mensaje que no fue escrito por ninguno de ellos.",
+              "image_path": "worlds/adolescent-threshold/branches/la-traicin-del-umbral/images/scene_1.png",
+              "scene_text": "UNO DE ELLOS encuentra el papel. No lo busca; cae como por accidente durante una misión fallida en el sótano. La tinta aún está tibia.\n\nLas líneas son de Guardián—eso ya lo saben. Pero las palabras... «Sé que escuchas. Sé que entiendes.»\n\nMira alrededor. Todos están ocupados fingiendo que no han visto nada. Pero hay uno cuya respiración cambió. Cuyos ojos brillan con culpa que no puede ocultar.\n\nNo confronta. No aún. Primero necesita saber."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Los regalos aparecen cada noche. Y siempre en el mismo rincón.",
+              "image_path": "worlds/adolescent-threshold/branches/la-traicin-del-umbral/images/scene_2.png",
+              "scene_text": "La investigación es silenciosa. Sutil. Cada pregunta disfrazada de broma, cada observación plantada como duda. «¿Notaste que ese dibujo nuevo está más cerca de donde se sienta siempre?» «¿Viste esa pluma? Nunca la había visto en el barrio.»\n\nEl traidor empieza a comportarse diferente. Come menos. Permanece más tiempo frente a la puerta, la mano rozando el marco como en trance. Una noche, lo ven escribir algo en el piso con polvo descascarado de pintura. A la mañana siguiente, está borrado, pero hay un símbolo nuevo en la pared opuesta.\n\nNo es confrontación. Es una lenta revelación de que alguien que creían conocer, nunca lo fue. Y que el Guardián conoce exactamente cómo seducir a los solitarios."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "«No es traición si nunca pertenecí realmente.»",
+              "image_path": "worlds/adolescent-threshold/branches/la-traicin-del-umbral/images/scene_3.png",
+              "scene_text": "La evidencia está sobre la mesa: los mensajes, las notas escritas en letra reconocible, los símbolos que aparecieron noche tras noche. EL TRAIDOR no lo niega. No lo defiende. Solo sonríe.\n\n«¿Saben por qué vine aquí en primer lugar?» pregunta. «No por ustedes. Porque sabía que encontraría esto. Que encontraría... a alguien que realmente entiende.»\n\nSu mano ya está en el marco de la puerta.\n\n«El Guardián no me pidió que mintiera. Solo que escuchara. Y lo hice. Y ahora...» pausa. Respira profundo. «Ahora me voy.\"\n\nNadie puede detenerlo. Ni siquiera saben si deberían intentarlo."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La puerta cierra. Lo que queda es peor que una muerte.",
+              "image_path": "worlds/adolescent-threshold/branches/la-traicin-del-umbral/images/scene_4.png",
+              "scene_text": "El sótano está silencioso de una forma que nunca lo fue. La puerta está cerrada. No hay sonido del otro lado—ni pasos, ni voces, ni nada que sugiera que alguien recién acaba de cruzar.\n\nSolo está lo que dejó atrás: una prenda de ropa, una libreta con notas que de repente todos entienden que eran cartas. Y en la pared, donde los dibujos del Guardián se agrupaban más densamente, una última marca: una mano abierta, como un adiós. O como un saludo a alguien que bienvenida.\n\nUno de ellos toca el marco. Aún está tibio.\n\n«¿Creen que volverá?» pregunta alguien.\n\nNadie responde. Todos saben que la verdadera pregunta es: «¿Creen que alguno de nosotros cruzará también?»"
             }
           ]
         },
