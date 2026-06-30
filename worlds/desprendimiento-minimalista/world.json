@@ -1,0 +1,101 @@
+{
+  "name": "Desprendimiento",
+  "slug": "desprendimiento-minimalista",
+  "tags": [
+    "documental-personal",
+    "minimalismo",
+    "vulnerabilidad",
+    "renuncia",
+    "autodescubrimiento",
+    "videoblog"
+  ],
+  "places": [
+    {
+      "name": "El Apartamento Nuevo",
+      "atmosphere": "calma, claridad, cierta soledad hermosa, posibilidad",
+      "reference_prompt": "An almost empty apartment living room with pale wooden floors and white walls, afternoon sunlight streaming through large windows creating long shadows. A few cardboard boxes are stacked near a doorway. The space feels both bare and peaceful. One area is lit by warm golden light. Watercolor and ink wash, cream paper, soft organic lines, earth tones with a single warm golden accent, illustrator's working sketch --ar 9:16",
+      "visual_description": "espacios casi vacíos, luz natural que define cada rincón, pisos de madera clara, paredes blancas que reflejan lo que falta, ventanas grandes que abren a la ciudad"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_despr1",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "ELLA",
+      "arc_summary": "De la certeza de que la riqueza define quién es, a descubrir quién es sin ella.",
+      "reference_prompt": "A young woman in a minimalist room, sitting cross-legged on a bare wooden floor, holding an old luxury handbag in both hands like something heavy and unfamiliar, looking down at it with the expression of someone saying goodbye to a friend. Natural light from a single window catches the edges of her face. Her other hand reaches toward the bag but hesitates. Soft watercolor and ink wash on cream paper, warm earth tones with a single accent of deep blue, illustrator's working sketch --ar 9:16",
+      "visual_description": "joven, ropa cara que irá reemplazando por lo básico, los ojos de alguien que está mirando hacia adentro, gestos que revelan lo que intenta ocultar"
+    },
+    {
+      "role": "environment",
+      "label": "LA CÁMARA",
+      "arc_summary": "La cámara es el puente entre su proceso privado y el futuro público; testigo que no juzga.",
+      "reference_prompt": "A smartphone mounted on a simple tripod in a corner of a sparse room, its screen glowing faintly. In the blurred background, a figure moves through the space, unpacking boxes. The room is almost empty except for a few cardboard boxes and what looks like the beginning of a new life. Soft watercolor and ink, warm pale tones, one pop of warm orange from the phone's glow, illustrator's sketch --ar 9:16",
+      "visual_description": "presencia silenciosa, a veces reflejada, a veces sugerida por la luz que captura, siempre testigo sin intervenir"
+    }
+  ],
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "description": "Una chica de familia adinerada decide soltar todo lo que posee y vivir con lo mínimo, documentando cada paso del camino. Un experimento de libertad grabado en tiempo real.",
+  "story_bible": {
+    "tone": [
+      "honesta",
+      "vulnerable",
+      "clara",
+      "íntima"
+    ],
+    "setting": "apartamento minimalista, calles de una ciudad grande, espacios vacíos que llenan de presencia",
+    "timeline": {
+      "span": "varios meses de transformación",
+      "type": "narrative_act",
+      "unit": "acts",
+      "anchor": "el primer día de la renuncia"
+    },
+    "world_rules": [
+      "Todo lo que graba es material para compartir después",
+      "El dinero no vuelve: una vez regalado o vendido, está fuera de su control",
+      "La cámara es testigo constante pero nunca editorializa"
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ella decide mirar a la cámara y decir la verdad.",
+      "image_path": "images/hero.png",
+      "scene_text": "ELLA\nVoy a soltar todo. No sé exactamente qué significa eso todavía, pero lo voy a descubrir mientras lo documento.\n\nElla respira hondo. La luz de la tarde atraviesa la habitación como si estuviera esperando que diera este paso."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Lo que creía que no podría soltar nunca.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Ella sostiene el bolso que le regaló su madre para su vigésimo primer cumpleaños. Cuero italiano. Una inversión, dijeron. Un clásico.\n\nElla lo mira. Luego lo coloca suavemente en una caja. La cámara registra el temblor de sus manos. No es dramatismo. Es real."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El momento donde la falta de dinero la asusta de verdad.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "ELLA (a la cámara)\nTengo dinero aún. En el banco. Pero no lo voy a usar. No para esto.\n\nElla mira el sleeping bag que compró en una tienda de segunda mano por treinta euros. No tiene colchón. No hay almohada. Tiene una sudadera enrollada que hará las veces de ambos.\n\nSu corazón late más rápido de lo que quiere admitir."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Lo que descubre que necesitaba menos que cualquier otra cosa.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Semanas después. Ella come un desayuno simple — avena, manzana, té.\n\nNo piensa en calorías. No piensa en si es lo bastante bueno. Solo siente hambre y luego saciedad. Una sensación tan sencilla que casi la hace llorar.\n\nLa cámara sigue grabando, pero ella casi se olvida de que está ahí."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Y ahora, ¿quién es?",
+      "image_path": "images/scene_4.png",
+      "scene_text": "ELLA (en voz baja, casi para sí)\nNo sé si esto es el final de algo o el principio. Supongo que es ambos.\n\nElla se ve reflejada en el vidrio — más delgada, más clara, alguien que todavía está averiguando cómo ser. La ciudad brillante debajo.\n\nLa cámara sigue encendida. Siempre está encendida. Y ella está lista para que el mundo vea lo que viene después."
+    }
+  ],
+  "cover_image": "worlds/desprendimiento-minimalista/images/hero.png"
+}
