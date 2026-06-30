@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-30T13:46:32.276092+00:00",
+  "generated_at": "2026-06-30T13:54:42.968439+00:00",
   "total_worlds": 31,
-  "total_branches": 30,
+  "total_branches": 31,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -605,7 +605,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_cuch1",
+          "branch_slug": "el-cuchitril",
+          "name": "El Cuchitril",
+          "description": "Ella alquila el único piso que puede pagarse con 1000€. Un cuarto sin ventilación, sin luz natural. El primer día en su nueva vida.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T14:30:00Z",
+          "divergence_event": {
+            "description": "Ella busca alojamiento con 1000€ mensuales. Solo le alcanza para un cuarto sin ventilación ni luz natural. Cede y lo alquila.",
+            "timeline_ref": "después de vender casi todo"
+          },
+          "cover_image": "worlds/desprendimiento-minimalista/branches/el-cuchitril/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La puerta se cierra.",
+              "image_path": "worlds/desprendimiento-minimalista/branches/el-cuchitril/images/hero.png",
+              "scene_text": "Ella abre la puerta y entra. La luz del pasillo muere detrás de ella. Tres pasos hacia el fondo. Los brazos extendidos tocan ambas paredes. Aquí cabe un colchón. Aquí cabe ella.\n\nEso es todo."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Los brazos extendidos tocan ambas paredes.",
+              "image_path": "worlds/desprendimiento-minimalista/branches/el-cuchitril/images/scene_1.png",
+              "scene_text": "ELLA camina lentamente hacia el fondo. Tres pasos. Cuatro. Los brazos extendidos tocan ambas paredes al mismo tiempo.\n\nNo hay espacio para moverse. Solo hay espacio para estar."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Busca el interruptor.",
+              "image_path": "worlds/desprendimiento-minimalista/branches/el-cuchitril/images/scene_2.png",
+              "scene_text": "La mano encuentra la pared. Sigue la pared hasta el interruptor. Lo presiona.\n\nEl foco se enciende con un zumbido. La luz es amarilla, cansada, pero es luz. Las sombras se clavan en las esquinas como si vivieran ahí."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Se sienta en el piso.",
+              "image_path": "worlds/desprendimiento-minimalista/branches/el-cuchitril/images/scene_3.png",
+              "scene_text": "No hay muebles. Ella se sienta directamente en el linóleo desgastado, la espalda contra la pared. Mira la puerta cerrada.\n\nEsta es la vida ahora. Este cuarto. Este silencio.\n\nNada falta. Nada sobra."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La cámara vuelve a encenderse.",
+              "image_path": "worlds/desprendimiento-minimalista/branches/el-cuchitril/images/scene_4.png",
+              "scene_text": "ELLA levanta el teléfono. La pantalla brilla en la oscuridad amarilla. Graba.\n\nNo dice nada. Solo deja que la cámara vea: este cuarto, esta vida, este primer día. El foco zumba. Las sombras no se mueven.\n\nElla está aquí ahora."
+            }
+          ]
+        }
+      ],
       "images": [
         {
           "role": "hero",
