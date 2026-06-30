@@ -1,0 +1,92 @@
+{
+  "name": "El lenguaje de la oscuridad",
+  "tags": [
+    "continuidad",
+    "oscuridad",
+    "lenguaje-primordial",
+    "umbral",
+    "despertar"
+  ],
+  "status": "developing",
+  "world_id": "w_thr0ld",
+  "branch_id": "b_lngdkn",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "the-language-of-darkness",
+  "description": "La puerta se abre sin tocarla. De la negrura emerge un sonido antiguo que los niños entienden sin palabras, y cuando despiertan, el sótano ha cambiado.",
+  "parent_slug": "la-intrusión",
+  "is_canonical": false,
+  "parent_branch": "b_intru1",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "La puerta se abre sola. De ella brota una negrura que no ataca sino que reclama, trayendo consigo un lenguaje hecho de texturas y ritmo que los niños comprenden en lo profundo de su ser.",
+    "timeline_ref": "después de La Intrusión"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "despierta en el sótano que huele a tinta fresca"
+    },
+    "start": {
+      "order": 1,
+      "marker": "la puerta se abre sin ser tocada"
+    },
+    "continues_from": "b_intru1",
+    "divergence_question": "¿Qué pasa cuando el guardián del umbral finalmente habla?"
+  },
+  "inherited_from_canon": {
+    "tone": [
+      "histriónico",
+      "disolvente",
+      "irreverente",
+      "filosófico"
+    ],
+    "places_used": [
+      "El Sótano del Umbral"
+    ],
+    "characters_used": [
+      "THE COLLECTIVE"
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La puerta se abre. Nadie la tocó.",
+      "image_path": "images/hero.png",
+      "scene_text": "El marco vibra de una forma que no habían sentido antes. No es orgánica. Es como si algo respirara desde adentro, y esa respiración fuera sonido.\n\nLa negrura comienza a derramarse lentamente, sin prisa, sin amenaza. Solo reclama el espacio como quien vuelve a casa."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La oscuridad no ataca. Solo avanza.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Los niños retroceden sin decidir retroceder. El cuerpo sabe antes que la mente.\n\nUNO DE ELLOS: ¿Qué es eso?\n\nOTRO: No lo sé. Pero... no duele.\n\nLa negrura toca las paredes, la pintura descascarada, los marcos de sus dibujos. Donde la toca, algo cambia. No desaparece. Se reivindica."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El lenguaje no tiene palabras.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "El sonido no viene por los oídos. Viene por debajo. En los huesos. En la sangre.\n\nEs un patrón. Es ritmo sin melodía. Es algo tan antiguo que ninguno de ellos tiene palabras para nombrarlo, pero todos entienden exactamente lo mismo.\n\nUNO DE ELLOS: ¿Lo oyen?\n\nTODOS: Sí.\n\nY en ese momento, el sótano que creían conocer se revela como un lugar prestado."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ahora entienden qué era lo que dibujaba en la oscuridad.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Las marcas en las paredes. Los dibujos que aparecían entre noche y noche. No eran invasión.\n\nEran respuesta.\n\nEl guardián del umbral no había venido a arrebatar. Había estado hablando todo el tiempo, en un lenguaje que los niños finalmente pueden leer. Y sus propios histrionics, sus propios garabatos y gestos, habían sido un llamado sin saberlo.\n\nLa oscuridad es paciente. La oscuridad es antigua. Y finalmente, alguien escuchó."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Despiertan en un sótano que reconocen y no reconocen.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "La puerta está cerrada. Pero no del todo.\n\nEl olor a tinta fresca es tan intenso que pueden saborearlo. Las paredes respiran diferente. Los dibujos del guardián están superpuestos a los suyos en un patrón que ahora, de alguna forma imposible, tiene completo sentido.\n\nY los niños saben—no en palabras, sino en ese lenguaje que ahora hablan en sus huesos—que acaban de ser elegidos para algo.\n\nNo saben qué. Pero la puerta vibra, esperando. Y ellos están listos para responder."
+    }
+  ],
+  "cover_image": "worlds/la-intrusión/branches/el-lenguaje-de-la-oscuridad/images/hero.png"
+}
