@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-30T13:54:42.968439+00:00",
+  "generated_at": "2026-06-30T19:55:40.744246+00:00",
   "total_worlds": 31,
-  "total_branches": 31,
+  "total_branches": 32,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -116,6 +116,57 @@
               "aspect_ratio": "16:9",
               "narrative_caption": "He ran to tell them. By the time he reached the street, he was shouting—completely certain. The door would never really close again.",
               "image_path": "worlds/adolescent-threshold/branches/jimmy-discovers-the-hall/images/scene_4.png"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_intru1",
+          "branch_slug": "la-intrusin",
+          "name": "La Intrusión",
+          "description": "Algo cruza desde el otro lado de la puerta. Los niños descubren que su umbral tiene dueño, y no está dormido.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T14:32:00Z",
+          "divergence_event": {
+            "description": "alguien—o algo—comienza a cruzar desde el otro lado, dejando marcas que ninguno de los niños reconoce",
+            "timeline_ref": "después de la tercera misión exitosa"
+          },
+          "cover_image": "worlds/adolescent-threshold/branches/la-intrusin/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La puerta no está vacía.",
+              "image_path": "worlds/adolescent-threshold/branches/la-intrusin/images/hero.png",
+              "scene_text": "El marco vibra diferente ahora. Las marcas nuevas cubren el viejo grafiti de los niños—líneas finas, deliberadas, como si alguien hubiera estado ensayando. La pintura está húmeda. Aún huele a tinta fresca."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Alguien ha estado aquí.",
+              "image_path": "worlds/adolescent-threshold/branches/la-intrusin/images/scene_1.png",
+              "scene_text": "MAYA se acerca primero, siempre la primera en tocar lo prohibido. Sus dedos rozan la marca nueva. Está tibia.\n\nLOS OTROS ven su expresión cambiar. No es miedo—es reconocimiento. Como si la pintura acabara de susurrar algo que solo ella pudo escuchar."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Aparecen cada noche.",
+              "image_path": "worlds/adolescent-threshold/branches/la-intrusin/images/scene_2.png",
+              "scene_text": "Han venido cada noche. Más líneas, más símbolos. No sobre la puerta—alrededor de ella, como un cerco, como una firma.\n\nJOSH quiere cerrarlo todo. Pero MAYA señala algo: el patrón. No es caótico. Está respondiendo. A cada dibujo que ellos hacen, aparece una respuesta. Elegante. Antigua. Hambriente."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "No está solo al otro lado.",
+              "image_path": "worlds/adolescent-threshold/branches/la-intrusin/images/scene_3.png",
+              "scene_text": "La puerta se abre más.\n\nY hay algo en el umbral. Apenas una silueta, bordes deshilachados, pero presente. Está trazando algo en el marco de madera. Sus dedos dejan marcas que brillan.\n\nMaya grita. O intenta gritar. Pero el sonido sale de la puerta, no de ella."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ahora saben: nunca fue un escondite. Era una trampa.",
+              "image_path": "worlds/adolescent-threshold/branches/la-intrusin/images/scene_4.png",
+              "scene_text": "La puerta sigue abierta.\n\nNo cierra. Cada vez que alguien se acerca, se abre un poco más. Y las marcas en el marco forman palabras ahora—o números, o coordenadas. MAYA copia todo en su libreta, porque si algo está invitándolos, merece ser documentado.\n\nLa pregunta ya no es: ¿qué está al otro lado?\n\nLa pregunta es: ¿cuándo vendrá a reclamar lo que dejó aquí?"
             }
           ]
         },
