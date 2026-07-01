@@ -1,0 +1,104 @@
+{
+  "name": "Marco Elige Presente",
+  "tags": [
+    "decisión",
+    "vulnerabilidad",
+    "presente",
+    "ruptura",
+    "cocina como acto político"
+  ],
+  "status": "developing",
+  "world_id": "w_kx92m4",
+  "branch_id": "b_9x7k2m",
+  "created_at": "2026-05-22T14:32:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "marco-elige-presente",
+  "description": "Cuando Diego irrumpe en la cocina, Marco se congela. Pero es Valentina quien rompe el silencio — y Marco, en respuesta, elige seguir cocinando. El acto más simple se convierte en la decisión más radical.",
+  "parent_slug": "el-cocinero-y-su-caos",
+  "is_canonical": false,
+  "parent_branch": "b_rk4x8n",
+  "new_characters": [
+    {
+      "role": "antagonist",
+      "label": "DIEGO",
+      "arc_summary": "Un mentor que viene a rescatar, pero descubre que ya no es necesario — y eso lo destruye más que cualquier rechazo.",
+      "reference_prompt": "A man in his forties standing just inside a restaurant kitchen door, tailored suit slightly rumpled from travel, silver-threaded hair, searching eyes scanning the stainless steel and flames, one hand raised mid-gesture as if to speak but frozen, the weight of old authority draining from his shoulders, shot from Marco's perspective across the kitchen counter, warm light catching the doubt in his face | hand barely visible, distant, in jacket pocket | soft pastel editorial illustration, gentle textures, warm rounded forms, controlled caricatural expressiveness, bright friendly palette | atmospheric, tense anticipation --ar 9:16",
+      "visual_description": "Hombre en sus cuarenta, cabello gris en las sienes, traje de corte impecable pero arrugado por el viaje. Ojos que buscan confirmación. Gestos precisos, controlados — la postura de alguien acostumbrado a ser obedecido. Una cicatriz fina en la muñeca izquierda, casi invisible."
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "En lugar de hablar o confrontar, Marco permanece en silencio total. Valentina rompe ese silencio preguntando quién es Diego. Marco responde a ella, no a Diego, declarando su presente. Luego vuelve al fuego.",
+    "timeline_ref": "Diego irrumpe en la cocina; Marco se congela"
+  },
+  "inherited_places": [
+    {
+      "name": "Cocina de Lujo",
+      "atmosphere": "precisa, contenida, nerviosa",
+      "visual_description": "Blanca y minimalista, acero inoxidable reluciente, luces led frías que contrastan con la calidez del fuego. Cada utensilio en su lugar. Pero hay siempre un pequeño desorden — una servilleta fuera de sitio, una mancha invisible que solo Marco ve."
+    }
+  ],
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "Marco vuelve al fuego; Diego comprende que perdió"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Diego abre la puerta de la cocina"
+    },
+    "continues_from": "Marco Entre Dos",
+    "divergence_question": "¿Qué pasa si Marco no habla con Diego, sino que elige el presente sin pronunciar su nombre?"
+  },
+  "inherited_from_canon": {
+    "tone": "cálida, irónica, vulnerable",
+    "places_used": [
+      "Cocina de Lujo"
+    ],
+    "characters_used": [
+      "MARCO",
+      "VALENTINA",
+      "DIEGO"
+    ],
+    "visual_treatment": "soft pastel / editorial"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El silencio ensordecedor. Marco no habla. No grita. Simplemente elige.",
+      "image_path": "images/hero.png",
+      "scene_text": "La puerta de la cocina se abre. Diego está ahí.\n\nMarco ve el traje arrugado, la cicatriz en la muñeca, los ojos buscando confirmación. Algo en el pecho de Marco se congela.\n\nNo hay palabras. Solo el fuego, ardiendo indiferente. Marco permanece congelado — un segundo que dura años. Sus manos suspendidas sobre el plato que estaba preparando. El tenedor de Valentina quieto en la mesa del comedor. Todos notan el cambio.\n\nEl silencio es ensordecedor."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ella rompe el silencio. No Marco. No Diego. Ella.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Su silla raspa contra el piso del comedor. Un sonido que corta la tensión como un cuchillo.\n\nValentina se pone de pie. Sus ojos fijos en Diego. Todos los comensales se giran para observarla — esta mujer elegante que nunca pide nada, que solo observa, que nunca interviene.\n\nHasta ahora.\n\n\"¿Quién eres?\" pregunta en voz alta. No es casual. No es educada. Es una pregunta que exige respuesta — y que, de alguna manera, le permite a Marco respirar."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Sus ojos encuentran los de ella. Y Marco entiende que está siendo sostenido.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Marco levanta la vista. Sus ojos encuentran los de Valentina — esa mujer que ha estado observándolo quebrase durante meses. Que ha visto sus peores noches reflejadas en cada plato. Que llegó precisamente cuando más lo necesitaba, sin que él lo supiera.\n\nEn ese instante, algo se recompone en él.\n\nMarco respira. Y habla."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "\"Fue mi pasado. Pero lo que está pasando en esta cocina es mi presente.\"",
+      "image_path": "images/scene_3.png",
+      "scene_text": "MARCO\nFue mi pasado. Pero lo que está pasando en esta cocina es mi presente.\n\nSu voz es firme. No defensiva. No una disculpa. Es una declaración.\n\nY entonces, sin esperar respuesta, se da la vuelta. Vuelve al fuego. Sus manos retoman el movimiento — preciso, seguro, sin titubeo."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Diego comprende que perdió. Y esa pérdida es, finalmente, la mejor noticia.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Diego se queda de pie. Solo. En el umbral.\n\nValentina regresa a su mesa y se sienta. El mesero vuelve a moverse. La cocina respira de nuevo.\n\nDiego observa a Marco trabajar — sus manos seguras, el fuego obedeciendo, el presente siendo cocinado en tiempo real. Y entiende, lentamente, que ya no es el centro de la gravedad. Que perdió.\n\nPero esa pérdida es, finalmente, la mejor noticia que pudo haber recibido. Marco no lo necesita. Y eso significa que Marco está libre."
+    }
+  ],
+  "cover_image": "worlds/el-cocinero-y-su-caos/branches/marco-elige-presente/images/hero.png"
+}
