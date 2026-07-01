@@ -110,7 +110,10 @@ for world_path in sorted(worlds_dir.iterdir()):
         "created_by": w["created_by"],
         "created_at": w["created_at"],
         "status": w.get("status", "developing"),
-        "branches": branches
+        "branches": branches,
+        "characters": w.get("characters", []),
+        "places": w.get("places", []),
+        "story_bible": w.get("story_bible", {}),
     }
     
     if world_images:
