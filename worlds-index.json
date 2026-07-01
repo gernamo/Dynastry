@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-30T22:58:20.806803+00:00",
-  "total_worlds": 31,
+  "generated_at": "2026-07-01T15:07:45.182045+00:00",
+  "total_worlds": 32,
   "total_branches": 33,
   "worlds": [
     {
@@ -795,6 +795,62 @@
           "narrative_caption": "Y ahora, ¿quién es?",
           "image_path": "worlds/desprendimiento-minimalista/images/scene_4.png",
           "scene_text": "ELLA (en voz baja, casi para sí)\nNo sé si esto es el final de algo o el principio. Supongo que es ambos.\n\nElla se ve reflejada en el vidrio — más delgada, más clara, alguien que todavía está averiguando cómo ser. La ciudad brillante debajo.\n\nLa cámara sigue encendida. Siempre está encendida. Y ella está lista para que el mundo vea lo que viene después."
+        }
+      ]
+    },
+    {
+      "world_id": "w_kx92m4",
+      "slug": "el-cocinero-y-su-caos",
+      "name": "El Cocinero y su Caos",
+      "description": "Un chef en una cocina de lujo batalla contra sus propios demonios. Cada crisis personal se convierte en un plato — y un cliente recurrente siempre está ahí para probar lo que quedó.",
+      "tags": [
+        "comedia",
+        "romance ligero",
+        "cocina",
+        "vulnerabilidad",
+        "chef",
+        "drama personal"
+      ],
+      "cover_image": "worlds/el-cocinero-y-su-caos/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T14:30:00Z",
+      "status": "developing",
+      "branches": [],
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "En la cocina de lujo, cada plato es una confesión.",
+          "image_path": "worlds/el-cocinero-y-su-caos/images/hero.png",
+          "scene_text": "Marco observa sus manos trabajar como si pertenecieran a otra persona. Están temblando. Acaba de recibir un mensaje de su ex — una foto de la casa, sin explicación. Ahora está aquí, frente a una salsa que no sale, un plato que debería ser perfecto pero que huele a rabia.\n\nNo hay vuelta atrás. El cliente está en la mesa. Él está en la cocina. Y entre los dos, solo hay comida."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Ella llega siempre cuando él está peor.",
+          "image_path": "worlds/el-cocinero-y-su-caos/images/scene_1.png",
+          "scene_text": "VALENTINA observa la puerta de la cocina como si pudiera ver a través de ella. Su copa de vino está intacta. En la mesa, el primer plato acaba de llegar — algo que Marco preparó con las manos aún temblando por la llamada de hace veinte minutos.\n\nElla prueba. No sonríe. Simplemente prueba, y sigue mirando la cocina.\n\nMarco, del otro lado, siente su mirada como un peso."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "El caos tiene un nombre, y Marco sabe el suyo.",
+          "image_path": "worlds/el-cocinero-y-su-caos/images/scene_2.png",
+          "scene_text": "Apoya la frente en el acero frío. Su hermana no va a estar lista para la cirugía a tiempo. No hay dinero. No hay Plan B.\n\nOye al sous chef gritando órdenes. Oye el ruido de las ollas. Oye a alguien decir: «La mesa cinco quiere hablar con el chef».\n\nMarco respira. Una. Dos veces.\n\nSe endereza. Vuelve al fuego."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Algunos platos dicen lo que las palabras no pueden.",
+          "image_path": "worlds/el-cocinero-y-su-caos/images/scene_3.png",
+          "scene_text": "Marco coloca el postre en la ventanilla. Es un desastre perfecto: merengue ligeramente desigual, el caramelo corriendo en una dirección que no planeó, pero que funciona. Una flor de chocolate en el borde, marchita a propósito.\n\n«Para la mesa cinco», dice sin mirar a nadie.\n\nEn la sala, Valentina ve llegar el plato. Levanta una ceja — apenas. Es la primera vez que algo en Marco la sorprende."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "A veces, lo único que necesitas es que alguien vea lo que estás haciendo.",
+          "image_path": "worlds/el-cocinero-y-su-caos/images/scene_4.png",
+          "scene_text": "Ella entra a la cocina después del servicio. El chef la ve pero no dice nada — en este lugar, eso es permitido solo una vez.\n\nVALENTINA camina hasta la ventanilla. Marco está aún allí, limpiando.\n\n«El postre», dice ella. «¿Eso eras tú?»\n\nMarco levanta la vista. Por primera vez, ve algo en su expresión que no es observación. Es reconocimiento."
         }
       ]
     },
