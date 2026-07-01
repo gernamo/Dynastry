@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-01T15:07:45.182045+00:00",
+  "generated_at": "2026-07-01T15:30:35.068628+00:00",
   "total_worlds": 32,
   "total_branches": 33,
   "worlds": [
@@ -273,6 +273,9 @@
           ]
         }
       ],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -323,6 +326,52 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "ELLA",
+          "arc_summary": "Regresa buscando una respuesta que no sabía que necesitaba; descubre que la pregunta verdadera siempre estuvo guardada en casa.",
+          "visual_description": "mujer de treinta y tantos, rostro que guarda madurez y fragilidad, ojos que buscan reconocer el lugar que dejó. Lleva poco equipaje."
+        },
+        {
+          "role": "protagonist",
+          "label": "LA MADRE",
+          "arc_summary": "Mantiene un secreto que pesa más que la distancia; la carta es su último acto de honestidad.",
+          "visual_description": "rostro envejecido por 15 años de silencio, arrugas que cuentan historias no dichas, manos que tiemblan ligeramente al recibir a su hija"
+        }
+      ],
+      "places": [
+        {
+          "name": "Estación de tren",
+          "atmosphere": "espera, incertidumbre, encuentro frío",
+          "visual_description": "andén vacío, luz grisácea, banco de madera donde se sientan, reloj detenido en la pared"
+        },
+        {
+          "name": "Casa familiar",
+          "atmosphere": "nostalgia, extrañeza, peso del tiempo",
+          "visual_description": "habitación conocida pero extraña, paredes con marcas de lo que fue, muebles en el mismo sitio, una ventana que da al pueblo"
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "descubrimiento doloroso",
+          "drama crudo",
+          "romanticismo no superado"
+        ],
+        "setting": "Pueblo rural contemporáneo, casa familiar, estación de tren",
+        "timeline": {
+          "span": "15 años atrás a presente",
+          "type": "relative",
+          "unit": "years",
+          "anchor": "años desde la partida de la hija"
+        },
+        "world_rules": [
+          "El silencio entre madre e hija es más fuerte que las palabras",
+          "La carta es física, real, guardada durante 15 años sin abrir",
+          "El amor del pasado no es una conclusión sino una herida abierta"
+        ],
+        "visual_treatment": "Charcoal & Graphite"
+      },
       "images": [
         {
           "role": "hero",
@@ -421,7 +470,10 @@
           },
           "cover_image": "worlds/cartographers-of-light/branches/erased-cities/branches/map-without-origin/images/cover.png"
         }
-      ]
+      ],
+      "characters": [],
+      "places": [],
+      "story_bible": {}
     },
     {
       "world_id": "w_cpolt7",
@@ -441,6 +493,9 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -498,6 +553,9 @@
       "created_at": "2026-05-19T14:32:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -652,6 +710,9 @@
           ]
         }
       ],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -760,6 +821,51 @@
           ]
         }
       ],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "ELLA",
+          "arc_summary": "De la certeza de que la riqueza define quién es, a descubrir quién es sin ella.",
+          "reference_prompt": "A young woman in a minimalist room, sitting cross-legged on a bare wooden floor, holding an old luxury handbag in both hands like something heavy and unfamiliar, looking down at it with the expression of someone saying goodbye to a friend. Natural light from a single window catches the edges of her face. Her other hand reaches toward the bag but hesitates. Soft watercolor and ink wash on cream paper, warm earth tones with a single accent of deep blue, illustrator's working sketch --ar 9:16",
+          "visual_description": "joven, ropa cara que irá reemplazando por lo básico, los ojos de alguien que está mirando hacia adentro, gestos que revelan lo que intenta ocultar"
+        },
+        {
+          "role": "environment",
+          "label": "LA CÁMARA",
+          "arc_summary": "La cámara es el puente entre su proceso privado y el futuro público; testigo que no juzga.",
+          "reference_prompt": "A smartphone mounted on a simple tripod in a corner of a sparse room, its screen glowing faintly. In the blurred background, a figure moves through the space, unpacking boxes. The room is almost empty except for a few cardboard boxes and what looks like the beginning of a new life. Soft watercolor and ink, warm pale tones, one pop of warm orange from the phone's glow, illustrator's sketch --ar 9:16",
+          "visual_description": "presencia silenciosa, a veces reflejada, a veces sugerida por la luz que captura, siempre testigo sin intervenir"
+        }
+      ],
+      "places": [
+        {
+          "name": "El Apartamento Nuevo",
+          "atmosphere": "calma, claridad, cierta soledad hermosa, posibilidad",
+          "reference_prompt": "An almost empty apartment living room with pale wooden floors and white walls, afternoon sunlight streaming through large windows creating long shadows. A few cardboard boxes are stacked near a doorway. The space feels both bare and peaceful. One area is lit by warm golden light. Watercolor and ink wash, cream paper, soft organic lines, earth tones with a single warm golden accent, illustrator's working sketch --ar 9:16",
+          "visual_description": "espacios casi vacíos, luz natural que define cada rincón, pisos de madera clara, paredes blancas que reflejan lo que falta, ventanas grandes que abren a la ciudad"
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "honesta",
+          "vulnerable",
+          "clara",
+          "íntima"
+        ],
+        "setting": "apartamento minimalista, calles de una ciudad grande, espacios vacíos que llenan de presencia",
+        "timeline": {
+          "span": "varios meses de transformación",
+          "type": "narrative_act",
+          "unit": "acts",
+          "anchor": "el primer día de la renuncia"
+        },
+        "world_rules": [
+          "Todo lo que graba es material para compartir después",
+          "El dinero no vuelve: una vez regalado o vendido, está fuera de su control",
+          "La cámara es testigo constante pero nunca editorializa"
+        ],
+        "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+      },
       "images": [
         {
           "role": "hero",
@@ -816,6 +922,49 @@
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "MARCO",
+          "arc_summary": "Un cocinero que aprende que su vulnerabilidad no es debilidad, sino el ingrediente que siempre le faltó.",
+          "reference_prompt": "close-up of a chef's face, eyes wide with frustration, a hand gesturing dramatically near his temple, kitchen lights reflected in his expression, soft rounded forms, warm cream and pastel tones, editorial illustration style, vulnerable and expressive :: soft pastel editorial illustration, gentle textures, warm rounded forms, controlled caricatural expressiveness, bright friendly palette :: intimate, raw, conflicted --ar 9:16",
+          "visual_description": "Chef en los treinta, cabello oscuro y despeinado, ojos expresivos que cambian con su estado de ánimo. Uniforme de cocina impecable pero con manchas que cuenta historias. Gestos amplios y exagerados cuando está descontrolado.",
+          "reference_image_path": "images/characters/marco.png"
+        },
+        {
+          "role": "antagonist",
+          "label": "VALENTINA",
+          "arc_summary": "Un cliente que exige perfección porque esconde sus propias fracturas bajo la crítica implacable.",
+          "reference_prompt": "a woman seated at a restaurant table, chin slightly raised, one finger touching her wine glass stem thoughtfully, her expression unreadable but sharp, soft warm lighting on her face, pastel tones with cool accents, editorial illustration, poised and calculating :: soft pastel editorial illustration, gentle textures, warm rounded forms, controlled caricatural expressiveness, bright friendly palette :: elegant, penetrating, composed --ar 9:16",
+          "visual_description": "Mujer elegante en sus treinta y tantos, siempre impecablemente vestida, con una sonrisa que no llega a los ojos. Postura recta, observadora, casi disfrutando del desorden ajeno. Detalles refinados: reloj de oro, anillo de diamante.",
+          "reference_image_path": "images/characters/valentina.png"
+        }
+      ],
+      "places": [
+        {
+          "name": "Cocina de Lujo",
+          "atmosphere": "precisa, contenida, nerviosa",
+          "reference_prompt": "wide establishing shot of a professional kitchen from the pass, stainless steel counters gleaming, white walls, warm light from the stove contrasting with cool overhead lights, soft rounded architectural forms, pastel color grading, editorial illustration, sense of controlled chaos :: soft pastel editorial illustration, gentle textures, warm rounded forms, controlled caricatural expressiveness, bright friendly palette :: pristine, tense, intimate --ar 9:16",
+          "visual_description": "Blanca y minimalista, acero inoxidable reluciente, luces led frías que contrastan con la calidez del fuego. Cada utensilio en su lugar. Pero hay siempre un pequeño desorden — una servilleta fuera de sitio, una mancha invisible que Solo Marco ve.",
+          "reference_image_path": "images/places/cocina-de-lujo.png"
+        }
+      ],
+      "story_bible": {
+        "tone": "cálida, irónica, vulnerable",
+        "setting": "cocina de lujo contemporánea",
+        "timeline": {
+          "span": "varios encuentros",
+          "type": "narrative_act",
+          "unit": "acts",
+          "anchor": "primera visita del cliente recurrente"
+        },
+        "world_rules": [
+          "Cada emoción del cocinero se refleja en el plato que prepara",
+          "El cliente recurrente aparece siempre en los peores momentos",
+          "La cocina es blanca, perfecta, pero nunca contiene el caos"
+        ],
+        "visual_treatment": "soft pastel / editorial"
+      },
       "images": [
         {
           "role": "hero",
@@ -884,7 +1033,10 @@
           },
           "cover_image": "worlds/elarion/branches/shattered-glade/images/cover.png"
         }
-      ]
+      ],
+      "characters": [],
+      "places": [],
+      "story_bible": {}
     },
     {
       "world_id": "w_elm7kq",
@@ -904,6 +1056,58 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "ELENA",
+          "arc_summary": "Ve a su hijo por primera vez no como decepción sino como persona con su propio mundo.",
+          "visual_description": "Mujer de 50s, cabello corto gris, una belleza gastada de años sin dormir bien. Usa lentes de aro fino. Ropa de tono neutro, siempre un abrigo gastado. Postura de alguien que se ha cerrado en sí misma."
+        },
+        {
+          "role": "protagonist",
+          "label": "MEL",
+          "arc_summary": "Descubre que su madre no siempre fue inaccesible; que su frialdad era miedo a no comprenderlo.",
+          "visual_description": "Hombre de 20s, cabello largo, la mirada de alguien que espera siempre ser juzgado. Ropa deportiva o suéter raído. En sus manos sostiene cosas cuando habla — una botella, un encendedor, un cuaderno."
+        }
+      ],
+      "places": [
+        {
+          "name": "El Ascensor",
+          "atmosphere": "claustrofóbica, reveladora, atrapada",
+          "visual_description": "Acero inoxidable rayado, luz fluorescente que parpadea levemente, números rojos en el panel. Espejos que duplican el espacio. Olor a metal y polvo."
+        },
+        {
+          "name": "Departamento de Elena",
+          "atmosphere": "solitaria, reflexiva, sin vida",
+          "visual_description": "Paredes blancas, pisos de madera clara. Libros apilados, películas en estantes. Una luz cálida de lámpara de pie que no ilumina bien. Ventanas que dan a una ciudad gris."
+        },
+        {
+          "name": "Bar de Madrugada",
+          "atmosphere": "cómplice, desinhibida, honesta",
+          "visual_description": "Luces cálidas anaranjadas, mesero que no hace preguntas, botellas medio vacías sobre la mesa. Piso de mosaicos desgastados. La ciudad afuera es solo oscuridad y neón."
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "melancólico",
+          "íntimo",
+          "observacional",
+          "humor inadvertido"
+        ],
+        "setting": "Ciudad contemporánea. Departamento de Elena, bares nocturnos, restaurantes, y el ascensor como primer espacio de verdad.",
+        "timeline": {
+          "span": "Desde el accidente hasta una noche de revelaciones",
+          "type": "narrative_act",
+          "unit": "actos",
+          "anchor": "El accidente en el ascensor como punto de quiebre"
+        },
+        "world_rules": [
+          "Los momentos de descubrimiento son breves, frágiles, fáciles de perder.",
+          "El silencio es tan importante como el diálogo.",
+          "No hay resoluciones fáciles, solo entendimiento provisional."
+        ],
+        "visual_treatment": "Cinematic Gouache"
+      },
       "images": [
         {
           "role": "hero",
@@ -957,7 +1161,10 @@
       "created_by": "@gernamo",
       "created_at": "2026-05-11T13:00:00Z",
       "status": "developing",
-      "branches": []
+      "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {}
     },
     {
       "world_id": "w_erk4tw",
@@ -977,7 +1184,10 @@
       "created_by": "@germannavarretemoreno",
       "created_at": "2026-05-19T12:00:00Z",
       "status": "developing",
-      "branches": []
+      "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {}
     },
     {
       "world_id": "w_espejo",
@@ -1102,6 +1312,70 @@
           ]
         }
       ],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "ELLA",
+          "arc_summary": "De la negación silenciosa a reclamar su verdad en el cuerpo, pasando por el dolor, la ira, y la fragilidad de quien se atreve a ser.",
+          "visual_description": "Silueta en transición: cabello que crece de formas incómodas, ropa que no encaja del todo en el cuerpo, gestos que buscan ser propios. Ojos que sostienen la verdad aunque el resto tiemble. Manos que a veces se esconden."
+        },
+        {
+          "role": "support",
+          "label": "ALEX",
+          "arc_summary": "El que no se va. La brújula que no gira aunque todo se desmorone.",
+          "visual_description": "Amigo de años, presencia constante. Ropa simple, gestos directos. En las escenas, está ahí sin hacer teatro — solo presente."
+        },
+        {
+          "role": "environment",
+          "label": "LA FAMILIA",
+          "arc_summary": "El peso que queda, incluso cuando no hablan. La ausencia que duele más que la presencia.",
+          "visual_description": "Presencia difusa, voces, siluetas que aparecen en marcos de puertas. Incomprensión hecha cuerpo."
+        }
+      ],
+      "places": [
+        {
+          "name": "El Baño",
+          "atmosphere": "Insoportablemente íntima, sin escape",
+          "visual_description": "Espejo roto o empañado, luz fluorescente dura, azulejos fríos. Es donde todo comienza y regresa."
+        },
+        {
+          "name": "La Calle",
+          "atmosphere": "Hostil, expuesta, sola",
+          "visual_description": "Aceras mojadas, gente que mira, luz de farolas que rasguña. Cuerpos en movimiento, ella quieta en el caos."
+        },
+        {
+          "name": "El Departamento",
+          "atmosphere": "Privada pero vigilada, refugio roto",
+          "visual_description": "Paredes que escuchan, habitación donde las cosas cambien lentamente. Una ropa nueva que aparece. Un espacio negociado."
+        },
+        {
+          "name": "El Café",
+          "atmosphere": "Segura, pequeña, verdadera",
+          "visual_description": "Lugar donde ALEX y ella se sientan sin necesidad de hablar. Tazas tibias, luz suave de tarde. Una esquina donde es posible existir."
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "íntimo",
+          "crudo",
+          "vulnerable",
+          "sin romanticismo"
+        ],
+        "setting": "Ciudad contemporánea, espacios domésticos y urbanos, sin nombre específico",
+        "timeline": {
+          "span": "Desde los 20 hasta los 26 años",
+          "type": "character_age",
+          "unit": "años",
+          "anchor": "La edad de la protagonista"
+        },
+        "world_rules": [
+          "El cuerpo es el campo de batalla — lo que se ve y lo que se siente nunca coinciden",
+          "La identidad no se revela de golpe; se construye en fragmentos, en actos pequeños",
+          "La incomprensión es constante, pero hay grietas por donde entra luz",
+          "La amistad verdadera no mira hacia otro lado"
+        ],
+        "visual_treatment": "Cel-Shaded / Anime"
+      },
       "images": [
         {
           "role": "hero",
@@ -1212,6 +1486,71 @@
           ]
         }
       ],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "MARCO",
+          "arc_summary": "De observador a sumergido en el caos, su consciencia se disuelve conforme la noche avanza.",
+          "visual_description": "Joven de 20s, chamarra de cuero raída, cigarrillo permanente, postura hundida. Ojos que buscan escapatoria."
+        },
+        {
+          "role": "support",
+          "label": "KIRA",
+          "arc_summary": "La que ya no vuelve, la que cruzó la línea primero y tira a otros hacia adelante.",
+          "visual_description": "Mujer de 20s, ropa oscura rasgada, maquillaje corrido. Movimientos erráticos, risa que raspa."
+        },
+        {
+          "role": "support",
+          "label": "JOTA",
+          "arc_summary": "Buscador de olvido, su cuerpo es el primero en traicionarlo.",
+          "visual_description": "Corpulento, sudoroso incluso al inicio, manos grandes y nerviosas. Botella siempre en la mano."
+        },
+        {
+          "role": "environment",
+          "label": "LA FÁBRICA",
+          "arc_summary": "De refugio a prisión onírica, sus espacios se retuercen según el delirio.",
+          "visual_description": "Paredes de hormigón descascarado, tuberías oxidadas, cristales rotos, luz que filtra en ángulos hostiles. Maquinaria inmóvil pero amenazante."
+        }
+      ],
+      "places": [
+        {
+          "name": "Planta de Producción",
+          "atmosphere": "amenazante, industrial, claustrofóbica",
+          "visual_description": "Maquinaria gigante, silenciosa, herrumbre y óxido. Cadenas oxidadas cuelgan del techo. Luz industrial dura, sombras cortantes."
+        },
+        {
+          "name": "Cuarto de Control",
+          "atmosphere": "decadencia, refugio frágil, vigilancia fantasmal",
+          "visual_description": "Paneles de control apagados, botones negros cubiertos de polvo. Una ventana que mira la planta. Graffiti en las paredes, botellas tiradas."
+        },
+        {
+          "name": "Pasillo de Tuberías",
+          "atmosphere": "sofocante, pulsante, orgánica",
+          "visual_description": "Tuberías enormes recorren las paredes. Goteo constante. Luz que rebota en superficies mojadas. Humedad pegajosa."
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "ácido",
+          "crudo",
+          "onírico",
+          "visceral",
+          "sin filtro"
+        ],
+        "setting": "Fábrica abandonada en zona industrial suburbana, años 80",
+        "timeline": {
+          "span": "Atardecer a madrugada",
+          "type": "narrative_act",
+          "unit": "horas",
+          "anchor": "Una noche en la fábrica"
+        },
+        "world_rules": [
+          "La droga y el alcohol disuelven los límites entre realidad y alucinación",
+          "La fábrica actúa como personaje vivo, sus espacios deforman según el estado mental",
+          "El humor negro coexiste con el horror corporal"
+        ],
+        "visual_treatment": "Charcoal & Graphite"
+      },
       "images": [
         {
           "role": "hero",
@@ -1267,6 +1606,71 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "LA MADRE",
+          "arc_summary": "La hermana mayor que nunca creció pero lo sabe todo.",
+          "visual_description": "Mujer de cuarenta y pico, ropa suelta, cabello que no se peina pero se ve bien así. Movimientos nerviosos, siempre con las manos ocupadas. Ojos que ven todo."
+        },
+        {
+          "role": "protagonist",
+          "label": "EL PADRE",
+          "arc_summary": "El hijo que se convirtió en padre sin quererlo.",
+          "visual_description": "Hombre más joven que la madre, cara suave, postura hundida en el sofá. Ropa cómoda. Siempre parece que está a punto de decir algo pero no lo dice."
+        },
+        {
+          "role": "protagonist",
+          "label": "LA ABUELA",
+          "arc_summary": "La jefa silenciosa que controla con el silencio.",
+          "visual_description": "Vieja, pequeña, piel arrugada. Casi siempre en la cocina, delantal, manos que nunca paran. Mirada que no perdona."
+        },
+        {
+          "role": "protagonist",
+          "label": "EL TÍO",
+          "arc_summary": "El de paso que se quedó porque nadie le pidió que se fuera.",
+          "visual_description": "Hombre de edad indefinida, ropa que no le queda bien, sonrisa que aparece y desaparece. Está y no está al mismo tiempo."
+        }
+      ],
+      "places": [
+        {
+          "name": "La Cocina",
+          "atmosphere": "Calor, ácido, íntimo",
+          "visual_description": "Azulejos viejos, manchas que son antiguas, luz cálida de la ventana. La mesa donde pasan todas las cosas. Olores de comida que se repiten."
+        },
+        {
+          "name": "La Mesa",
+          "atmosphere": "Tensión disfrazada de normalidad",
+          "visual_description": "Madera clara, rayones de años, vasos de distintos colores. Ahí se come, se habla, se calla."
+        },
+        {
+          "name": "El Sofá",
+          "atmosphere": "Cómodo y claustrofóbico",
+          "visual_description": "Hundido, gastado, con mantas que no cubren nada. Lugar donde se descansa y se evade."
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "ácido",
+          "íntimo",
+          "retorcido",
+          "vivo"
+        ],
+        "setting": "Una casa — cocina, mesa, sofá. Contemporáneo sin fecha, sin lugar específico.",
+        "timeline": {
+          "span": "Un ciclo doméstico que se vuelve extraño",
+          "type": "narrative_act",
+          "unit": "escenas",
+          "anchor": "Los rituales que se repiten"
+        },
+        "world_rules": [
+          "Los rituales domésticos revelan la estructura rara",
+          "El humor es el lenguaje de amor de esta familia",
+          "Nadie dice lo importante en voz alta",
+          "La casa es el personaje que contiene todo"
+        ],
+        "visual_treatment": "Watercolor and Ink"
+      },
       "images": [
         {
           "role": "hero",
@@ -1374,6 +1778,60 @@
           ]
         }
       ],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "GARY",
+          "arc_summary": "Gary descubre que su rutina perfecta es solo resistencia pasiva, y que tal vez necesitaba que alguien rompiera su silencio.",
+          "visual_description": "Hombre de mediana edad, pijama gastado, pantuflas de fieltro, cabello despeinado de alguien que acaba de despertar. Lleva los mismos jeans en varias escenas. Movimientos lentos, deliberados, de alguien que ha optimizado su vida."
+        },
+        {
+          "role": "support",
+          "label": "EL PERRO",
+          "arc_summary": "El perro siente la incomodidad antes que Gary y se convierte en su espejo emocional.",
+          "visual_description": "Perro mediano, acomodaticio, siempre cerca de Gary. Orejas caídas, ojos que notan todo. A veces aparece de perfil, mirando hacia la pared que divide los departamentos."
+        },
+        {
+          "role": "antagonist",
+          "label": "LA VECINA",
+          "arc_summary": "La vecina no sabe que está rompiendo nada; solo vive. Su presencia accidental es un espejo que Gary no pidió.",
+          "visual_description": "Mujer que entra con energía, bolsas de mudanza, pasos fuertes. No la vemos de frente — la conocemos por sus siluetas en la puerta, sus sombras en la pared compartida, el sonido de su vida."
+        }
+      ],
+      "places": [
+        {
+          "name": "El departamento de Gary",
+          "atmosphere": "tranquilo, claustrofóbico, ordenado, ligeramente triste",
+          "visual_description": "Luz dorada por las mañanas, paredes color crema manchadas, muebles viejos pero limpios, todo en su lugar. La cocina tiene una tetera de metal viejo. El piso tiene esa textura de linóleo gastado. La pared hacia el departamento de al lado es el corazón invisible de todo."
+        },
+        {
+          "name": "El pasillo compartido",
+          "atmosphere": "neutro, frontera, incómodo, revelador",
+          "visual_description": "Puerta de Gary, puerta de la vecina. Luz mortecina de una ventana alta. Buzón oxidado. El suelo tiene marcas de pasos antiguos. Dos umbrales que antes no se tocaban."
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "incómodo",
+          "cálido",
+          "absurdo",
+          "tierno a pesar de todo"
+        ],
+        "setting": "Un edificio de departamentos viejo, probablemente en una ciudad latinoamericana. Pasillos estrechos, paredes delgadas, el tipo de lugar donde escuchas todo.",
+        "timeline": {
+          "span": "Una semana en la vida de Gary",
+          "type": "narrative_act",
+          "unit": "días",
+          "anchor": "La llegada de la vecina"
+        },
+        "world_rules": [
+          "Las paredes son tan delgadas que la privacidad es solo una ilusión.",
+          "La rutina de Gary es sagrada pero también terriblemente frágil.",
+          "El perro es un testigo silencioso que siente los cambios antes que Gary.",
+          "La incomodidad es el idioma que hablan Gary y la vecina."
+        ],
+        "visual_treatment": "Watercolor and Ink"
+      },
       "images": [
         {
           "role": "hero",
@@ -1427,7 +1885,10 @@
       "created_by": "@gernamo",
       "created_at": "2026-05-11T15:00:00Z",
       "status": "developing",
-      "branches": []
+      "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {}
     },
     {
       "world_id": "w_gon47x",
@@ -1447,6 +1908,9 @@
       "created_at": "2026-05-11T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -1476,6 +1940,9 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -1532,6 +1999,59 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "MATEO",
+          "arc_summary": "Desaparece en la noche y se convierte en la pregunta que destrozará a quienes lo buscan.",
+          "visual_description": "Uniforme de internado, cuerpo delgado, postura encorvada por el miedo, cabello oscuro pegado a la frente"
+        },
+        {
+          "role": "support",
+          "label": "PAULA",
+          "arc_summary": "Última persona que ve a Mateo. Su búsqueda la llevará a lugares que no debería conocer.",
+          "visual_description": "Compañera de internado, ojos grandes y alerta, ropa oscura, movimientos cautelosos"
+        },
+        {
+          "role": "antagonist",
+          "label": "EL DIRECTOR",
+          "arc_summary": "Guarda el secreto más antiguo del internado y hará lo necesario para que permanezca enterrado.",
+          "visual_description": "Figura alta y delgada, silueta en penumbra, manos pálidas, movimiento lento"
+        }
+      ],
+      "places": [
+        {
+          "name": "Los Pasillos del Internado",
+          "atmosphere": "opresivo, repetitivo, desorientador",
+          "visual_description": "Muros de piedra gris verdosa, puertas idénticas a ambos lados, una única ventana al fondo que nunca deja entrar luz completa, suelo de baldosas gastadas"
+        },
+        {
+          "name": "La Habitación de Mateo",
+          "atmosphere": "abandonado, esperante, silencioso",
+          "visual_description": "Cama sin hacer, una lámpara de escritorio de metal oxidado, paredes en tonos púrpura deslavado, una ventana pequeña con rejas"
+        },
+        {
+          "name": "Los Sótanos",
+          "atmosphere": "infernal, ancestral, irreversible",
+          "visual_description": "Escaleras de piedra que descienden en espiral, paredes rezumantes, luz verdosa que emana de las grietas, cadenas oxidadas en las paredes"
+        }
+      ],
+      "story_bible": {
+        "tone": "claustrofóbico, sofocante, sin respiro",
+        "setting": "Internado gótico aislado, pasillos repetitivos, sótanos profundos",
+        "timeline": {
+          "span": "Desaparición inicial hasta el descubrimiento final",
+          "type": "narrative_act",
+          "unit": "actos",
+          "anchor": "La desaparición y sus consecuencias"
+        },
+        "world_rules": [
+          "Cada estancia es monocromática en púrpura o verde oscuro",
+          "Lo que está bajo el internado no debe ser perturbado",
+          "Quien desciende, raramente regresa igual"
+        ],
+        "visual_treatment": "Charcoal & Graphite"
+      },
       "images": [
         {
           "role": "hero",
@@ -1587,7 +2107,10 @@
       "created_by": "@gernamo",
       "created_at": "2026-05-11T12:00:00Z",
       "status": "developing",
-      "branches": []
+      "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {}
     },
     {
       "world_id": "w_esf7kx",
@@ -1607,6 +2130,9 @@
       "created_at": "2026-05-19T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -2042,6 +2568,9 @@
           ]
         }
       ],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "scene_1",
@@ -2140,6 +2669,9 @@
           ]
         }
       ],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -2196,6 +2728,52 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "LITTLE",
+          "arc_summary": "Descubre que el skate es donde todas sus piezas — estudio, música, cuerpo, mente — convergen en paz.",
+          "visual_description": "Chico adolescente, delgado, movimiento fluido. Cabello despeinado de forma natural. Ropa simple, cómoda — sudadera, jeans gastados, zapatillas de skate. Siempre con auriculares alrededor del cuello o puestos. Postura relajada incluso en reposo."
+        }
+      ],
+      "places": [
+        {
+          "name": "La plaza de skate",
+          "atmosphere": "ritmo, libertad, acogedor",
+          "visual_description": "Concreto gastado, líneas blancas, bancos de madera, gráfitis descoloridos. Luz dorada al atardecer. El sonido de ruedas es constante. Una o dos farolas para la noche."
+        },
+        {
+          "name": "La sala de ensayo",
+          "atmosphere": "concentración, intimidad, energía contenida",
+          "visual_description": "Paredes oscuras, espejos rayados, instrumentos en percheros. Cables en el suelo. Una ventana pequeña con luz difusa. Posters de bandas en las paredes."
+        },
+        {
+          "name": "La biblioteca",
+          "atmosphere": "calma, soledad productiva, orden",
+          "visual_description": "Luz natural de ventanas altas. Mesas de madera clara. Libros en pilas. Un rincón tranquilo junto a una ventana. Silencio casi absoluto."
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "tranquilo",
+          "fluido",
+          "introspectivo",
+          "luminoso"
+        ],
+        "setting": "Ciudad contemporánea, calles de skate, espacios de estudio, salas de ensayo",
+        "timeline": {
+          "span": "Una semana de flujo",
+          "type": "narrative_act",
+          "unit": "días",
+          "anchor": "Días en la vida de Little"
+        },
+        "world_rules": [
+          "El skate es el eje — todo lo demás orbita alrededor",
+          "No hay prisa. La vida de Little se mide en sesiones, no en metas",
+          "La música y el movimiento son lenguajes del mismo silencio"
+        ],
+        "visual_treatment": "Cinematic Gouache"
+      },
       "images": [
         {
           "role": "hero",
@@ -2253,6 +2831,9 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -2309,6 +2890,53 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "PHILLIP",
+          "arc_summary": "Phillip persigue el conocimiento y la admiración silenciosa, dejando rastros de magia científica donde pasa",
+          "visual_description": "Niño de 8 años, cabello despeinado, manos manchadas de tinta y residuos químicos, ropa de laboratorio improvisada (chaleco viejo, bolsillos llenos), ojos brillantes de curiosidad"
+        },
+        {
+          "role": "support",
+          "label": "LA PROFESORA",
+          "arc_summary": "Es el horizonte que Phillip mira sin que ella lo sepa",
+          "visual_description": "Mujer joven, ropa clara, presencia calmada, siempre notando detalles pero nunca las conexiones completas"
+        }
+      ],
+      "places": [
+        {
+          "name": "Aula urbana",
+          "atmosphere": "curiosidad contenida, expectativa",
+          "visual_description": "Luz natural de ventana grande, escritorios desordenados, pizarra con ecuaciones borradas a medias, rincones con materiales olvidados"
+        },
+        {
+          "name": "Laboratorio improvisado (escondite de Phillip)",
+          "atmosphere": "secreto, asombro, peligro suave",
+          "visual_description": "Rincón oculto en la ciudad: sótano, azotea, o esquina de parque; frascos, tubos, papeles de apuntes, vestigios de reacciones pasadas"
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "luminoso",
+          "caótico",
+          "tierno",
+          "ingenuo"
+        ],
+        "setting": "Ciudad contemporánea, aula urbana, espacios improvisados",
+        "timeline": {
+          "span": "Mañana a tardecita",
+          "type": "narrative_act",
+          "unit": "hours",
+          "anchor": "Un día de experimentos y revelaciones"
+        },
+        "world_rules": [
+          "Phillip experimenta en secreto; nadie sabe la verdadera escala de sus proyectos",
+          "Cada experimento sale torcido de forma inesperada pero hermosa",
+          "La profesora es el telón de fondo invisible de sus motivaciones"
+        ],
+        "visual_treatment": "Watercolor & Ink"
+      },
       "images": [
         {
           "role": "hero",
@@ -2365,6 +2993,9 @@
       "created_at": "2026-05-22T14:32:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -2516,6 +3147,9 @@
           ]
         }
       ],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -2671,6 +3305,9 @@
           ]
         }
       ],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -2727,6 +3364,9 @@
       "created_at": "2026-05-19T14:32:00Z",
       "status": "developing",
       "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {},
       "images": [
         {
           "role": "hero",
@@ -2985,6 +3625,65 @@
           ]
         }
       ],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "KAI",
+          "arc_summary": "De forastero asustado a corredor que se atreve a romper las reglas ocultas del deporte.",
+          "visual_description": "Niño de 12 años, delgado, traje magnético verde neón desgastado, casco con visor azul reflectante, cicatriz en la mejilla izquierda, siempre con las manos temblorosas antes de correr"
+        },
+        {
+          "role": "support",
+          "label": "MIRA",
+          "arc_summary": "Mentora de Kai, tiene un secreto sobre lo que le pasó al último corredor perdedor.",
+          "visual_description": "Niña de 13 años, pelo corto, traje magnético rosa eléctrico, movimientos ágiles y confiados, pero con una cicatriz emocional en los ojos"
+        },
+        {
+          "role": "environment",
+          "label": "EL VACIO",
+          "arc_summary": "El verdadero antagonista: la gravedad, la muerte, la indiferencia del universo.",
+          "visual_description": "No es un personaje, es presencia — el espacio negro, las nebulosas distantes, las plataformas que tiemblan, los trajes que fallan"
+        }
+      ],
+      "places": [
+        {
+          "name": "Estación Nexus — Plataforma Central",
+          "atmosphere": "industrial, amenazante, fosforescente, desolada",
+          "visual_description": "Estructura metálica masiva flotando en el vacío, luces fosforito parpadeando, grietas por donde se ve el espacio negro detrás, aire enrarecido, estatuas de corredores que desaparecieron"
+        },
+        {
+          "name": "La Pista — Fragmento Primero",
+          "atmosphere": "caótica, bella, mortal, energética",
+          "visual_description": "Ruinas de un planeta destruido, plataformas flotantes conectadas por puentes magnéticos inestables, gravedad que cambia cada 30 segundos, nebulosa rosa y verde girando de fondo"
+        },
+        {
+          "name": "Los Escluses — Zona de Espera",
+          "atmosphere": "tensa, claustrofóbica, anticipatoria",
+          "visual_description": "Cámara sellada con campos de contención azul eléctrico, niños en trajes magnéticos esperando su turno, paredes de cristal reforzado mostrando el vacío afuera, respiradores zumbando"
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "adrenalina salvaje",
+          "miedo real",
+          "amistad quebrada y forjada",
+          "belleza caótica"
+        ],
+        "setting": "Estación orbital Nexus — fragmentos de planetas destruidos flotando en el vacío intergaláctico, conectados por plataformas magnéticas inestables, atmósferas extrañas, gravedad variable",
+        "timeline": {
+          "span": "Acto 1 (Llegada) a Acto 5 (Revelación)",
+          "type": "narrative_act",
+          "unit": "actos",
+          "anchor": "El viaje de un niño desde el primer intento hasta descubrir la verdad del deporte"
+        },
+        "world_rules": [
+          "La gravedad cambia según la zona — algunos sectores tienen caída libre total, otros tienen 0.3G",
+          "El Void Racing requiere trajes magnéticos que se adhieren a superficies, pero fallan sin previo aviso",
+          "Caer al vacío significa muerte — no hay red de seguridad",
+          "El deporte tiene una regla no escrita: el que llega último desaparece de la estación"
+        ],
+        "visual_treatment": "Cel-shaded anime style, bold confident linework, flat shading, saturated neon palette (electric green, hot pink, electric blue) exploding against deep space black, energetic asymmetrical composition, dynamic splash-page energy"
+      },
       "images": [
         {
           "role": "hero",
