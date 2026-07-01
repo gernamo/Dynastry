@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-01T18:41:07.451140+00:00",
+  "generated_at": "2026-07-01T19:15:40.814433+00:00",
   "total_worlds": 32,
-  "total_branches": 34,
+  "total_branches": 35,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -922,6 +922,57 @@
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
       "branches": [
+        {
+          "branch_id": "b_rk4x8n",
+          "branch_slug": "marco-entre-dos",
+          "name": "Marco Entre Dos",
+          "description": "Mientras Valentina se quiebra en la cocina con Marco, llega alguien del pasado que lo obliga a elegir: proteger el momento sagrado o enfrentar lo que ha estado huyendo.",
+          "parent_branch": "b_vq7m2k",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Un fantasma del pasado de Marco irrumpe en la cocina mientras Valentina está ahí — obligándolo a elegir entre el refugio con ella o la confrontación con lo que huyó",
+            "timeline_ref": "después de que Valentina prueba el plato en la cocina"
+          },
+          "cover_image": "worlds/el-cocinero-y-su-caos/branches/marco-entre-dos/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El confesionario tiene tres personas. Solo dos debería.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/marco-entre-dos/images/hero.png",
+              "scene_text": "La cocina blanca respira. Marco tiene el tenedor de Valentina en una mano y la puerta abierta detrás de Diego. Todo suspendido. Todo esperando."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Valentina se permite sentir. Marco finalmente ve el interior.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/marco-entre-dos/images/scene_1.png",
+              "scene_text": "VALENTINA cierra los ojos. El tenedor tiembla entre sus dedos. Marco respira, observando cómo la mujer que siempre observaba finalmente se observa a sí misma. En la cocina blanca, solo existen ellos. El caos está servido. El plato está limpio."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El pasado tiene nombre. El pasado tiene cara. El pasado está aquí.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/marco-entre-dos/images/scene_2.png",
+              "scene_text": "La puerta cede. Diego entra primero con los ojos — barriendo la cocina, buscando. Busca a Marco. Lo encuentra. Y en ese segundo, todo lo que Marco construyó en estos tres años se vuelve frágil.\n\nValentina se gira. Ve al hombre. Ve a Marco. Ve la reacción en la línea de la mandíbula de Marco — ese micro-gesto que Valentina reconoce porque acaba de permitirse sentirlo ella misma. Miedo. Vergüenza. Elección imposible."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Marco abre la boca. No para mentir. Para decir la verdad.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/marco-entre-dos/images/scene_3.png",
+              "scene_text": "MARCO gira. Mira a Diego a los ojos. Y algo cambia en su postura — la rendición de alguien que finalmente deja de correr.\n\nDIEGO espera. Conoce este gesto. Lo entrenó.\n\nMarco habla. No pide perdón. No explica. Solo dice lo que es: \"Estoy quebrado, Diego. Llevo tres años quebrado. Y acabo de empezar a servir eso en lugar de esconderlo.\"\n\nValentina lo escucha. Y Diego también."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Tres personas en una cocina blanca. Nada volverá a ser perfecto.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/marco-entre-dos/images/scene_4.png",
+              "scene_text": "Diego no se va. Se queda. Observa a Valentina terminando su plato mientras Marco respira contra el acero. Observa cómo la mujer que siempre juzgaba ahora solo come.\n\nY Diego, por primera vez, sonríe. No de aprobación. De reconocimiento.\n\nMarco no sabe todavía qué significa esa sonrisa. No sabe si Diego viene a llevarlo de vuelta, o si solo vino a ver si el caos finalmente se volvió arquitectura. Pero sabe una cosa: la puerta está abierta. Y Valentina sigue aquí. Y la cocina blanca, perfecta, ya no es el ring. Es el hogar."
+            }
+          ]
+        },
         {
           "branch_id": "b_vq7m2k",
           "branch_slug": "valentina-se-quiebra",
