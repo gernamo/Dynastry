@@ -1,0 +1,97 @@
+{
+  "name": "Marco Entre Dos",
+  "tags": [
+    "drama",
+    "confrontación",
+    "vulnerabilidad",
+    "chef",
+    "decisión",
+    "pasado"
+  ],
+  "status": "developing",
+  "world_id": "w_kx92m4",
+  "branch_id": "b_rk4x8n",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "marco-entre-dos",
+  "description": "Mientras Valentina se quiebra en la cocina con Marco, llega alguien del pasado que lo obliga a elegir: proteger el momento sagrado o enfrentar lo que ha estado huyendo.",
+  "parent_slug": "el-cocinero-y-su-caos",
+  "is_canonical": false,
+  "parent_branch": "b_vq7m2k",
+  "new_characters": [
+    {
+      "role": "antagonist",
+      "label": "DIEGO",
+      "arc_summary": "El jefe del pasado que vuelve para cobrar — no dinero, sino la verdad que Marco intentó ocultar.",
+      "reference_prompt": "A sharp-featured man in his forties in an expensive but travel-worn suit, stepping through a kitchen doorway, one hand still on the frame, expression caught between surprise and accusation, backlighting from the dining room making him a silhouette against the white kitchen steel, composed and dangerous ::9 style | soft pastel and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch ::8 mood | tense, territorial, a reckoning ::7 --ar 9:16",
+      "visual_description": "Hombre en los cuarenta, traje impecable pero arrugado por viaje, cabello canoso en las sienes, reloj de marca caro. Lleva la autoridad como una coraza — postura rígida, mirada que evalúa. Gestos que ocupan espacio, como si siempre hubiera sido dueño de las habitaciones donde entra."
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Un fantasma del pasado de Marco irrumpe en la cocina mientras Valentina está ahí — obligándolo a elegir entre el refugio con ella o la confrontación con lo que huyó",
+    "timeline_ref": "después de que Valentina prueba el plato en la cocina"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "Marco elige, y el costo de esa elección se vuelve visible"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Valentina acaba de quebrarse comiendo el plato honesto de Marco"
+    },
+    "continues_from": "valentina-se-quiebra",
+    "divergence_question": "¿Qué elige Marco cuando su pasado y su presente chocan en la cocina blanca?"
+  },
+  "inherited_from_canon": {
+    "tone": "cálida, irónica, vulnerable",
+    "places_used": [
+      "Cocina de Lujo"
+    ],
+    "characters_used": [
+      "MARCO",
+      "VALENTINA"
+    ],
+    "visual_treatment": "soft pastel / editorial"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El confesionario tiene tres personas. Solo dos debería.",
+      "image_path": "images/hero.png",
+      "scene_text": "La cocina blanca respira. Marco tiene el tenedor de Valentina en una mano y la puerta abierta detrás de Diego. Todo suspendido. Todo esperando."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Valentina se permite sentir. Marco finalmente ve el interior.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "VALENTINA cierra los ojos. El tenedor tiembla entre sus dedos. Marco respira, observando cómo la mujer que siempre observaba finalmente se observa a sí misma. En la cocina blanca, solo existen ellos. El caos está servido. El plato está limpio."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El pasado tiene nombre. El pasado tiene cara. El pasado está aquí.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "La puerta cede. Diego entra primero con los ojos — barriendo la cocina, buscando. Busca a Marco. Lo encuentra. Y en ese segundo, todo lo que Marco construyó en estos tres años se vuelve frágil.\n\nValentina se gira. Ve al hombre. Ve a Marco. Ve la reacción en la línea de la mandíbula de Marco — ese micro-gesto que Valentina reconoce porque acaba de permitirse sentirlo ella misma. Miedo. Vergüenza. Elección imposible."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Marco abre la boca. No para mentir. Para decir la verdad.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "MARCO gira. Mira a Diego a los ojos. Y algo cambia en su postura — la rendición de alguien que finalmente deja de correr.\n\nDIEGO espera. Conoce este gesto. Lo entrenó.\n\nMarco habla. No pide perdón. No explica. Solo dice lo que es: \"Estoy quebrado, Diego. Llevo tres años quebrado. Y acabo de empezar a servir eso en lugar de esconderlo.\"\n\nValentina lo escucha. Y Diego también."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Tres personas en una cocina blanca. Nada volverá a ser perfecto.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Diego no se va. Se queda. Observa a Valentina terminando su plato mientras Marco respira contra el acero. Observa cómo la mujer que siempre juzgaba ahora solo come.\n\nY Diego, por primera vez, sonríe. No de aprobación. De reconocimiento.\n\nMarco no sabe todavía qué significa esa sonrisa. No sabe si Diego viene a llevarlo de vuelta, o si solo vino a ver si el caos finalmente se volvió arquitectura. Pero sabe una cosa: la puerta está abierta. Y Valentina sigue aquí. Y la cocina blanca, perfecta, ya no es el ring. Es el hogar."
+    }
+  ],
+  "cover_image": "worlds/el-cocinero-y-su-caos/branches/marco-entre-dos/images/hero.png"
+}
