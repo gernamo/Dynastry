@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-01T15:30:35.068628+00:00",
+  "generated_at": "2026-07-01T18:41:07.451140+00:00",
   "total_worlds": 32,
-  "total_branches": 33,
+  "total_branches": 34,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -921,7 +921,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_vq7m2k",
+          "branch_slug": "valentina-se-quiebra",
+          "name": "Valentina Se Quiebra",
+          "description": "Marco ve la grieta en la armadura de Valentina y hace algo prohibido: la lleva a su cocina. En el fuego y el acero, ella finalmente se permite sentir sin filtro.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T14:30:00Z",
+          "divergence_event": {
+            "description": "Valentina llega diferente. Su armadura se resquebraja. Marco ve la grieta en sus ojos y actúa — la trae a la cocina.",
+            "timeline_ref": "jueves recurrente"
+          },
+          "cover_image": "worlds/el-cocinero-y-su-caos/branches/valentina-se-quiebra/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Valentina cierra los ojos. Finalmente.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/valentina-se-quiebra/images/hero.png",
+              "scene_text": "Un instante. Solo un instante. Los ojos de Valentina se cierran mientras el tenedor toca sus labios. La armadura — meses de armadura — cae. En la cocina blanca y perfecta, ella es finalmente imperfecta. Finalmente honesta.\n\nMarco lo ve todo en ese silencio. El quiebre que ella ha estado sosteniendo. La soledad que sus diamantes no pueden comprar. El peso de ser siempre impoluta.\n\nY en sus ojos cerrados, él se ve a sí mismo — quebrado también, pero permitiéndoselo."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ella llega. Pero no es ella.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/valentina-se-quiebra/images/scene_1.png",
+              "scene_text": "VALENTINA se sienta en su mesa de siempre. La ropa es perfecta. El maquillaje es perfecto. Todo está en su lugar.\n\nExcepto sus ojos.\n\nMarco nota esto mientras prepara la barra. Algo en ella está roto. No es el desorden de Marco — es peor. Es el silencio después de que algo se quiebra adentro. El tipo de silencio que solo quien ha estado allí reconoce.\n\nElla no lo mira. Y eso es lo que lo delata."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Él rompe la primera regla.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/valentina-se-quiebra/images/scene_2.png",
+              "scene_text": "MARCO abandona su estación. Simplemente — se va. Su sous chef lo mira confundido.\n\nCamina hasta la mesa de VALENTINA. No dice nada. Solo extiende una mano.\n\nElla lo ve. Ve la invitación. Ve el protocolo siendo ignorado, la línea siendo cruzada. Por un segundo, su máscara se tambalea — ¿acaso alguien puede ver a través de ella?\n\nVALENTINA toma su mano.\n\nYa no hay espejo. Ya no hay cliente. Ya no hay distancia."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ella ve cómo él piensa.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/valentina-se-quiebra/images/scene_3.png",
+              "scene_text": "En la cocina, MARCO no es perfecto. Murmura. Gesticula. Sus manos tiemblan un poco cuando trabaja — no de miedo, sino de algo más. De honestidad.\n\nVALENTINA mira cómo sus dedos danzan, cómo su cuerpo habla lo que su voz no puede. Cómo su vulnerabilidad no es debilidad — es arquitectura. Es la única cosa real en una cocina de acero y luz blanca.\n\nPor primera vez en meses, ella no observa. Ella ve. Y lo que ve la quiebra más aún."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Sin armadura.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/valentina-se-quiebra/images/scene_4.png",
+              "scene_text": "El plato está listo. No es perfecto. Tiene la marca de sus dedos. El calor todavía vive en el borde.\n\nVALENTINA levanta el tenedor. Lo acerca. Y cuando prueba —\n\nSus ojos se cierran.\n\nNo hay crítica. No hay sonrisa vacía. Solo un silencio profundo, el tipo de silencio que alguien hace cuando finalmente se permite sentir sin filtro. MARCO ve la línea de su mandíbula relajándose. Ve sus manos temblando. Ve a VALENTINA — de verdad — por primera vez.\n\nY entiende: ella también ha estado quebrada todo este tiempo. Solo que ella sabía cómo esconderlo.\n\nHasta ahora."
+            }
+          ]
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
