@@ -1,0 +1,99 @@
+{
+  "name": "El Cocinero y su Caos",
+  "slug": "el-cocinero-y-su-caos",
+  "tags": [
+    "comedia",
+    "romance ligero",
+    "cocina",
+    "vulnerabilidad",
+    "chef",
+    "drama personal"
+  ],
+  "places": [
+    {
+      "name": "Cocina de Lujo",
+      "atmosphere": "precisa, contenida, nerviosa",
+      "reference_prompt": "wide establishing shot of a professional kitchen from the pass, stainless steel counters gleaming, white walls, warm light from the stove contrasting with cool overhead lights, soft rounded architectural forms, pastel color grading, editorial illustration, sense of controlled chaos :: soft pastel editorial illustration, gentle textures, warm rounded forms, controlled caricatural expressiveness, bright friendly palette :: pristine, tense, intimate --ar 9:16",
+      "visual_description": "Blanca y minimalista, acero inoxidable reluciente, luces led frías que contrastan con la calidez del fuego. Cada utensilio en su lugar. Pero hay siempre un pequeño desorden — una servilleta fuera de sitio, una mancha invisible que Solo Marco ve.",
+      "reference_image_path": "images/places/cocina-de-lujo.png"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_kx92m4",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "MARCO",
+      "arc_summary": "Un cocinero que aprende que su vulnerabilidad no es debilidad, sino el ingrediente que siempre le faltó.",
+      "reference_prompt": "close-up of a chef's face, eyes wide with frustration, a hand gesturing dramatically near his temple, kitchen lights reflected in his expression, soft rounded forms, warm cream and pastel tones, editorial illustration style, vulnerable and expressive :: soft pastel editorial illustration, gentle textures, warm rounded forms, controlled caricatural expressiveness, bright friendly palette :: intimate, raw, conflicted --ar 9:16",
+      "visual_description": "Chef en los treinta, cabello oscuro y despeinado, ojos expresivos que cambian con su estado de ánimo. Uniforme de cocina impecable pero con manchas que cuenta historias. Gestos amplios y exagerados cuando está descontrolado.",
+      "reference_image_path": "images/characters/marco.png"
+    },
+    {
+      "role": "antagonist",
+      "label": "VALENTINA",
+      "arc_summary": "Un cliente que exige perfección porque esconde sus propias fracturas bajo la crítica implacable.",
+      "reference_prompt": "a woman seated at a restaurant table, chin slightly raised, one finger touching her wine glass stem thoughtfully, her expression unreadable but sharp, soft warm lighting on her face, pastel tones with cool accents, editorial illustration, poised and calculating :: soft pastel editorial illustration, gentle textures, warm rounded forms, controlled caricatural expressiveness, bright friendly palette :: elegant, penetrating, composed --ar 9:16",
+      "visual_description": "Mujer elegante en sus treinta y tantos, siempre impecablemente vestida, con una sonrisa que no llega a los ojos. Postura recta, observadora, casi disfrutando del desorden ajeno. Detalles refinados: reloj de oro, anillo de diamante.",
+      "reference_image_path": "images/characters/valentina.png"
+    }
+  ],
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "description": "Un chef en una cocina de lujo batalla contra sus propios demonios. Cada crisis personal se convierte en un plato — y un cliente recurrente siempre está ahí para probar lo que quedó.",
+  "story_bible": {
+    "tone": "cálida, irónica, vulnerable",
+    "setting": "cocina de lujo contemporánea",
+    "timeline": {
+      "span": "varios encuentros",
+      "type": "narrative_act",
+      "unit": "acts",
+      "anchor": "primera visita del cliente recurrente"
+    },
+    "world_rules": [
+      "Cada emoción del cocinero se refleja en el plato que prepara",
+      "El cliente recurrente aparece siempre en los peores momentos",
+      "La cocina es blanca, perfecta, pero nunca contiene el caos"
+    ],
+    "visual_treatment": "soft pastel / editorial"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "En la cocina de lujo, cada plato es una confesión.",
+      "image_path": "images/hero.png",
+      "scene_text": "Marco observa sus manos trabajar como si pertenecieran a otra persona. Están temblando. Acaba de recibir un mensaje de su ex — una foto de la casa, sin explicación. Ahora está aquí, frente a una salsa que no sale, un plato que debería ser perfecto pero que huele a rabia.\n\nNo hay vuelta atrás. El cliente está en la mesa. Él está en la cocina. Y entre los dos, solo hay comida."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ella llega siempre cuando él está peor.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "VALENTINA observa la puerta de la cocina como si pudiera ver a través de ella. Su copa de vino está intacta. En la mesa, el primer plato acaba de llegar — algo que Marco preparó con las manos aún temblando por la llamada de hace veinte minutos.\n\nElla prueba. No sonríe. Simplemente prueba, y sigue mirando la cocina.\n\nMarco, del otro lado, siente su mirada como un peso."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El caos tiene un nombre, y Marco sabe el suyo.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Apoya la frente en el acero frío. Su hermana no va a estar lista para la cirugía a tiempo. No hay dinero. No hay Plan B.\n\nOye al sous chef gritando órdenes. Oye el ruido de las ollas. Oye a alguien decir: «La mesa cinco quiere hablar con el chef».\n\nMarco respira. Una. Dos veces.\n\nSe endereza. Vuelve al fuego."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Algunos platos dicen lo que las palabras no pueden.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Marco coloca el postre en la ventanilla. Es un desastre perfecto: merengue ligeramente desigual, el caramelo corriendo en una dirección que no planeó, pero que funciona. Una flor de chocolate en el borde, marchita a propósito.\n\n«Para la mesa cinco», dice sin mirar a nadie.\n\nEn la sala, Valentina ve llegar el plato. Levanta una ceja — apenas. Es la primera vez que algo en Marco la sorprende."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "A veces, lo único que necesitas es que alguien vea lo que estás haciendo.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Ella entra a la cocina después del servicio. El chef la ve pero no dice nada — en este lugar, eso es permitido solo una vez.\n\nVALENTINA camina hasta la ventanilla. Marco está aún allí, limpiando.\n\n«El postre», dice ella. «¿Eso eras tú?»\n\nMarco levanta la vista. Por primera vez, ve algo en su expresión que no es observación. Es reconocimiento."
+    }
+  ],
+  "cover_image": "worlds/el-cocinero-y-su-caos/images/hero.png"
+}
