@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-01T19:15:40.814433+00:00",
+  "generated_at": "2026-07-01T22:52:22.163719+00:00",
   "total_worlds": 32,
-  "total_branches": 35,
+  "total_branches": 36,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -922,6 +922,57 @@
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
       "branches": [
+        {
+          "branch_id": "b_9x7k2m",
+          "branch_slug": "marco-elige-presente",
+          "name": "Marco Elige Presente",
+          "description": "Cuando Diego irrumpe en la cocina, Marco se congela. Pero es Valentina quien rompe el silencio — y Marco, en respuesta, elige seguir cocinando. El acto más simple se convierte en la decisión más radical.",
+          "parent_branch": "b_rk4x8n",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T14:32:00Z",
+          "divergence_event": {
+            "description": "En lugar de hablar o confrontar, Marco permanece en silencio total. Valentina rompe ese silencio preguntando quién es Diego. Marco responde a ella, no a Diego, declarando su presente. Luego vuelve al fuego.",
+            "timeline_ref": "Diego irrumpe en la cocina; Marco se congela"
+          },
+          "cover_image": "worlds/el-cocinero-y-su-caos/branches/marco-elige-presente/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El silencio ensordecedor. Marco no habla. No grita. Simplemente elige.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/marco-elige-presente/images/hero.png",
+              "scene_text": "La puerta de la cocina se abre. Diego está ahí.\n\nMarco ve el traje arrugado, la cicatriz en la muñeca, los ojos buscando confirmación. Algo en el pecho de Marco se congela.\n\nNo hay palabras. Solo el fuego, ardiendo indiferente. Marco permanece congelado — un segundo que dura años. Sus manos suspendidas sobre el plato que estaba preparando. El tenedor de Valentina quieto en la mesa del comedor. Todos notan el cambio.\n\nEl silencio es ensordecedor."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ella rompe el silencio. No Marco. No Diego. Ella.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/marco-elige-presente/images/scene_1.png",
+              "scene_text": "Su silla raspa contra el piso del comedor. Un sonido que corta la tensión como un cuchillo.\n\nValentina se pone de pie. Sus ojos fijos en Diego. Todos los comensales se giran para observarla — esta mujer elegante que nunca pide nada, que solo observa, que nunca interviene.\n\nHasta ahora.\n\n\"¿Quién eres?\" pregunta en voz alta. No es casual. No es educada. Es una pregunta que exige respuesta — y que, de alguna manera, le permite a Marco respirar."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Sus ojos encuentran los de ella. Y Marco entiende que está siendo sostenido.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/marco-elige-presente/images/scene_2.png",
+              "scene_text": "Marco levanta la vista. Sus ojos encuentran los de Valentina — esa mujer que ha estado observándolo quebrase durante meses. Que ha visto sus peores noches reflejadas en cada plato. Que llegó precisamente cuando más lo necesitaba, sin que él lo supiera.\n\nEn ese instante, algo se recompone en él.\n\nMarco respira. Y habla."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "\"Fue mi pasado. Pero lo que está pasando en esta cocina es mi presente.\"",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/marco-elige-presente/images/scene_3.png",
+              "scene_text": "MARCO\nFue mi pasado. Pero lo que está pasando en esta cocina es mi presente.\n\nSu voz es firme. No defensiva. No una disculpa. Es una declaración.\n\nY entonces, sin esperar respuesta, se da la vuelta. Vuelve al fuego. Sus manos retoman el movimiento — preciso, seguro, sin titubeo."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Diego comprende que perdió. Y esa pérdida es, finalmente, la mejor noticia.",
+              "image_path": "worlds/el-cocinero-y-su-caos/branches/marco-elige-presente/images/scene_4.png",
+              "scene_text": "Diego se queda de pie. Solo. En el umbral.\n\nValentina regresa a su mesa y se sienta. El mesero vuelve a moverse. La cocina respira de nuevo.\n\nDiego observa a Marco trabajar — sus manos seguras, el fuego obedeciendo, el presente siendo cocinado en tiempo real. Y entiende, lentamente, que ya no es el centro de la gravedad. Que perdió.\n\nPero esa pérdida es, finalmente, la mejor noticia que pudo haber recibido. Marco no lo necesita. Y eso significa que Marco está libre."
+            }
+          ]
+        },
         {
           "branch_id": "b_rk4x8n",
           "branch_slug": "marco-entre-dos",
