@@ -1,0 +1,105 @@
+{
+  "name": "Caída Negra",
+  "slug": "detective-noir-caida",
+  "tags": [
+    "noir",
+    "thriller",
+    "corrupción",
+    "redención",
+    "detective",
+    "urbano",
+    "caída",
+    "soledad"
+  ],
+  "places": [
+    {
+      "name": "La Ciudad Nocturna",
+      "atmosphere": "amenaza constante, humedad, aislamiento, sin escape",
+      "reference_prompt": "A rain-slicked urban street at night seen from above, wet pavement reflecting broken streetlights, narrow alley between tall brick buildings with boarded windows, single neon sign flickering in distance, high-contrast noir with harsh blacks and whites and one red accent light, composition emphasizing the labyrinth of the city, vertical framing --ar 9:16",
+      "visual_description": "callejones mojados de lluvia, farolas amarillas apagadas, edificios de ladrillo decrépito, comisaría con luces fluorescentes, apartamento vacío de Voss con una única ventana, carreteras bajo viaductos",
+      "reference_image_path": "images/places/la-ciudad-nocturna.png"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_dknoir",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "DETECTIVE VOSS",
+      "arc_summary": "De funcionario corrupto que creía controlar el juego, a hombre que descubre que la redención existe pero requiere quebrarse completamente.",
+      "reference_prompt": "A worn detective in a rain-soaked coat standing alone in a dimly lit apartment, silhouette against a single window, hands in pockets, expression hardened by choices he can't undo, noir high-contrast style, dramatic side-lighting casting half his face in absolute shadow, vertical composition emphasizing isolation --ar 9:16",
+      "visual_description": "hombre de mediana edad, traje gris desgastado, cicatriz en la mejilla izquierda, mirada que ya vio demasiado, siempre en la sombra",
+      "reference_image_path": "images/characters/detective-voss.png"
+    },
+    {
+      "role": "antagonist",
+      "label": "MÁRQUEZ",
+      "arc_summary": "El que ofrece el soborno inicial; el poder sistémico que Voss creía poder manejar pero que lo consume.",
+      "reference_prompt": "A man in an expensive tailored suit sitting at a desk in a dark office, a single harsh light source casting his face half in shadow, hand extending an envelope across polished wood, expression cold and certain, high-contrast noir, tall frame emphasizing power and control --ar 9:16",
+      "visual_description": "oficialista de la comisaría, traje impecable, sonrisa que nunca llega a los ojos, el hombre que controla los hilos",
+      "reference_image_path": "images/characters/marquez.png"
+    }
+  ],
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "description": "Un detective corrupto acepta un soborno que lo arrastra a un crimen imprevisto. Su espiral de culpa, deuda y aislamiento lo lleva a las entrañas de la ciudad, donde descubre que la redención existe — pero cuesta todo lo que le queda.",
+  "story_bible": {
+    "tone": [
+      "despiadado",
+      "claustrofóbico",
+      "esperanza fina como vidrio"
+    ],
+    "setting": "ciudad nocturna, apartamentos sin luz, callejones, comisaría corrupta",
+    "timeline": {
+      "span": "una noche a varios meses",
+      "type": "narrative_act",
+      "unit": "acts",
+      "anchor": "El soborno y sus consecuencias"
+    },
+    "world_rules": [
+      "La corrupción es moneda corriente; nadie está limpio.",
+      "Cada elección tiene un precio de sangre, literal o moral.",
+      "La salida existe, pero requiere sacrificar todo lo que te define."
+    ],
+    "visual_treatment": "HIGH-CONTRAST NOIR COMIC"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El momento en que la mano se estira hacia el sobre y no hay retorno.",
+      "image_path": "images/hero.png",
+      "scene_text": "VOSS está en el almacén vacío, lluvia golpeando las ventanas rotas. El sobre está sobre la mesa. Fácil dinero, como Márquez dijo.\n\nPero hay alguien más aquí. Un cuerpo en la esquina.\n\nVoss entiende en ese instante que acaba de convertirse en algo que no puede deshacer."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Voss ya sabía que estaba podrido antes del soborno.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El apartamento de VOSS es un sepulcro con vistas. Botellas vacías, expedientes abiertos, fotos de crímenes que nunca cerró porque no le pagaron para cerrarlos.\n\nSu teléfono suena.\n\nMárquez. El trabajo está listo. Mañana por la noche."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Todos saben. Nadie dice nada.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "La comisaría nocturna es un mausoleo. Los oficiales que quedan ignoran a VOSS. O lo miran con una sonrisa que significa: \"Ya estás en esto\".\n\nMarquez espera en su despacho, puerta entreabierta.\n\nVoss sabe que cruzar ese umbral es la última puerta abierta hacia abajo."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La espiral no tiene fondo.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "VOSS se mueve por las calles bajo órdenes tácitas. Limpiar. Borrar. Olvidar.\n\nCada noche hay algo nuevo. Cada día el precio sube.\n\nLa ciudad ya no es su hogar. Es su tumba, y él apenas respirando dentro."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Redención existe. Pero no es gratis.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "En el sótano de un edificio abandonado, VOSS se encuentra cara a cara con la verdad: puede salirse. Hay una puerta.\n\nPero para abrirla tiene que quebrarse del todo. Confesar. Perder. Elegir ser humano otra vez.\n\nVoss cierra los ojos.\n\nY por primera vez en años, elige."
+    }
+  ],
+  "cover_image": "worlds/detective-noir-caida/images/hero.png"
+}
