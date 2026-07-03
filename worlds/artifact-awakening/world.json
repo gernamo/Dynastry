@@ -1,0 +1,105 @@
+{
+  "name": "Artifact Awakening",
+  "slug": "artifact-awakening",
+  "tags": [
+    "acción",
+    "aventura",
+    "descubrimiento",
+    "grupo coral",
+    "transformación",
+    "anime",
+    "magia antigua"
+  ],
+  "places": [
+    {
+      "name": "La Cámara del Artefacto",
+      "atmosphere": "solemne, energético, hipnótico, antiguo, despertador",
+      "reference_prompt": "Interior of a vast underground chamber: massive carved stone columns frame a central floating crystalline artifact pulsing with golden light, symbols glowing on walls, long shadows stretching across the floor. Wide establishing shot, high angle, cel-shaded anime, rich golds, deep purples and blacks, bold confident linework, dynamic off-center composition --ar 9:16",
+      "visual_description": "Bóveda subterránea inmensa, columnas de piedra tallada con símbolos que brillan. El artefacto flota en el centro: forma cristalina, luz pulsante que proyecta sombras largas. Aire denso, casi cálido.",
+      "reference_image_path": "images/places/la-camara-del-artefacto.png"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_artfct",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "CAZADOR",
+      "arc_summary": "De superviviente solitario a ancla del grupo; su habilidad es la clarividencia — ve el camino que otros no ven.",
+      "reference_prompt": "A lone wanderer in weathered travel clothes, standing at the edge of ancient ruins at dusk, wind catching their long tied-back hair, one hand touching a crumbling stone wall covered in faint glowing symbols. Dynamic low angle, cel-shaded anime style, bold confident linework, saturated golds and deep purples, energetic asymmetrical composition --ar 9:16",
+      "visual_description": "Silueta delgada, atuendo de viajero gastado, cicatrices visibles. Movimiento rápido, alerta. Cabello largo atado atrás.",
+      "reference_image_path": "images/characters/cazador.png"
+    },
+    {
+      "role": "support",
+      "label": "FORJADORA",
+      "arc_summary": "Ingeniera y estratega; su habilidad es la materialización — puede dar forma a la energía del artefacto en armas o escudos.",
+      "reference_prompt": "A broad-shouldered figure with strong hands gripping glowing crystalline fragments that float around them, sparks and energy spiraling in dynamic arcs. Medium shot from the side, cel-shaded anime, bold saturated reds and electric blues, sharp energetic linework, upward compositional thrust --ar 9:16",
+      "visual_description": "Complexión robusta, manos fuertes, ropa de trabajador. Ojos penetrantes. Pelo corto o rapado. Movimiento directo, sin duda.",
+      "reference_image_path": "images/characters/forjadora.png"
+    }
+  ],
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "description": "Un grupo de aventureros descubre un artefacto antiguo que despierta habilidades dormidas en cada uno. El viaje es aprender a usarlas juntos y descubrir por qué fueron elegidos.",
+  "story_bible": {
+    "tone": [
+      "épico",
+      "íntimo",
+      "energético",
+      "transformador"
+    ],
+    "setting": "Ruinas antiguas, ciudades perdidas, caminos entre mundos",
+    "timeline": {
+      "span": "De extraños a hermanos de batalla",
+      "type": "narrative_act",
+      "unit": "acts",
+      "anchor": "El momento del descubrimiento del artefacto"
+    },
+    "world_rules": [
+      "El artefacto es consciente — elige a quien despierta",
+      "Las habilidades emergen en crisis, no por entrenamiento",
+      "El grupo no es una familia al inicio; se vuelve familia por necesidad y descubrimiento"
+    ],
+    "visual_treatment": "CEL-SHADED / ANIME"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El artefacto despierta. Ellos despiertan con él.",
+      "image_path": "images/hero.png",
+      "scene_text": "La cámara tiembla. La luz dorada brota del cristal flotante como un corazón que late por primera vez en milenios. Los cinco extraños se agachan, protegiendo sus ojos, pero no pueden mirar hacia otro lado. El aire se calienta. Las paredes brillan con símbolos que cobran vida.\n\nCada uno siente algo romperse adentro — no duele. Es liberación. Es reconocimiento. Es como si una puerta que nunca supieron que estaba sellada acabara de abrirse dentro de sus propios cuerpos.\n\nNadie habla. No hay palabras para esto."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El Cazador ve lo que otros no ven: cada camino, cada futuro posible.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "CAZADOR abre los ojos y el mundo se desdobla.\n\nNo son visiones — son certezas. Ve el pasillo a la izquierda bifurcarse en tres direcciones; cada una lleva a un lugar diferente, a un destino diferente. Ve el futuro de los que caminan a su lado, líneas brillantes que se trenzan y se separan.\n\nLa habilidad no es poder — es carga. Ver todos los caminos significa saber que alguno lleva a la muerte. Alguno lleva al grupo a la ruina.\n\nPero uno... uno los lleva a la verdad.\n\nCAZADOR cierra los ojos. Respira. Y por primera vez en su vida, sabe exactamente dónde ir."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La Forjadora no recibe poder — lo genera. Lo forja.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "FORJADORA levanta las manos y la energía obedece.\n\nNo es magia como la entienden en los viejos libros. Es más puro. Es como si tocara algo primordial — la materia misma antes de que tuviera forma — y la moldeara con su voluntad. Fragmentos de luz cristalina se retuercen en el aire, chisporrotean, convergen.\n\nEn sus manos germina un escudo. Luego una lanza. Luego formas que no tienen nombre en ningún idioma conocido.\n\nFORJADORA mira sus propias manos como si fueran las manos de alguien más. Pero no hay miedo. Solo reconocimiento.\n\nDurante años construyó cosas para sobrevivir. Ahora construye cosas para defenderse. Para defender a los demás.\n\nLa diferencia es todo."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El grupo se forma. Las preguntas se hunden más profundo.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Se reúnen en silencio alrededor del artefacto, cinco extraños que ya no son extraños.\n\nUNO: ¿Por qué nosotros?\n\nOTRO: ¿Quién nos eligió?\n\nTERCERO: ¿Y si el artefacto no nos elige? ¿Y si simplemente... usa?\n\nNo hay respuestas. El artefacto palpita pero no habla. O quizás habla en un idioma que aún no comprenden.\n\nCAZADOR mira los caminos futuros. Ve grietas en todos ellos. Ve momentos donde el grupo se quiebra.\n\nPero también ve momentos donde se sostienen mutuamente. Donde la transformación no es individual — es colectiva. Donde ser elegido significa cargar juntos con lo elegido."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El viaje comienza. El verdadero descubrimiento está afuera.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Cruzan el umbral juntos.\n\nLa luz del mundo exterior los cega por un momento. El aire huele diferente. El cielo es más alto de lo que cualquiera recordaba.\n\nCAZADOR siente los caminos abrirse ante ellos: ciudades perdidas, enemigos que aún no tienen rostro, secretos enterrados hace milenios que el artefacto quiere que despierten.\n\nFORJADORA aprieta sus manos, sintiendo la energía lista, esperando, hambriente.\n\nLos otros cuatro, cada uno transformado de formas que aún no comprenden, miran adelante.\n\nNadie sabe qué viene. Pero por primera vez, nadie tiene miedo de enfrentarlo solo. Porque no están solos.\n\n¿Pero cuánto tiempo durará eso? ¿Y qué precio tendrán que pagar para mantener la unidad?"
+    }
+  ],
+  "cover_image": "worlds/artifact-awakening/images/hero.png"
+}
