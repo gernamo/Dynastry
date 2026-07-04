@@ -1,0 +1,105 @@
+{
+  "name": "Nave Atrapada",
+  "slug": "nave-atrapada",
+  "tags": [
+    "sci-fi",
+    "thriller",
+    "desolation",
+    "survival",
+    "mystery",
+    "space"
+  ],
+  "places": [
+    {
+      "name": "Nave Carguera Abandondada",
+      "atmosphere": "desolate, claustrophobic, beautiful decay, timeless",
+      "reference_prompt": "Wide establishing shot of the ship's main cargo hold: towering metal structures, massive loading arms frozen mid-motion, a wall of observation windows showing deep space beyond. Single overhead light panel flickers weakly. Cinematic gouache with visible brushstrokes, dramatic motivated lighting from the space beyond creating volumetric shadows, rich palette of steel grays, deep purples, and amber, film production painting --ar 9:16",
+      "visual_description": "Interior metalico decayendo: paneles rotos, cables colgando, sistemas de iluminacion parpadeantes. Aire espeso con polvo metalico. Ventanas astilladas revelan el vacio del espacio. Conductos de ventilacion enormes, camaras de carga vastas, pasillos que se pierden en oscuridad.",
+      "reference_image_path": "images/places/nave-carguera-abandondada.png"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_nvtrd7",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "CAZADOR",
+      "arc_summary": "De la avaricia a la lucha por sobrevivir; cada descubrimiento lo revela como intruso en un misterio que lo supera.",
+      "reference_prompt": "A lone figure in a weathered expedition suit, flashlight beam cutting through rust-colored darkness, standing in a vast cargo bay filled with floating debris and shadows. Back against a cold metal wall, studying a sealed door. Cinematic gouache with visible brushstrokes, dramatic sidelighting from broken overhead panels casting long shadows, rich palette of ochre, deep blue, and rust, film production painting --ar 9:16",
+      "visual_description": "Figura solitaria, traje de expedicion desgastado, armas de supervivencia basicas. Movimiento cauteloso, ojos que rastrean sombras. De espaldas frecuentemente, silhueta contra luces rotas de la nave.",
+      "reference_image_path": "images/characters/cazador.png"
+    },
+    {
+      "role": "antagonist",
+      "label": "PRESENCIA",
+      "arc_summary": "Entidad adaptada al ambiente abandondado de la nave; protege un territorio que ha reclamado como suyo durante decadas.",
+      "reference_prompt": "Atmospheric shot of a ship's ventilation duct system, shadows pooling in corners, a single glint of something organic catching light deep within the darkness. Implied movement, absence of clarity. Cinematic gouache, high-contrast motivated lighting from single source, palette of deep blacks, sickly greens, and silver, visible brushwork suggesting dread --ar 9:16",
+      "visual_description": "Nunca completamente visible. Sugerida por movimiento rapido, formas en la penumbra, sonidos biologicos distorsionados. Presencia depredadora que habita los conductos y areas selladas.",
+      "reference_image_path": "images/characters/presencia.png"
+    }
+  ],
+  "created_at": "2026-05-22T14:32:00Z",
+  "created_by": "@germanna",
+  "description": "Un buscador de fortuna llega a una nave espacial abandonada en busca de botin, pero queda atrapado mientras descubre que no esta solo. Algo acecha en la oscuridad, y cada decision lo acerca mas a la verdad que rodea el abandono de la nave.",
+  "story_bible": {
+    "tone": [
+      "desolation",
+      "dread latente",
+      "mystery",
+      "atmósfera"
+    ],
+    "setting": "Interior de una nave espacial de carga, varios decks, sistemas degradados. Espacio exterior visible a traves de ventanas rotas.",
+    "timeline": {
+      "span": "72 horas dentro de la nave",
+      "type": "narrative_act",
+      "unit": "acts",
+      "anchor": "Llegada del cazafortunas"
+    },
+    "world_rules": [
+      "La nave ha estado abandonada aproximadamente 40 anos, sistemas en degradacion progresiva",
+      "Las comunicaciones estan cortadas; no hay forma de llamar ayuda desde el interior",
+      "Algo biologico acecha en los conductos y areas no exploradas; inteligencia depredadora",
+      "La atmósfera es respirable pero degradada; O2 limitado en ciertas zonas"
+    ],
+    "visual_treatment": "Cinematic Gouache"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Llegada a la fortuna.",
+      "image_path": "images/hero.png",
+      "scene_text": "La silueta de CAZADOR emerge de la oscuridad del espacio, aproximandose lentamente a la nave. Su luz de casco ilumina cicatrices en el casco metalico — desgarres sellados, marcas de impactos antiguos. El silencio es absoluto, hermoso, prometedor. No hay movimiento. No hay señales de vida.\n\nEs perfecto.\n\nSe acopla al puerto de acceso, y las compuertas interiores responden lentamente, como si despertaran de un sueno largo."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Lo que se dejo atras.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "CAZADOR baja de la escotilla de emergencia hacia la vastedad de la bodega de carga. Sus botas tocan metal frio. Las luces parpadeantes crean una danza de sombras que su mente intenta llenar de significado.\n\nEso es cuando ve la herramienta. Una llave inglesa, reciente, caida como si alguien acabara de soltarla hace horas. No hace decadas. El polvo metalico que la rodea es fresco.\n\nSu respiracion se acelera. La avaricia se mezcla con algo mas — una inquietud que aun no reconoce como miedo."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La nave respira.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "CAZADOR recorre los pasillos de los quarters. Las paredes estan marcadas. No por oxidacion uniforme, sino por algo sistematico — lineas profundas, paralelas, como si algo se hubiera arrastrado repetidamente contra el metal.\n\nEntra a una seccion sellada. Las puertas se cierran atras de el con un siseo final.\n\nPor primera vez, intenta su comunicador. Solo estatica distorsionada, casi como un pulso biologico. La nave tiene poder aun. Tiene sistemas.\n\nY ahora, esos sistemas lo tienen a el."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Atrapado.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "CAZADOR corre hacia las compuertas principales. Intenta sellarlas manualmente. El panel de control no responde — o no quiere responder.\n\nUna sombra se mueve en el pasillo detras de el, demasiado rapida, demasiado fluida para ser humano.\n\nSe lanza hacia la ventana observatorio. El vacio del espacio lo mira fijo. Golpea el cristal. Nada. El vacio no escucha gritos.\n\nUna respiracion que no es suya resuena en los conductos de ventilacion arriba. Algo esta cazando. Y el es la presa."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La verdad de la nave.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "CAZADOR llega a la sala de comando. Lo que encuentra lo paraliza.\n\nRestos. Antiguos, deshidratados, dispersos como si el tiempo mismo los hubiera esparcido. Pero no. Las marcas de garras en las paredes, el polvo fresco alrededor de los huesos — algo los ha estado estudiando. Moviendolos. Jugando.\n\nUn registro de video aun funciona. Temblorosas imagenes: la tripulacion original, sanamente, registrando una colision, un impacto, algo que penetro los muros. Luego, dias despues, cambios — mutaciones en el aire reciclado, algo que crecio en los sistemas biologicos de la nave.\n\nY en el ultimo registro: gritos, y una sombra que la camara no pudo capturar, solo el sonido de algo tragando.\n\nCazador ahora sabe. La nave no lo atrapó por accidente.\n\nLa nave lo estaba esperando."
+    }
+  ],
+  "cover_image": "worlds/nave-atrapada/images/hero.png"
+}
