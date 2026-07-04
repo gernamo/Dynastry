@@ -1,0 +1,9 @@
+La Cámara del Artefacto palpita detrás de ellos. El grupo emerge a los corredores de ruina, aún vibrando con el peso de lo que acaban de tocar, aún sin comprender del todo qué significa ser elegidos. Cazador va primero, olfateando el aire como siempre. Forjadora cierra la marcha, sus manos aún cálidas por la energía que acaba de materializar.
+
+No llegan lejos. Las sombras entre las piedras se retuercen — no como sombras ordinarias, sino como algo vivo, algo que respira. Consumidor emerge no con violencia, sino con elegancia: pasos lentos, sedas rasgadas flotando alrededor de su figura, vetas negras serpenteando bajo su piel pálida. Sonríe. Ha estado esperando.
+
+"Qué hermoso", dice, y su voz es miel envenenada. "El artefacto despierta y envía a niños. Perfectamente predecible." No los ataca de frente. Los juega como piezas. Lanza una onda de penumbra que los dispersa, los separa, los aleja de la Cámara. Cazador ve el tablero — ramificaciones de futuro que se multiplican. Si luchan aquí, pierden. Si corren, Consumidor los sigue hasta el santuario. Cualquier movimiento cuesta sangre.
+
+Forjadora siente el pánico en sus compañeros. Ve a Cazador paralizado por visiones, ve las sombras cerrándose. Y en ese instante de caos puro, algo se abre en ella — no es defensa, no es escudo. Es hambre de acción. Sus manos se mueven sin pensar y materializa no una barrera, sino una **lanza de energía pura**, una forma que nunca supo que podía existir. La energía del artefacto responde a ella como si fuera parte de su cuerpo. No protege — **ataca**.
+
+Consumidor retrocede, sorprendido. Por primera vez, la sonrisa desaparece de su rostro. Y Forjadora, respirando con furia, entiende en ese momento que no está hecha para escudos. Está hecha para **conquista**.
