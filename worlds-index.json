@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-04T07:07:50.539966+00:00",
+  "generated_at": "2026-07-04T07:24:28.919847+00:00",
   "total_worlds": 34,
-  "total_branches": 36,
+  "total_branches": 37,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -327,7 +327,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_cnsm01",
+          "branch_slug": "la-emboscada-de-consumidor",
+          "name": "La Emboscada de Consumidor",
+          "description": "Consumidor tiende una trampa fuera de la Cámara. El grupo cae en su juego. En el caos, Forjadora descubre que puede crear más que escudos — y esa verdad cambia todo.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Consumidor no ataca en la Cámara. Sale a cazarlos, los atrae lejos del santuario, revela su verdadera naturaleza y su sed de poder. El grupo, vulnerable fuera de la Cámara, improvisa en el pánico.",
+            "timeline_ref": "Inmediatamente después del despertar del artefacto"
+          },
+          "cover_image": "worlds/artifact-awakening/branches/la-emboscada-de-consumidor/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Consumidor reconoce su amenaza. Forjadora reconoce su poder.",
+              "image_path": "worlds/artifact-awakening/branches/la-emboscada-de-consumidor/images/hero.png",
+              "scene_text": "CONSUMIDOR\nQué hermoso. El artefacto despierta y envía a niños.\n\nFORJADORA\n(respirando profundo, manos brillando)\nNo somos niños.\n\nLa energía del artefacto responde a sus dedos. No protege. Ataca."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Dejan la Cámara sin saber que ya están siendo observados.",
+              "image_path": "worlds/artifact-awakening/branches/la-emboscada-de-consumidor/images/scene_1.png",
+              "scene_text": "El grupo avanza por los corredores de ruina. El artefacto palpita detrás de ellos — una presencia que acaban de tocar, que los ha tocado a ellos. Cazador respira el aire antiguo, buscando amenazas que aún no puede ver.\n\nNo llegan lejos."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Las sombras no son sombras ordinarias. Son su juego.",
+              "image_path": "worlds/artifact-awakening/branches/la-emboscada-de-consumidor/images/scene_2.png",
+              "scene_text": "CONSUMIDOR\nQué hermoso. El artefacto despierta y envía a niños. Perfectamente predecible.\n\nNo ataca de frente. Juega. Una onda de penumbra los dispersa, los separa. Cazador ve el tablero — ramificaciones que se multiplican. Si luchan aquí, pierden. Si corren, Consumidor los sigue a la Cámara.\n\nCualquier movimiento cuesta sangre."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "No está hecha para escudos. Está hecha para esto.",
+              "image_path": "worlds/artifact-awakening/branches/la-emboscada-de-consumidor/images/scene_3.png",
+              "scene_text": "FORJADORA\n(sin pensar, movimiento puro)\n¡No!\n\nSus manos se mueven. Materializa no una barrera, sino una lanza — energía pura tomando forma de ataque. La energía del artefacto responde a ella como si fuera parte de su cuerpo.\n\nConsumidor retrocede. Por primera vez, la sonrisa desaparece."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "¿Quién es realmente? El artefacto acaba de contestar.",
+              "image_path": "worlds/artifact-awakening/branches/la-emboscada-de-consumidor/images/scene_4.png",
+              "scene_text": "Forjadora respira con furia. Sus manos tiemblan, pero no de miedo. Cazador sale del trance de visiones y ve a su compañera con ojos nuevos.\n\nElla baja los brazos lentamente. La energía se disipa. Pero en el silencio, una pregunta sin respuesta: ¿qué más puede crear? ¿Qué más es ella?\n\nConsumidor se retira a las sombras, observando. Esperando."
+            }
+          ]
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
