@@ -1,0 +1,99 @@
+{
+  "name": "El Despertar del Trío",
+  "tags": [
+    "sincronización",
+    "despertar coral",
+    "batalla épica",
+    "ruptura",
+    "transformación",
+    "anime",
+    "momento mágico"
+  ],
+  "status": "developing",
+  "world_id": "w_artfct",
+  "branch_id": "b_trio01",
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "el-despertar-del-trio",
+  "description": "Cuando Forjadora ataca, despierta el poder latente en Cazador y en un joven escudero leal. Por un instante, los tres se sincronizan en batalla perfecta contra Consumidor. Luego, todo se desmorona.",
+  "parent_slug": "artifact-awakening",
+  "is_canonical": false,
+  "parent_branch": "b_cnsm01",
+  "new_characters": [
+    {
+      "role": "support",
+      "label": "ESCUDERO",
+      "arc_summary": "De criado invisible a ancla física del poder trío; descubre que su lealtad es fuerza literal — y que el precio de brillar es sangrar solo.",
+      "reference_prompt": "A muscular young squire with calloused hands and loyal eyes, standing in a ready stance amid ancient ruins, warm light catching the sweat on his arms, cel-shaded anime style, determined expression, full-body three-quarter view, energetic and grounded --ar 9:16",
+      "visual_description": "Joven musculoso, complexión robusta, ropas de servidor desgastadas. Cicatrices de trabajo manual en los brazos. Mirada leal, sin astucia — genuino en su devoción. Cabello corto, oscuro. Movimientos directos, sin elegancia pero sin vacilación."
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "El poder ofensivo de Forjadora no solo la transforma a ella — despierta una sincronización en cadena. Cazador ve el futuro con claridad cristalina. El Escudero canaliza su fuerza colosal. Juntos, son invencibles por un segundo. Pero la sincronización tiene un precio.",
+    "timeline_ref": "Instantes después del ataque de Forjadora"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "El silencio después de la sincronización rota"
+    },
+    "start": {
+      "order": 1,
+      "marker": "La lanza de energía de Forjadora atraviesa el aire"
+    },
+    "continues_from": "b_cnsm01",
+    "divergence_question": "¿Qué sucede cuando tres mentes y tres poderes latén como uno — y luego se desgarran?"
+  },
+  "inherited_from_canon": {
+    "tone": "épico, íntimo, energético, transformador",
+    "places_used": [
+      "Ruinas Antiguas"
+    ],
+    "characters_used": [
+      "CAZADOR",
+      "FORJADORA",
+      "CONSUMIDOR"
+    ],
+    "visual_treatment": "cel-shaded / anime"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Un instante de poder perfecto.",
+      "image_path": "images/hero.png",
+      "scene_text": "FORJADORA, CAZADOR, y ESCUDERO se sincronizan. No son tres personas — son un solo instrumento de batalla. La energía fluye entre ellos sin fricción, sin pregunta. Cada movimiento anticipa el siguiente. La victoria es matemática.\n\nCONSUMIDOR retrocede, acorralado. Por primera vez, verdaderamente acorralado."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Las visiones lo atraviesan como un rayo.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "CAZADOR: \"Veo... veo todo. Cada paso. Cada sombra.\"\n\nLas visiones no son gentiles. Son torrentes de tiempo, ramificaciones de futuro tan densas que amenazan con sepultarlo. Pero esta vez son claras. No fragmentos opacos — geometría pura. Y en el centro: la victoria. La pueden ganar. Todos pueden."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La fuerza era siempre suya.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "ESCUDERO alza los brazos. Una piedra de la ruina — del tamaño de un hombre — se levanta como si fuera aire. Su cuerpo brilla desde adentro. No es magia delicada como Forjadora. Es fuerza bruta, potencia pura, el artefacto despertando lo que siempre estuvo dormido en sus músculos.\n\nESCUDERO: \"¡Estoy aquí! ¡Estoy listo!\"\n\nPor primera vez, siente que importa. Que es más que un servidor."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El enemigo cae.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "La lanza de FORJADORA y la piedra del ESCUDERO impactan simultáneamente. CONSUMIDOR se estampa contra la ruina, sin escape, sin elegancia. La sincronización los hace perfectos.\n\nVICTORIA. Está ahí. Al alcance de una mano.\n\nPero la mano tiembla."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El precio se cobra.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "ESCUDERO cae primero. Sus piernas ceden. La fuerza que lo atravesaba se quema como una vela demasiado brillante.\n\nCazador grita. Las visiones no se detienen — continúan, espirales hacia adelante, mostrándole cosas que no quiere ver. FORJADORA siente que la energía se desgarra en sus manos, como si algo se rompiera en la fuente.\n\nLa sincronización no fue unión. Fue consumo. Y aún se está cobrando."
+    }
+  ],
+  "cover_image": "worlds/artifact-awakening/branches/el-despertar-del-tro/images/hero.png"
+}
