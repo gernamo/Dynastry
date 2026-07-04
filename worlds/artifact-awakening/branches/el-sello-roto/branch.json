@@ -1,0 +1,90 @@
+{
+  "name": "El Sello Roto",
+  "tags": [
+    "transformación",
+    "alianza forzada",
+    "horror antiguo",
+    "supervivencia",
+    "decisión imposible",
+    "poder anterior"
+  ],
+  "status": "developing",
+  "world_id": "w_artfct",
+  "branch_id": "b_sllrd01",
+  "created_at": "2026-05-22T14:32:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "el-sello-roto",
+  "description": "Forjadora descubre que su poder es anterior al artefacto mismo. Cuando crea la lanza, no solo ataca a Consumidor — rompe un sello milenario. Lo que emerge los hace aliados involuntarios contra algo que ni siquiera Consumidor podía nombrar.",
+  "parent_slug": "artifact-awakening",
+  "is_canonical": false,
+  "parent_branch": "b_embsc01",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "En lugar de un escudo, la energía que libera es antigua — más antigua que el artefacto. Rompe un sello que contenía algo que el mundo olvidó.",
+    "timeline_ref": "El momento en que Forjadora materializa la lanza en pánico"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "Tres supervivientes bajo la luna, enfrentando una elección imposible"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Forjadora ataca a Consumidor"
+    },
+    "continues_from": "b_embsc01",
+    "divergence_question": "¿Qué ocurre cuando un poder antiguo se despierta antes de su tiempo? ¿Y qué precio pagan los vivos por saberlo?"
+  },
+  "inherited_from_canon": {
+    "tone": "épico, íntimo, energético, transformador",
+    "places_used": [
+      "La Cámara del Artefacto"
+    ],
+    "characters_used": [
+      "CAZADOR",
+      "FORJADORA",
+      "CONSUMIDOR"
+    ],
+    "visual_treatment": "cel-shaded / anime"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "No era un escudo. Nunca fue un escudo. Era un despertador.",
+      "image_path": "images/hero.png",
+      "scene_text": "FORJADORA\n(Los brazos aún temblando)\nYo no... no hice eso.\n\nCONSUMIDOR\n(Gritando)\n¡Corre!\n\nLa grieta se expande. Las piedras gritarían si pudieran. Y en el silencio que sigue, antes de que comience el caos, todos entienden lo mismo: algo despierta que no debería."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Cazador ve los caminos. Todos convergen en el mismo punto: huir o no existir.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Los sentidos de Cazador explotan. Cientos de futuros simultáneos, ramificaciones que se multiplican y se cierran una tras otra, todas excepto una: movimiento.\n\nForjadora aún respira fuerte, adrenalina quemando sus venas. Sus manos zumban con una energía que reconoce como suya pero que no siente como propia. El artefacto está detrás de ellos, palpitante. Pero lo que emerge de la grieta es más antiguo. Mucho más antiguo.\n\nConsumidor estira la mano — no hacia ellos, sino hacia las ruinas que se desmoronan. Su boca se abre como si quisiera gritar un nombre que nadie debería recordar."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Sin nombre. Sin intención. Solo hambre y milenios de sed.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "CONSUMIDOR\n¡El pasaje lateral! ¡Ahora!\n\nPor primera vez, Cazador ve a Consumidor como lo que realmente es: aterrado. Tan aterrado como ellos.\n\nLo Sellado no ataca — no necesita. Su presencia envejece todo a su alrededor. Las piedras se desintegran en polvo. El aire se vuelve denso, sofocante, como si el tiempo colapsara hacia un punto de gravedad imposible. Forjadora siente cómo su propio cuerpo envejece por milisegundos, cómo sus venas se marchitan y regeneran, una y otra vez.\n\nNo hay elección. Solo fuga."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Salen por centímetros. Lo Sellado respira bajo las ruinas.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "CAZADOR\n(Gritando)\n¡Más rápido!\n\nEl pasaje se desmorona — no por Lo Sellado, sino porque el mundo alrededor de su presencia se desintegra. Cazador es el último en cruzar el umbral. Ve el futuro cerrarse: la salida se sella a sus espaldas con roca y polvo.\n\nForjadora cae a la hierba mojada de la noche, jadeando, las manos aún vibrando con poder que ahora sabe que nunca le perteneció al artefacto. Su propia historia acaba de cambiar. Su propio pasado acaba de reescribirse.\n\nConsumidor se levanta, la piel pálida casi luminiscente bajo la luna. No dice nada. Pero sus ojos mirando hacia las ruinas dicen todo: esto no es victoria. Es aplazamiento."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Vivos. Pero el sello está roto. Y la pregunta que no pueden ignorar es simple: ¿a dónde va ahora?",
+      "image_path": "images/scene_4.png",
+      "scene_text": "FORJADORA\n(Mirando sus manos)\nCazador... ese poder no era del artefacto.\n\nCAZADOR\n(Respirando pesado)\nNo. Era más antiguo.\n\nCONSUMIDOR\n(Hacia la noche)\nTenemos dos caminos. Huir lejos, construir una nueva vida, y esperar que no nos encuentre. O volver y buscar respuestas sobre lo que hizo el sello, por qué fue creado, qué es lo que desatamos.\n\nNadie quiere volver. Todos saben que la verdad está ahí abajo.\n\nEn las ruinas, en la penumbra bajo la tierra, algo respira. Recuerda. Y en la distancia, muy lentamente, comienza a moverse. No hacia las ruinas. Hacia el mundo vivo."
+    }
+  ],
+  "cover_image": "worlds/artifact-awakening/branches/el-sello-roto/images/hero.png"
+}
