@@ -1,0 +1,89 @@
+{
+  "name": "Ruptura y Rechazo",
+  "tags": [
+    "ruptura",
+    "destino",
+    "sacrificio",
+    "clarividencia",
+    "confianza rota y reconstruida",
+    "rechazo del poder"
+  ],
+  "status": "developing",
+  "world_id": "w_artfct",
+  "branch_id": "b_7k9m2x",
+  "created_at": "2026-05-22T14:32:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "ruptura-y-rechazo",
+  "description": "Cuando la verdad sobre el fuego de Forjadora emerge, Cazador ve en su clarividencia que ella fue elegida para destruir. Al aceptarla, rechaza el artefacto — y se niega a ser títere de un destino escrito.",
+  "parent_slug": "artifact-awakening",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Cazador usa su clarividencia para entender por qué Forjadora quemó la ciudad y descubre que fue destino del artefacto, no elección suya. En lugar de aceptar ese poder, lo rechaza.",
+    "timeline_ref": "En las ruinas, después de la revelación"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "Cazador rompe su vínculo con el artefacto"
+    },
+    "start": {
+      "order": 1,
+      "marker": "La confesión en las ruinas"
+    },
+    "diverges_from": "canon",
+    "divergence_question": "¿Qué pasa cuando un elegido se niega a serlo?"
+  },
+  "inherited_from_canon": {
+    "tone": "épico, íntimo, energético, transformador",
+    "places_used": [
+      "La Cámara del Artefacto"
+    ],
+    "characters_used": [
+      "CAZADOR",
+      "FORJADORA"
+    ],
+    "visual_treatment": "cel-shaded anime style, bold confident linework, flat shading, saturated palette, energetic asymmetrical splash-page composition"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Cazador rechaza el destino que le fue escrito.",
+      "image_path": "images/hero.png",
+      "scene_text": "CAZADOR mira el artefacto que flota en el centro de la Cámara. Su clarividencia muestra todos los caminos posibles, todos los que ya fueron elegidos para él. Siente el peso de milenios de designio.\n\nY dice no.\n\nLa palabra resuena. El artefacto se contrae, su luz parpadeando como si hubiera sido golpeado. Los símbolos en las columnas se oscurecen."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Forjadora confiesa lo que no pudo elegir.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "FORJADORA respira hondo. Sus manos tiemblan.\n\nFORJADORA: No fue accidente. No fue rabia. Fue... necesidad.\n\nCazador ve los caminos bifurcados. En cada uno, la ciudad arde. El artefacto ya lo sabía. Había estado esperando este momento desde antes de que ella naciera."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Cazador la acepta. Forjadora fue víctima y victimaria.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Cazador cruza la distancia que las ruinas querían que existiera. Abraza a Forjadora en la penumbra, sus brazos alrededor de ella como ancla.\n\nCAZADOR: No fuiste libre. Pero mereces ser aceptada.\n\nPero la clarividencia no se detiene. Muestra a Cazador su propio camino. Ve su futuro trazado: estratega, ancla, títere perfecto de una máquina milenaria."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ve la jaula en la que todos viven.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "La clarividencia muestra a Cazador su propio destino. Las cadenas que él tampoco eligió. La máquina antigua que los eligió a todos.\n\nCAZADOR (respiración entrecortada): Todos... todos somos peones.\n\nSuelta a Forjadora. Se gira hacia el artefacto que flota en el silencio, pulsante, hermoso, hambriento."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Cazador elige la ceguera. Elige la libertad.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "CAZADOR: No.\n\nLa palabra resuena como trueno en la Cámara del Artefacto. La clarividencia se quiebra. La luz se extingue.\n\nCazador cae a oscuras, ciego por primera vez en semanas. Los caminos bifurcados desaparecen. El futuro escrito se disuelve.\n\nY por primera vez en su vida, está solo. Completamente solo.\n\nPero está libre."
+    }
+  ],
+  "cover_image": "worlds/artifact-awakening/branches/ruptura-y-rechazo/images/hero.png"
+}
