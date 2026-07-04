@@ -37,6 +37,14 @@
       "reference_prompt": "A broad-shouldered figure with strong hands gripping glowing crystalline fragments that float around them, sparks and energy spiraling in dynamic arcs. Medium shot from the side, cel-shaded anime, bold saturated reds and electric blues, sharp energetic linework, upward compositional thrust --ar 9:16",
       "visual_description": "Complexión robusta, manos fuertes, ropa de trabajador. Ojos penetrantes. Pelo corto o rapado. Movimiento directo, sin duda.",
       "reference_image_path": "images/characters/forjadora.png"
+    },
+    {
+      "label": "CONSUMIDOR",
+      "role": "antagonist",
+      "visual_description": "figura alta y esbelta con rasgos aristocráticos erosionados por la corrupción; piel pálida con vetas de sombra negra que serpentean bajo la superficie; viste sedas rasgadas y ornamentos antiguos de oro oscurecido; ojos que brillan con hambre de poder; aura de penumbra que se expande cuando despierta sus poderes",
+      "arc_summary": "Consumidor emerge de las ruinas para apoderarse de los artefactos y consumir su poder, enfrentándose inevitablemente a Cazador y Forjadora en su búsqueda de dominación absoluta.",
+      "reference_prompt": "tall aristocratic figure corrupted by shadow, dark elegant robes tattered and worn, void spreading from their form | [ancient ruins, swirling darkness, dramatic backlighting] ::9 style | cel-shaded anime ::8 mood | epic, menacing, transformative ::7 --ar 9:16",
+      "reference_image_path": "images/characters/consumidor.png"
     }
   ],
   "created_at": "2026-05-22T14:30:00Z",
