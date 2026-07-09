@@ -1,0 +1,101 @@
+{
+  "name": "Punto de Quiebre",
+  "slug": "voley-rivals",
+  "tags": [
+    "acción",
+    "rivalidad",
+    "deporte",
+    "vóley",
+    "drama visceral",
+    "competencia",
+    "parejas"
+  ],
+  "places": [
+    {
+      "name": "Cancha de Vóley — Gimnasio Central",
+      "atmosphere": "eléctrica, cruda, competitiva",
+      "reference_prompt": "Wide establishing shot of a professional volleyball gym, court lines sharp and precise, net in focus center-frame, overhead lights creating stark shadows, empty bleachers in soft focus background, cel-shaded anime style, neon-white and deep blue palette, geometric composition emphasizing the court's boundaries, feeling of contained intensity --ar 9:16",
+      "visual_description": "Líneas de cancha nítidas bajo luces de neón-blanco, redes tensas como cuerdas de guitarra, bancos de suplentes en sombra, tablero de puntuación reflejándose en los pisos pulidos. Olor a sudor y determinación.",
+      "reference_image_path": "images/places/cancha-de-voley-gimnasio-central.png"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_vr7k2m",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "SARA",
+      "arc_summary": "Compite contra todo — incluida ella misma — hasta que entiende que ganar sola es perder lo que importa.",
+      "reference_prompt": "Athletic volleyball player in mid-jump, arm extended for a set, explosive dynamic motion frozen mid-air, cel-shaded anime style, bold saturated colors, sharp confident linework, energetic asymmetrical composition, soft evening gym light casting sharp shadows, full body shot, determined expression in motion --ar 9:16",
+      "visual_description": "Levantadora, cuerpo atlético tenso, pelo corto dinámico, uniforme del equipo siempre impecable, gestos afilados y controlados. Ojos que no parpadean en decisiones críticas.",
+      "reference_image_path": "images/characters/sara.png"
+    },
+    {
+      "role": "protagonist",
+      "label": "DIANA",
+      "arc_summary": "Lucha para ser vista como igual, no como la sombra de Sara; descubre que la rivalidad es la única forma de conexión que conoce.",
+      "reference_prompt": "Volleyball spiker mid-attack, body coiled and explosive, jumping with arm cocked for a spike, cel-shaded anime style, saturated palette with metallic accent, dynamic diagonal composition, gym lights streaming through windows, full body athletic power, intense focused gaze --ar 9:16",
+      "visual_description": "Opuesta, potencia en lugar de precisión, pelo largo recogido en movimiento, tatuaje visible en el brazo, uniforme desgastado de entrenamientos intensos. Presencia que ocupa espacio.",
+      "reference_image_path": "images/characters/diana.png"
+    }
+  ],
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "description": "Dos compañeras de equipo, rivales en la cancha y fuera de ella. Donde el vóley es lenguaje, la tensión es combustible, y ganar juntas es más difícil que ganar solas.",
+  "story_bible": {
+    "tone": "energético, competitivo, visceral",
+    "setting": "ciudad moderna; cancha de vóley, oficina, departamentos compartidos",
+    "timeline": {
+      "span": "una temporada completa de vóley",
+      "type": "narrative_act",
+      "unit": "acts",
+      "anchor": "El punto de quiebre en la final de la temporada"
+    },
+    "world_rules": [
+      "La rivalidad es el motor de todo — en cancha, en el trabajo, en las relaciones amorosas.",
+      "Cada victoria de una es una derrota emocional para la otra.",
+      "El equipo está en el filo de la ruptura; su tensión es contagiosa.",
+      "No hay tregua — ni en el juego ni fuera de él."
+    ],
+    "visual_treatment": "cel-shaded / anime"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Donde el juego y la guerra se tocan.",
+      "image_path": "images/hero.png",
+      "scene_text": "SARA y DIANA frente a frente en la red, brazos extendidos, el balón invisible entre ellas. No es un punto más. Es el momento donde todo lo que no se dicen se grita en movimiento."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El equipo respira con su fricción.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El equipo se junta antes del partido. SARA y DIANA están en el centro, espalda con espalda. Las demás las rodean, pero el círculo está partido. ENTRENADORA observa desde la línea; sabe que esto no durará."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La rivalidad tiene direcciones múltiples.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "SARA y DIANA comparten oficina. No se miran. SARA envía un correo; DIANA lo recibe, lo lee, responde en tres segundos. El cursor del teclado suena como munición. Su jefa pasa por el pasillo y no entra."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Cuando el error no es técnico.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "SARA está en el banquillo. Acaba de cometer un fallo. DIANA juega sola en la cancha, cubriendo espacios que no son suyos. Por primera vez en años, SARA no está mirando para ganar. Está mirando a DIANA."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La tregua comienza sin palabras.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "SARA y DIANA salen del gimnasio. Caminan juntas sin hablarse. El atardecer tiñe todo de naranja. DIANA acelera el paso. SARA la sigue. Ninguna sabe quién está ganando."
+    }
+  ],
+  "cover_image": "worlds/voley-rivals/images/hero.png"
+}
