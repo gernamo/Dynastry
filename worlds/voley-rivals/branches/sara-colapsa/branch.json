@@ -1,0 +1,89 @@
+{
+  "name": "Sara Colapsa",
+  "tags": [
+    "colapso",
+    "perfección",
+    "vulnerabilidad",
+    "cancha",
+    "crisis",
+    "Sara protagonista"
+  ],
+  "status": "developing",
+  "world_id": "w_vr7k2m",
+  "branch_id": "b_sc7m9k",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "sara-colapsa",
+  "description": "Sara, la levantadora perfecta, se desmorona en cancha y fuera de ella. Su máquina se rompe. Y descubre que la perfección era la única forma de no sentir nada.",
+  "parent_slug": "voley-rivals",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Sara, exhausta de mantener el control, comete un error en cancha que no puede ocultar. Es el primer grieta en su armadura.",
+    "timeline_ref": "Mid-temporada, después de la tregua inicial"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "Aprender a estar rota"
+    },
+    "start": {
+      "order": 1,
+      "marker": "El primer error"
+    },
+    "diverges_from": "canon",
+    "divergence_question": "¿Qué pasa cuando la perfecta Sara se quiebra?"
+  },
+  "inherited_from_canon": {
+    "tone": "energético, competitivo, visceral",
+    "places_used": [
+      "Cancha de Vóley — Gimnasio Central"
+    ],
+    "characters_used": [
+      "SARA",
+      "DIANA"
+    ],
+    "visual_treatment": "cel-shaded / anime"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El primer error.",
+      "image_path": "images/hero.png",
+      "scene_text": "SARA\nUn pase que debería ser automático. Sus dedos buscan el balón y encuentran aire.\n\nEl gimnasio se vuelve silencio. El piso brilla bajo las luces de neón. Y por primera vez en años, Sara siente el peso de lo que ha estado ignorando."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Fuera de cancha, todo se desmorona más rápido.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "SARA\nLa oficina vacía es su nuevo hogar. No va a entrenamientos. No responde. Solo trabaja en proyectos que no importan, usando movimientos que tampoco importan.\n\nSu pareja llama. Cuelga. Diana intenta un mensaje. No lee. La perfección se está pudriendo por dentro, y nadie puede verlo excepto ella."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Diana intenta alcanzarla. Sara no quiere ser alcanzada.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "DIANA\nEn la cancha después del entrenamiento, Diana se acerca.\n\nSARA\nNo.\n\nDIANA\nNi siquiera te dejé hablar.\n\nSARA\nNo quiero que hables. No quiero que estés aquí. No quiero que nadie vea esto.\n\nLas palabras duelen más que cualquier bloqueo. Diana se queda con la mano extendida, mirando cómo Sara se aleja entre las sombras del gimnasio."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La máquina se apaga.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "SARA\nSola en el gimnasio después del cierre, Sara se sienta en el piso de la cancha.\n\nLas líneas de neón reflejan su cuerpo quebrado. No hay nadie mirando. No hay puntos que ganar. No hay perfección que mantener.\n\nFinalmente, deja de sostener el peso. Y llora como no ha llorado en años."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Y entonces llega Diana.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "La puerta del gimnasio se abre.\n\nDiana la ve. Sara levanta la cabeza, lista para rechazar, para controlar, para armar la máscara otra vez.\n\nPero Diana no dice nada. Solo se sienta a su lado en el piso frío de la cancha.\n\nY por primera vez, la rivalidad desaparece. Lo que queda es más frágil, más real, más verdadero que cualquier victoria."
+    }
+  ],
+  "cover_image": "worlds/voley-rivals/branches/sara-colapsa/images/hero.png"
+}
