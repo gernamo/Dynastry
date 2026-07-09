@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-09T18:13:50.587423+00:00",
+  "generated_at": "2026-07-09T19:38:49.041639+00:00",
   "total_worlds": 37,
-  "total_branches": 40,
+  "total_branches": 41,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -4526,7 +4526,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_sc7m9k",
+          "branch_slug": "sara-colapsa",
+          "name": "Sara Colapsa",
+          "description": "Sara, la levantadora perfecta, se desmorona en cancha y fuera de ella. Su máquina se rompe. Y descubre que la perfección era la única forma de no sentir nada.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Sara, exhausta de mantener el control, comete un error en cancha que no puede ocultar. Es el primer grieta en su armadura.",
+            "timeline_ref": "Mid-temporada, después de la tregua inicial"
+          },
+          "cover_image": "worlds/voley-rivals/branches/sara-colapsa/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El primer error.",
+              "image_path": "worlds/voley-rivals/branches/sara-colapsa/images/hero.png",
+              "scene_text": "SARA\nUn pase que debería ser automático. Sus dedos buscan el balón y encuentran aire.\n\nEl gimnasio se vuelve silencio. El piso brilla bajo las luces de neón. Y por primera vez en años, Sara siente el peso de lo que ha estado ignorando."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Fuera de cancha, todo se desmorona más rápido.",
+              "image_path": "worlds/voley-rivals/branches/sara-colapsa/images/scene_1.png",
+              "scene_text": "SARA\nLa oficina vacía es su nuevo hogar. No va a entrenamientos. No responde. Solo trabaja en proyectos que no importan, usando movimientos que tampoco importan.\n\nSu pareja llama. Cuelga. Diana intenta un mensaje. No lee. La perfección se está pudriendo por dentro, y nadie puede verlo excepto ella."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Diana intenta alcanzarla. Sara no quiere ser alcanzada.",
+              "image_path": "worlds/voley-rivals/branches/sara-colapsa/images/scene_2.png",
+              "scene_text": "DIANA\nEn la cancha después del entrenamiento, Diana se acerca.\n\nSARA\nNo.\n\nDIANA\nNi siquiera te dejé hablar.\n\nSARA\nNo quiero que hables. No quiero que estés aquí. No quiero que nadie vea esto.\n\nLas palabras duelen más que cualquier bloqueo. Diana se queda con la mano extendida, mirando cómo Sara se aleja entre las sombras del gimnasio."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La máquina se apaga.",
+              "image_path": "worlds/voley-rivals/branches/sara-colapsa/images/scene_3.png",
+              "scene_text": "SARA\nSola en el gimnasio después del cierre, Sara se sienta en el piso de la cancha.\n\nLas líneas de neón reflejan su cuerpo quebrado. No hay nadie mirando. No hay puntos que ganar. No hay perfección que mantener.\n\nFinalmente, deja de sostener el peso. Y llora como no ha llorado en años."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Y entonces llega Diana.",
+              "image_path": "worlds/voley-rivals/branches/sara-colapsa/images/scene_4.png",
+              "scene_text": "La puerta del gimnasio se abre.\n\nDiana la ve. Sara levanta la cabeza, lista para rechazar, para controlar, para armar la máscara otra vez.\n\nPero Diana no dice nada. Solo se sienta a su lado en el piso frío de la cancha.\n\nY por primera vez, la rivalidad desaparece. Lo que queda es más frágil, más real, más verdadero que cualquier victoria."
+            }
+          ]
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
