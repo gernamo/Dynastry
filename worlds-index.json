@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-04T23:12:53.997083+00:00",
-  "total_worlds": 35,
+  "generated_at": "2026-07-09T17:43:33.561417+00:00",
+  "total_worlds": 36,
   "total_branches": 40,
   "worlds": [
     {
@@ -725,6 +725,110 @@
           "narrative_caption": "Entre ellas, ahora, está todo lo que nunca dijeron.",
           "image_path": "worlds/calendario-de-las-brujas/images/scene_4.png",
           "scene_text": "Están sentadas. La carta está en la mesa. El silencio respira entre ellas.\n\nLA MADRE: No pedí perdón en la carta. No sabía cómo.\n\nELLA: ¿Y ahora?\n\nLA MADRE no responde. Pero por primera vez en 15 años, se miran de verdad. No saben si esto es un comienzo o el final de algo que murió hace mucho. Lo único cierto es que ahora lo saben ambas."
+        }
+      ]
+    },
+    {
+      "world_id": "w_cmpho",
+      "slug": "campo-y-horizonte",
+      "name": "Campo y Horizonte",
+      "description": "Dos amigos en un pueblo rural donde el tiempo se detiene: uno enraizado en la tierra, otro llamado por el mundo. Entre la despedida y la oportunidad, descubren qué sienten realmente el uno por el otro. Se perderán, pero el hilo nunca se corta del todo.",
+      "tags": [
+        "coming-of-age",
+        "amistad",
+        "rural",
+        "tensión emocional",
+        "reencontro",
+        "historias paralelas"
+      ],
+      "cover_image": "worlds/campo-y-horizonte/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T14:32:00Z",
+      "status": "developing",
+      "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "RAÍCES",
+          "arc_summary": "Elige quedarse en el pueblo, enraizarse en la tierra que conoce, pero cada reencontro lo quiebra un poco.",
+          "reference_prompt": "a young figure standing alone in a plowed field at dusk, hands resting on fence wood, soil under fingernails, warm golden light catching the back of shoulders, rural landscape stretching behind in soft focus, moment of quiet resignation mixed with longing --ar 9:16",
+          "visual_description": "joven con manos de trabajo, ropa del campo, ojos que miran hacia abajo pero sienten profundo, pelo polvoriento, naturalidad en los movimientos",
+          "reference_image_path": "images/characters/raices.png"
+        },
+        {
+          "role": "protagonist",
+          "label": "HORIZONTE",
+          "arc_summary": "Parte en busca del mundo, pero lleva el pueblo adentro; cada regreso lo confunde más que la última vez.",
+          "reference_prompt": "a figure at the edge of a dirt road looking toward distant hills, backpack half-packed beside them, one foot already stepping away, warm afternoon light casting long shadows, ambivalence in the posture between staying and leaving --ar 9:16",
+          "visual_description": "joven con la mirada en la distancia, ropa de ciudad pero desgastada, movimientos inquietos, cabello revuelto como por viento, energía contenida",
+          "reference_image_path": "images/characters/horizonte.png"
+        }
+      ],
+      "places": [
+        {
+          "name": "El Pueblo",
+          "atmosphere": "detenido, acogedor, asfixiante, nostálgico, tiempo lento",
+          "reference_prompt": "wide establishing shot of a rural village at golden hour, low adobe houses scattered across gentle hills, a massive old tree anchoring the plaza, dirt roads leading nowhere in particular, warm amber light washing everything, sky taking up half the frame, illustrator's sketch quality --ar 9:16",
+          "visual_description": "casas bajas de adobe color tierra, calles de polvo ocre, un árbol viejo en la plaza, campos dorados alrededor, cielo siempre presente y grande, luz que entra en ángulo por las tardes",
+          "reference_image_path": "images/places/el-pueblo.png"
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "tierno",
+          "melancólico",
+          "vulnerable",
+          "íntimo"
+        ],
+        "setting": "pueblo rural sin nombre, campos de cultivo, casas de adobe, caminos de tierra, cielo que no cambia",
+        "timeline": {
+          "span": "años de distancia y encuentros ocasionales",
+          "type": "narrative_act",
+          "unit": "acts",
+          "anchor": "el momento antes de la separación"
+        },
+        "world_rules": [
+          "El tiempo se mueve lentamente; las estaciones pasan pero nada parece cambiar de verdad",
+          "Los lazos se pueden romper pero dejan cicatrices que nunca desaparecen",
+          "La despedida y el reencuentro son dos caras de la misma moneda"
+        ],
+        "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+      },
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Antes de que todo cambie, existe un momento donde podrían elegirse.",
+          "image_path": "worlds/campo-y-horizonte/images/hero.png",
+          "scene_text": "El atardecer tiñe el pueblo de oro. Raíces y Horizonte se sientan en la cerca donde han pasado mil tardes iguales, pero ésta es diferente — ambos lo sienten. El aire entre ellos pesa. Uno mira hacia donde el camino desaparece; el otro mira hacia abajo, donde sus manos casi se tocan. Ni siquiera saben qué esperan decir."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Raíces elige quedarse. La tierra lo sostiene y lo atrapa.",
+          "image_path": "worlds/campo-y-horizonte/images/scene_1.png",
+          "scene_text": "RAÍCES permanece en el pueblo mientras el tiempo se mueve lentamente alrededor suyo. Los campos demandan sus manos, sus hombros, su dedicación. Cada cosecha es igual a la anterior, cada día similar al pasado. Pero en las noches, cuando está solo en el trabajo, siente la ausencia de una voz que ya no oye. La tierra lo sostiene. Pero algo en él se quedó esperando en ese camino."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Horizonte se va. Busca en otros lugares lo que no podía nombrar aquí.",
+          "image_path": "worlds/campo-y-horizonte/images/scene_2.png",
+          "scene_text": "HORIZONTE abandona el pueblo con la esperanza de encontrarse a sí mismo en otro lugar. Las ciudades, los viajes, las personas nuevas lo llenan de historias que no tenían espacio en ese pueblo quieto. Pero en cada nuevo horizonte, algo familiar lo persigue — una risa, una forma de estar en silencio, un vacío que ninguna novedad logra llenar. La distancia no borra nada; solo lo disimula."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Se reencontran como fantasmas de lo que fueron.",
+          "image_path": "worlds/campo-y-horizonte/images/scene_3.png",
+          "scene_text": "Años después, Horizonte regresa al pueblo — no para quedarse, solo de paso. Y Raíces está ahí, en el mismo lugar donde siempre estuvo. Se miran. Todo vuelve en un instante: la complicidad, la tensión, la pregunta sin respuesta. Pero ya no son los mismos, y eso es lo que más duele. Hablan de vidas paralelas, de personas que conocieron, de sueños cumplidos y sueños abandonados. Al atardecer, se despiden de nuevo, sabiendo que volverá a pasar el tiempo hasta el próximo encuentro."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Se pierden, pero el hilo nunca se corta del todo.",
+          "image_path": "worlds/campo-y-horizonte/images/scene_4.png",
+          "scene_text": "La vida continúa en dos direcciones. Raíces sigue en el pueblo, construyendo una existencia enraizada en lo familiar. Horizonte sigue viajando, buscando en cada lugar lo que dejó atrás. Y en los reencontros — ocasionales, breves, siempre incompletos — comprenden que lo que los une es más profundo porque nunca se resolvió. No son historia de amor, no son historia de amistad. Son historia de dos personas que se conocieron en el momento exacto equivocado, o quizá exactamente en el momento correcto, solo que para vidas que no podrían ser iguales."
         }
       ]
     },
