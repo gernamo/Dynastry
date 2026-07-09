@@ -1,0 +1,9 @@
+En un pueblo donde las generaciones trabajan la misma tierra y respiran el mismo aire, dos amigos crecen creyendo que siempre estarán juntos. Raíces tiene los pies en el barro, en el ritmo de las cosechas y el peso de las responsabilidades que heredó. Horizonte mira hacia afuera, hacia las historias que suceden en lugares que nunca ha visto, y siente que se ahoga en la quietud.
+
+Pero entre ellos existe algo que ninguno de los dos sabe nombrar — momentos donde la amistad se carga de electricidad, donde mirarse se vuelve incómodo, donde el silencio pesa más que las palabras. Es el momento exacto antes de que todo cambie, cuando aún podrían elegir el uno al otro, pero no lo hacen.
+
+Cuando llega la oportunidad — un viaje, una oferta, una puerta que se abre — Horizonte se va. Raíces se queda. Y ambos descubren que la distancia no es solo geografía: es la brecha entre quien fuiste con alguien y quién eres sin ellos.
+
+Los años pasan. Cada tanto, sus caminos se cruzan de nuevo — en el pueblo, en una ciudad, en un tren. En esos reencontros fugaces, todo regresa: la tensión, la ternura, la pregunta sin respuesta. Pero ya no son los mismos, y quizá nunca lo serán. La amistad se convierte en una historia paralela a la vida que cada uno construyó solo, un hilo que conecta dos versiones de sí mismos que nunca llegaron a ser una.
+
+Esta es la saga de lo que se queda sin decir, de las despedidas disfrazadas de oportunidades, y de cómo el amor — en cualquiera de sus formas — puede ser más profundo precisamente porque nunca se resuelve. Campo y Horizonte es sobre dos mundos que se separan, pero nunca del todo.
