@@ -1,0 +1,105 @@
+{
+  "name": "El Precio de la Comparación",
+  "tags": [
+    "ji-woo",
+    "min-jun",
+    "decisión",
+    "vulnerabilidad",
+    "seúl-noche",
+    "trabajo",
+    "conflicto-interno"
+  ],
+  "status": "developing",
+  "world_id": "w_seul23",
+  "branch_id": "b_jiwoo1",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "Restaurante Itaewon — mesa junto a la ventana",
+      "atmosphere": "íntima, sofocante, contradictoria, esperanzadora pero frágil",
+      "reference_prompt": "interior of an upscale restaurant in Itaewon, Seoul, warm candlelight on a table set for two by a large window overlooking nighttime Seoul; soft brick walls, wine glasses catching light, half-finished plates, the intimacy of a private conversation in a room full of strangers; neon city glow diffused through window panes ::9 style | watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch ::8 mood | elegant but suffocating, the moment before vulnerability breaks through politeness ::7 --ar 9:16",
+      "visual_description": "luz cálida de velas, paredes de ladrillo suave, ventanales grandes que enmarcan la noche de Seúl; vasos de vino tinto, platos a medio terminar, la sensación de intimidad pero rodeada de extraños"
+    }
+  ],
+  "branch_slug": "ji-woo-comparison",
+  "description": "Una cena prometedora con alguien del trabajo se convierte en el espejo donde Ji-Woo ve claramente lo que realmente quiere — y lo que ya está perdiendo.",
+  "parent_slug": "bride-in-seoul",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [
+    {
+      "role": "support",
+      "label": "HYUN-SOO",
+      "arc_summary": "El espejo de lo que Ji-Woo creía que quería — profesional, seguro, perfecto — pero su honestidad lo hace peligrosamente perceptivo.",
+      "reference_prompt": "close-up of a man in his 30s, professional but relaxed, loosened tie, sitting across a dinner table in soft warm restaurant light, hands visible holding a wine glass, attentive gaze with a slight concerned expression, the kind of focus that means he's really listening; late evening Seoul glow through restaurant windows behind him ::9 style | watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch ::8 mood | intimate, observant, the moment before a question changes everything ::7 --ar 9:16",
+      "visual_description": "hombre de 30s, ejecutivo pulido; corbata aflojada, sonrisa fácil, ese aire de alguien acostumbrado a conseguir lo que quiere; ojos atentos que notan detalles"
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Ji-Woo acepta una cena con un colega del trabajo, cayendo de nuevo en el patrón de búsqueda sistemática — pero esta vez, mientras la conexión fluye, no puede dejar de pensar en Min-Jun.",
+    "timeline_ref": "semanas después del encuentro en el café"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "colapso emocional en la cena"
+    },
+    "start": {
+      "order": 1,
+      "marker": "invitación a cenar"
+    },
+    "diverges_from": "encuentro-café-min-jun",
+    "divergence_question": "¿Puede Ji-Woo seguir fingiendo que la búsqueda racional tiene sentido ahora que sabe qué se siente la verdadera conexión?"
+  },
+  "inherited_from_canon": {
+    "tone": "romántico, humorístico, vulnerable, dinámico",
+    "places_used": [
+      "Seúl de noche"
+    ],
+    "characters_used": [
+      "JI-WOO",
+      "MIN-JUN"
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La cena perfecta. La vida perfecta. Pero el corazón pregunta en silencio: ¿perfecta para quién?",
+      "image_path": "images/hero.png",
+      "scene_text": "Ji-Woo sonríe. La risa viene fácil. Hyun-Soo cuenta una historia sobre su jefe y ella genuinamente lo encuentra gracioso. Pero algo está mal — está fuera de sí, observándose a sí misma desde arriba, midiendo si esto es lo que debería sentir. La vela entre ellos tiembla. Ella piensa en otro café, en otra voz, en un desconocido que la vio llorar sin juzgarla."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Llegada. Actuación. El ritual que Ji-Woo domina.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Hyun-Soo se levanta cuando entra. Sonríe como alguien que tiene permiso de estar feliz. Ella le devuelve la sonrisa — esa que practicó en el espejo, la que dice 'estoy interesada pero no demasiado, soy elegante pero accesible.' Todo encaja. Las velas están donde deberían estar. El vino es excelente. Él pregunta sobre su semana con genuino interés. Esto es lo que quería, ¿verdad?"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La risa viene. Pero ¿de dónde?",
+      "image_path": "images/scene_2.png",
+      "scene_text": "HYUN-SOO: ...y entonces el CEO pregunta si el Excel está en _sangre coreana_.\nJi-Woo se ríe. De verdad se ríe. Es un momento de conexión real. Pero mientras ríe, su mente salta: ¿así fue en el café? ¿Min-Jun también la miró como Hyun-Soo la mira ahora? No. Fue diferente. Fue sin esfuerzo. Fue sin que ella tuviera que ser alguien."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Una pregunta simple. Una verdad complicada.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "HYUN-SOO: ¿Estás bien?\nLas palabras son simples. Pero hay algo en cómo las dice — con tanta atención, tanta verdad — que algo en Ji-Woo se quiebra. No puede mentirle. No cuando alguien realmente está viendo. Sus ojos se llenan de lágrimas que no vio venir."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El colapso. La verdad. Sin plan, sin salida.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Ji-Woo no puede hablar. Las lágrimas caen sin sonido. Hyun-Soo no sabe qué hizo mal — se ve en su cara. Y eso es lo peor: que es un hombre bueno, atento, exactamente lo que ella dijo que quería. Pero querer algo y necesitarlo son cosas diferentes. Mira a través de la ventana hacia Seúl, hacia las miles de personas vivas en esa noche, y se pregunta si Min-Jun está en algún lugar de esa oscuridad, esperando a alguien que ya no sabe cómo encontrarlo."
+    }
+  ],
+  "cover_image": "worlds/bride-in-seoul/branches/el-precio-de-la-comparacin/images/hero.png"
+}
