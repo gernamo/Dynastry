@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-15T18:26:40.215352+00:00",
+  "generated_at": "2026-07-15T18:56:19.048869+00:00",
   "total_worlds": 38,
-  "total_branches": 41,
+  "total_branches": 42,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -645,7 +645,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T14:32:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_jiwoo1",
+          "branch_slug": "el-precio-de-la-comparacin",
+          "name": "El Precio de la Comparación",
+          "description": "Una cena prometedora con alguien del trabajo se convierte en el espejo donde Ji-Woo ve claramente lo que realmente quiere — y lo que ya está perdiendo.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Ji-Woo acepta una cena con un colega del trabajo, cayendo de nuevo en el patrón de búsqueda sistemática — pero esta vez, mientras la conexión fluye, no puede dejar de pensar en Min-Jun.",
+            "timeline_ref": "semanas después del encuentro en el café"
+          },
+          "cover_image": "worlds/bride-in-seoul/branches/el-precio-de-la-comparacin/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La cena perfecta. La vida perfecta. Pero el corazón pregunta en silencio: ¿perfecta para quién?",
+              "image_path": "worlds/bride-in-seoul/branches/el-precio-de-la-comparacin/images/hero.png",
+              "scene_text": "Ji-Woo sonríe. La risa viene fácil. Hyun-Soo cuenta una historia sobre su jefe y ella genuinamente lo encuentra gracioso. Pero algo está mal — está fuera de sí, observándose a sí misma desde arriba, midiendo si esto es lo que debería sentir. La vela entre ellos tiembla. Ella piensa en otro café, en otra voz, en un desconocido que la vio llorar sin juzgarla."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Llegada. Actuación. El ritual que Ji-Woo domina.",
+              "image_path": "worlds/bride-in-seoul/branches/el-precio-de-la-comparacin/images/scene_1.png",
+              "scene_text": "Hyun-Soo se levanta cuando entra. Sonríe como alguien que tiene permiso de estar feliz. Ella le devuelve la sonrisa — esa que practicó en el espejo, la que dice 'estoy interesada pero no demasiado, soy elegante pero accesible.' Todo encaja. Las velas están donde deberían estar. El vino es excelente. Él pregunta sobre su semana con genuino interés. Esto es lo que quería, ¿verdad?"
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La risa viene. Pero ¿de dónde?",
+              "image_path": "worlds/bride-in-seoul/branches/el-precio-de-la-comparacin/images/scene_2.png",
+              "scene_text": "HYUN-SOO: ...y entonces el CEO pregunta si el Excel está en _sangre coreana_.\nJi-Woo se ríe. De verdad se ríe. Es un momento de conexión real. Pero mientras ríe, su mente salta: ¿así fue en el café? ¿Min-Jun también la miró como Hyun-Soo la mira ahora? No. Fue diferente. Fue sin esfuerzo. Fue sin que ella tuviera que ser alguien."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Una pregunta simple. Una verdad complicada.",
+              "image_path": "worlds/bride-in-seoul/branches/el-precio-de-la-comparacin/images/scene_3.png",
+              "scene_text": "HYUN-SOO: ¿Estás bien?\nLas palabras son simples. Pero hay algo en cómo las dice — con tanta atención, tanta verdad — que algo en Ji-Woo se quiebra. No puede mentirle. No cuando alguien realmente está viendo. Sus ojos se llenan de lágrimas que no vio venir."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El colapso. La verdad. Sin plan, sin salida.",
+              "image_path": "worlds/bride-in-seoul/branches/el-precio-de-la-comparacin/images/scene_4.png",
+              "scene_text": "Ji-Woo no puede hablar. Las lágrimas caen sin sonido. Hyun-Soo no sabe qué hizo mal — se ve en su cara. Y eso es lo peor: que es un hombre bueno, atento, exactamente lo que ella dijo que quería. Pero querer algo y necesitarlo son cosas diferentes. Mira a través de la ventana hacia Seúl, hacia las miles de personas vivas en esa noche, y se pregunta si Min-Jun está en algún lugar de esa oscuridad, esperando a alguien que ya no sabe cómo encontrarlo."
+            }
+          ]
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
