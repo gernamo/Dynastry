@@ -1,0 +1,7 @@
+Ji-Woo tiene treinta y tantos años y Seúl no deja de recordarle que se está quedando atrás. No es que no tenga vida — tiene trabajo, amigos, un apartamento que eligió ella misma — pero en las comidas familiares, en los ojos de su madre, en esos silencios incómodos, la presión es un peso constante. La sociedad coreana no susurra sus expectativas; las grita en susurros.
+
+Así que un día decide tomar el control. Va a encontrar pareja. De manera sistemática, racional, casi empresarial. Descarga apps, va a citas que parecen entrevistas, se prepara con la misma diligencia que para una presentación en el trabajo. Todo tiene un plan. Todo debe funcionar.
+
+Pero entonces aparece Min-Jun — no en una app, no en una cita planeada, sino en un café olvidado de Seúl donde Ji-Woo se esconde para llorar después de un rechazo especialmente brutal. Y lo que comienza como una conversación casual entre desconocidos se convierte en algo que ella no planeó, no esperaba, y que la asusta más que todas las citas planeadas juntas.
+
+La historia es sobre cómo la búsqueda frenética de lo que crees que necesitas puede alejarte de lo que realmente deseas. Es sobre el contraste entre la Seúl de cristal y acero que brilla desde afuera y la Seúl íntima, vulnerable, donde las personas reales se encuentran. Y es, sobre todo, sobre una mujer aprendiendo que el acto más revolucionario no es encontrar pareja — es encontrarse a sí misma, aunque sea accidentalmente, en una conversación en un café.
