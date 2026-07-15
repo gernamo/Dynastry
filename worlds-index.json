@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-09T19:38:49.041639+00:00",
-  "total_worlds": 37,
+  "generated_at": "2026-07-15T18:26:40.215352+00:00",
+  "total_worlds": 38,
   "total_branches": 41,
   "worlds": [
     {
@@ -624,6 +624,111 @@
           "narrative_caption": "El viaje comienza. El verdadero descubrimiento está afuera.",
           "image_path": "worlds/artifact-awakening/images/scene_4.png",
           "scene_text": "Cruzan el umbral juntos.\n\nLa luz del mundo exterior los cega por un momento. El aire huele diferente. El cielo es más alto de lo que cualquiera recordaba.\n\nCAZADOR siente los caminos abrirse ante ellos: ciudades perdidas, enemigos que aún no tienen rostro, secretos enterrados hace milenios que el artefacto quiere que despierten.\n\nFORJADORA aprieta sus manos, sintiendo la energía lista, esperando, hambriente.\n\nLos otros cuatro, cada uno transformado de formas que aún no comprenden, miran adelante.\n\nNadie sabe qué viene. Pero por primera vez, nadie tiene miedo de enfrentarlo solo. Porque no están solos.\n\n¿Pero cuánto tiempo durará eso? ¿Y qué precio tendrán que pagar para mantener la unidad?"
+        }
+      ]
+    },
+    {
+      "world_id": "w_seul23",
+      "slug": "bride-in-seoul",
+      "name": "Novia en Seúl",
+      "description": "Una mujer soltera navega las presiones sociales de Seúl mientras busca pareja, descubriendo que la verdadera conexión está donde menos la esperaba.",
+      "tags": [
+        "k-drama",
+        "romance",
+        "vida-urbana",
+        "presión-social",
+        "humor",
+        "Seúl",
+        "búsqueda-de-identidad"
+      ],
+      "cover_image": "worlds/bride-in-seoul/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T14:32:00Z",
+      "status": "developing",
+      "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "JI-WOO",
+          "arc_summary": "De la desesperación por encontrar pareja a descubrir que lo que realmente buscaba era encontrarse a sí misma.",
+          "reference_prompt": "portrait of a woman in her 30s with sharp eyes reflecting city lights, sitting at a café table, hands wrapped around a warm cup, wearing a simple dark sweater, the soft afternoon light catching her profile as she gazes out the window with a mix of determination and doubt, watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch --ar 9:16",
+          "visual_description": "mujer de 30s, elegante pero cansada, con ese estilo seoulita que es impecable por fuera pero vulnerable por dentro; ojos expresivos que revelan lo que no dice",
+          "reference_image_path": "images/characters/ji-woo.png"
+        },
+        {
+          "role": "support",
+          "label": "MIN-JUN",
+          "arc_summary": "Aparece como la grieta en el plan perfecto de Ji-Woo, forzándola a cuestionarse qué es lo que realmente quiere.",
+          "reference_prompt": "a man in his 30s leaning against a bookshelf in a dimly lit used bookstore, half-smile, wearing an oversized vintage shirt, one hand in pocket, the other reaching for a book, warm amber light filtering through dusty window panes, watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch --ar 9:16",
+          "visual_description": "hombre de 30s, desenfadado pero observador; alguien que nota cosas que otros no ven; ropa casual, mirada honesta",
+          "reference_image_path": "images/characters/min-jun.png"
+        }
+      ],
+      "places": [
+        {
+          "name": "Seúl de noche",
+          "atmosphere": "íntima, pulsante, contradictoria, esperanzadora",
+          "reference_prompt": "aerial view of Seoul at dusk, neon signs reflecting on wet streets after rain, apartment windows glowing warm gold against darkening sky, a lone figure walking through a quiet neighborhood lined with small cafés and bookstores, the city breathing with both isolation and possibility, watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch --ar 9:16",
+          "visual_description": "calles iluminadas por neones suaves, cafés acogedores con ventanas grandes, apartamentos pequeños con luz cálida filtrando cortinas; la ciudad respira con soledad y promesa simultáneamente",
+          "reference_image_path": "images/places/seul-de-noche.png"
+        }
+      ],
+      "story_bible": {
+        "tone": [
+          "romántico",
+          "humorístico",
+          "vulnerable",
+          "dinámico"
+        ],
+        "setting": "Seúl contemporáneo — apartamentos de Gangnam, cafés, oficinas, calles nocturnas iluminadas",
+        "timeline": {
+          "span": "varios meses",
+          "type": "narrative_act",
+          "unit": "acts",
+          "anchor": "primer encuentro con la búsqueda activa"
+        },
+        "world_rules": [
+          "La presión social es invisible pero omnipresente: comentarios de la familia, miradas de desconocidos, expectativas no dichas",
+          "Seúl es personaje — la ciudad ofrece libertad y aislamiento simultáneamente",
+          "El humor surge del contraste entre lo que ella proyecta y lo que realmente siente"
+        ],
+        "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+      },
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "En Seúl, la presión social no tiene rostro. Tiene reloj.",
+          "image_path": "worlds/bride-in-seoul/images/hero.png",
+          "scene_text": "Ji-Woo se mira en el espejo de su apartamento, aún con el maquillaje de otra cita fallida. La aplicación matrimonial está abierta en su teléfono — otra coincidencia descartada, otro perfil deslizado hacia la izquierda. La ciudad brilla afuera de su ventana, indiferente. Su madre llamará mañana. Siempre lo hace."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "El trabajo es donde ella desaparece.",
+          "image_path": "worlds/bride-in-seoul/images/scene_1.png",
+          "scene_text": "JI-WOO cierra la ventana de la aplicación de citas cuando su compañera se acerca. En la oficina, nadie debe saber. A su alrededor, el equipo habla de planes para el fin de semana — parejas, matrimonios, vidas que parecen más sólidas que la suya. Ella sonríe. Siempre sonríe. Es lo más fácil de todas las cosas que hace."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Las preguntas que nadie hace en voz alta.",
+          "image_path": "worlds/bride-in-seoul/images/scene_2.png",
+          "scene_text": "MADRE: '¿Así que... todavía nada?'\n\nJi-Woo corta su carne con precisión, como si fuera cirugía. Su padre estudia su plato con atención exagerada. Las hermanas casadas de su madre sonríen desde fotos en la pared — vidas resueltas, aprobadas, completas.\n\nJI-WOO: 'Todavía buscando.'\n\nLa respuesta es correcta. Pero no es suficiente. Nunca lo es."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Las grietas aparecen donde menos las esperas.",
+          "image_path": "worlds/bride-in-seoul/images/scene_3.png",
+          "scene_text": "Ji-Woo está en su café secreto — el lugar donde nadie la conoce — cuando Min-Jun entra buscando un libro que probablemente no existe. Ella está llorando en silencio, pensando en la cita de esa tarde, en las palabras que él dijo sin decir, en cómo su vida se siente como un proyecto fallido.\n\nÉl se sienta. No pregunta. Solo dice: 'El café de aquí es el mejor de Seúl si no cuentas los que la gente realmente visita.'"
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Lo que no buscas puede encontrarte.",
+          "image_path": "worlds/bride-in-seoul/images/scene_4.png",
+          "scene_text": "Caminan por Seúl sin destino claro. Ji-Woo ha cerrado la aplicación de citas — no es una decisión consciente, solo ha sucedido. Min-Jun habla de libros que leyó hace años, de por qué dejó un trabajo corporativo, de cómo la ciudad se siente diferente cuando dejas de buscar algo específico.\n\nJI-WOO: '¿Y qué estabas buscando entonces?'\n\nÉl no responde. Solo mira hacia adelante, donde la calle desaparece en la noche."
         }
       ]
     },
