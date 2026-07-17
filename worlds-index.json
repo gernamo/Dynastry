@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-17T15:37:51.398396+00:00",
+  "generated_at": "2026-07-17T15:50:39.371303+00:00",
   "total_worlds": 39,
   "total_branches": 45,
   "worlds": [
@@ -651,7 +651,7 @@
           "branch_slug": "el-espejo-compartido",
           "name": "El Espejo Compartido",
           "description": "Días después de la cena, Hyun-Soo vuelve a escribir. Lo que comienza como un mensaje de disculpa se convierte en un acto de honestidad mutua: dos personas descubren que ambas estaban usando la otra como escape.",
-          "parent_branch": "b_precio",
+          "parent_branch": "b_jiwoo1",
           "created_by": "@germanna",
           "created_at": "2026-05-22T12:00:00Z",
           "divergence_event": {
