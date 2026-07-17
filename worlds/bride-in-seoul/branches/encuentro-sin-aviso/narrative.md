@@ -1,0 +1,9 @@
+La cena terminó como tenía que terminar: con un beso en la mejilla y la promesa de otro encuentro que ambos sabían que era mentira. Hyun-Soo notó algo — claro que lo notó — pero Ji-Woo ya estaba fuera del restaurante, en las calles de Seúl a las once de la noche, el teléfono vibrando con mensajes que no se atreve a leer.
+
+Entra al subterráneo de Gangnam sin un destino real. Solo necesita moverse, estar en un lugar donde nadie la vea, donde la perfección no sea un requisito. El andén está vacío a esta hora — unos cuantos viajeros nocturnos, gente que también está huyendo de algo. Se sienta en un banco de metal frío.
+
+Y entonces lo ve. Min-Jun bajando por las escaleras. No en una app, no en un café olvidado, sino aquí, en este andén, en este momento exacto. Lleva una mochila, pelo despeinado, y esa expresión de alguien que acaba de tomar una decisión sin pensar demasiado. Sus ojos encuentran los de ella en el instante en que ella lo ve. No hay coincidencia. Él vino buscándola.
+
+No hay tiempo para prepararse. No hay libreto. No hay plan B. Solo dos personas en un andén de subterráneo a altas horas de la noche, y la certeza absoluta de que lo que suceda en los próximos sesenta segundos cambiará todo. Ji-Woo siente el teléfono en el bolsillo — Hyun-Soo probablemente preguntándose dónde está — pero ya no importa. La verdad no puede esperar un mensaje.
+
+Min-Jun camina hacia ella. No sonríe. Solo la mira como si fuera la única respuesta que necesitaba. Y Ji-Woo se da cuenta, en ese andén frío y fluorescente, de que esta es la elección real. No es sobre si encuentra pareja o no. Es sobre si se atreve a elegir lo que desea cuando la vida la presenta sin avisar, sin red de seguridad, sin tiempo para dudar.
