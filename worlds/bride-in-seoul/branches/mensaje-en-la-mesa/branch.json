@@ -1,0 +1,98 @@
+{
+  "name": "Mensaje en la Mesa",
+  "tags": [
+    "k-drama",
+    "romance",
+    "momento-decisivo",
+    "vulnerabilidad",
+    "seúl-nocturna",
+    "elección"
+  ],
+  "status": "developing",
+  "world_id": "w_seul23",
+  "branch_id": "b_mjmsg1",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "mensaje-en-la-mesa",
+  "description": "Ji-Woo recibe un mensaje de Min-Jun justo en mitad de la cena con Hyun-Soo. Un gesto pequeño pero devastador que revela dónde está realmente su corazón.",
+  "parent_slug": "bride-in-seoul",
+  "is_canonical": false,
+  "parent_branch": "b_precio01",
+  "new_characters": [
+    {
+      "role": "support",
+      "label": "HYUN-SOO",
+      "arc_summary": "El espejo perfecto que Ji-Woo creía necesitar, pero cuya perfección es precisamente lo que la asfixia.",
+      "reference_prompt": "Medium shot of a man in his 30s in formal attire sitting across a candlelit table in an upscale restaurant, his gaze steady but searching, hand reaching toward a wine glass, the soft warm light of Itaewon restaurant casting gentle shadows on his face, composed but with a subtle awareness dawning in his eyes, seated posture confident yet subtly leaning forward trying to understand the woman across from him, restaurant interior blurred in background with warm amber lighting, watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch --ar 9:16",
+      "visual_description": "hombre de 30s, impecablemente vestido, con la compostura de alguien que siempre sabe qué decir; ojos que intentan leer pero no logran ver del todo"
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Un mensaje desenfadado de Min-Jun llega justo cuando Ji-Woo está suspendida entre dos mundos. Su respuesta — mientras Hyun-Soo sigue hablando — se convierte en el acto que lo cambia todo.",
+    "timeline_ref": "cena en Itaewon"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "después de responder a Min-Jun"
+    },
+    "start": {
+      "order": 1,
+      "marker": "cena con Hyun-Soo, momento de quiebre"
+    },
+    "continues_from": "El Precio de la Comparación",
+    "divergence_question": "¿Qué pasa cuando dejas de fingir y actúas desde la verdad, sin importar las consecuencias inmediatas?"
+  },
+  "inherited_from_canon": {
+    "tone": "romántico, humorístico, vulnerable, dinámico",
+    "places_used": [
+      "Seúl de noche"
+    ],
+    "characters_used": [
+      "JI-WOO",
+      "MIN-JUN",
+      "HYUN-SOO"
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La verdad cabe en un mensaje de texto.",
+      "image_path": "images/hero.png",
+      "scene_text": "Ji-Woo siente el teléfono vibrar bajo el bolso. Hyun-Soo sigue hablando, su voz fluye suave y perfecta, pero ella ya no lo escucha. Saca el teléfono con cuidado, como si estuviera robando algo. El mensaje brilla en la pantalla: \"¿Cómo estás? Pensé en ti hoy\".\n\nMin-Jun.\n\nSus dedos tiemblan mientras escribe. No piensa. No planifica. Solo responde: \"Aquí metida en una cena perfecta. Pero pensaba en ti también\"."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La perfección tiene un costo.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Hyun-Soo es todo lo que debería desear. Inteligente, atento, con esa estabilidad que los padres aprueban y que hace sentido en un plan de vida. Pero mientras él habla — una anécdota sobre una reunión absurda — Ji-Woo descubre algo aterrador: está aquí pero no está. Su cuerpo está en la mesa, su sonrisa funciona, pero algo esencial de ella se quedó en otro café, con otro hombre que no estaba en el plan."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Un mensaje desenfadado lo cambia todo.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "El teléfono vibra. Solo una vibración pequeña, casi invisible. Pero para Ji-Woo es como si el mundo se detuviera. Ella sabe quién es antes de mirar. Ha estado esperando esto sin admitirlo.\n\nCuando finalmente lee el mensaje, la respiración se le corta. No es elaborado. No es perfecto. Es simplemente Min-Jun — desenfadado, honesto, pensando en ella. Y eso es exactamente lo que la quiebra."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El acto pequeño que lo muda todo.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "HYUN-SOO\nY entonces el gerente literalmente gritó en la reunión, ¿puedes creerlo?\n\nJi-Woo ve sus labios moverse. Escucha el tono correcto en su voz. Pero sus dedos ya están escribiendo bajo la mesa: \"Aquí metida en una cena perfecta. Pero pensaba en ti también\".\n\nNo es un mensaje largo. No es eloquente. Pero es verdad. Y eso es lo que le duele a Hyun-Soo, aunque no lo sepa aún — es que ella acaba de elegir la verdad sobre él."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Hyun-Soo ve el cambio. Lo ve en sus ojos.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Ella coloca el teléfono face-down junto a la copa de vino. Cuando levanta la vista, Hyun-Soo ya está mirándola. No dice nada. Pero su expresión ha cambiado — algo en él ha visto lo que ella acaba de hacer.\n\nJi-Woo no se disculpa. No explica. Solo lo ve, realmente lo ve, y en ese instante Hyun-Soo comprende que ella ya se fue. Que eligió quedarse en la mesa, pero su corazón está en otro lugar. Y lo más cruel es que ambos saben que ella acaba de elegir bien."
+    }
+  ],
+  "cover_image": "worlds/bride-in-seoul/branches/mensaje-en-la-mesa/images/hero.png"
+}
