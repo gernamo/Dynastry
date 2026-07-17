@@ -1,0 +1,103 @@
+{
+  "name": "Encuentro sin aviso",
+  "tags": [
+    "romance",
+    "decisión-en-vivo",
+    "encuentro-inesperado",
+    "vulnerabilidad",
+    "punto-de-no-retorno"
+  ],
+  "status": "developing",
+  "world_id": "w_seul23",
+  "branch_id": "b_enc1a2",
+  "created_at": "2026-05-22T14:33:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "Estación de Gangnam — andén nocturno",
+      "atmosphere": "cruda, liminal, sin escapatoria, electrizante",
+      "reference_prompt": "empty subway platform at night, fluorescent lights casting harsh shadows on concrete, a lone figure waiting near the edge, trains visible through distant tunnel opening, architectural lines leading the eye into depth, cool blues and grays with one warm light source, establishing a moment suspended between two places --ar 9:16",
+      "visual_description": "andén casi vacío bajo luces fluorescentes frías que contrastan con la noche afuera; bancos de metal, el sonido del tren llegando a lo lejos, escaparates cerrados de las tiendas del subterráneo reflejando figuras solitarias; un espacio de transición donde la gente nunca permanece."
+    }
+  ],
+  "branch_slug": "encuentro-sin-aviso",
+  "description": "Min-Jun aparece sin avisar en el lugar menos esperado. Ji-Woo debe elegir en tiempo real, sin libreto, sin red de seguridad.",
+  "parent_slug": "bride-in-seoul",
+  "is_canonical": false,
+  "parent_branch": "b_mjmsg1",
+  "new_characters": [
+    {
+      "role": "support",
+      "label": "HYUN-SOO",
+      "arc_summary": "Es el reflejo de lo que Ji-Woo creía que quería, pero su presencia en este momento solo amplifica lo que realmente necesita.",
+      "reference_prompt": "close-up of a man's face in dim restaurant light, expression shifting from contentment to confusion as he watches someone he's with pull away emotionally, expensive collar visible, his certainty beginning to crack, shallow depth of field focusing on the moment of realization --ar 9:16",
+      "visual_description": "hombre de 30s, pulcro y seguro de sí mismo; ese tipo de atractivo que parece diseñado por comité; ropa cara, sonrisa que encaja perfectamente, pero ojos que no ven realmente."
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Min-Jun no espera una respuesta por mensaje. Aparece en persona, forzando a Ji-Woo a actuar sin tiempo para pensar.",
+    "timeline_ref": "inmediatamente después de la cena con Hyun-Soo"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "la elección irreversible"
+    },
+    "start": {
+      "order": 1,
+      "marker": "salida de la cena"
+    },
+    "continues_from": "b_mjmsg1",
+    "divergence_question": "¿Qué sucede cuando la verdad no puede esperar un mensaje? ¿Cuándo la vida exige una respuesta ahora?"
+  },
+  "inherited_from_canon": {
+    "tone": "romántico, humorístico, vulnerable, dinámico",
+    "places_used": [
+      "Seúl de noche"
+    ],
+    "characters_used": [
+      "JI-WOO",
+      "MIN-JUN"
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "A veces la vida no pregunta. Solo aparece.",
+      "image_path": "images/hero.png",
+      "scene_text": "El andén está vacío. El sonido del tren en la distancia es apenas un murmullo. Ji-Woo alza la vista y lo ve — Min-Jun bajando por las escaleras, mochila al hombro, mirada directa hacia ella. No hay sorpresa en su rostro. Solo certeza."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ji-Woo sale de la cena perfecta hacia una noche imperfecta.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El restaurante se desvanece detrás de ella. Hyun-Soo la besó en la mejilla — el gesto correcto, en el momento correcto — y ella supo, con la precisión de un reloj roto, que acababa de elegir lo equivocado.\n\nEl teléfono vibra. Otra vez. No mira. No quiere saber qué dice Min-Jun. O tal vez sí quiere, pero no puede leerlo mientras los mensajes de Hyun-Soo preguntan si llegó bien a casa."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Entra al subterráneo sin saber que él está allá arriba, buscándola.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "La escalera eléctrica la baja, baja, baja. El mundo de Seúl se empequeñece arriba — las luces de neón, los edificios, la vida que se supone debe vivir. Abajo está el andén vacío. Abajo está el lugar donde nadie espera que alguien como ella esté a esta hora.\n\nSe sienta en un banco. El metal es frío. Su bolso está en el asiento al lado. El teléfono sigue vibrando como si tuviera vida propia."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Min-Jun no esperó una respuesta. Vino a exigirla en persona.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Las escaleras suenan bajo sus pies. Min-Jun llega al andén, ve a Ji-Woo sentada, y ella lo ve. No hay fingimiento posible. No hay escape. La luz fluorescente no perdona.\n\nÉl camina hacia ella. No sonríe. Solo la mira como si fuera la única razón por la que bajó esas escaleras a altas horas de la noche."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "En sesenta segundos, Ji-Woo va a elegir. Y nada volverá a ser igual.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Se pone de pie. El teléfono cae del bolsillo — Hyun-Soo, la familia, las expectativas — todo cae. Min-Jun está a un metro de distancia. El tren se acerca en la distancia.\n\nJi-Woo abre la boca para hablar, pero no sabe qué decir. Quizás no importa. Quizás esto es lo que significa elegir sin libreto — estar de pie frente a alguien, en un andén vacío, sin saber exactamente qué va a pasar a continuación. Y descubrir que eso es suficiente."
+    }
+  ],
+  "cover_image": "worlds/bride-in-seoul/branches/encuentro-sin-aviso/images/hero.png"
+}
