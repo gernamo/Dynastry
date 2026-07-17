@@ -1,0 +1,105 @@
+{
+  "name": "Donde Se Lo Tragó la Tierra",
+  "slug": "madre-perdida",
+  "tags": [
+    "duelo",
+    "incertidumbre",
+    "madre",
+    "desaparición",
+    "drama íntimo",
+    "carretera",
+    "sin respuestas"
+  ],
+  "places": [
+    {
+      "name": "La Carretera del Accidente",
+      "atmosphere": "desolado, testigo, silencioso, indiferente",
+      "reference_prompt": "wide establishing shot of a rural two-lane highway disappearing into a gray horizon, asphalt cracked and marked with fading tire tracks, sparse dry vegetation on both shoulders, overcast sky pressing down, telephone poles receding into distance, no human figures, late afternoon light flattening the landscape :: charcoal & graphite :: vast and empty and indifferent :: --ar 9:16",
+      "visual_description": "asfalto agrietado bajo luz gris, marcas de frenado borrosas, arbustos secos al costado, cielo nublado y bajo, línea de horizonte que se pierde",
+      "reference_image_path": "images/places/la-carretera-del-accidente.png"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_mpd7k2",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "LA MADRE",
+      "arc_summary": "De la negación al abismo — cada día sin respuestas la consume un poco más.",
+      "reference_prompt": "close-up portrait of a middle-aged woman's face, eyes red-rimmed and unfocused, forehead creased with exhaustion, one hand touching her cheek, soft light from a single window catching the lines of her face, skin pale and worn, the background blurred and indistinct, intimate and raw :: charcoal & graphite :: vulnerable, intimate, no artifice :: --ar 9:16",
+      "visual_description": "mujer de mediana edad, ropa arrugada, ojorosa, movimientos lentos y quebrados, pelo sin peinar, mirada que busca constantemente",
+      "reference_image_path": "images/characters/la-madre.png"
+    },
+    {
+      "role": "support",
+      "label": "EL INVESTIGADOR",
+      "arc_summary": "Portador involuntario de la verdad que no puede darse — atrapado entre lo que sabe y lo que no puede decir.",
+      "reference_prompt": "a man in a police uniform standing in dim office light, back slightly turned, one hand on a desk holding a thin file folder, the corner of his jaw visible, shadow across half his face, fluorescent ceiling light casting harsh shadows, composed and weary :: charcoal & graphite :: institutional, tired, witnessing :: --ar 9:16",
+      "visual_description": "hombre de cuarenta y tantos, desgastado por demasiados casos, uniforme de policía, mirada que evita la suya, habla poco",
+      "reference_image_path": "images/characters/el-investigador.png"
+    }
+  ],
+  "created_at": "2026-05-22T14:33:00Z",
+  "created_by": "@saninthesun",
+  "description": "Una madre busca a su hijo desaparecido tras un accidente automovilístico. Sin cuerpo, sin respuestas, sin cierre — solo el vacío que crece cada día.",
+  "story_bible": {
+    "tone": [
+      "íntimo",
+      "visceral",
+      "sin sentimentalismo",
+      "contenido"
+    ],
+    "setting": "carretera rural, casa vacía, comisaría, lugares donde el hijo solía estar",
+    "timeline": {
+      "span": "días a semanas tras la desaparición",
+      "type": "narrative_act",
+      "unit": "acts",
+      "anchor": "el accidente"
+    },
+    "world_rules": [
+      "El hijo nunca aparece en pantalla — solo su ausencia.",
+      "Las manos revelan lo que las palabras no pueden.",
+      "La carretera es un personaje: testigo, cómplice, misterio."
+    ],
+    "visual_treatment": "charcoal & graphite"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El momento en que la carretera se la traga a ella también.",
+      "image_path": "images/hero.png",
+      "scene_text": "Ella está de pie en el asfalto frío, donde el auto se salió de la ruta. Las luces azules parpadeantes ya se han ido. Los investigadores ya encontraron lo que pudieron encontrar. Pero no está él. No está su hijo. Y ella sigue aquí, esperando que la tierra lo devuelva."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Las primeras horas donde todo aún podría ser un error.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "LA MADRE está sentada bajo la luz fluorescente, esperando. Hace tres horas que llamó. Hace tres horas que su mundo se partió en dos. Un agente le dijo que espere, que están buscando, que no pierda la esperanza.\n\nPero la esperanza pesa como una piedra en el pecho.\n\nSu teléfono vibra. No es sobre su hijo. Es un mensaje de la escuela: ¿vendrá a buscar al otro? ¿Al que sigue vivo?"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Las manos que no pueden dejar de buscar, incluso en lo que quedó atrás.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "LA MADRE abre el armario de su hijo. Su ropa cuelga tal como él la dejó. Ella toca la manga de una sudadera, la aprieta, inhala.\n\nNada. Solo el olor a guardapolvo y a tiempo detenido.\n\nSus dedos recorren una foto suya en la mesita de noche. Busca en cada milímetro de su rostro una pista, un mensaje, algo que diga dónde está. Como si la física funcionara así. Como si el amor pudiera rastrear lo que se desvanece."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Vuelve cada noche. Como si la oscuridad pudiera revelar lo que el día oculta.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "LA MADRE camina la carretera de madrugada con una linterna en la mano. Los investigadores dejaron de buscar hace una semana. Ella no.\n\nSu pie toca algo en el asfalto. Se agacha. Es una vaina de plástico de las luces de freno. Su corazón salta. No. No es suficiente. Nunca es suficiente.\n\nSigue caminando en la oscuridad, llamando su nombre en voz baja, como si la carretera pudiera escuchar y devolverlo."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El cierre que no es cierre. La respuesta que es solo silencio.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "EL INVESTIGADOR desliza una carpeta cerrada sobre el escritorio.\n\nEL INVESTIGADOR: No hay nada más. Lo siento.\n\nLA MADRE mira la carpeta. Dentro está todo lo que encontraron. Y dentro también está la confirmación de lo que ya sabía: que su hijo desapareció, y que nadie sabe por qué ni adónde.\n\nSus manos permanecen planas sobre el escritorio. No tiemblan. Ya no queda energía para temblar."
+    }
+  ],
+  "cover_image": "worlds/madre-perdida/images/hero.png"
+}
