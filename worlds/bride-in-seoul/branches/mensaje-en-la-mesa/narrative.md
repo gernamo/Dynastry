@@ -1,0 +1,9 @@
+La cena en Itaewon transcurre bajo un velo de perfección. Hyun-Soo es exactamente lo que debería ser — atento, inteligente, divertido de una manera que encaja en la ecuación. Pero en algún momento entre el segundo plato y el vino, Ji-Woo se da cuenta de que está actuando. No solo en la mesa; en su propia vida. Ha estado actuando durante tanto tiempo que ya no sabe dónde termina el libreto y dónde comienza ella.
+
+Entonces el teléfono vibra. Apenas un destello en el bolso. Hyun-Soo sigue hablando — una anécdota sobre una reunión absurda en el trabajo — y Ji-Woo siente el peso del teléfono como si tuviera mil kilos. Sabe, antes incluso de mirarlo, que es Min-Jun. Sabe porque en estos últimos días, cada mensaje suyo ha sido como aire después de estar ahogada.
+
+Durante un segundo — uno solo — ella lucha consigo misma. La Ji-Woo correcta, la que está en esta mesa con este hombre perfecto, dice que no debe mirar. Que es una falta de respeto. Que hay un orden, un plan. Pero la otra Ji-Woo, la que lloró en un café y fue vista de verdad por primera vez en años, ya está sacando el teléfono.
+
+El mensaje de Min-Jun es simple: "¿Cómo estás? Pensé en ti hoy". Nada elaborado, nada planeado. Justo por eso la derrota. Mientras Hyun-Soo termina su anécdota y ella sonríe en el momento exacto en que debería sonreír, sus dedos escriben: "Aquí metida en una cena perfecta. Pero pensaba en ti también."
+
+Ese acto — escribir esas palabras en esa mesa, mientras Hyun-Soo observa sin saber qué está pasando — es el momento en el que todo se quiebra. No de forma dramática. De forma honesta. Ji-Woo acaba de elegir la verdad sobre la perfección. Y aunque no lo sabe todavía, Hyun-Soo ya ha visto la elección escrita en su rostro.
