@@ -1,0 +1,98 @@
+{
+  "name": "El Espejo Compartido",
+  "tags": [
+    "k-drama",
+    "romance",
+    "vulnerabilidad",
+    "honestidad",
+    "Seúl",
+    "espejo-emocional",
+    "crecimiento"
+  ],
+  "status": "developing",
+  "world_id": "w_seul23",
+  "branch_id": "b_espejo",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "el-espejo-compartido",
+  "description": "Días después de la cena, Hyun-Soo vuelve a escribir. Lo que comienza como un mensaje de disculpa se convierte en un acto de honestidad mutua: dos personas descubren que ambas estaban usando la otra como escape.",
+  "parent_slug": "bride-in-seoul",
+  "is_canonical": false,
+  "parent_branch": "b_precio",
+  "new_characters": [
+    {
+      "role": "support",
+      "label": "HYUN-SOO",
+      "arc_summary": "De ser la opción sensata a convertirse en un espejo que ve y es visto; aprende que la honestidad mutua es más valiosa que el silencio cómodo.",
+      "reference_prompt": "medium shot of a man in his 30s sitting at a small café table, phone in hand, looking at the screen with a mixture of resolve and vulnerability, warm café light catching half his face, the unsent message visible in soft focus on the glass behind him, fingers hovering over the keyboard, the moment before honesty, watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch --ar 9:16",
+      "visual_description": "hombre de 30s, limpio y cuidadoso en su presentación; alguien que nota detalles en otros porque está acostumbrado a no ser notado; ojos que buscan conexión real bajo una sonrisa profesional"
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Hyun-Soo, consciente de lo que vio en la mesa pero sin saber la causa, escribe de vuelta. La conversación que sigue no es una ruptura — es un espejo donde ambos ven sus propias fugas.",
+    "timeline_ref": "días después de la cena en Itaewon"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "la verdad a medias se encuentra con otra verdad a medias"
+    },
+    "start": {
+      "order": 1,
+      "marker": "el mensaje llega"
+    },
+    "continues_from": "el-precio-de-la-comparacion",
+    "divergence_question": "¿Qué pasa cuando dos personas que se están escapando de sí mismas reconocen simultáneamente que eso es lo que están haciendo?"
+  },
+  "inherited_from_canon": {
+    "tone": "romántico, humorístico, vulnerable, dinámico",
+    "places_used": [
+      "Seúl de noche"
+    ],
+    "characters_used": [
+      "JI-WOO",
+      "MIN-JUN"
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El dedo sobre el botón. Tres días de espera terminan ahora.",
+      "image_path": "images/hero.png",
+      "scene_text": "HYUN-SOO está solo en un café pequeño de Gangnam. El teléfono brilla en sus manos. Ha reescrito el mensaje diez veces. Cada versión más honesta que la anterior. Esta vez no va a borrar."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Un mensaje que ve demasiado. JI-WOO reconoce la pregunta antes de poder responderla.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "JI-WOO está en el baño de la oficina cuando llega el mensaje. Lee las palabras de Hyun-Soo dos veces. \"Vi que algo cambió en ti.\" Cierra los ojos. Él vio. No preguntó qué era, solo que lo vio. Y ahora ella tiene que elegir qué revelar y qué guardar."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Cada palabra es un acto de equilibrio. JI-WOO escribe la verdad a medias.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "JI-WOO escribe: \"Algo no estaba bien en mí esa noche. Y tienes razón — lo viste. Pero no puedo explicarlo. Solo sé que no era justo contigo.\"\n\nLee lo que escribió. Es honesto pero incompleto. Es lo máximo que puede dar sin poner en riesgo lo poco que aún no entiende de sí misma."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La respuesta de Hyun-Soo es un espejo. Y JI-WOO ve su propia fuga reflejada en la de él.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "JI-WOO lee la respuesta de Hyun-Soo: \"Yo tampoco estaba bien. Estaba buscando en ti a alguien que ya no puedo tener. Creo que ambas estábamos usando la otra como salida.\"\n\nLa pantalla se empaña por sus ojos. Hyun-Soo no está molesto. Está siendo honesto. Y esa honestidad es un alivio que ella no esperaba — la confirmación de que no estaba sola en su intención de escapar."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Dos pantallas. Dos personas. Un espejo compartido.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "En dos lugares distintos de Seúl, dos personas miran sus teléfonos en silencio. Ninguna escribirá más esta noche. Pero tampoco necesita hacerlo. Hyun-Soo y Ji-Woo acaban de descubrir algo que la mayoría de las personas tardan años en entender: que a veces la conexión más real surge no de lo que compartes, sino de lo que ambos reconocéis que estabais escapando. Y en ese reconocimiento, por primera vez desde la cena, ambas respiran más fácil. La fuga continúa — pero ahora saben que no están solas en ella."
+    }
+  ],
+  "cover_image": "worlds/bride-in-seoul/branches/el-espejo-compartido/images/hero.png"
+}
