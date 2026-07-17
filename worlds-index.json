@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-17T14:39:56.141396+00:00",
+  "generated_at": "2026-07-17T15:13:18.406431+00:00",
   "total_worlds": 39,
-  "total_branches": 44,
+  "total_branches": 45,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -796,6 +796,57 @@
               "narrative_caption": "Ella deja dinero en la mesa. Ella se va.",
               "image_path": "worlds/bride-in-seoul/branches/el-silencio-de-hyun-soo/images/scene_4.png",
               "scene_text": "JI-WOO respira una vez. Después otra. Deja dinero en la mesa — más de lo que le corresponde, porque eso es lo que haces cuando aún puedes mantener una ilusión de cortesía — y se levanta.\n\nCamina hacia Itaewon. La noche está viva: neón, risas de extraños, el pulso de una ciudad que no deja de moverse. Ella camina sin rumbo fijo, sin mirar atrás, porque si mira atrás verá la mesa vacía, la cena sin terminar, todas las versiones de sí misma que acaba de dejar atrás.\n\nY en algún lugar entre el neón y la soledad, se hace la única pregunta que importa: ¿acabas de elegir honestidad, o acabas de sabotearte una vez más?"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_mjmsg1",
+          "branch_slug": "mensaje-en-la-mesa",
+          "name": "Mensaje en la Mesa",
+          "description": "Ji-Woo recibe un mensaje de Min-Jun justo en mitad de la cena con Hyun-Soo. Un gesto pequeño pero devastador que revela dónde está realmente su corazón.",
+          "parent_branch": "b_precio01",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Un mensaje desenfadado de Min-Jun llega justo cuando Ji-Woo está suspendida entre dos mundos. Su respuesta — mientras Hyun-Soo sigue hablando — se convierte en el acto que lo cambia todo.",
+            "timeline_ref": "cena en Itaewon"
+          },
+          "cover_image": "worlds/bride-in-seoul/branches/mensaje-en-la-mesa/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La verdad cabe en un mensaje de texto.",
+              "image_path": "worlds/bride-in-seoul/branches/mensaje-en-la-mesa/images/hero.png",
+              "scene_text": "Ji-Woo siente el teléfono vibrar bajo el bolso. Hyun-Soo sigue hablando, su voz fluye suave y perfecta, pero ella ya no lo escucha. Saca el teléfono con cuidado, como si estuviera robando algo. El mensaje brilla en la pantalla: \"¿Cómo estás? Pensé en ti hoy\".\n\nMin-Jun.\n\nSus dedos tiemblan mientras escribe. No piensa. No planifica. Solo responde: \"Aquí metida en una cena perfecta. Pero pensaba en ti también\"."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La perfección tiene un costo.",
+              "image_path": "worlds/bride-in-seoul/branches/mensaje-en-la-mesa/images/scene_1.png",
+              "scene_text": "Hyun-Soo es todo lo que debería desear. Inteligente, atento, con esa estabilidad que los padres aprueban y que hace sentido en un plan de vida. Pero mientras él habla — una anécdota sobre una reunión absurda — Ji-Woo descubre algo aterrador: está aquí pero no está. Su cuerpo está en la mesa, su sonrisa funciona, pero algo esencial de ella se quedó en otro café, con otro hombre que no estaba en el plan."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Un mensaje desenfadado lo cambia todo.",
+              "image_path": "worlds/bride-in-seoul/branches/mensaje-en-la-mesa/images/scene_2.png",
+              "scene_text": "El teléfono vibra. Solo una vibración pequeña, casi invisible. Pero para Ji-Woo es como si el mundo se detuviera. Ella sabe quién es antes de mirar. Ha estado esperando esto sin admitirlo.\n\nCuando finalmente lee el mensaje, la respiración se le corta. No es elaborado. No es perfecto. Es simplemente Min-Jun — desenfadado, honesto, pensando en ella. Y eso es exactamente lo que la quiebra."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El acto pequeño que lo muda todo.",
+              "image_path": "worlds/bride-in-seoul/branches/mensaje-en-la-mesa/images/scene_3.png",
+              "scene_text": "HYUN-SOO\nY entonces el gerente literalmente gritó en la reunión, ¿puedes creerlo?\n\nJi-Woo ve sus labios moverse. Escucha el tono correcto en su voz. Pero sus dedos ya están escribiendo bajo la mesa: \"Aquí metida en una cena perfecta. Pero pensaba en ti también\".\n\nNo es un mensaje largo. No es eloquente. Pero es verdad. Y eso es lo que le duele a Hyun-Soo, aunque no lo sepa aún — es que ella acaba de elegir la verdad sobre él."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Hyun-Soo ve el cambio. Lo ve en sus ojos.",
+              "image_path": "worlds/bride-in-seoul/branches/mensaje-en-la-mesa/images/scene_4.png",
+              "scene_text": "Ella coloca el teléfono face-down junto a la copa de vino. Cuando levanta la vista, Hyun-Soo ya está mirándola. No dice nada. Pero su expresión ha cambiado — algo en él ha visto lo que ella acaba de hacer.\n\nJi-Woo no se disculpa. No explica. Solo lo ve, realmente lo ve, y en ese instante Hyun-Soo comprende que ella ya se fue. Que eligió quedarse en la mesa, pero su corazón está en otro lugar. Y lo más cruel es que ambos saben que ella acaba de elegir bien."
             }
           ]
         }
