@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-17T15:51:06.495712+00:00",
+  "generated_at": "2026-07-17T15:51:21.579026+00:00",
   "total_worlds": 39,
   "total_branches": 45,
   "worlds": [
@@ -804,7 +804,7 @@
           "branch_slug": "mensaje-en-la-mesa",
           "name": "Mensaje en la Mesa",
           "description": "Ji-Woo recibe un mensaje de Min-Jun justo en mitad de la cena con Hyun-Soo. Un gesto pequeño pero devastador que revela dónde está realmente su corazón.",
-          "parent_branch": "b_precio01",
+          "parent_branch": "b_jiwoo1",
           "created_by": "@germanna",
           "created_at": "2026-05-22T12:00:00Z",
           "divergence_event": {
