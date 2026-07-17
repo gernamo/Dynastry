@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-15T18:56:19.048869+00:00",
+  "generated_at": "2026-07-17T06:17:39.040544+00:00",
   "total_worlds": 38,
-  "total_branches": 42,
+  "total_branches": 43,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -646,6 +646,57 @@
       "created_at": "2026-05-22T14:32:00Z",
       "status": "developing",
       "branches": [
+        {
+          "branch_id": "b_espejo",
+          "branch_slug": "el-espejo-compartido",
+          "name": "El Espejo Compartido",
+          "description": "Días después de la cena, Hyun-Soo vuelve a escribir. Lo que comienza como un mensaje de disculpa se convierte en un acto de honestidad mutua: dos personas descubren que ambas estaban usando la otra como escape.",
+          "parent_branch": "b_precio",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Hyun-Soo, consciente de lo que vio en la mesa pero sin saber la causa, escribe de vuelta. La conversación que sigue no es una ruptura — es un espejo donde ambos ven sus propias fugas.",
+            "timeline_ref": "días después de la cena en Itaewon"
+          },
+          "cover_image": "worlds/bride-in-seoul/branches/el-espejo-compartido/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El dedo sobre el botón. Tres días de espera terminan ahora.",
+              "image_path": "worlds/bride-in-seoul/branches/el-espejo-compartido/images/hero.png",
+              "scene_text": "HYUN-SOO está solo en un café pequeño de Gangnam. El teléfono brilla en sus manos. Ha reescrito el mensaje diez veces. Cada versión más honesta que la anterior. Esta vez no va a borrar."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Un mensaje que ve demasiado. JI-WOO reconoce la pregunta antes de poder responderla.",
+              "image_path": "worlds/bride-in-seoul/branches/el-espejo-compartido/images/scene_1.png",
+              "scene_text": "JI-WOO está en el baño de la oficina cuando llega el mensaje. Lee las palabras de Hyun-Soo dos veces. \"Vi que algo cambió en ti.\" Cierra los ojos. Él vio. No preguntó qué era, solo que lo vio. Y ahora ella tiene que elegir qué revelar y qué guardar."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Cada palabra es un acto de equilibrio. JI-WOO escribe la verdad a medias.",
+              "image_path": "worlds/bride-in-seoul/branches/el-espejo-compartido/images/scene_2.png",
+              "scene_text": "JI-WOO escribe: \"Algo no estaba bien en mí esa noche. Y tienes razón — lo viste. Pero no puedo explicarlo. Solo sé que no era justo contigo.\"\n\nLee lo que escribió. Es honesto pero incompleto. Es lo máximo que puede dar sin poner en riesgo lo poco que aún no entiende de sí misma."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La respuesta de Hyun-Soo es un espejo. Y JI-WOO ve su propia fuga reflejada en la de él.",
+              "image_path": "worlds/bride-in-seoul/branches/el-espejo-compartido/images/scene_3.png",
+              "scene_text": "JI-WOO lee la respuesta de Hyun-Soo: \"Yo tampoco estaba bien. Estaba buscando en ti a alguien que ya no puedo tener. Creo que ambas estábamos usando la otra como salida.\"\n\nLa pantalla se empaña por sus ojos. Hyun-Soo no está molesto. Está siendo honesto. Y esa honestidad es un alivio que ella no esperaba — la confirmación de que no estaba sola en su intención de escapar."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Dos pantallas. Dos personas. Un espejo compartido.",
+              "image_path": "worlds/bride-in-seoul/branches/el-espejo-compartido/images/scene_4.png",
+              "scene_text": "En dos lugares distintos de Seúl, dos personas miran sus teléfonos en silencio. Ninguna escribirá más esta noche. Pero tampoco necesita hacerlo. Hyun-Soo y Ji-Woo acaban de descubrir algo que la mayoría de las personas tardan años en entender: que a veces la conexión más real surge no de lo que compartes, sino de lo que ambos reconocéis que estabais escapando. Y en ese reconocimiento, por primera vez desde la cena, ambas respiran más fácil. La fuga continúa — pero ahora saben que no están solas en ella."
+            }
+          ]
+        },
         {
           "branch_id": "b_jiwoo1",
           "branch_slug": "el-precio-de-la-comparacin",
