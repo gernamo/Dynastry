@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-17T15:52:13.138478+00:00",
+  "generated_at": "2026-07-17T18:14:10.945791+00:00",
   "total_worlds": 39,
-  "total_branches": 45,
+  "total_branches": 46,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -796,6 +796,57 @@
               "narrative_caption": "Ella deja dinero en la mesa. Ella se va.",
               "image_path": "worlds/bride-in-seoul/branches/el-silencio-de-hyun-soo/images/scene_4.png",
               "scene_text": "JI-WOO respira una vez. Después otra. Deja dinero en la mesa — más de lo que le corresponde, porque eso es lo que haces cuando aún puedes mantener una ilusión de cortesía — y se levanta.\n\nCamina hacia Itaewon. La noche está viva: neón, risas de extraños, el pulso de una ciudad que no deja de moverse. Ella camina sin rumbo fijo, sin mirar atrás, porque si mira atrás verá la mesa vacía, la cena sin terminar, todas las versiones de sí misma que acaba de dejar atrás.\n\nY en algún lugar entre el neón y la soledad, se hace la única pregunta que importa: ¿acabas de elegir honestidad, o acabas de sabotearte una vez más?"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_enc1a2",
+          "branch_slug": "encuentro-sin-aviso",
+          "name": "Encuentro sin aviso",
+          "description": "Min-Jun aparece sin avisar en el lugar menos esperado. Ji-Woo debe elegir en tiempo real, sin libreto, sin red de seguridad.",
+          "parent_branch": "b_mjmsg1",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T14:33:00Z",
+          "divergence_event": {
+            "description": "Min-Jun no espera una respuesta por mensaje. Aparece en persona, forzando a Ji-Woo a actuar sin tiempo para pensar.",
+            "timeline_ref": "inmediatamente después de la cena con Hyun-Soo"
+          },
+          "cover_image": "worlds/bride-in-seoul/branches/encuentro-sin-aviso/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "A veces la vida no pregunta. Solo aparece.",
+              "image_path": "worlds/bride-in-seoul/branches/encuentro-sin-aviso/images/hero.png",
+              "scene_text": "El andén está vacío. El sonido del tren en la distancia es apenas un murmullo. Ji-Woo alza la vista y lo ve — Min-Jun bajando por las escaleras, mochila al hombro, mirada directa hacia ella. No hay sorpresa en su rostro. Solo certeza."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ji-Woo sale de la cena perfecta hacia una noche imperfecta.",
+              "image_path": "worlds/bride-in-seoul/branches/encuentro-sin-aviso/images/scene_1.png",
+              "scene_text": "El restaurante se desvanece detrás de ella. Hyun-Soo la besó en la mejilla — el gesto correcto, en el momento correcto — y ella supo, con la precisión de un reloj roto, que acababa de elegir lo equivocado.\n\nEl teléfono vibra. Otra vez. No mira. No quiere saber qué dice Min-Jun. O tal vez sí quiere, pero no puede leerlo mientras los mensajes de Hyun-Soo preguntan si llegó bien a casa."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Entra al subterráneo sin saber que él está allá arriba, buscándola.",
+              "image_path": "worlds/bride-in-seoul/branches/encuentro-sin-aviso/images/scene_2.png",
+              "scene_text": "La escalera eléctrica la baja, baja, baja. El mundo de Seúl se empequeñece arriba — las luces de neón, los edificios, la vida que se supone debe vivir. Abajo está el andén vacío. Abajo está el lugar donde nadie espera que alguien como ella esté a esta hora.\n\nSe sienta en un banco. El metal es frío. Su bolso está en el asiento al lado. El teléfono sigue vibrando como si tuviera vida propia."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Min-Jun no esperó una respuesta. Vino a exigirla en persona.",
+              "image_path": "worlds/bride-in-seoul/branches/encuentro-sin-aviso/images/scene_3.png",
+              "scene_text": "Las escaleras suenan bajo sus pies. Min-Jun llega al andén, ve a Ji-Woo sentada, y ella lo ve. No hay fingimiento posible. No hay escape. La luz fluorescente no perdona.\n\nÉl camina hacia ella. No sonríe. Solo la mira como si fuera la única razón por la que bajó esas escaleras a altas horas de la noche."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "En sesenta segundos, Ji-Woo va a elegir. Y nada volverá a ser igual.",
+              "image_path": "worlds/bride-in-seoul/branches/encuentro-sin-aviso/images/scene_4.png",
+              "scene_text": "Se pone de pie. El teléfono cae del bolsillo — Hyun-Soo, la familia, las expectativas — todo cae. Min-Jun está a un metro de distancia. El tren se acerca en la distancia.\n\nJi-Woo abre la boca para hablar, pero no sabe qué decir. Quizás no importa. Quizás esto es lo que significa elegir sin libreto — estar de pie frente a alguien, en un andén vacío, sin saber exactamente qué va a pasar a continuación. Y descubrir que eso es suficiente."
             }
           ]
         },
