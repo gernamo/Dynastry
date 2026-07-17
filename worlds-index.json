@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-17T07:01:04.888944+00:00",
+  "generated_at": "2026-07-17T14:39:56.141396+00:00",
   "total_worlds": 39,
-  "total_branches": 43,
+  "total_branches": 44,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -745,6 +745,57 @@
               "narrative_caption": "El colapso. La verdad. Sin plan, sin salida.",
               "image_path": "worlds/bride-in-seoul/branches/el-precio-de-la-comparacin/images/scene_4.png",
               "scene_text": "Ji-Woo no puede hablar. Las lágrimas caen sin sonido. Hyun-Soo no sabe qué hizo mal — se ve en su cara. Y eso es lo peor: que es un hombre bueno, atento, exactamente lo que ella dijo que quería. Pero querer algo y necesitarlo son cosas diferentes. Mira a través de la ventana hacia Seúl, hacia las miles de personas vivas en esa noche, y se pregunta si Min-Jun está en algún lugar de esa oscuridad, esperando a alguien que ya no sabe cómo encontrarlo."
+            }
+          ]
+        },
+        {
+          "branch_id": "b_silenc1",
+          "branch_slug": "el-silencio-de-hyun-soo",
+          "name": "El Silencio de Hyun-Soo",
+          "description": "En la mesa de Itaewon, un mensaje en el móvil revela lo que Ji-Woo ha estado negando. Hyun-Soo ve el nombre y responde con silencio absoluto — dejándola sola con la verdad.",
+          "parent_branch": "b_precio1",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T14:30:00Z",
+          "divergence_event": {
+            "description": "Un mensaje llega al móvil de Ji-Woo. Hyun-Soo lo ve antes que ella — ve el nombre, ve la verdad — y responde pagando la cuenta en silencio, irse sin una palabra.",
+            "timeline_ref": "durante la cena con Hyun-Soo"
+          },
+          "cover_image": "worlds/bride-in-seoul/branches/el-silencio-de-hyun-soo/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El silencio llega antes que la comprensión.",
+              "image_path": "worlds/bride-in-seoul/branches/el-silencio-de-hyun-soo/images/hero.png",
+              "scene_text": "La mesa está iluminada por velas. Hyun-Soo sostiene el móvil — no por curiosidad, sino por ese reflejo automático de alguien acostumbrado a estar presente. Ve la pantalla. Ve el nombre que Ji-Woo acaba de recibir.\n\nJi-Woo nota el cambio en su cara. No es ira. Es algo peor: es el momento en que alguien ve la verdad que tú mismo estabas evitando."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La cena es perfecta. Por eso duele.",
+              "image_path": "worlds/bride-in-seoul/branches/el-silencio-de-hyun-soo/images/scene_1.png",
+              "scene_text": "HYUN-SOO está siendo exactamente quien debería ser: atento, inteligente, haciendo que Ji-Woo sienta que sus palabras importan. Ella ríe — de verdad ríe — pero en algún lugar bajo esa risa hay un eco de otra risa, en otro lugar, con alguien que no estaba en el plan.\n\nHYUN-SOO no ve la fractura. Todavía no. La mesa está demasiado iluminada de esperanza, el vino demasiado cálido, para que vea lo que está pasando debajo."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Un nombre en la pantalla. Todo cambia.",
+              "image_path": "worlds/bride-in-seoul/branches/el-silencio-de-hyun-soo/images/scene_2.png",
+              "scene_text": "HYUN-SOO ve el nombre antes que ella. MIN-JUN. Dos letras, un nombre que contiene toda la contradicción que Ji-Woo ha estado viviendo en silencio.\n\nNo lo dice en voz alta. No necesita. Su mano se detiene a mitad de camino hacia su copa. Sus ojos parpadean una sola vez — largo, doloroso — y en ese parpadeo, Ji-Woo sabe que él sabe. Que ve todo lo que ella estaba negando."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El silencio es su respuesta.",
+              "image_path": "worlds/bride-in-seoul/branches/el-silencio-de-hyun-soo/images/scene_3.png",
+              "scene_text": "HYUN-SOO levanta la mano. Llama al camarero con la precisión de alguien que ya ha tomado una decisión.\n\nJI-WOO intenta hablar, pero él niega con la cabeza — no con dureza. Con una gentileza que es casi insoportable. Paga la cuenta. Se levanta. Camina hacia la puerta sin mirar atrás, dejándola en la mesa iluminada por velas que de repente se sienten como acusaciones."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ella deja dinero en la mesa. Ella se va.",
+              "image_path": "worlds/bride-in-seoul/branches/el-silencio-de-hyun-soo/images/scene_4.png",
+              "scene_text": "JI-WOO respira una vez. Después otra. Deja dinero en la mesa — más de lo que le corresponde, porque eso es lo que haces cuando aún puedes mantener una ilusión de cortesía — y se levanta.\n\nCamina hacia Itaewon. La noche está viva: neón, risas de extraños, el pulso de una ciudad que no deja de moverse. Ella camina sin rumbo fijo, sin mirar atrás, porque si mira atrás verá la mesa vacía, la cena sin terminar, todas las versiones de sí misma que acaba de dejar atrás.\n\nY en algún lugar entre el neón y la soledad, se hace la única pregunta que importa: ¿acabas de elegir honestidad, o acabas de sabotearte una vez más?"
             }
           ]
         }
