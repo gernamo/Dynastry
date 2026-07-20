@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-17T18:14:10.945791+00:00",
+  "generated_at": "2026-07-20T09:16:50.983784+00:00",
   "total_worlds": 39,
-  "total_branches": 46,
+  "total_branches": 47,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -847,6 +847,57 @@
               "narrative_caption": "En sesenta segundos, Ji-Woo va a elegir. Y nada volverá a ser igual.",
               "image_path": "worlds/bride-in-seoul/branches/encuentro-sin-aviso/images/scene_4.png",
               "scene_text": "Se pone de pie. El teléfono cae del bolsillo — Hyun-Soo, la familia, las expectativas — todo cae. Min-Jun está a un metro de distancia. El tren se acerca en la distancia.\n\nJi-Woo abre la boca para hablar, pero no sabe qué decir. Quizás no importa. Quizás esto es lo que significa elegir sin libreto — estar de pie frente a alguien, en un andén vacío, sin saber exactamente qué va a pasar a continuación. Y descubrir que eso es suficiente."
+            }
+          ]
+        },
+        {
+          "branch_id": "b_jiwoo2",
+          "branch_slug": "la-verdad-en-la-mesa",
+          "name": "La Verdad en la Mesa",
+          "description": "Ji-Woo elige quedarse en la cena con Hyun-Soo y decirle la verdad — que su corazón está en otro lugar, que no puede seguir fingiendo. Un acto de honestidad brutal que abre una puerta que ninguno de los dos esperaba.",
+          "parent_branch": "b_jiwoo1",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "En lugar de escapar, Ji-Woo se queda y le dice la verdad a Hyun-Soo — que hay alguien más, que no puede seguir actuando, que lo siente.",
+            "timeline_ref": "mitad de la cena en Itaewon"
+          },
+          "cover_image": "worlds/bride-in-seoul/branches/la-verdad-en-la-mesa/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El momento antes de desmoronarse es el momento antes de ser verdadera.",
+              "image_path": "worlds/bride-in-seoul/branches/la-verdad-en-la-mesa/images/hero.png",
+              "scene_text": "JI-WOO\n¿Estás bien?\n\n(respira profundo)\n\nNo. No estoy bien.\n\nLa vela tiembla entre ellos. Las manos de Ji-Woo están en la mesa, visibles, indefensas. Hyun-Soo espera."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Las palabras salen sin plan, sin corrección. Solo verdad.",
+              "image_path": "worlds/bride-in-seoul/branches/la-verdad-en-la-mesa/images/scene_1.png",
+              "scene_text": "JI-WOO\nHay alguien más. No lo planeé. No debería estar pasando, pero está pasando, y no puedo seguir fingiendo que no veo su cara cuando cierro los ojos.\n\nHYUN-SOO\n(después de una pausa larga)\n¿Lo amas?\n\nJI-WOO\nNo lo sé. Pero sé que no es justo estar aquí contigo pensando en él."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Él no la condena. La ve. Y eso duele más que cualquier grito.",
+              "image_path": "worlds/bride-in-seoul/branches/la-verdad-en-la-mesa/images/scene_2.png",
+              "scene_text": "HYUN-SOO\nLo sé. Lo vi hace tres minutos. Pude sentir tu mente en otro lugar. Y sabes qué es lo peor? Que hubieras podido quedarte callada y yo nunca lo habría sabido con certeza.\n\nJI-WOO\n(temblando)\nPero estuviste aquí. Siendo real. Y no podía mentirte.\n\nHYUN-SOO\nEso es lo que me hace pensar que este tipo que no conozco debe ser muy especial. Porque tú eres alguien que elige la verdad incluso cuando duele."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La lluvia de Seúl cae sobre lo que pudo haber sido.",
+              "image_path": "worlds/bride-in-seoul/branches/la-verdad-en-la-mesa/images/scene_3.png",
+              "scene_text": "Caminan juntos hacia la estación de metro. La lluvia es suave, casi discreta. Hyun-Soo mantiene las manos en los bolsillos. Ji-Woo tiembla, no de frío.\n\nHYUN-SOO\nEspero que valga la pena. Lo que acabas de hacer.\n\nJI-WOO\n(mirando las luces borrosas de Itaewon)\nYo también."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "No es un plan. Es simplemente el siguiente paso.",
+              "image_path": "worlds/bride-in-seoul/branches/la-verdad-en-la-mesa/images/scene_4.png",
+              "scene_text": "JI-WOO escribe:\n\n\"¿Podemos hablar?\"\n\nNo hay emoji. No hay explicación. No hay ecuación. Solo eso. Su dedo flota sobre el botón de enviar. El tren llega en el andén opuesto, sus luces barriendo la plataforma.\n\nElla presiona enviar.\n\nAhora espera."
             }
           ]
         },
