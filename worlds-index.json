@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-21T16:28:23.112002+00:00",
-  "total_worlds": 39,
+  "generated_at": "2026-07-21T19:30:17.294708+00:00",
+  "total_worlds": 40,
   "total_branches": 50,
   "worlds": [
     {
@@ -3112,6 +3112,106 @@
           "aspect_ratio": "4:5",
           "narrative_caption": "",
           "image_path": "worlds/gonan-ciudad-venganza/images/hero.png"
+        }
+      ]
+    },
+    {
+      "world_id": "w_gtr_disc",
+      "slug": "guitarist-discovery",
+      "name": "La Guitarra",
+      "description": "Un músico solitario viaja por el mundo con su guitarra, conecta con gente, ama, pierde — y descubre que la música no es lo que toca, sino lo que lo transforma.",
+      "tags": [
+        "viaje",
+        "música",
+        "descubrimiento",
+        "melancolía",
+        "transformación",
+        "drama",
+        "esperanza"
+      ],
+      "cover_image": "worlds/guitarist-discovery/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T14:30:00Z",
+      "status": "developing",
+      "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "EL MÚSICO",
+          "arc_summary": "De alguien que toca música a alguien que entiende qué significa ser música.",
+          "reference_prompt": "A lone musician sitting on worn stone steps in evening light, guitar resting across his lap, one hand on the neck, fingers curved as if mid-thought, soft shadow across his face, the guitar catching a warm accent of amber light, back to camera, stillness before movement :: charcoal & graphite pencil sketch on toned paper, loose expressive linework, cross-hatching for shadows, monochrome with a single restrained color accent, intentionally imperfect like a director's working storyboard :: intimate, contemplative, the weight of miles --ar 9:16",
+          "visual_description": "un hombre de edad indeterminada, manos gastadas de tocar, ojos que buscan en lugares lejanos, ropa de viajero, siempre con la guitarra cerca",
+          "reference_image_path": "images/characters/el-musico.png"
+        },
+        {
+          "role": "support",
+          "label": "LA VOZ",
+          "arc_summary": "El espejo que refleja lo que el músico todavía no sabe que es capaz de escuchar.",
+          "reference_prompt": "A figure with head tilted back, mouth open mid-song in a dimly lit room, hands raised as if conducting invisible air, warm golden light cutting across cheekbones, silhouette against a window or lamp, raw and unguarded :: charcoal & graphite pencil sketch on toned paper, loose expressive linework, cross-hatching for shadows, monochrome with a single restrained color accent, intentionally imperfect like a director's working storyboard :: vulnerable, alive, the moment sound becomes body --ar 9:16",
+          "visual_description": "alguien que canta, que toca, que muestra al músico que el sonido es vivo — edad y forma fluidas, presente en momentos de quiebre",
+          "reference_image_path": "images/characters/la-voz.png"
+        }
+      ],
+      "places": [
+        {
+          "name": "El Camino",
+          "atmosphere": "transitoria, cargada, solitaria pero viva",
+          "reference_prompt": "An empty train platform at dusk, a single bench with a guitar case leaning against it, rail tracks stretching into soft focus, one streetlamp casting long shadows, architectural lines creating depth, a single warm light source in the distance :: charcoal & graphite pencil sketch on toned paper, loose expressive linework, cross-hatching for shadows, monochrome with a single restrained color accent, intentionally imperfect like a director's working storyboard :: liminal, waiting, the space between arrivals --ar 9:16",
+          "visual_description": "carreteras, plazas de pueblos, cuartos de hotel, andenes de tren, lugares que el músico cruza — texturas de asfalto, paredes con grietas, pisos de madera vieja, luz que cambia según la hora",
+          "reference_image_path": "images/places/el-camino.png"
+        }
+      ],
+      "story_bible": {
+        "tone": "introspectivo, esperanzador con grietas, buscador",
+        "setting": "caminos, ciudades, lugares intermedios donde la música resuena",
+        "timeline": {
+          "span": "desde la búsqueda hasta el descubrimiento",
+          "type": "narrative_act",
+          "unit": "acts",
+          "anchor": "el primer acorde toca algo nuevo"
+        },
+        "world_rules": [
+          "La música es un lenguaje universal que revela verdades sobre quiénes somos",
+          "Cada encuentro cambia algo en el músico; nada se pierde completamente",
+          "El silencio es tan importante como el sonido"
+        ],
+        "visual_treatment": "charcoal & graphite"
+      },
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Las manos que tocan. El instrumento que enseña.",
+          "image_path": "worlds/guitarist-discovery/images/hero.png",
+          "scene_text": "La guitarra en manos gastadas de viaje. Cada callus es una ciudad, cada rasguño es un nombre olvidado. Las manos no piden permiso — simplemente tocan. Y en el acto de tocar, descubren quién es el músico."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Otro pueblo. Otro silencio que romper.",
+          "image_path": "worlds/guitarist-discovery/images/scene_1.png",
+          "scene_text": "EL MÚSICO llega a un pueblo donde nadie lo espera. Las calles están vacías, las puertas cerradas. Lleva la guitarra como quien lleva un secreto — algo que necesita compartir pero no sabe cómo. Se detiene en una plaza. El silencio es ensordecedor."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "La voz que no sabía que buscaba.",
+          "image_path": "worlds/guitarist-discovery/images/scene_2.png",
+          "scene_text": "LA VOZ canta. No es perfecta — es honesta. El músico toca, escucha, se detiene. Por primera vez en años, siente que no está solo. Que la música no es lo que él toca — es lo que resuena entre dos personas que se entienden sin palabras."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "El viaje continúa. Siempre continúa.",
+          "image_path": "worlds/guitarist-discovery/images/scene_3.png",
+          "scene_text": "El tren se mueve. EL MÚSICO mira atrás, la frente contra el vidrio frío. LA VOZ se queda. Pero no es pérdida — es transformación. Cada encuentro lo cambia un poco más, lo acerca más a entender que la música no pertenece a nadie. Solo fluye a través."
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "El descubrimiento no es una nota. Es el silencio después.",
+          "image_path": "worlds/guitarist-discovery/images/scene_4.png",
+          "scene_text": "EL MÚSICO está solo nuevamente, pero diferente. La guitarra en sus manos ya no es un objeto — es un lenguaje. Entiende, por fin, que no toca para ser escuchado. Toca porque no puede no hacerlo. Porque la música lo toca a él, y él es solo el instrumento. El viaje continúa. Y cada paso es una canción."
         }
       ]
     },
