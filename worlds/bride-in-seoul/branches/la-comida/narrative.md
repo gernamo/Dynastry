@@ -1,0 +1,11 @@
+La comida familiar es una institución en Seúl — no es una invitación que se rechaza. Cuando Ji-Woo recibe el mensaje de su madre, siente el peso familiar antes de leer las palabras. Su madre quiere verla. Su madre quiere saber. Su madre, como siempre, no dice qué exactamente, pero Ji-Woo lo entiende: esta es una inspección.
+
+Pero esta vez, Ji-Woo no va sola. Min-Jun la acompaña porque ella lo pidió sin pensar, porque en las últimas semanas su vida se ha llenado de él de una forma que no esperaba. Y cuando entra a la casa de su infancia, él está a su lado, y su madre levanta la vista desde la cocina, y en ese instante — en ese silencio de menos de un segundo — Ji-Woo siente el pánico.
+
+No lo planeó. No lo discutió. Y cuando su madre pregunta quién es, Ji-Woo dice: "Mi pareja" — y la palabra sale como si la hubiera ensayado mil veces, como si fuera verdad desde siempre. Min-Jun la mira con sorpresa, después con algo que podría ser ternura. Su madre sonríe, pero es una sonrisa que contiene preguntas.
+
+La comida se convierte en un interrogatorio amable. ¿De dónde es Min-Jun? ¿Qué hace? ¿Cuánto tiempo llevan juntos? Con cada pregunta, Ji-Woo improvisa, construye, miente — y Min-Jun, inteligente, sigue su ritmo, añadiendo detalles que suenan verdaderos porque están tejidos en la verdad de lo que realmente está sucediendo entre ellos, aunque no sea exactamente lo que su madre entiende.
+
+Pero su madre ve todo. Ve la forma en que Ji-Woo toca el brazo de Min-Jun cuando habla. Ve cómo él la mira cuando ella no lo sabe. Ve la grieta entre lo que Ji-Woo está diciendo y lo que Ji-Woo está sintiendo. Y en lugar de explotar la mentira, en lugar de hacer preguntas incómodas, su madre elige silencio — y ese silencio es más poderoso que cualquier acusación.
+
+Después, cuando Min-Jun ayuda a limpiar y ella se retira discretamente, la madre de Ji-Woo la llama a la cocina. Están a solas. Y entonces, sin ira, sin decepción performativa, su madre dice lo que realmente ve: no una mentira, sino una búsqueda. Una hija que estaba tan ocupada encontrando la respuesta correcta que olvidó preguntarse qué era lo que realmente quería. Y en ese momento, en esa cocina donde Ji-Woo creció bajo el peso de las expectativas, su madre le ofrece algo que nunca esperó: permiso para dejar de buscar lo que otros querían, y permiso para ver lo que estaba justo frente a ella.
