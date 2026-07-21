@@ -1,0 +1,105 @@
+{
+  "name": "El Medio Fracturado",
+  "tags": [
+    "rama-continua",
+    "posesión-mental",
+    "fractura-identidad",
+    "el-medio",
+    "adolescente",
+    "horror-íntimo",
+    "baroque-dissolution"
+  ],
+  "status": "developing",
+  "world_id": "w_thr0ld",
+  "branch_id": "b_fract1",
+  "created_at": "2026-05-22T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "el-medio-fracturado",
+  "description": "Uno de los niños se convierte en puente para la presencia. Su mente se parte en dos, y en la batalla por recuperarse, descubre que quedará marcado para siempre—capaz de sentir lo que viene desde el otro lado.",
+  "parent_slug": "adolescent-threshold",
+  "is_canonical": false,
+  "parent_branch": "b_intru1",
+  "new_characters": [
+    {
+      "role": "protagonist",
+      "label": "EL MEDIO",
+      "arc_summary": "De ser el receptor silencioso de la presencia a convertirse en alguien capaz de sentirla pero nunca poseerla completamente.",
+      "reference_prompt": "a teenage figure with ink-stained hands pressed against their own chest, eyes unfocused as if looking through themselves, the air around them wavering like heat distortion, half their face in shadow and half in warm light, standing in a basement doorway | medium close-up, slight Dutch angle, warm backlighting from an unseen source, the figure's outline slightly dissolving at the edges | watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch | vulnerable, fragmented, liminal | --ar 9:16",
+      "visual_description": "adolescente de complexión media, cabello que cae sobre los ojos, manos que tiemblan levemente, ropa desgastada con manchas de tinta que no logra limpiar. Después de la fractura, hay algo en su mirada que no sincroniza—como si viera en dos tiempos distintos."
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Uno de los niños descubre que puede comunicarse con la presencia sin palabras. La cosa lo usa como medio. Su cuerpo se convierte en campo de batalla entre su voluntad y la de ella.",
+    "timeline_ref": "después de que los dibujos precisos aparecen en las paredes"
+  },
+  "inherited_places": [
+    "el sótano"
+  ],
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "después de la expulsión, marcado pero entero"
+    },
+    "start": {
+      "order": 1,
+      "marker": "el primer contacto silencioso"
+    },
+    "continues_from": "b_intru1",
+    "divergence_question": "¿Qué pasa si el niño sobrevive a la posesión pero nunca vuelve a ser completamente él mismo?"
+  },
+  "inherited_from_canon": {
+    "tone": [
+      "irreverent",
+      "baroque-romantic",
+      "histrionic",
+      "surreal-dissolution"
+    ],
+    "places_used": [
+      "el sótano"
+    ],
+    "characters_used": [
+      "COLLECTIVE"
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El medio que quedó después de la batalla.",
+      "image_path": "images/hero.png",
+      "scene_text": "EL MEDIO se encuentra entre la puerta y el sótano. Su cuerpo está entero. Su mente no.\n\nPuede sentir ambas partes—la suya, intacta; la otra, ahora expulsada pero aún presente, como un fantasma con peso. La vibración en sus dedos persiste. Los dibujos en las paredes ya no son dúo. Son monólogo.\n\nEn su pecho, donde latía la presencia, ahora late algo que es mitad suyo, mitad cicatriz."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El primer sussurro sin sonido.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "EL MEDIO toca la pared por primera vez después de que aparecen los dibujos precisos.\n\nSu dedo índice encuentra la tinta aún húmeda. Caliente. Como si respirara.\n\nLos otros están al otro extremo del sótano, riéndose de algo que no tiene importancia. Él no los oye. Solo siente la vibración que sube desde la punta de su dedo hasta la muñeca, hasta el codo. Como si la pared lo reconociera. Como si lo estuviera llamando por su verdadero nombre."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Dos manos en un solo cuerpo.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "EL MEDIO ya no puede controlar sus propios dibujos.\n\nSu mano derecha quiere hacer líneas temblorosas, caóticas, adolescentes. Su mano izquierda traza geometrías imposibles. Ambas salen de los mismos hombros. Del mismo cuello. De la misma voluntad que ya no es completamente suya.\n\nUno de los otros lo ve por un segundo. Ve cómo EL MEDIO habla y su voz sale en dos tonos. Ve cómo sus ojos miran hacia el sótano y hacia algún otro lugar simultáneamente.\n\nLuego apartan la vista. Como si no quieran confirmar lo que acaban de presenciar."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La mente se parte en dos para que el cuerpo no lo haga.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "EL MEDIO cae en el sótano gritando con dos voces.\n\nLa parte suya lucha. La parte que no es suya lucha de regreso. Los otros lo rodean pero no pueden tocarlo porque el aire a su alrededor vibra como si estuviera siendo desgarrado desde adentro.\n\nVe sus propias manos como si pertenecieran a un extraño. Siente su propio pecho como una puerta que alguien está intentando abrir desde ambos lados.\n\nHay un momento—uno solo—donde ambas mitades se equilibran. Donde puede sentirse a sí mismo y a la otra cosa simultáneamente. Es hermoso y es insoportable.\n\nLuego elige. Su mitad elige."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Entero. Pero nunca más completamente solo.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "EL MEDIO respira.\n\nEsta vivo. Su cuerpo es suyo de nuevo.\n\nPero en el pecho siente una cicatriz que no tiene forma. En los dedos siente una vibración que no se apaga. Y en la puerta abierta—esa puerta que debería haberse cerrado—siente un pulso familiar.\n\nLa presencia se fue. Pero dejó algo adentro.\n\nAhora él puede sentirla. Siempre. Como alguien que escucha un sonido en la frecuencia que solo él percibe. Y sabe que cuando vuelva—porque volverá—él será el primero en saberlo.\n\nLos otros lo miran desde el otro extremo del sótano. No saben qué preguntarle. Quizás es mejor así."
+    }
+  ],
+  "cover_image": "worlds/adolescent-threshold/branches/el-medio-fracturado/images/hero.png"
+}
