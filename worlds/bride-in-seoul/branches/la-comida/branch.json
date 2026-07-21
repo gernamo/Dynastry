@@ -1,0 +1,105 @@
+{
+  "name": "La Comida",
+  "tags": [
+    "k-drama",
+    "romance",
+    "familia",
+    "mentira-revelada",
+    "aceptación",
+    "vulnerabilidad",
+    "Seúl"
+  ],
+  "status": "developing",
+  "world_id": "w_seul23",
+  "branch_id": "b_cf47x2",
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "Casa de la familia — comedor",
+      "atmosphere": "tensa, doméstica, cálida pero sofocante, reveladora",
+      "reference_prompt": "wide shot of a traditional Korean dining table laden with small dishes and steam rising, family members sitting around it, the camera positioned low to capture the intimacy and the unspoken pressure in the room, warm overhead light casting shadows across faces, the space feels both welcoming and claustrophobic | watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch | domestic, tense, intimate --ar 9:16",
+      "visual_description": "comedor tradicional coreano con mesa baja rodeada de cojines; platos banchan amontonados, vapor suave de la comida caliente; luz cálida de un candelabro overhead; paredes neutras pero llenas de fotos familiares; la atmósfera es íntima pero cargada de expectativa"
+    }
+  ],
+  "branch_slug": "comida-familiar-verdad",
+  "description": "Ji-Woo presenta a Min-Jun como su pareja en la comida familiar. La mentira crece con cada pregunta, pero su madre ve lo que realmente está pasando — y elige comprender en lugar de acusar.",
+  "parent_slug": "bride-in-seoul",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [
+    {
+      "role": "support",
+      "label": "MADRE",
+      "arc_summary": "De la expectativa silenciosa a la compasión activa — aprende a ver a su hija sin juzgarla.",
+      "reference_prompt": "close-up of a woman in her 60s at a dining table, hands folded around a tea cup, eyes reading the room with deep attention and hidden tenderness, soft warm lamplight casting gentle shadows on her face, the moment before she chooses compassion over judgment | watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch | intimate, maternal, penetrating --ar 9:16",
+      "visual_description": "mujer de 60s, elegante y observadora; ojos que han visto todo pero que aman profundamente; lleva la presión de la tradición pero también su propia rebeldía callada"
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Ji-Woo improvisa una mentira que convierte a Min-Jun en su pareja ficticia. Su madre descubre la verdad pero elige otra respuesta: ver realmente a su hija.",
+    "timeline_ref": "comida familiar — semanas después del encuentro en el café"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "después de la comida, a solas en la cocina"
+    },
+    "start": {
+      "order": 1,
+      "marker": "camino a la casa de la familia"
+    },
+    "diverges_from": "canon — después del primer encuentro en el café",
+    "divergence_question": "¿Qué pasa cuando Ji-Woo trae a Min-Jun a la comida familiar sin haberlo planeado?"
+  },
+  "inherited_from_canon": {
+    "tone": "romántico, humorístico, vulnerable, dinámico",
+    "places_used": [
+      "Seúl de noche"
+    ],
+    "characters_used": [
+      "JI-WOO",
+      "MIN-JUN"
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La mentira que no era del todo mentira.",
+      "image_path": "images/hero.png",
+      "scene_text": "Ji-Woo y Min-Jun llegan a la casa. Su madre los recibe en la puerta — y en ese instante, sin pensarlo, Ji-Woo dice las palabras que cambiarán todo.\n\nJI-WOO\n(con una calma que no siente)\nMadre, quiero presentarte a alguien.\n\nLa mano de Ji-Woo encuentra la de Min-Jun. Él no la suelta. Su madre sonríe, pero sus ojos leen entre líneas — y antes de que Ji-Woo pueda corregirse, ya es demasiado tarde."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Cada pregunta es una trampa que Ji-Woo no ve venir.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "La mesa se llena de comida y de preguntas. Su madre es hábil — no acusa, solo pregunta. ¿Cuánto tiempo llevan juntos? ¿De dónde es Min-Jun? ¿Qué hace en la vida?\n\nJi-Woo improvisa. Min-Jun, sorprendentemente, improvisa con ella — sus historias se entrelazan con lo que es real (el café, las conversaciones) y lo que es ficción (cuánto tiempo, cómo se conocieron formalmente).\n\nSu madre observa. Siempre observa."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La mentira crece con cada respuesta.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Las preguntas se vuelven más específicas. ¿Qué le gusta de Min-Jun? ¿Ya lo conoce la familia de Ji-Woo? ¿Piensan en casarse?\n\nCada pregunta hace que Ji-Woo construya más — historias que suenen verdaderas, pequeños detalles que ella y Min-Jun han compartido en la realidad pero que ahora están siendo reinterpretados. Min-Jun la sigue. Pero hay un momento — cuando su madre pregunta cómo se conocieron — donde Ji-Woo vacila.\n\nY su madre ve ese vacío."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Su madre ve la verdad y elige el silencio.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Cuando se preparan para irse, su madre no dice nada. Abraza a Min-Jun como si fuera verdad. Besa a Ji-Woo en la frente.\n\nPero luego, cuando Min-Jun va al baño, ella toma a Ji-Woo de la muñeca — suavemente — y la mira a los ojos. En ese silencio, Ji-Woo siente todo: la mentira, la verdad, el amor, la comprensión. Su madre no pregunta. Solo la ve."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La verdad que duele porque es amor.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "En la cocina, a solas, su madre habla. No como acusadora — como testigo.\n\nMADRE\n¿Sabes qué vi hoy en la mesa?\n\nJi-Woo no responde.\n\nMADRE\nNo vi una mentira. Vi a mi hija buscando desesperadamente algo que cree que necesita. Vi a una chica tan ocupada encontrando la respuesta correcta que olvidó preguntarse qué es lo que realmente quería.\n\nHace una pausa. Sus ojos están húmedos.\n\nMADRE\nY luego vi a Min-Jun mirarte. Y vi cómo tú lo mirabas a él. Y pensé: tal vez lo que estaba buscando estaba justo ahí.\n\nJi-Woo siente las lágrimas venir.\n\nMADRE\nNo te voy a preguntar si es verdad o no. Pero te voy a decir que tienes permiso para dejar de buscar. Tienes permiso para ver lo que está frente a ti."
+    }
+  ],
+  "cover_image": "worlds/bride-in-seoul/branches/la-comida/images/hero.png"
+}
