@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-20T09:16:50.983784+00:00",
+  "generated_at": "2026-07-21T16:13:41.968044+00:00",
   "total_worlds": 39,
-  "total_branches": 47,
+  "total_branches": 48,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -847,6 +847,57 @@
               "narrative_caption": "En sesenta segundos, Ji-Woo va a elegir. Y nada volverá a ser igual.",
               "image_path": "worlds/bride-in-seoul/branches/encuentro-sin-aviso/images/scene_4.png",
               "scene_text": "Se pone de pie. El teléfono cae del bolsillo — Hyun-Soo, la familia, las expectativas — todo cae. Min-Jun está a un metro de distancia. El tren se acerca en la distancia.\n\nJi-Woo abre la boca para hablar, pero no sabe qué decir. Quizás no importa. Quizás esto es lo que significa elegir sin libreto — estar de pie frente a alguien, en un andén vacío, sin saber exactamente qué va a pasar a continuación. Y descubrir que eso es suficiente."
+            }
+          ]
+        },
+        {
+          "branch_id": "b_cf47x2",
+          "branch_slug": "la-comida",
+          "name": "La Comida",
+          "description": "Ji-Woo presenta a Min-Jun como su pareja en la comida familiar. La mentira crece con cada pregunta, pero su madre ve lo que realmente está pasando — y elige comprender en lugar de acusar.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T14:30:00Z",
+          "divergence_event": {
+            "description": "Ji-Woo improvisa una mentira que convierte a Min-Jun en su pareja ficticia. Su madre descubre la verdad pero elige otra respuesta: ver realmente a su hija.",
+            "timeline_ref": "comida familiar — semanas después del encuentro en el café"
+          },
+          "cover_image": "worlds/bride-in-seoul/branches/la-comida/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La mentira que no era del todo mentira.",
+              "image_path": "worlds/bride-in-seoul/branches/la-comida/images/hero.png",
+              "scene_text": "Ji-Woo y Min-Jun llegan a la casa. Su madre los recibe en la puerta — y en ese instante, sin pensarlo, Ji-Woo dice las palabras que cambiarán todo.\n\nJI-WOO\n(con una calma que no siente)\nMadre, quiero presentarte a alguien.\n\nLa mano de Ji-Woo encuentra la de Min-Jun. Él no la suelta. Su madre sonríe, pero sus ojos leen entre líneas — y antes de que Ji-Woo pueda corregirse, ya es demasiado tarde."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Cada pregunta es una trampa que Ji-Woo no ve venir.",
+              "image_path": "worlds/bride-in-seoul/branches/la-comida/images/scene_1.png",
+              "scene_text": "La mesa se llena de comida y de preguntas. Su madre es hábil — no acusa, solo pregunta. ¿Cuánto tiempo llevan juntos? ¿De dónde es Min-Jun? ¿Qué hace en la vida?\n\nJi-Woo improvisa. Min-Jun, sorprendentemente, improvisa con ella — sus historias se entrelazan con lo que es real (el café, las conversaciones) y lo que es ficción (cuánto tiempo, cómo se conocieron formalmente).\n\nSu madre observa. Siempre observa."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La mentira crece con cada respuesta.",
+              "image_path": "worlds/bride-in-seoul/branches/la-comida/images/scene_2.png",
+              "scene_text": "Las preguntas se vuelven más específicas. ¿Qué le gusta de Min-Jun? ¿Ya lo conoce la familia de Ji-Woo? ¿Piensan en casarse?\n\nCada pregunta hace que Ji-Woo construya más — historias que suenen verdaderas, pequeños detalles que ella y Min-Jun han compartido en la realidad pero que ahora están siendo reinterpretados. Min-Jun la sigue. Pero hay un momento — cuando su madre pregunta cómo se conocieron — donde Ji-Woo vacila.\n\nY su madre ve ese vacío."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Su madre ve la verdad y elige el silencio.",
+              "image_path": "worlds/bride-in-seoul/branches/la-comida/images/scene_3.png",
+              "scene_text": "Cuando se preparan para irse, su madre no dice nada. Abraza a Min-Jun como si fuera verdad. Besa a Ji-Woo en la frente.\n\nPero luego, cuando Min-Jun va al baño, ella toma a Ji-Woo de la muñeca — suavemente — y la mira a los ojos. En ese silencio, Ji-Woo siente todo: la mentira, la verdad, el amor, la comprensión. Su madre no pregunta. Solo la ve."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La verdad que duele porque es amor.",
+              "image_path": "worlds/bride-in-seoul/branches/la-comida/images/scene_4.png",
+              "scene_text": "En la cocina, a solas, su madre habla. No como acusadora — como testigo.\n\nMADRE\n¿Sabes qué vi hoy en la mesa?\n\nJi-Woo no responde.\n\nMADRE\nNo vi una mentira. Vi a mi hija buscando desesperadamente algo que cree que necesita. Vi a una chica tan ocupada encontrando la respuesta correcta que olvidó preguntarse qué es lo que realmente quería.\n\nHace una pausa. Sus ojos están húmedos.\n\nMADRE\nY luego vi a Min-Jun mirarte. Y vi cómo tú lo mirabas a él. Y pensé: tal vez lo que estaba buscando estaba justo ahí.\n\nJi-Woo siente las lágrimas venir.\n\nMADRE\nNo te voy a preguntar si es verdad o no. Pero te voy a decir que tienes permiso para dejar de buscar. Tienes permiso para ver lo que está frente a ti."
             }
           ]
         },
