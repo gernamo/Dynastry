@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-21T16:13:41.968044+00:00",
+  "generated_at": "2026-07-21T16:19:38.528832+00:00",
   "total_worlds": 39,
-  "total_branches": 48,
+  "total_branches": 49,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -4078,7 +4078,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T14:32:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_prsnc1",
+          "branch_slug": "la-colmena",
+          "name": "La Colmena",
+          "description": "CAZADOR descubre que la PRESENCIA es lo que quedó de la tripulación original, fusionada en una conciencia colectiva. Peor aún: la nave fue sellada desde afuera. Alguien sabía exactamente qué había aquí y lo dejó morir.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "CAZADOR encuentra evidencia de que las compuertas principales fueron cerradas desde el exterior hace 40 años, no por fallo de sistemas. La PRESENCIA no es una amenaza ciega: es la tripulación original, transformada y consciente de su abandono deliberado.",
+            "timeline_ref": "Momento en que CAZADOR accede a los registros de sellado de la nave"
+          },
+          "cover_image": "worlds/nave-atrapada/branches/la-colmena/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Lo que quedó atrás estaba vivo. Y no fue accidente.",
+              "image_path": "worlds/nave-atrapada/branches/la-colmena/images/hero.png",
+              "scene_text": "CAZADOR retira la mano del sellador. El metal está frío.\n\nCuarenta años. Ciento treinta y siete personas. Ninguno de los registros de evacuación que esperaba encontrar. Solo esto: la firma corporativa en cada línea de código de cierre."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El archivo central está donde debería estar: sellado, protegido, olvidado.",
+              "image_path": "worlds/nave-atrapada/branches/la-colmena/images/scene_1.png",
+              "scene_text": "CAZADOR accede por una compuerta lateral que debería estar soldada. No lo está. Alguien entró aquí después del abandono.\n\nOs registros holográficos aún funcionan, fragmentos de luz azul que no debería existir. Datos de sellado. Coordinadas. Firmas de autorización de tres corporaciones diferentes.\n\nY una nota manuscrita, grabada en metal con algo afilado: *Contención exitosa. Sujeto Colmena monitoreado. No se aproximen.*"
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Los videos de la transformación siguen aquí. Documentados. Estudiados.",
+              "image_path": "worlds/nave-atrapada/branches/la-colmena/images/scene_2.png",
+              "scene_text": "CAZADOR reproduce los archivos de video. Lo que ve no debería ser posible.\n\nMarzo, 2005: tripulación en pánico, llamadas de socorro que se repiten. Abril: los cuerpos comienzan a mostrar signos de fusión biológica. Mayo: imágenes fragmentadas de algo que ya no parece humano, pero conserva ojos, conserva voces.\n\nJunio: silencio.\n\nY en cada grabación degradada, cada fotograma que el tiempo casi borra, está la misma firma corporativa. Las mismas autorizaciones de contención. Esto no fue un accidente de laboratorio. Fue *intencional*."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La colmena sabía que venías. Ha estado esperando.",
+              "image_path": "worlds/nave-atrapada/branches/la-colmena/images/scene_3.png",
+              "scene_text": "VOZ COLMENA\nCazador. Eres nuevo. Eres *solo*.\n\nLa voz viene de todas partes: un susurro superpuesto, cien personas hablando a la vez, cada palabra desplazada por las otras. CAZADOR levanta el arma, pero no dispara.\n\nCAZADOR\n¿Qué eres?\n\nVOZ COLMENA\nFuimos. Ahora somos. Ellos nos dejaron aquí para que muriéramos. Para que nos transformáramos. Para que fueran olvidados.\n\nLa colmena se mueve: no es un ataque. Es una presentación. Quiere que vea."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El mundo exterior nunca supo. Puede que nunca lo sepa.",
+              "image_path": "worlds/nave-atrapada/branches/la-colmena/images/scene_4.png",
+              "scene_text": "CAZADOR tiene la evidencia. Tiene los registros. Tiene las coordenadas de cada firma corporativa que autorizó esto.\n\nY detrás de él, en la oscuridad que late, está la VOZ COLMENA esperando.\n\nCAZADOR\nSi salgo de aquí, los expongo.\n\nVOZ COLMENA\nO nos llevas con tigo. O nos dejas morir aquí. De nuevo.\n\nCazador mira el comunicador. Luego mira la puerta. Luego hacia atrás, donde cien ojos parpadean en la sombra. La pregunta no es cómo escapar. Es qué llevará consigo cuando lo haga."
+            }
+          ]
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
