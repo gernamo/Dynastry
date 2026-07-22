@@ -1,0 +1,9 @@
+Ann92 y Gronk son el corazón de un grupo de delincuentes internacionales que operan en la Ciudad de México. Ann92, especialista en contrabando, es la mejor amiga — la que sostiene la estructura con lealtad ciega. Gronk es el genio alcohólico detrás de la pantalla, cuyas manos tiemblan tanto por el alcohol como por la culpa.
+
+Todo cambia cuando pierden a una miembro. No es una baja operacional; es una muerte. El grupo se quiebra. Pero antes de que puedan procesar el duelo, intentan un robo desesperado en el Polvorín — un almacén de armas controlado por narcotraficantes locales. El asalto falla. La agresión que sufren no es una derrota táctica; es brutal, humillante, traumática. Huesos rotos. Sangre en concreto.
+
+La salida es imposible: negociar con la policía bajo duress. Pero la policía de CDMX es tan corrupta como ellos. No es una alianza entre el bien y el mal; es un pacto entre predadores. Ann92 y Gronk deben usar sus habilidades para trabajar CON la ley contra los narcotraficantes — una colaboración que los define no como redimidos, sino como supervivientes que han vendido lo que les quedaba.
+
+La saga explora lo que cuesta permanecer leales cuando la lealtad es un veneno. Gronk sigue escribiendo código, pero ahora para la policía. Ann92 sigue moviendo mercancía, pero ahora en territorio prohibido. Ambos cargan el peso de una tercera persona — la que murió, la que no puede salvarse — y descubren que la redención no es un destino. Es una grieta que nunca se cierra.
+
+Esto no es una historia de héroes. Es una historia de gente que cae juntos y aprende que caer juntos es, quizá, la única forma de no caer solos.
