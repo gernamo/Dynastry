@@ -1,0 +1,107 @@
+{
+  "name": "Caída",
+  "slug": "ann92-gronk-caida",
+  "tags": [
+    "noir",
+    "crimen",
+    "redención",
+    "lealtad",
+    "cdmx",
+    "2026",
+    "corrupción",
+    "trauma"
+  ],
+  "places": [
+    {
+      "name": "El Polvorín — Almacén de armas en las afueras de CDMX",
+      "atmosphere": "industrial, hostil, claustrofóbico, peligroso",
+      "reference_prompt": "Wide establishing shot of an abandoned munitions warehouse at dusk, concrete walls scarred and weathered, heavy steel doors hanging crooked, rust bleeding down like old blood, industrial lights casting harsh shadows across stacked ammunition crates, a single window high up with orange sky bleeding through, puddles reflecting broken neon, the air thick with dust and danger. Cinematic gouache with visible brushstrokes, dramatic motivated lighting, rich layered palette, film production painting. Industrial, suffocating, ominous. --ar 9:16",
+      "visual_description": "Estructura de concreto envejecido, puertas reforzadas con óxido, luces industriales rotas. Interior: cajas de munición apiladas, tuberías oxidadas, charcos de agua sucia. Olor a metal y humedad. Un lugar donde la muerte respira.",
+      "reference_image_path": "images/places/el-polvorin-almacen-de-armas-en-las-afue.png"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_ax7k2m",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "ANN92",
+      "arc_summary": "La mejor amiga que no puede salvar a nadie, ni siquiera a sí misma. Su lealtad es su veneno.",
+      "reference_prompt": "A woman in her thirties, scarred knuckles gripping a cigarette, standing in a warehouse doorway at dusk with industrial lights casting long shadows across her face, one eye in darkness, the other catching amber light, her jaw clenched, wearing a dark tactical jacket, the river visible blurred behind her through broken windows. Cinematic gouache with visible brushstrokes, dramatic motivated lighting, rich layered palette, film production painting. Melancholic, vigilant, no comfort. --ar 9:16",
+      "visual_description": "Mujer de treinta y tantos, cicatrices en los nudillos, ropa oscura de contrabandista. Ojos que han visto demásiado. Postura militar incluso en reposo.",
+      "reference_image_path": "images/characters/ann92.png"
+    },
+    {
+      "role": "protagonist",
+      "label": "GRONK",
+      "arc_summary": "Obsesionado con romper sistemas porque no puede romper su propia caída. Su talento lo atrapa más que lo libera.",
+      "reference_prompt": "A man in his forties hunched over a laptop in a darkened room, a beer bottle on the desk beside him, his hands trembling slightly over the keyboard, sweat on his brow catching neon-blue light from the screen, cigarette smoke curling above his head, walls covered in dead monitors and cables, one window showing the Mexico City skyline at night. Cinematic gouache with visible brushstrokes, dramatic motivated lighting, rich layered palette, film production painting. Tense, obsessive, self-destructive. --ar 9:16",
+      "visual_description": "Hacker alcohólico de cuarenta años, ojos rojos, ropa desgastada. Manos que tiemblan sobre el teclado. Brillantez destrozada por el alcohol.",
+      "reference_image_path": "images/characters/gronk.png"
+    }
+  ],
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "description": "Un grupo de delincuentes internacionales sufre la muerte de una miembro y una agresión brutal que los obliga a negociar con la policía. Lealtad rota, supervivencia imposible, redención incierta en la Ciudad de México.",
+  "story_bible": {
+    "tone": [
+      "crudo",
+      "tenso",
+      "moralmente gris",
+      "sin sentimentalismo"
+    ],
+    "setting": "Ciudad de México, barrios industriales, polvorines en las afueras, comisarías corruptas. 2026.",
+    "timeline": {
+      "span": "6 semanas de caída, negociación y consecuencias",
+      "type": "narrative_act",
+      "unit": "acts",
+      "anchor": "Muerte de la miembro del grupo"
+    },
+    "world_rules": [
+      "La lealtad entre delincuentes es la única moneda que importa.",
+      "La policía es tan corrupta como los criminales; la alianza es mutua extorsión.",
+      "La muerte de una miembro no cierra nada — abre grietas que no se cierran.",
+      "La redención no es personal; es colectiva o no existe."
+    ],
+    "visual_treatment": "Cinematic gouache — atmospheric sci-fi, fable, surrealism"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Dos figuras que cargan el peso juntas.",
+      "image_path": "images/hero.png",
+      "scene_text": "Ann92 y Gronk están de pie en la oscuridad del polvorín, después. No hablan. No hay palabras para esto. El aire huele a sangre y óxido. Afuera, las sirenas aúllan. Dentro, solo el sonido de su respiración.\n\nAnn92 toca el brazo de Gronk — no es consuelo, es confirmación. Ambos saben qué viene después. Negociación. Alianza con la policía. La muerte de lo que eran.\n\nNo hay redención aquí. Solo supervivencia."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El momento donde el grupo deja de ser invencible.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Ann92 está de rodillas. No puede tocar el cuerpo — no todavía. Sus manos tiemblan a centímetros del rostro de su amiga, como si el contacto pudiera confirmar algo que ya es verdad.\n\nLos otros están lejos, en la penumbra. Nadie habla. El grupo que se creía impenetrable acaba de romperse en pedazos.\n\nLa lluvia cae en líneas diagonales. El concreto bebe sangre."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El asalto se desmorona en segundos.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Gronk retrocede violentamente. Sus ojos no pueden procesar lo que está pasando — la velocidad, la ferocidad. Las manos que reventaban sistemas de seguridad ahora se alzan defensivamente contra golpes que no ve venir.\n\nAlguien grita. Hay sangre en su boca. El plan se desmorona como si nunca hubiera existido.\n\nEl polvorín se convierte en una trampa."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La única salida es vender lo que queda.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Ann92 mira los documentos frente a ella. Conforme hacer trabajo para la policía. Conforme infiltrar a los narcotraficantes. Conforme convertirse en lo que siempre odió.\n\nEl detective al otro lado de la mesa no es un héroe. Es tan corrupto como ella, solo con una placa.\n\n'¿Tengo opción?', pregunta Ann92.\n\nEl silencio es la respuesta."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El código sigue fluyendo. Solo cambió de dueño.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Gronk escribe. Sus dedos vuelan sobre el teclado como si nada hubiera cambiado. El código que revientaba sistemas ahora los construye para la policía.\n\nLa botella de whiskey está más llena que vacía. Todavía hay tiempo.\n\nSe pregunta si esto es redención o si es solo una prisión diferente con las puertas abiertas."
+    }
+  ],
+  "cover_image": "worlds/ann92-gronk-caida/images/hero.png"
+}
