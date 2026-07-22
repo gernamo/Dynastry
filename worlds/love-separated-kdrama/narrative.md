@@ -1,0 +1,7 @@
+En Seúl, donde los rascacielos tienen genealogía y los apellidos abren o cierran puertas, Ji-Won y Min-Ju se encontraron donde nadie los busca: en una cafetería de sótano a las dos de la mañana.
+
+Ji-Won desciende desde su mundo de cristal y cena de negocios. Heredero de un conglomerado textil, educado en el extranjero, con un futuro ya escrito en tinta corporativa. Min-Ju sube desde sus turnos de noche, de sus manos que tiñen la cerámica y el café, de su sueño de ser artista que se retrasa cada semestre. Ella dibuja; él mira.
+
+No fue amor a primera vista. Fue reconocimiento. Una mirada que no pedía nada, y otra que por primera vez podía bajar la guardia. Se vieron cada noche que él encontraba excusa para escapar, cada madrugada que ella terminaba su turno. En la cafetería, entre el olor a café tostado y las sombras de las plantas, inventaron un mundo donde no había apellidos.
+
+Pero el mundo de afuera existe. Las familias existen. Los matrimonios arreglados existen. Y existe el teléfono de Ji-Won con mensajes que dice que no puede ignorar, y existe el aviso de desahucio en el buzón de Min-Ju que ella intenta pagar con turnos extra. El amor que comparten es real, pero la estructura que los rodea es más fuerte. Cada encuentro roba tiempo que no tienen. Cada despedida en la madrugada duele porque ambos saben que alguna noche, uno de ellos no bajará las escaleras del sótano.
