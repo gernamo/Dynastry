@@ -1,0 +1,105 @@
+{
+  "name": "Entre Líneas",
+  "slug": "love-separated-kdrama",
+  "tags": [
+    "k-drama",
+    "romance",
+    "melodrama",
+    "clase social",
+    "seúl",
+    "amor imposible",
+    "melancólico"
+  ],
+  "places": [
+    {
+      "name": "La Cafetería de Medianoche (Café Sombra)",
+      "atmosphere": "refugio, clandestino, íntimo, borde del sueño",
+      "reference_prompt": "Interior of a small underground café at 2 AM, narrow and warm, brick walls lined with potted plants casting irregular shadows, a single vintage lamp glowing amber over a corner table, rain-streaked window at street level showing only darkness and passing feet, coffee cups and books scattered, the feeling of a place suspended outside time :: charcoal & graphite :: clandestine sanctuary :: --ar 9:16",
+      "visual_description": "Pequeño café en un sótano de Hongdae — paredes de ladrillo sin pintar, plantas sobre estantes desvencijados, luces cálidas de lámpara que crean sombras móviles. Olor a café tostado y lluvia. Cámara baja de vigilancia parpadeando en la esquina.",
+      "reference_image_path": "images/places/la-cafeteria-de-medianoche-cafe-sombra.png"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_ks7m2n",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "JI-WON",
+      "arc_summary": "Heredero de conglomerado que descubre que el amor no entra en el organigrama familiar.",
+      "reference_prompt": "A man in his late twenties in a luxury penthouse at dawn, wearing an expensive white shirt half-unbuttoned, staring at a city skyline through floor-to-ceiling windows, one hand touching the glass, the weight of family duty visible in his shoulders, morning light casting long shadows across his face :: charcoal & graphite :: introspective, constrained elegance :: --ar 9:16",
+      "visual_description": "Finales 20s, ropa cara pero con peso de obligación — camisas blancas impecables, reloj heredado. Pelo oscuro peinado, pero hay cansancio en los ojos. Postura de alguien que carga expectativas.",
+      "reference_image_path": "images/characters/ji-won.png"
+    },
+    {
+      "role": "protagonist",
+      "label": "MIN-JU",
+      "arc_summary": "Estudiante de artes que trabaja en cafetería nocturna; ama sin poder pedir nada a cambio.",
+      "reference_prompt": "A woman in her late twenties in a small café kitchen at midnight, holding a ceramic cup of tea with both hands, wearing a worn oversized sweater, her reflection faintly visible in a darkened window behind her, exhaustion and tenderness mixed in her expression, flour dust on her sleeve :: charcoal & graphite :: quiet dignity, working-class warmth :: --ar 9:16",
+      "visual_description": "Finales 20s, ropa práctica — jeans gastados, sudadera ancha, zapatillas viejas. Pelo recogido o despeinado de verdad. Hay fuerza en sus manos de trabajar; mirada clara, sin filtro.",
+      "reference_image_path": "images/characters/min-ju.png"
+    }
+  ],
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "description": "Un romance imposible en Seúl: dos personas de mundos opuestos que se aman en secreto, atrapadas por clase, familia y destino. Cada encuentro es robo.",
+  "story_bible": {
+    "tone": [
+      "melancólico",
+      "contenido",
+      "íntimo",
+      "estructural"
+    ],
+    "setting": "Seúl moderno — penthouses y sótanos, metro de medianoche, cafeterías de barrio obrero",
+    "timeline": {
+      "span": "tres años de encuentros furtivos",
+      "type": "narrative_act",
+      "unit": "acts",
+      "anchor": "el primer encuentro accidental"
+    },
+    "world_rules": [
+      "La clase social es invisible pero absoluta — matrimonios arreglados, negocios familiares que vinculan destinos",
+      "El secreto es el único espacio donde pueden respirar juntos",
+      "Cada encuentro robado tiene fecha de vencimiento — ambos lo saben"
+    ],
+    "visual_treatment": "charcoal & graphite"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Amor que duele porque no puede ser.",
+      "image_path": "images/hero.png",
+      "scene_text": "Se ven a través del cristal mojado. Las manos casi se tocan. Ni él sube, ni ella abre. Afuera llueve. Adentro, el mundo entero cabe en esa distancia que no pueden cruzar."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ji-Won desciende desde su mundo de cristal.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Las escaleras del sótano huelen a humedad y a tierra. Ji-Won baja con su camisa blanca impecable, su reloj que cuesta más que un año del alquiler de Min-Ju. Con cada paso, se quita algo. Cuando llega abajo, puede respirar. Cuando la ve, puede ser alguien más."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ella hace cerámica. Él bebe de sus manos.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Cada noche ella le deja una taza diferente. Imperfecta, hecha por ella. Él llega y la sostiene como si fuera cristal. A veces no bebe; solo la mira. Min-Ju sabe que las guarda todas. Sabe que cada taza es un mensaje que dice: no te olvido, aunque mañana tengas que olvidarme."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La familia llama. El destino es una línea de teléfono.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "—Tu prometida es de buena familia. La conocerás la próxima semana.\n\nJi-Won escucha a su padre. La ciudad detrás del vidrio brilla como una jaula. Sabe que debería colgar. Que debería bajar corriendo a la cafetería de medianoche. Que cada segundo que espera es un segundo que Min-Ju está arriba, dibujando, esperando un mensaje que no va a llegar."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Algunas noches, él no baja.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "Min-Ju cierra la cafetería a las cinco de la mañana. Hace dos semanas que no lo ve. Su teléfono está en el bolsillo, sin mensajes. Las tazas que hizo están en una caja debajo del mostrador. Ella no las tira. No puede. Cuando apaga las luces, la cafetería es solo un sótano vacío de nuevo. Solo un lugar donde sucedió algo que no debería haber pasado."
+    }
+  ],
+  "cover_image": "worlds/love-separated-kdrama/images/hero.png"
+}
