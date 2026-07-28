@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-22T15:53:29.207495+00:00",
+  "generated_at": "2026-07-28T15:27:19.318380+00:00",
   "total_worlds": 42,
-  "total_branches": 50,
+  "total_branches": 51,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -1056,6 +1056,57 @@
               "narrative_caption": "La verdad que duele porque es amor.",
               "image_path": "worlds/bride-in-seoul/branches/la-comida/images/scene_4.png",
               "scene_text": "En la cocina, a solas, su madre habla. No como acusadora — como testigo.\n\nMADRE\n¿Sabes qué vi hoy en la mesa?\n\nJi-Woo no responde.\n\nMADRE\nNo vi una mentira. Vi a mi hija buscando desesperadamente algo que cree que necesita. Vi a una chica tan ocupada encontrando la respuesta correcta que olvidó preguntarse qué es lo que realmente quería.\n\nHace una pausa. Sus ojos están húmedos.\n\nMADRE\nY luego vi a Min-Jun mirarte. Y vi cómo tú lo mirabas a él. Y pensé: tal vez lo que estaba buscando estaba justo ahí.\n\nJi-Woo siente las lágrimas venir.\n\nMADRE\nNo te voy a preguntar si es verdad o no. Pero te voy a decir que tienes permiso para dejar de buscar. Tienes permiso para ver lo que está frente a ti."
+            }
+          ]
+        },
+        {
+          "branch_id": "b_kj9x4m",
+          "branch_slug": "la-confesion",
+          "name": "La Confesión",
+          "description": "Ji-Woo finalmente le cuenta la verdad a Min-Jun: lo presentó como su pareja en la comida familiar. Su reacción no es la que ella esperaba, y la confronta con lo que realmente siente.",
+          "parent_branch": "b_cf47x2",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Ji-Woo decide confesarle a Min-Jun que lo presentó como su pareja, esperando culpa o distancia. En su lugar, Min-Jun le muestra lo que él ya sabía — y le pregunta qué quiere ella realmente.",
+            "timeline_ref": "después de la comida familiar"
+          },
+          "cover_image": "worlds/bride-in-seoul/branches/la-confesion/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Antes de decir la verdad.",
+              "image_path": "worlds/bride-in-seoul/branches/la-confesion/images/hero.png",
+              "scene_text": "Ji-Woo está sola en su apartamento. Ha pasado días ensayando esta conversación en su cabeza — cómo confesarse, cómo pedir perdón. Pero ahora que Min-Jun está en camino, todas las palabras se evaporan. Apoya la frente contra la ventana fría y mira las luces de Seúl palpitar debajo. El teléfono vibra. Él llegará en diez minutos."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Las palabras salen.",
+              "image_path": "worlds/bride-in-seoul/branches/la-confesion/images/scene_1.png",
+              "scene_text": "JI-WOO: \"Necesito contarte algo que debería haberte contado hace días.\"\n\nMin-Jun está sentado, tan cerca que ella puede sentir el calor de su cuerpo. Ella cuenta — la mentira, la improvisación, la forma en que su madre preguntó y ella respondió sin pensar. Con cada palabra, siente que se está hundiendo. Pero Min-Jun no se mueve. Solo escucha.\n\nJI-WOO: \"Te arrastré a mi mentira sin preguntarte.\""
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Él ve todo.",
+              "image_path": "worlds/bride-in-seoul/branches/la-confesion/images/scene_2.png",
+              "scene_text": "MIN-JUN: \"Lo sé. Lo he sabido.\"\n\nJi-Woo levanta la vista, confundida. Min-Jun sonríe — no con burla, sino con esa tristeza tranquila que ella ha aprendido a reconocer en él.\n\nMIN-JUN: \"Tu madre lo vio. Yo lo vi. Pero lo que importa es que tu madre eligió no acusarte. Eligió verte. ¿Sabes lo raro que es eso en Seúl?\"\n\nLa culpa que Ji-Woo sentía comienza a transformarse en algo más complejo, más real."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La pregunta que no tiene respuesta ensayada.",
+              "image_path": "worlds/bride-in-seoul/branches/la-confesion/images/scene_3.png",
+              "scene_text": "MIN-JUN: \"¿Qué quieres realmente, Ji-Woo? ¿A mí, o la idea de que alguien pueda estar a tu lado sin cuestionar? Porque si es lo segundo, puedo irme ahora. Pero si es lo primero...\"\n\nNo termina la frase. No necesita hacerlo. Ji-Woo siente el silencio entre ellos como algo vivo, respirante. Por primera vez en meses, no tiene un plan. No tiene una respuesta que suene correcta. Solo tiene miedo y esperanza, mezclados."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Donde todo comenzó.",
+              "image_path": "worlds/bride-in-seoul/branches/la-confesion/images/scene_4.png",
+              "scene_text": "Es de madrugada cuando llegan al café olvidado — el lugar donde todo empezó sin que ella lo supiera. Están cansados, desaliñados, pero hay algo más limpio en el aire entre ellos ahora.\n\nJI-WOO: \"Entonces... ¿qué hacemos?\"\n\nMIN-JUN: \"Empezamos de nuevo. Esta vez sin mentiras.\"\n\nEl café se llena lentamente con la luz del amanecer. Seúl se despierta afuera. Y entre ellos hay una pregunta abierta, sin respuesta, sin plan — pero por primera vez, Ji-Woo no tiene miedo de eso. Porque la verdad, descubre, no cierra puertas. Las abre."
             }
           ]
         },
