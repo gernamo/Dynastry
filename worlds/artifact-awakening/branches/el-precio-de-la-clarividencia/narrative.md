@@ -1,0 +1,9 @@
+Las ruinas respiran en silencio después del enfrentamiento. Consumidor se ha retirado a las profundidades, dejando un rastro de penumbra que solo Cazador puede leer. Ve las ramificaciones del futuro desplegándose como ramas de un árbol muerto — cada camino que Consumidor podría tomar, cada emboscada, cada trampa. La visión es clara, ineludible. Debe seguir. Solo.
+
+Pero Forjadora es más rápida que la culpa. Lo rastreó antes de que cruzara el primer corredor, sus pasos tan silenciosos como el suyo propio, movida por algo que no es obediencia sino instinto. Cazador no lo sabe. Cree que viaja en absoluta soledad.
+
+El grupo se divide. Algunos argumentan que perseguir a Consumidor es suicidio — están heridos, aún no entienden sus propios poderes. Otros ven algo en la forma en que Cazador desapareció, en la intensidad de su mirada. Forjadora no discute. Solo camina hacia la penumbra, y el resto la sigue porque no pueden hacer otra cosa.
+
+En las profundidades, donde la luz del artefacto no llega, Cazador finalmente alcanza a Consumidor. El enfrentamiento es breve, feroz, desequilibrado. Cada visión que Cazador ve, cada futuro que intenta evitar, lo agota un poco más — no el cuerpo, sino algo más profundo. Algo dentro de él se desmorona con cada clarividencia. Y cuando el grupo emerge de las sombras, lo ven caer.
+
+Forjadora corre hacia él. Sus manos buscan heridas que no encuentran. Cazador respira, pero sus ojos están vacíos — no ciegos, sino ausentes. Ha visto demasiados futuros a la vez. Ha cargado demasiadas posibilidades en una mente mortal. El precio de la clarividencia no es sangre. Es parte de sí mismo.
