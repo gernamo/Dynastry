@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-28T16:09:26.096891+00:00",
-  "total_worlds": 42,
+  "generated_at": "2026-07-28T16:30:36.059587+00:00",
+  "total_worlds": 43,
   "total_branches": 52,
   "worlds": [
     {
@@ -3591,6 +3591,106 @@
           "narrative_caption": "Algo desciende las escaleras. Algo que usa el uniforme del Director.",
           "image_path": "worlds/internado-oscuro/images/scene_4.png",
           "scene_text": "Los pasos son lentos. Metódicos. El Director desciende con las manos relajadas, como quien va a encontrar un objeto perdido que siempre supo dónde estaba.\n\nPaula sabe que no puede correr más rápido que eso. Sabe que no hay salida arriba. Sabe, en el silencio claustrofóbico del sótano, que acaba de completar el ciclo. Que su nombre, en breve, será grabado en la piedra.\n\nY quizás eso es lo más aterrador: que todo esto fue inevitable desde el momento en que nació."
+        }
+      ]
+    },
+    {
+      "world_id": "w_JN7K4R",
+      "slug": "jon-memoria",
+      "name": "Jon: Memoria",
+      "description": "Una saga de acción y aventura donde Jon, un protagonista solitario, busca descubrirse a sí mismo a través de fragmentos de su pasado. Cada recuerdo es una revelación — decisiones que lo llevaron al presente, y al hombre que es ahora.",
+      "tags": [
+        "acción",
+        "aventura",
+        "memoria",
+        "introspección",
+        "flashback",
+        "misterio-interior",
+        "cel-shaded-anime"
+      ],
+      "cover_image": "worlds/jon-memoria/images/hero.png",
+      "created_by": "@germanna",
+      "created_at": "2026-05-22T14:32:00Z",
+      "status": "developing",
+      "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "JON",
+          "arc_summary": "Jon reconstruye su identidad a través del dolor de sus decisiones pasadas, aprendiendo que la soledad fue una elección, no un destino.",
+          "reference_prompt": "a lone figure standing in an urban ruin at dusk, wind whipping fabric, scarred arms crossed, jaw clenched in recognition of something just remembered, harsh backlighting casting a sharp silhouette, dynamic low angle, cel-shaded anime style, bold confident linework, saturated colors with deep shadows, energetic composition --ar 9:16",
+          "visual_description": "silueta atlética, cicatrices en brazos y espalda, ropa desgastada de viajero, cabello oscuro despeinado, ojos que buscan algo que no puede nombrar. Movimientos precisos, tensos.",
+          "reference_image_path": "images/characters/jon.png"
+        },
+        {
+          "role": "support",
+          "label": "ECHO",
+          "arc_summary": "Echo representa las consecuencias de las decisiones de Jon — la persona que quedó atrás, o la que podría haber sido.",
+          "reference_prompt": "a figure partially obscured in dense fog or shadow, one hand reaching toward Jon across a chasm, face half-visible and shifting like memory, dynamic mid-shot with strong contrast, cel-shaded anime style with saturated accent color (electric blue or red), kinetic composition suggesting motion and instability --ar 9:16",
+          "visual_description": "presencia espectral en los flashbacks — a veces aliado, a veces espejo de quién era Jon. Indistinto en el presente, más nítido en el pasado. Energía volátil.",
+          "reference_image_path": "images/characters/echo.png"
+        }
+      ],
+      "places": [
+        {
+          "name": "La Ruina Central",
+          "atmosphere": "desolado, industrial, melancólico, revelador, atrapante",
+          "reference_prompt": "sweeping establishing shot of a massive collapsed urban structure, twisted towers and broken bridges suspended in mist, rain catching harsh sidelight, foreground ruin detail (cracked concrete, exposed rebar), dynamic deep perspective with vertical composition emphasizing scale, cel-shaded anime style with saturated steel-blues and rusted oranges, energetic linework --ar 9:16",
+          "visual_description": "megaestructura urbana colapsada — torres retorcidas, pasarelas rotas suspendidas sobre abismos, neón apagado, óxido y acero expuesto. Lluvia constante, reflejos en charcos profundos. Luz dramática desde grietas en el cielo.",
+          "reference_image_path": "images/places/la-ruina-central.png"
+        }
+      ],
+      "story_bible": {
+        "tone": "introspectivo, dinámico, visceral, revelador",
+        "setting": "un mundo urbano-futurista con paisajes áridos; presente incierto, flashbacks a ciudades perdidas y territorios salvajes",
+        "timeline": {
+          "span": "múltiples flashbacks que abarcan años; presente en 24 horas críticas",
+          "type": "narrative_act",
+          "unit": "actos",
+          "anchor": "Jon despierta sin saber quién es; el primer recuerdo lo golpea como una onda expansiva"
+        },
+        "world_rules": [
+          "Los flashbacks son tan vívidos como el presente — no son borrosos, son intensos",
+          "Cada recuerdo que Jon recupera le cambia el presente inmediato",
+          "El pasado de Jon es acción pura; el presente es el peso de esas acciones"
+        ],
+        "visual_treatment": "CEL-SHADED / ANIME"
+      },
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Jon despierta sin saber quién es. Solo siente el peso de algo olvidado.",
+          "image_path": "worlds/jon-memoria/images/hero.png",
+          "scene_text": "La lluvia golpea implacable. Jon está al borde del colapso estructural — acero expuesto, hormigón desmoronado bajo sus pies. Sus cicatrices brillan bajo el relámpago distante.\n\nUna imagen destella en su mente: un rostro que reconoce pero no puede nombrar. Echo. El nombre viene sin permiso, grabado en músculo y hueso.\n\nJON (susurrando): ¿Dónde estabas?\n\nEl viento se lleva la pregunta. Solo queda la lluvia y la decisión que está por venir."
+        },
+        {
+          "role": "scene_1",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "El primer recuerdo golpea como una onda expansiva — la decisión que lo cambió todo.",
+          "image_path": "worlds/jon-memoria/images/scene_1.png",
+          "scene_text": "Jon ve el puente colapsar bajo sus pies. Enfrente, Echo, gritando algo que la distancia devora.\n\nTiene un segundo para elegir: seguir adelante o volver.\n\nElige adelante.\n\nEcho desaparece en la neblina. Años después, Jon seguirá oyendo ese grito — no de rabia, sino de decepción. De alguien que sabía exactamente qué elegiría."
+        },
+        {
+          "role": "scene_2",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Años de correr. Años de pelear. Años de ser exactamente lo que eligió.",
+          "image_path": "worlds/jon-memoria/images/scene_2.png",
+          "scene_text": "Jon salta. Vuela. No es escape — es acción pura.\n\nDetrás de él, sombras lo persiguen. O quizá no. Quizá solo está huyendo de sí mismo, saltando entre ruinas que cada vez se parecen más a sus propias fracturas.\n\nSu cuerpo sabe cómo combatir. Su mente no sabe por qué."
+        },
+        {
+          "role": "scene_3",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Se reconoce en el espejo. Y no le gusta lo que ve.",
+          "image_path": "worlds/jon-memoria/images/scene_3.png",
+          "scene_text": "El espejo está roto, pero aún funciona lo suficiente.\n\nJon ve al hombre en el que se convirtió — cicatrices más profundas que piel, ojos que dejaron de buscar hace años. Este no es el Jon que eligió la soledad. Es el Jon que la soledad eligió.\n\nToca el espejo. Se quiebra más.\n\nTodavía tiene tiempo de cambiar. Pero ¿quiere?"
+        },
+        {
+          "role": "scene_4",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "En la Ruina Central, Jon se detiene. Y elige nuevamente.",
+          "image_path": "worlds/jon-memoria/images/scene_4.png",
+          "scene_text": "Lluvia. Silencio. Dos caminos.\n\nUno lo lleva más profundo en la Ruina — donde está Echo, donde está la respuesta final.\n\nOtro lo lleva hacia afuera, hacia la luz, hacia la posibilidad de que la soledad termine.\n\nJON (a sí mismo): El hombre que era no puede salvarme. Solo puedo hacerlo yo.\n\nAvanza. No mira atrás. No sabe que cada paso cambiará quién es cuando se detiene nuevamente."
         }
       ]
     },
