@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-28T15:27:19.318380+00:00",
+  "generated_at": "2026-07-28T16:09:26.096891+00:00",
   "total_worlds": 42,
-  "total_branches": 51,
+  "total_branches": 52,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -534,6 +534,57 @@
               "narrative_caption": "El precio se cobra.",
               "image_path": "worlds/artifact-awakening/branches/el-despertar-del-tro/images/scene_4.png",
               "scene_text": "ESCUDERO cae primero. Sus piernas ceden. La fuerza que lo atravesaba se quema como una vela demasiado brillante.\n\nCazador grita. Las visiones no se detienen — continúan, espirales hacia adelante, mostrándole cosas que no quiere ver. FORJADORA siente que la energía se desgarra en sus manos, como si algo se rompiera en la fuente.\n\nLa sincronización no fue unión. Fue consumo. Y aún se está cobrando."
+            }
+          ]
+        },
+        {
+          "branch_id": "b_czdpr",
+          "branch_slug": "el-precio-de-la-clarividencia",
+          "name": "El Precio de la Clarividencia",
+          "description": "Cazador persigue a Consumidor en las profundidades, creyendo que viaja solo. Pero Forjadora lo rastreó, y el grupo lo sigue dividido por la lealtad. Cuando finalmente se enfrentan, descubren que cada visión que Cazador ve le cuesta algo que no puede recuperar.",
+          "parent_branch": "b_cnsm01",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T12:00:00Z",
+          "divergence_event": {
+            "description": "Cazador decide perseguir a Consumidor solo en la penumbra, pero Forjadora lo rastreó. El grupo lo sigue en secreto mientras la lealtad se fractura entre los que creen que es suicida y los que ven que quizá él está viendo algo que ellos no pueden.",
+            "timeline_ref": "Después de que Forjadora materializa la lanza y Consumidor retrocede"
+          },
+          "cover_image": "worlds/artifact-awakening/branches/el-precio-de-la-clarividencia/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Cada visión cuesta. Cazador lo descubre demasiado tarde.",
+              "image_path": "worlds/artifact-awakening/branches/el-precio-de-la-clarividencia/images/hero.png",
+              "scene_text": "El enfrentamiento termina en silencio. Cazador cae, no por heridas, sino por el peso de haber visto demasiado. Sus ojos permanecen abiertos pero vaciados — como si hubiera dejado parte de su alma en cada futuro que atravesó."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Cazador ve el camino que otros no pueden ver. Y elige caminarlo solo.",
+              "image_path": "worlds/artifact-awakening/branches/el-precio-de-la-clarividencia/images/scene_1.png",
+              "scene_text": "CAZADOR avanza por los corredores de ruina, sus ojos entrecerrados, viendo no lo que está frente a él sino lo que vendrá. Cada paso es certero, cada giro anticipado. Consumidor cree que escapa. Cazador sabe exactamente dónde lo encontrará. No necesita a nadie más. No debe arrastrar al grupo a esto.\n\nLo que no sabe es que ya no está solo."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El grupo se fractura. Pero Forjadora ya ha elegido.",
+              "image_path": "worlds/artifact-awakening/branches/el-precio-de-la-clarividencia/images/scene_2.png",
+              "scene_text": "FORJADORA guía al grupo más adentro, sus manos aún cálidas de la energía que materializó. Algunos la siguen sin preguntar. Otros murmuran que Cazador es un suicida, que irán todos a morir en la penumbra. Pero nadie se detiene.\n\nForjadora no explica. Ella también ha visto algo en los ojos de Cazador — no desesperación, sino necesidad. Y en el artefacto que aún palpita en sus venas, siente que debe confiar en eso."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Cada visión que ve lo mata un poco más.",
+              "image_path": "worlds/artifact-awakening/branches/el-precio-de-la-clarividencia/images/scene_3.png",
+              "scene_text": "El enfrentamiento es brutal y breve. Cazador ve cada ataque antes de que suceda — puede esquivar, contraatacar, anticipar. Pero cada visión que atraviesa le cuesta. Siente como si alguien le arrancara recuerdos, emociones, la sustancia misma de quién es. Consumidor lo nota y sonríe.\n\nCONSUMIDOR: \"¿No lo sientes? Cada futuro que ves te consume desde adentro.\"\n\nCazador no responde. No puede. Las visiones se solapan, se multiplican. Y entonces cae."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "No hay heridas que sanar. No hay poder que devuelva lo que se perdió.",
+              "image_path": "worlds/artifact-awakening/branches/el-precio-de-la-clarividencia/images/scene_4.png",
+              "scene_text": "FORJADORA corre hacia él. Sus manos, tan fuertes, tan seguras al materializar la lanza, ahora buscan desesperadamente una herida, una razón, algo que pueda arreglar. Pero Cazador respira. Cazador está vivo.\n\nY sus ojos están completamente vacíos.\n\nEl grupo emerge de la penumbra, viéndolo caer. Viendo lo que el viaje solitario costó. Y en ese silencio, entre las ruinas antiguas, todos entienden que el artefacto no regala poder sin precio. Y algunos precios no se pagan en sangre."
             }
           ]
         },
