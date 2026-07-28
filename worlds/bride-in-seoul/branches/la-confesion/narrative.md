@@ -1,0 +1,9 @@
+La culpa ha sido un peso silencioso durante días. Ji-Woo camina junto a Min-Jun por las calles de Seúl después del trabajo, y cada paso se siente como si caminara hacia un acantilado. Él no sabe. O eso cree ella. Pero Min-Jun tiene esa forma de mirarla — como si viera a través de cada palabra que ella construye, cada sonrisa que ella perfecciona.
+
+Esa noche, en su apartamento pequeño, rodeada de té que se enfría, Ji-Woo finalmente lo dice: le cuenta la mentira, la improvisación, cómo presentó a Min-Jun como su pareja sin pedirle permiso, sin pensar en las consecuencias. Espera vergüenza. Espera que él se levante y se vaya. Espera que la confirme lo que siempre ha temido: que ella es egoísta, que arrastró a alguien inocente a su caos.
+
+Pero Min-Jun sonríe. No es una sonrisa burlona — es tranquila, casi triste. Y entonces dice lo que ha estado esperando decir desde el café: "Lo sé. Tu madre lo vio. Yo lo vi. Pero lo que no viste fue cómo tu madre me miró después, como si dijera: cuídala porque ella no sabe cuidarse a sí misma todavía."
+
+Lo que sigue no es una discusión sobre verdades y mentiras. Es Min-Jun preguntándole, con honestidad que duele: "¿Qué quieres realmente, Ji-Woo? ¿A mí, o la idea de que alguien pueda estar a tu lado sin cuestionar?"
+
+Y Ji-Woo, por primera vez en meses, no tiene un plan. No tiene una respuesta ensayada. Solo tiene miedo, esperanza, y la certeza de que está en el borde de algo real. En la madrugada, sentadas en ese café olvidado donde todo comenzó, descubren que la verdad no destruye lo que existe entre ellos — lo nombra. Y nombrar es el primer paso para elegir.
