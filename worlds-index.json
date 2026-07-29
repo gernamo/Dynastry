@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-28T16:30:36.059587+00:00",
+  "generated_at": "2026-07-29T16:14:44.956022+00:00",
   "total_worlds": 43,
   "total_branches": 52,
   "worlds": [
@@ -593,7 +593,7 @@
           "branch_slug": "el-sello-roto",
           "name": "El Sello Roto",
           "description": "Forjadora descubre que su poder es anterior al artefacto mismo. Cuando crea la lanza, no solo ataca a Consumidor — rompe un sello milenario. Lo que emerge los hace aliados involuntarios contra algo que ni siquiera Consumidor podía nombrar.",
-          "parent_branch": "b_embsc01",
+          "parent_branch": "b_cnsm01",
           "created_by": "@germanna",
           "created_at": "2026-05-22T14:32:00Z",
           "divergence_event": {
