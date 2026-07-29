@@ -18,7 +18,7 @@
   "description": "Forjadora descubre que su poder es anterior al artefacto mismo. Cuando crea la lanza, no solo ataca a Consumidor — rompe un sello milenario. Lo que emerge los hace aliados involuntarios contra algo que ni siquiera Consumidor podía nombrar.",
   "parent_slug": "artifact-awakening",
   "is_canonical": false,
-  "parent_branch": "b_embsc01",
+  "parent_branch": "b_cnsm01",
   "new_characters": [],
   "schema_version": "2.0",
   "divergence_event": {
@@ -34,7 +34,7 @@
       "order": 1,
       "marker": "Forjadora ataca a Consumidor"
     },
-    "continues_from": "b_embsc01",
+    "continues_from": "b_cnsm01",
     "divergence_question": "¿Qué ocurre cuando un poder antiguo se despierta antes de su tiempo? ¿Y qué precio pagan los vivos por saberlo?"
   },
   "inherited_from_canon": {
