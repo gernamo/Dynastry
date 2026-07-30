@@ -1,0 +1,102 @@
+{
+  "name": "El Fantasma del Polvorín",
+  "tags": [
+    "noir",
+    "crimen",
+    "lealtad",
+    "cdmx",
+    "2026",
+    "corrupción",
+    "polvorin",
+    "redención-fracasada"
+  ],
+  "status": "developing",
+  "world_id": "w_ax7k2m",
+  "branch_id": "b_hwjw6d",
+  "created_at": "2026-07-28T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "La Bóveda de Munición",
+      "description": "Subsección del Polvorín. Profunda. Puertas con cerraduras de tiempo. Donde se guardan las pruebas más peligrosas: registros, nombres, transferencias de dinero entre criminales y policías."
+    }
+  ],
+  "branch_slug": "el-fantasma-del-polvorin",
+  "description": "Ann92 y Gronk regresan al Polvorín para recuperar pruebas que incriminen a la policía, pero descubren que alguien ya estuvo allí. La lealtad al pasado choca con la supervivencia presente.",
+  "parent_slug": "ann92-gronk-caida",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [
+    {
+      "label": "La Presencia",
+      "description": "Alguien o algo que ya está dentro del Polvorín. Solo rastros: marcas recientes en cajas, luces encendidas que no deberían estarlo, footsteps que Gronk oye en los grabadores de seguridad."
+    }
+  ],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "En lugar de negociar directamente con la policía, Ann92 y Gronk deciden entrar al Polvorín para obtener pruebas que les den poder. Descubren que ya no están solos allí.",
+    "timeline_ref": "Tres semanas después de la muerte de la miembro y el ataque brutal"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "Un mensaje en la pantalla de Gronk sin remitente"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Madrugada en los barrios industriales de CDMX"
+    },
+    "diverges_from": "canon—negociación-directa",
+    "divergence_question": "¿Y si el Polvorín no es un almacén abandonado sino una trampa que aún está armada?"
+  },
+  "inherited_from_canon": {
+    "tone": "crudo, tenso, moralmente gris, sin sentimentalismo",
+    "places_used": [
+      "El Polvorín",
+      "barrios industriales de CDMX"
+    ],
+    "characters_used": [
+      "Ann92",
+      "Gronk"
+    ],
+    "visual_treatment": "Cinematic gouache — atmospheric sci-fi, fable, surrealism"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ann92 frente al Polvorín. Las puertas esperan. La noche respira.",
+      "image_path": "images/hero.png",
+      "scene_text": "La lealtad no salva. Entra."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Gronk en la Bóveda de Munición. Los dedos buscan patrones en el sistema de seguridad. Todo está donde debería estar.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Todavía nada malo. Todavía."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Las grabaciones de seguridad revelan movimiento. Reciente. Alguien estuvo aquí. Alguien que conoce el sistema.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "No estamos solos."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La Bóveda está abierta. Las pruebas que guardaron hace años están expuestas. Alguien fue hasta el fondo.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Llegamos tarde."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Un mensaje sin remitente aparece en la pantalla de Gronk. Conoce su nombre. Conoce el del Polvorín. Conoce por qué vinieron.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "¿Quién sabe lo que sabemos?"
+    }
+  ],
+  "cover_image": "worlds/ann92-gronk-caida/branches/el-fantasma-del-polvorin/images/hero.png"
+}
