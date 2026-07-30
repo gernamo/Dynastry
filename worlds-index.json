@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-29T16:15:12.371805+00:00",
+  "generated_at": "2026-07-30T06:03:38.130837+00:00",
   "total_worlds": 43,
-  "total_branches": 52,
+  "total_branches": 53,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -379,7 +379,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_hwjw6d",
+          "branch_slug": "el-fantasma-del-polvorin",
+          "name": "El Fantasma del Polvorín",
+          "description": "Ann92 y Gronk regresan al Polvorín para recuperar pruebas que incriminen a la policía, pero descubren que alguien ya estuvo allí. La lealtad al pasado choca con la supervivencia presente.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-07-28T12:00:00Z",
+          "divergence_event": {
+            "description": "En lugar de negociar directamente con la policía, Ann92 y Gronk deciden entrar al Polvorín para obtener pruebas que les den poder. Descubren que ya no están solos allí.",
+            "timeline_ref": "Tres semanas después de la muerte de la miembro y el ataque brutal"
+          },
+          "cover_image": "worlds/ann92-gronk-caida/branches/el-fantasma-del-polvorin/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ann92 frente al Polvorín. Las puertas esperan. La noche respira.",
+              "image_path": "worlds/ann92-gronk-caida/branches/el-fantasma-del-polvorin/images/hero.png",
+              "scene_text": "La lealtad no salva. Entra."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Gronk en la Bóveda de Munición. Los dedos buscan patrones en el sistema de seguridad. Todo está donde debería estar.",
+              "image_path": "worlds/ann92-gronk-caida/branches/el-fantasma-del-polvorin/images/scene_1.png",
+              "scene_text": "Todavía nada malo. Todavía."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Las grabaciones de seguridad revelan movimiento. Reciente. Alguien estuvo aquí. Alguien que conoce el sistema.",
+              "image_path": "worlds/ann92-gronk-caida/branches/el-fantasma-del-polvorin/images/scene_2.png",
+              "scene_text": "No estamos solos."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La Bóveda está abierta. Las pruebas que guardaron hace años están expuestas. Alguien fue hasta el fondo.",
+              "image_path": "worlds/ann92-gronk-caida/branches/el-fantasma-del-polvorin/images/scene_3.png",
+              "scene_text": "Llegamos tarde."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Un mensaje sin remitente aparece en la pantalla de Gronk. Conoce su nombre. Conoce el del Polvorín. Conoce por qué vinieron.",
+              "image_path": "worlds/ann92-gronk-caida/branches/el-fantasma-del-polvorin/images/scene_4.png",
+              "scene_text": "¿Quién sabe lo que sabemos?"
+            }
+          ]
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
