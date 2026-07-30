@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-30T06:04:07.415435+00:00",
+  "generated_at": "2026-07-30T06:05:10.942790+00:00",
   "total_worlds": 43,
-  "total_branches": 54,
+  "total_branches": 55,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -1469,7 +1469,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_1fgmwe",
+          "branch_slug": "la-carta-sin-abrir",
+          "name": "La carta sin abrir",
+          "description": "Ella regresa y encuentra la carta guardada 15 años en el cajón de la mesilla. Pero su madre se niega a que la lea. Entre el silencio y la curiosidad, emergen las preguntas que ninguna de las dos sabía cómo hacer.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-07-28T12:00:00Z",
+          "divergence_event": {
+            "description": "Ella descubre la carta antes de que la madre pueda esconderla; la madre se rehúsa a que sea abierta, creando un conflicto directo sobre el derecho a conocer la verdad",
+            "timeline_ref": "primer día de regreso, casa familiar"
+          },
+          "cover_image": "worlds/calendario-de-las-brujas/branches/la-carta-sin-abrir/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La carta existe. Intacta. Guardada en silencio durante 15 años en el cajón de la mesilla de la madre.",
+              "image_path": "worlds/calendario-de-las-brujas/branches/la-carta-sin-abrir/images/hero.png",
+              "scene_text": "Lo que se guardó nunca fue abierto."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ella entra a su casa como quien visita un museo de su propia vida. La madre espera en la cocina con té. El silencio es el mismo de siempre.",
+              "image_path": "worlds/calendario-de-las-brujas/branches/la-carta-sin-abrir/images/scene_1.png",
+              "scene_text": "Nada ha cambiado. Todo ha envejecido."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El cajón se abre. La carta está ahí. No está escondida en la profundidad; está guardada, pero no oculta. Como si la madre hubiera querido que Ella la encontrara algún día, pero no hoy.",
+              "image_path": "worlds/calendario-de-las-brujas/branches/la-carta-sin-abrir/images/scene_2.png",
+              "scene_text": "La encontró sin buscarla."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La madre dice no. No con palabras solamente; con el cuerpo, con la mano que cierra el cajón, con el silencio que ninguna rellena.",
+              "image_path": "worlds/calendario-de-las-brujas/branches/la-carta-sin-abrir/images/scene_3.png",
+              "scene_text": "\"Eso no es para ti.\""
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La puerta se cierra. La carta permanece en el cajón. El silencio vuelve, más pesado que antes. Ahora no es ignorancia; es negación compartida.",
+              "image_path": "worlds/calendario-de-las-brujas/branches/la-carta-sin-abrir/images/scene_4.png",
+              "scene_text": "¿Qué verdad es más peligrosa: la que está guardada, o la que se niega a leer?"
+            }
+          ]
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
