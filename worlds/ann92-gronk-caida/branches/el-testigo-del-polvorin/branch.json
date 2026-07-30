@@ -1,0 +1,98 @@
+{
+  "name": "El Testigo del Polvorín",
+  "tags": [
+    "noir",
+    "crimen",
+    "traición",
+    "corrupción",
+    "polvorín",
+    "cdmx",
+    "2026",
+    "redención imposible",
+    "lealtad rota"
+  ],
+  "status": "developing",
+  "world_id": "w_ax7k2m",
+  "branch_id": "b_k3ora5",
+  "created_at": "2026-07-28T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "Sala de Servidores Abandonada",
+      "description": "Sótano en Iztapalapa, paredes con moho, monitores viejos parpadeantes, cables como venas expuestas. Luz de neón azul sobre manos que tiemblan sobre teclados."
+    }
+  ],
+  "branch_slug": "el-testigo-del-polvorin",
+  "description": "Ann92 y Gronk descubren que alguien más estuvo en El Polvorín la noche de la muerte. Un video borroso, un archivo corrompido, una tercera cara que no debería existir. La lealtad se quiebra cuando la verdad amenaza con revelar quién realmente traicionó al grupo.",
+  "parent_slug": "ann92-gronk-caida",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Gronk recupera datos borrados de las cámaras del Polvorín. Existe un cuarto personaje en la noche de la muerte. Ann92 reconoce las cicatrices en las manos del video. Es alguien del interior del grupo.",
+    "timeline_ref": "Tres días después del funeral"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 5,
+      "marker": "Ann92 frente a la puerta de El Polvorín, teléfono en mano, sin marcar"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Sala de servidores abandonada, Iztapalapa"
+    },
+    "diverges_from": "canon-muerte-miembro",
+    "divergence_question": "¿Y si el traidor nunca fue la policía, sino alguien que aún respira dentro del círculo?"
+  },
+  "inherited_from_canon": {
+    "tone": "crudo, tenso, moralmente gris, sin sentimentalismo",
+    "places_used": [
+      "El Polvorín",
+      "CDMX barrios industriales"
+    ],
+    "characters_used": [
+      "ANN92",
+      "GRONK"
+    ],
+    "visual_treatment": "Cinematic gouache — atmospheric sci-fi, fable, surrealism"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Las cicatrices no mienten. Pero las manos que las llevan, sí.",
+      "image_path": "images/hero.png",
+      "scene_text": "La verdad está en el código. El traidor también."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Gronk lleva tres días excavando en lo digital. El alcohol es lo único que lo mantiene despierto. Lo único que lo mantiene vivo.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Algunos archivos no quieren ser encontrados."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ella ve lo que él vio. Las cicatrices. Las manos. El lugar donde no debería haber nadie.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "El testigo que nadie esperaba tiene la cara de alguien que ya conocían."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ann92 no grita. No explica. Simplemente asegura que Gronk no pueda borrar la verdad.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "La lealtad se rompe con los huesos. O con los dedos. O con lo que sea necesario."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ann92 llega al Polvorín. La puerta se abrirá porque siempre se abre. Pero esta vez, ella no entra a matar. Entra a contar.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "¿A quién llamas cuando el traidor te mira desde el espejo?"
+    }
+  ],
+  "cover_image": "worlds/ann92-gronk-caida/branches/el-testigo-del-polvorin/images/hero.png"
+}
