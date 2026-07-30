@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-30T06:05:10.942790+00:00",
+  "generated_at": "2026-07-30T06:05:38.785827+00:00",
   "total_worlds": 43,
-  "total_branches": 55,
+  "total_branches": 56,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -1470,6 +1470,57 @@
       "created_at": "2026-05-22T12:00:00Z",
       "status": "developing",
       "branches": [
+        {
+          "branch_id": "b_w5v8rb",
+          "branch_slug": "la-carta-quemada",
+          "name": "La carta quemada",
+          "description": "Ella encuentra la carta, pero no la abre. En su lugar, la quema en la chimenea de la casa familiar mientras su madre observa desde el umbral. Una decisión que redefine qué significa heredar un secreto.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-07-28T12:00:00Z",
+          "divergence_event": {
+            "description": "En lugar de leer la confesión guardada 15 años, Ella elige destruirla. La madre no interviene. Ambas miran cómo el papel se convierte en ceniza.",
+            "timeline_ref": "El momento en que Ella descubre la carta en la casa familiar"
+          },
+          "cover_image": "worlds/calendario-de-las-brujas/branches/la-carta-quemada/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La carta se convierte en humo sin ser leída. El silencio se perpetúa en ceniza.",
+              "image_path": "worlds/calendario-de-las-brujas/branches/la-carta-quemada/images/hero.png",
+              "scene_text": "Quemar es también una forma de heredar."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ella encuentra lo que su madre guardó en silencio durante quince años.",
+              "image_path": "worlds/calendario-de-las-brujas/branches/la-carta-quemada/images/scene_1.png",
+              "scene_text": "El sobre amarillento espera sin prisa."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "No abre la carta. En su lugar, la rasga. Las palabras nunca serán leídas.",
+              "image_path": "worlds/calendario-de-las-brujas/branches/la-carta-quemada/images/scene_2.png",
+              "scene_text": "Rechazar saber es una decisión."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Su madre observa desde el umbral sin intervenir. Ambas miran cómo el secreto se convierte en nada.",
+              "image_path": "worlds/calendario-de-las-brujas/branches/la-carta-quemada/images/scene_3.png",
+              "scene_text": "El silencio sigue ardiendo."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ella camina hacia la ventana. Su madre extiende una mano que no será tomada. El pueblo sigue indiferente.",
+              "image_path": "worlds/calendario-de-las-brujas/branches/la-carta-quemada/images/scene_4.png",
+              "scene_text": "¿Qué se hereda cuando se quema la verdad?"
+            }
+          ]
+        },
         {
           "branch_id": "b_1fgmwe",
           "branch_slug": "la-carta-sin-abrir",
