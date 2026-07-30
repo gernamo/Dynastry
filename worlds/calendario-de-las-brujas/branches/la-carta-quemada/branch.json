@@ -1,0 +1,94 @@
+{
+  "name": "La carta quemada",
+  "tags": [
+    "drama íntimo",
+    "acto de resistencia",
+    "silencio elegido",
+    "quema ritual",
+    "ruptura generacional"
+  ],
+  "status": "developing",
+  "world_id": "w_cal_brj",
+  "branch_id": "b_w5v8rb",
+  "created_at": "2026-07-28T12:00:00Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "Chimenea de la casa",
+      "description": "Punto focal donde ocurre el acto de destrucción. Fuego real, ceniza, luz que baila en el rostro de ambas."
+    }
+  ],
+  "branch_slug": "la-carta-quemada",
+  "description": "Ella encuentra la carta, pero no la abre. En su lugar, la quema en la chimenea de la casa familiar mientras su madre observa desde el umbral. Una decisión que redefine qué significa heredar un secreto.",
+  "parent_slug": "calendario-de-las-brujas",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "En lugar de leer la confesión guardada 15 años, Ella elige destruirla. La madre no interviene. Ambas miran cómo el papel se convierte en ceniza.",
+    "timeline_ref": "El momento en que Ella descubre la carta en la casa familiar"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "Después del fuego: la pregunta de qué se hereda cuando se quema la verdad"
+    },
+    "start": {
+      "order": 1,
+      "marker": "Ella regresa al pueblo"
+    },
+    "diverges_from": "canon—ella abre la carta y lee",
+    "divergence_question": "¿Y si rechazar saber es también una forma de amar?"
+  },
+  "inherited_from_canon": {
+    "tone": "descubrimiento doloroso, drama crudo, romanticismo no superado",
+    "places_used": [
+      "Casa familiar",
+      "Habitación conocida"
+    ],
+    "characters_used": [
+      "Ella",
+      "La madre"
+    ],
+    "visual_treatment": "Charcoal & Graphite"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La carta se convierte en humo sin ser leída. El silencio se perpetúa en ceniza.",
+      "image_path": "images/hero.png",
+      "scene_text": "Quemar es también una forma de heredar."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ella encuentra lo que su madre guardó en silencio durante quince años.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El sobre amarillento espera sin prisa."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "No abre la carta. En su lugar, la rasga. Las palabras nunca serán leídas.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Rechazar saber es una decisión."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Su madre observa desde el umbral sin intervenir. Ambas miran cómo el secreto se convierte en nada.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "El silencio sigue ardiendo."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ella camina hacia la ventana. Su madre extiende una mano que no será tomada. El pueblo sigue indiferente.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "¿Qué se hereda cuando se quema la verdad?"
+    }
+  ],
+  "cover_image": "worlds/calendario-de-las-brujas/branches/la-carta-quemada/images/hero.png"
+}
