@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-30T06:03:38.130837+00:00",
+  "generated_at": "2026-07-30T06:04:07.415435+00:00",
   "total_worlds": 43,
-  "total_branches": 53,
+  "total_branches": 54,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -428,6 +428,57 @@
               "narrative_caption": "Un mensaje sin remitente aparece en la pantalla de Gronk. Conoce su nombre. Conoce el del Polvorín. Conoce por qué vinieron.",
               "image_path": "worlds/ann92-gronk-caida/branches/el-fantasma-del-polvorin/images/scene_4.png",
               "scene_text": "¿Quién sabe lo que sabemos?"
+            }
+          ]
+        },
+        {
+          "branch_id": "b_k3ora5",
+          "branch_slug": "el-testigo-del-polvorin",
+          "name": "El Testigo del Polvorín",
+          "description": "Ann92 y Gronk descubren que alguien más estuvo en El Polvorín la noche de la muerte. Un video borroso, un archivo corrompido, una tercera cara que no debería existir. La lealtad se quiebra cuando la verdad amenaza con revelar quién realmente traicionó al grupo.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-07-28T12:00:00Z",
+          "divergence_event": {
+            "description": "Gronk recupera datos borrados de las cámaras del Polvorín. Existe un cuarto personaje en la noche de la muerte. Ann92 reconoce las cicatrices en las manos del video. Es alguien del interior del grupo.",
+            "timeline_ref": "Tres días después del funeral"
+          },
+          "cover_image": "worlds/ann92-gronk-caida/branches/el-testigo-del-polvorin/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Las cicatrices no mienten. Pero las manos que las llevan, sí.",
+              "image_path": "worlds/ann92-gronk-caida/branches/el-testigo-del-polvorin/images/hero.png",
+              "scene_text": "La verdad está en el código. El traidor también."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Gronk lleva tres días excavando en lo digital. El alcohol es lo único que lo mantiene despierto. Lo único que lo mantiene vivo.",
+              "image_path": "worlds/ann92-gronk-caida/branches/el-testigo-del-polvorin/images/scene_1.png",
+              "scene_text": "Algunos archivos no quieren ser encontrados."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ella ve lo que él vio. Las cicatrices. Las manos. El lugar donde no debería haber nadie.",
+              "image_path": "worlds/ann92-gronk-caida/branches/el-testigo-del-polvorin/images/scene_2.png",
+              "scene_text": "El testigo que nadie esperaba tiene la cara de alguien que ya conocían."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ann92 no grita. No explica. Simplemente asegura que Gronk no pueda borrar la verdad.",
+              "image_path": "worlds/ann92-gronk-caida/branches/el-testigo-del-polvorin/images/scene_3.png",
+              "scene_text": "La lealtad se rompe con los huesos. O con los dedos. O con lo que sea necesario."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ann92 llega al Polvorín. La puerta se abrirá porque siempre se abre. Pero esta vez, ella no entra a matar. Entra a contar.",
+              "image_path": "worlds/ann92-gronk-caida/branches/el-testigo-del-polvorin/images/scene_4.png",
+              "scene_text": "¿A quién llamas cuando el traidor te mira desde el espejo?"
             }
           ]
         }
