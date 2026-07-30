@@ -1,0 +1,9 @@
+Ella baja del tren con poco equipaje. El andén está vacío, como si el pueblo hubiera olvidado que ella llegaría. La estación sigue igual: el mismo reloj detenido en la pared, el mismo banco de madera donde se sentaban los que esperaban conexiones que nunca llegaban. Pero ella no espera a nadie; viene a encontrarse con lo que dejó.
+
+En la casa, todo está en su lugar. Las paredes reconocen sus manos, los muebles todavía huelen a cera y soledad. Es la primera tarde. Su madre prepara té en silencio, como si 15 años fuera un paréntesis sin importancia. Ella busca en los ojos de su madre respuestas que no sabe formular. Entonces ve: la carta en el cajón de la mesilla, entre los lentes de lectura y las facturas sin pagar. Papel amarillento, tinta descolorida, un nombre escrito que no es el suyo.
+
+La pregunta sale sola. La madre se congela. Sus manos tiemblan al intentar guardarla de nuevo. "Eso no es para ti", dice. Pero es demasiado tarde. Ella ya ha visto que la carta nunca fue abierta. 15 años guardada, intacta, como si el acto de leerla fuese más peligroso que el de mantenerla.
+
+La tensión se ancla en ese objeto: la carta está ahí, visible, real, pero prohibida. La madre y ella se miran en el espacio que la separa. No hay explicación, no hay permiso. Solo una barrera que ambas reconocen pero ninguna sabe cómo nombrar.
+
+Ella extiende la mano. La madre la retira, cierra el cajón, y sale de la habitación. La puerta se cierra detrás de ella. La carta sigue ahí dentro, inaccesible. Y en el silencio que sigue, emerge la verdadera pregunta: ¿la carta contiene respuestas, o es solo el símbolo de todo lo que la madre decidió no decir?
