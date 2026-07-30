@@ -1,0 +1,91 @@
+{
+  "name": "La carta sin enviar",
+  "tags": [
+    "coming-of-age",
+    "amistad",
+    "carta",
+    "verdad-oculta",
+    "reencontro",
+    "tiempo-doblado"
+  ],
+  "status": "developing",
+  "world_id": "w_cmpho",
+  "branch_id": "b_wey0lf",
+  "created_at": "2026-07-28T12:00:00Z",
+  "created_by": "@the-loom",
+  "new_places": [
+    "La casa vieja (construcción abandonada donde Raíces encuentra la carta)"
+  ],
+  "branch_slug": "la-carta-sin-enviar",
+  "description": "Raíces encuentra una carta que Horizonte nunca le envió años atrás. En el acto de leerla, ambos mundos—el que se quedó y el que se fue—colisionan en el presente, forzando una verdad que ninguno estaba listo para enfrentar.",
+  "parent_slug": "campo-y-horizonte",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [],
+  "schema_version": "2.0",
+  "divergence_event": {
+    "description": "Raíces descubre una carta sin enviar escondida en la casa vieja del pueblo. La carta revela lo que Horizonte nunca se atrevió a decir antes de partir.",
+    "timeline_ref": "años después de la partida"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "el acto de leer fuerza un reencuentro imposible"
+    },
+    "start": {
+      "order": 1,
+      "marker": "presente, Raíces adulto en el pueblo"
+    },
+    "diverges_from": "después del reencontro canonico",
+    "divergence_question": "¿Qué hubiera cambiado si hubiera leído esa carta años atrás?"
+  },
+  "inherited_from_canon": {
+    "tone": "tierno, melancólico, vulnerable, íntimo",
+    "places_used": [
+      "El Pueblo"
+    ],
+    "characters_used": [
+      "Raíces",
+      "Horizonte"
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La carta existe. Siempre existió.",
+      "image_path": "images/hero.png",
+      "scene_text": "El sobre que cambia todo"
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Raíces hace lo que siempre ha hecho: trabajar en silencio, reconstruir lo que se cae.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "Otro día en la casa vieja"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La letra de Horizonte en tinta que nunca llegó a destino.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Reconoce la mano antes de las palabras"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Las palabras que Horizonte guardó son las que Raíces necesitaba leer.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "Años se reescriben en minutos"
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ahora sabe lo que siempre supo. Pero la pregunta sigue abierta.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "¿Dónde está Horizonte cuando por fin puedo responder?"
+    }
+  ],
+  "cover_image": "worlds/campo-y-horizonte/branches/la-carta-sin-enviar/images/hero.png"
+}
