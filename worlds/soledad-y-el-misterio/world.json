@@ -1,0 +1,101 @@
+{
+  "name": "Soledad y el Misterio",
+  "slug": "soledad-y-el-misterio",
+  "tags": [
+    "coming-of-age",
+    "misterio",
+    "soledad",
+    "época",
+    "introspección",
+    "búsqueda",
+    "encuentro"
+  ],
+  "places": [
+    {
+      "name": "La Ciudad Antigua",
+      "atmosphere": "nostálgica, misteriosa, íntima, polvoriento, atemporal",
+      "reference_prompt": "Wide establishing shot of a colonial-era town square at golden hour, cobblestones in sharp focus in foreground, weathered buildings receding into soft warm shadow, one ornate doorway catching side-light, church bell tower visible but distant. Vertical framing emphasizes depth and scale. style | watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch mood | timeless, watchful, holding history --ar 9:16",
+      "visual_description": "Calles empedradas, casas de adobe deslavadas, ventanas con rejas de hierro, luz dorada que filtra entre edificios coloniales. Plazas vacías al amanecer. Un pozo, una iglesia, una casa cerrada desde hace años. Los detalles arquitectónicos hablan; las sombras guardan secretos.",
+      "reference_image_path": "images/places/la-ciudad-antigua.png"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_sm7kx2",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "EL PROTAGONISTA",
+      "arc_summary": "De la soledad pasiva a la búsqueda activa; descubre que la verdad requiere vulnerabilidad.",
+      "reference_prompt": "A solitary figure in worn 1920s clothing, standing in a narrow cobblestone alley at dusk, one hand resting on a weathered doorframe, face half-shadowed, gazing at something just beyond the frame with quiet intensity. Vertical composition, intimate framing. style | watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch mood | introspective, watchful, alone --ar 9:16",
+      "visual_description": "Persona de mediana edad o joven adulto, ropa modesta de la época, gestos reservados. Ojos atentos. Lleva algo consigo — un cuaderno, una llave antigua, o un objeto que no termina de comprender. Camina solo, observa más de lo que habla.",
+      "reference_image_path": "images/characters/el-protagonista.png"
+    },
+    {
+      "role": "support",
+      "label": "EL ENCUENTRO",
+      "arc_summary": "Cataliza la búsqueda del protagonista; juntos descubren que nadie está realmente solo.",
+      "reference_prompt": "A figure sitting on weathered stone steps in afternoon light, turning slightly toward the viewer, with one arm resting on a knee, expression open but unguarded. The background blurred warm tones of an old colonial building. Dynamic asymmetrical pose. style | watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch mood | alive, present, carrying secrets --ar 9:16",
+      "visual_description": "Un personaje que aparece en el camino del protagonista — puede ser alguien de la comunidad, un forastero, o alguien conectado al misterio. Energía diferente al protagonista: más abierto, más vivo, pero también con sus propios secretos. Edad variable.",
+      "reference_image_path": "images/characters/el-encuentro.png"
+    }
+  ],
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "description": "Un protagonista solitario en una época de hace cien años busca resolver un misterio externo que lo arrastra hacia encuentros inesperados y verdades que quiebran su aislamiento. Una historia de introspección, valentía silenciosa y calidez humana en los márgenes.",
+  "story_bible": {
+    "tone": "introspectivo, impulsado, cálido, tenso",
+    "setting": "Una pequeña ciudad o pueblada a principios del siglo XX, calles empedradas, casas de adobe, luz filtrada por ventanas antiguas. El espacio es tanto personaje como escenario.",
+    "timeline": {
+      "span": "seis meses a un año de búsqueda",
+      "type": "fictional_date",
+      "unit": "months",
+      "anchor": "1925 — un punto de quiebre histórico y personal"
+    },
+    "world_rules": [
+      "El misterio es tangible: existe un objeto, un lugar, o una ausencia concreta que el protagonista debe descifrar.",
+      "La soledad del protagonista no es rechazo, sino elección o circunstancia — algo que lo define pero no lo aprrisiona.",
+      "Cada encuentro inesperado trae una pieza del misterio y una grieta en el aislamiento del protagonista.",
+      "La época es decorado; los temas son ahora: identidad, pertenencia, verdad, conexión."
+    ],
+    "visual_treatment": "watercolor and ink wash on cream paper, soft pigment bleeds, organic linework, warm earth tones with one pop of color, illustrator's working sketch"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Alguien vive en los márgenes de una ciudad olvidada. Hasta que encuentra una pregunta que no puede ignorar.",
+      "image_path": "images/hero.png",
+      "scene_text": "Las calles de la ciudad duermen cuando él camina. Ha aprendido a moverse en los espacios que otros dejan vacíos — las horas antes del amanecer, las plazas después de la misa. Su soledad es un arte perfeccionado.\n\nPero hoy algo quiebra el patrón. En el pozo de la plaza antigua, sus dedos tocan metal frío. Una llave antigua, pesada, oxidada. No pertenece a nada que él conozca.\n\nY eso cambia todo."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Un objeto. Una pregunta. El inicio de una búsqueda que lo arrastrará fuera de sí mismo.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "LA LLAVE es real. Existe. No es sueño ni imaginación.\n\nÉl la sostiene bajo la luz declinante, observando cada detalle: el óxido en los dientes, las marcas de uso que hablan de otras manos, otros tiempos. ¿Cuántas cerraduras abrió? ¿Cuándo se convirtió en secreto?\n\nLa pregunta es simple pero irrefrenable: ¿a dónde lo lleva?"
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "En los escalones de la iglesia, alguien lo ve. Realmente lo ve.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "EL ENCUENTRO llega sin aviso.\n\nÉl está en los escalones de la iglesia, observando la ciudad como siempre, cuando alguien se sienta a su lado. No pregunta permiso. No lo saluda como los otros. Solo se instala ahí, con la naturalidad de quien no teme la soledad ajena.\n\n— Buscas algo — dice, sin mirarlo directo.\n\n— No — responde él.\n\n— Mentira hermosa — sonríe — . Te veo todos los días en esos ojos. Alguien que busca siempre está buscando."
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La casa que nadie abre. La casa que todos evitan. La casa donde la llave los conduce.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "LA CASA está cerrada desde antes de que él naciera.\n\nTodos lo saben. Todos lo evitan. Las ventanas son ojos ciegos, las puertas están selladas como tumbas. Su acompañante lo sabía todo el tiempo — dónde debía ir, qué debía buscar.\n\n— Nadie entra ahí — dice él.\n\n— Todavía no — responde el otro, mostrando una herramienta en su mano.\n\nY él entiende entonces que la soledad que lo protegió también lo preparó para esto: para cruzar umbrales que otros temen."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La verdad no resuelve nada. Sólo abre nuevas puertas.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "DENTRO, el aire es sepulcro.\n\nPolvo, telas, silencio de décadas. Y en una mesa, fotografías. Él reconoce a alguien — no, no reconoce. Casi reconoce. Una cara que le es familiar de un modo que no comprende.\n\nLa llave abre una caja de roble. Dentro: cartas sin envío, dinero antiguo, un nombre escrito una y otra vez en papel frágil.\n\n— Es sobre quién eres — susurra su acompañante.\n\nY él siente el peso de eso. No la soledad. El peso de pertenecer a algo que no sabía que lo perseguía. La verdad no responde la pregunta. Solo la reescribe."
+    }
+  ],
+  "cover_image": "worlds/soledad-y-el-misterio/images/hero.png"
+}
