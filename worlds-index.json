@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-08-12T15:23:12.845161+00:00",
+  "generated_at": "2026-08-25T16:25:36.129680+00:00",
   "total_worlds": 44,
-  "total_branches": 57,
+  "total_branches": 58,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -2326,7 +2326,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_vq7x2m",
+          "branch_slug": "voss-quema-el-sistema",
+          "name": "Voss quema el sistema",
+          "description": "Voss usa cada secreto, cada crimen, cada soborno que conoce para destruir a Márquez y la comisaría desde adentro. La redención es la venganza que cuesta absolutamente todo.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T14:32:00Z",
+          "divergence_event": {
+            "description": "En lugar de huir o rendirse, Voss decide usar todo lo que sabe—cada soborno, cada crimen de Márquez, cada nombre en la red corrupta—para quemar la comisaría desde adentro, sabiendo que se quema a sí mismo en el fuego.",
+            "timeline_ref": "En las profundidades, cuando todo está perdido"
+          },
+          "cover_image": "worlds/detective-noir-caida/branches/voss-quema-el-sistema/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Cuando Voss comprende que posee el fuego.",
+              "image_path": "worlds/detective-noir-caida/branches/voss-quema-el-sistema/images/hero.png",
+              "scene_text": "VOSS permanece solo en la penumbra del apartamento. Documentos esparcidos en el suelo. Fotografías de crímenes. Nombres. Números de cuentas.\n\nSus manos tiemblan—pero no de miedo. De claridad.\n\nTodos estos años creyó que el juego lo controlaba. Ahora ve la verdad: él conoce cada movimiento, cada cómplice, cada grieta en la estructura.\n\nNo hay salida. Pero sí hay fuego."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El primer movimiento. Una voz anónima. Un nombre: Interno Santos.",
+              "image_path": "worlds/detective-noir-caida/branches/voss-quema-el-sistema/images/scene_1.png",
+              "scene_text": "La cabina telefónica huele a cigarro viejo y lluvia.\n\nVOSS marca el número de la comisaría. Espera. La voz que responde es joven—demasiado joven para esta ciudad.\n\nVOSS: \"Interno Santos. Tengo algo que necesitas. Una carpeta. Detrás del archivo muerto, tercer piso. Busca a Márquez. Busca sus nombres.\"\n\nSilencio del otro lado.\n\nVOSS cuelga. El primer dominó cae. No hay vuelta atrás."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Márquez descubre que la jaula tiene fugas. Y que Voss es el agujero.",
+              "image_path": "worlds/detective-noir-caida/branches/voss-quema-el-sistema/images/scene_2.png",
+              "scene_text": "La comisaría es caos.\n\nMárquez está en su despacho cuando llega la noticia: Santos encontró algo. Luego encontró más. Luego contactó a Inspección Interna. Las puertas comenzaron a abrirse.\n\nMárquez levanta el teléfono. Intenta cerrar grietas. Pero cada llamada que hace, cada nombre que borra, Voss ya ha colocado uno nuevo en el expediente.\n\nMárquez entiende: Voss se está suicidando. Pero antes, quiere llevarse el sistema completo."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El cazador y la trampa, cara a cara. Uno de ellos ya está muerto.",
+              "image_path": "worlds/detective-noir-caida/branches/voss-quema-el-sistema/images/scene_3.png",
+              "scene_text": "Voss está esperando.\n\nMárquez desciende al sótano. Solo. Porque ya no hay escape para ninguno de los dos.\n\nVOSS: \"Todo está en movimiento, Márquez. Santos tiene las carpetas. Inspección Interna tiene los nombres. Los federales tienen las cuentas.\"\n\nMárquez mira el documento final en las manos de Voss. Su propia firma. Su propia condena.\n\nMÁRQUEZ: \"Te estás quemando.\"\n\nVOSS: \"Sí. Pero tú ardes conmigo.\"\n\nNo hay violencia. Solo verdad. Y el peso de ella."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Después del fuego. La ciudad respira diferente.",
+              "image_path": "worlds/detective-noir-caida/branches/voss-quema-el-sistema/images/scene_4.png",
+              "scene_text": "Tres semanas después.\n\nLa comisaría está bajo investigación federal. Márquez desapareció la noche de su encuentro con Voss—nadie sabe si está muerto, si huyó, si nunca existió.\n\nVoss tampoco está. Su apartamento está vacío. Su nombre está en todas las listas de búsqueda.\n\nPero en la ciudad nocturna, algo cambió. El sistema se quiebra desde adentro. Santos sigue vivo, sigue siendo honesto, y ahora tiene poder para serlo.\n\n¿Dónde está Voss? Quizás en la ceniza. Quizás observando desde las sombras. Quizás la redención no es escapar—es saber que pagó el precio exacto, hasta el último peso de su alma."
+            }
+          ]
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
