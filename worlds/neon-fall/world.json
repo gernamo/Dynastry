@@ -1,0 +1,104 @@
+{
+  "name": "Neon Fall",
+  "slug": "neon-fall",
+  "tags": [
+    "thriller noir",
+    "conspiración",
+    "barroco futurista",
+    "solitario",
+    "caída y redención",
+    "cybercrime"
+  ],
+  "places": [
+    {
+      "name": "Zona Industrial Abandonada — Bóveda de Servidores",
+      "atmosphere": "cavernoso, decadente, sofocante, hipnotizante",
+      "reference_prompt": "A vast underground vault carved from concrete and rust, baroque-ornate server towers rising like pillars in a corrupted cathedral, cables draping like vines, green neon code flowing across dark screens in thin vertical lines, extreme wide establishing shot from ground level looking up at vaulted ceiling lost in shadow, single overhead industrial light casting massive geometric shadows, moisture glistening on metal --ar 9:16 | stark high-contrast ink comic, harsh black shadows, jagged confident linework, near black-and-white with a single bold accent, graphic-novel pre-production energy | mood | labyrinthine, suffocating",
+      "visual_description": "Fábricas oxidadas con techos de catedral. Máquinas muertas como órganos vaciados. Tuberías que serpentean en laberintos barrocos. En el corazón: una bóveda subterránea con servidores apilados en columnas ornamentadas. El verde neón del código es el único pulso. Humedad, herrumbre, el olor de lo abandonado.",
+      "reference_image_path": "images/places/zona-industrial-abandonada-boveda-de-ser.png"
+    }
+  ],
+  "status": "developing",
+  "world_id": "w_nf7k2m",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "PROGRAMADOR",
+      "arc_summary": "Ambición lo arrastra al sistema; lo que descubre lo sumerge más profundo. Cada acto para escapar lo encierra más.",
+      "reference_prompt": "A solitary figure hunched over a glowing green terminal in absolute darkness, fingers poised above keys, the soft neon glow casting sharp shadows across folded shoulders, surrounded by the geometric chaos of hanging cables and dust particles frozen in the light, extreme close framing on hands and terminal edge, shot from behind and slightly above --ar 9:16 | stark high-contrast ink comic, harsh black shadows, jagged confident linework, near black-and-white with a single bold accent, graphic-novel pre-production energy | mood | obsessive, cornered",
+      "visual_description": "Silueta delgada, hombros contraídos por años frente a pantallas. Ropa oscura, desgastada. Dedos rápidos, ojos que leen código en la oscuridad. Sin rostro identificable — poder de la sombra.",
+      "reference_image_path": "images/characters/programador.png"
+    },
+    {
+      "role": "antagonist",
+      "label": "EJECUTIVO",
+      "arc_summary": "No es cazador — es la red misma. El programador es solo uno más entre cientos que ha silenciado.",
+      "reference_prompt": "A faceless silhouette behind frosted baroque-patterned glass, one pale hand resting on an ornate desk surface, neon green data streams flowing across the glass like veins, extreme wide shot of an empty executive suite with vaulted industrial ceilings and decay, cold overhead lighting cutting sharp rectangles across the floor, the figure utterly still --ar 9:16 | stark high-contrast ink comic, harsh black shadows, jagged confident linework, near black-and-white with a single bold accent, graphic-novel pre-production energy | mood | untouchable, inevitable",
+      "visual_description": "Presencia nunca completamente visible — silueta tras cristal ahumado, voz en llamadas interceptadas, mano abriendo archivos remotos. Poder que no necesita estar presente. Ornamental, decadente, frío.",
+      "reference_image_path": "images/characters/ejecutivo.png"
+    }
+  ],
+  "created_at": "2026-05-22T14:30:00Z",
+  "created_by": "@germanna",
+  "description": "Un programador descubre un secreto enterrado en los servidores de una corporación. En una zona industrial abandonada, entre máquinas oxidadas y código verde neón, intenta escapar de la red que lo atrapa. La caída es profunda. La redención, incierta.",
+  "story_bible": {
+    "tone": [
+      "áspero",
+      "sin esperanza fácil",
+      "atrapado",
+      "obsesivo"
+    ],
+    "setting": "Zona industrial abandonada — fábricas oxidadas, almacenes vacíos, laberintos de tuberías y máquinas muertas. Servidores fantasma escondidos en bóvedas barrocas futuristas. La noche es el único tiempo real.",
+    "timeline": {
+      "span": "Una semana de caída",
+      "type": "narrative_act",
+      "unit": "acts",
+      "anchor": "La noche en que el programador entra al servidor"
+    },
+    "world_rules": [
+      "El código verde neón es el único movimiento en la oscuridad",
+      "La corporación tiene alcance en todos lados; la libertad es una ilusión",
+      "El secreto del ejecutivo es tan grande que matar es menor"
+    ],
+    "visual_treatment": "HIGH-CONTRAST NOIR COMIC"
+  },
+  "schema_version": "2.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El punto de quiebre.",
+      "image_path": "images/hero.png",
+      "scene_text": "PROGRAMADOR entra en la bóveda. Las luces industriales zumban. Su respiración es lo único vivo en este lugar. Alrededor, máquinas que alguna vez procesaron el mundo. Ahora solo guardan secretos.\n\nSus dedos tiemblan. El dispositivo en su bolsillo pesa como una sentencia. Dentro hay evidencia suficiente para destruir al ejecutivo. Suficiente para destruirse a sí mismo.\n\nElige la terminal más antigua, la que nadie monitorea. El código verde neón aparece en la pantalla. Y comienza a buscar."
+    },
+    {
+      "role": "scene_1",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Lo que no debería haber visto.",
+      "image_path": "images/scene_1.png",
+      "scene_text": "El código cede. Archivos se abren como heridas.\n\nTransferencias internacionales. Nombres en listas de desaparición. Fechas que coinciden. El ejecutivo no solo escondía dinero — escondía desapariciones. Sistemáticas. Organizadas.\n\nPROGRAMADOR siente el mundo inclinarse. Ha cruzado una línea que no tiene regreso. Pero sigue buscando. Siempre hay más."
+    },
+    {
+      "role": "scene_2",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Nunca estuvo solo.",
+      "image_path": "images/scene_2.png",
+      "scene_text": "Las alarmas silenciosas no hacen ruido. El sistema de seguridad simplemente cierra puertas. Bloquea conexiones. Rastrea.\n\nEn tres pantallas diferentes aparece el mismo mensaje en código: *Conocemos tu ubicación.*\n\nPROGRAMADOR intenta retroceder. Las puertas de la bóveda no responden. Su teléfono vibra una sola vez. Un mensaje de número desconocido, solo palabras: *Tu hermana está en casa.*"
+    },
+    {
+      "role": "scene_3",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Opción uno: huir. Opción dos: hundirse.",
+      "image_path": "images/scene_3.png",
+      "scene_text": "No hay salida limpia. Nunca la hubo.\n\nSi borra la evidencia, su hermana muere por saber que supo. Si la publica, mueren ambos. Si intenta vender el silencio, será el próximo nombre en la lista.\n\nPROGRAMADOR se desliza por la pared hacia el piso. El dispositivo en su mano contiene el peso de vidas que no puede salvar. Incluyendo la suya."
+    },
+    {
+      "role": "scene_4",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La caída sigue. Pero ahora tiene compañía.",
+      "image_path": "images/scene_4.png",
+      "scene_text": "PROGRAMADOR abre la puerta de emergencia. La zona industrial exhala alrededor de él.\n\nNo sabe si habrá mañana. Lo que sí sabe es que la evidencia ya no está solo en su dispositivo. Envió copias. Anónimas. A periódicos, activistas, gente que no puede ser tocada fácilmente.\n\nAhora la pregunta cambia: ¿cuánto tiempo tiene antes de que vengan? Y más importante — ¿a quién más puede llevar en la caída?"
+    }
+  ],
+  "cover_image": "worlds/neon-fall/images/hero.png"
+}
