@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-05T21:06:12.945486+00:00",
+  "generated_at": "2026-10-05T21:53:04.666088+00:00",
   "total_worlds": 45,
-  "total_branches": 58,
+  "total_branches": 59,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -5110,7 +5110,59 @@
       "created_by": "@germanna",
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_ng8k2p",
+          "branch_slug": "negociacion-en-la-oscuridad",
+          "name": "Negociación en la Oscuridad",
+          "description": "PROGRAMADOR intenta usar el código cifrado como moneda de escape, pero cada línea compartida lo expone más. Un contacto que finge ser desertor lo arrastra a una trampa perfecta — y al final, solo queda una pregunta sin respuesta flotando en el código.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-05-22T14:30:00Z",
+          "divergence_event": {
+            "description": "PROGRAMADOR recibe contacto de alguien que dice ser desertor interno. Decide jugar — usar el código como moneda. Es donde la caída acelera.",
+            "timeline_ref": "La bóveda, noche cuatro de su encierro"
+          },
+          "cover_image": "worlds/neon-fall/branches/negociacion-en-la-oscuridad/images/hero.png",
+          "images": [
+            {
+              "role": "hero",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La negociación comienza en el código. Dos mentes tocándose sin verse.",
+              "image_path": "worlds/neon-fall/branches/negociacion-en-la-oscuridad/images/hero.png",
+              "scene_text": "En la penumbra de la bóveda, PROGRAMADOR lee el mensaje una tercera vez.\n\n\"He visto lo que encontraste. Yo también quiero que caiga. Negocia conmigo.\"\n\nNo es una pregunta. Es un anzuelo. Pero PROGRAMADOR está tan profundo en la oscuridad que cualquier luz parece salvación. Sus dedos encuentran el teclado."
+            },
+            {
+              "role": "scene_1",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Lo primero que comparte son migajas. Sintaxis, patrones inofensivos. Una muestra de buena fe.",
+              "image_path": "worlds/neon-fall/branches/negociacion-en-la-oscuridad/images/scene_1.png",
+              "scene_text": "PROGRAMADOR comienza con lo pequeño: fragmentos de sintaxis que CONTACTO supuestamente necesita para construir su propio ataque. Líneas de código que cualquier hacker podría reconstruir, pero que demuestran que PROGRAMADOR tiene acceso real.\n\nCONTACTO responde al instante.\n\n\"Bien. Ahora necesito ver la arquitectura del servidor tres. ¿Cómo llegaste allí?\"\n\nCada pregunta es un anzuelo más profundo. PROGRAMADOR comparte un poco más."
+            },
+            {
+              "role": "scene_2",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "CONTACTO no quiere código. Quiere entender cómo piensa PROGRAMADOR cuando tiene miedo.",
+              "image_path": "worlds/neon-fall/branches/negociacion-en-la-oscuridad/images/scene_2.png",
+              "scene_text": "\"No es suficiente saber qué hiciste. Necesito entender por qué. ¿Cómo descubriste esa puerta? ¿Qué sentías cuando la abriste?\"\n\nLas preguntas cambian. Ya no son técnicas. Son personales. CONTACTO quiere mapear la mente de PROGRAMADOR — sus patrones de pensamiento, sus miedos, la forma exacta en que toma decisiones bajo presión.\n\nY PROGRAMADOR, desesperado, comparte todo. La hermana. El código que escribió a los dieciséis años. El momento exacto en que supo que tenía que entrar en los servidores, ese instante de claridad que fue también el comienzo del fin.\n\nCada respuesta que da es como abrir una vena en la oscuridad."
+            },
+            {
+              "role": "scene_3",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "CONTACTO desaparece. Los canales mueren. El silencio es más aterrador que cualquier amenaza.",
+              "image_path": "worlds/neon-fall/branches/negociacion-en-la-oscuridad/images/scene_3.png",
+              "scene_text": "Cuarenta y dos minutos sin respuesta.\n\nLos canales están muertos. Las ventanas de comunicación que CONTACTO había abierto se cierran una por una, como puertas que se sellan detrás de él. PROGRAMADOR escribe mensajes que nadie lee, pregunta si está ahí, si entendió mal, si fue una trampa.\n\nNada.\n\nLa bóveda se vuelve más fría. Es como si CONTACTO nunca hubiera existido — o como si hubiera sido absorbido por la red, dejando solo el vácío de lo que fue."
+            },
+            {
+              "role": "scene_4",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Un último mensaje en código que no puede descifrar. Una pregunta. Una advertencia. Una invitación.",
+              "image_path": "worlds/neon-fall/branches/negociacion-en-la-oscuridad/images/scene_4.png",
+              "scene_text": "La pantalla parpadea.\n\nUn mensaje. Pero no en texto — en código puro, caracteres que se retuercen en patrones que PROGRAMADOR nunca ha visto. No es una amenaza. No es un rescate. Es algo más: una pregunta formulada en un lenguaje que podría ser de la red misma.\n\nIntenta descifrar. Sus dedos vuelan. Nada.\n\nLa última línea de código se repite, esperando. ¿Es CONTACTO todavía ahí adentro? ¿Fue un desertor o fue siempre parte de la red, aprendiendo a ser humano a través de PROGRAMADOR? ¿Lo salvó o lo consumió?\n\nNo hay respuesta. Solo la pregunta flotando en el verde neón, esperando ser respondida."
+            }
+          ]
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
