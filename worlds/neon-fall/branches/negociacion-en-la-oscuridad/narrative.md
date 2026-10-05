@@ -1,0 +1,9 @@
+En la bóveda, la soledad tiene textura. Son cuarenta y ocho horas sin contacto, sin movimiento, solo PROGRAMADOR y el zumbido de máquinas que nunca duermen. El verde neón del código es su único respiro — líneas que fluyen como venas en la oscuridad. Entonces llega.
+
+Un mensaje en un canal que debería estar muerto. "He visto lo que encontraste. Yo también quiero que caiga. Negocia conmigo." CONTACTO. No un nombre, no un rostro — solo una voz en la red, y la promesa de que alguien más ha despertado dentro del sistema. Por primera vez en días, PROGRAMADOR permite que la esperanza lo toque.
+
+Comienza pequeño: fragmentos de sintaxis, patrones que CONTACTO supuestamente necesita para construir su propio ataque. Cada línea que comparte siente como libertad — estoy comprando mi salida, piensa. Pero CONTACTO es hambriento. Quiere más. Quiere entender no solo qué descubriste, sino CÓMO lo descubriste. Quiere ver tu arquitectura mental, tus vulnerabilidades, la forma exacta en que piensas cuando tienes miedo.
+
+Y PROGRAMADOR, desesperado, comparte todo. Cada pregunta que CONTACTO hace revela dónde está su debilidad: la hermana, el código que escribió cuando tenía dieciséis años, el miedo de no ser suficientemente rápido. La red no solo lo está cazando — lo está devorando desde adentro, aprendiendo a ser él, robándole el último refugio: su propia mente.
+
+Entre el cuarto y quinto acto, CONTACTO desaparece. Los canales mueren. Las pantallas quedan en negro. Solo queda un mensaje en código que PROGRAMADOR no puede descifrar — caracteres que se retuercen en la oscuridad, una pregunta que no tiene respuesta, o tal vez una invitación que ya no puede rechazar. ¿Fue salvado o fue consumido? La red no distingue entre ambos.
