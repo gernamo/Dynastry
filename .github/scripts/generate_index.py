@@ -47,9 +47,33 @@ def get_images_array(data, base_path):
         }
         if img.get("scene_text"):
             normalized_img["scene_text"] = img["scene_text"]
+        # v3 (storyboard por planos): metadatos del plano para el visor
+        if img.get("beat"):
+            normalized_img["beat"] = img["beat"]
+        if isinstance(img.get("shot"), dict):
+            normalized_img["shot"] = img["shot"]
         normalized.append(normalized_img)
     
     return normalized if normalized else None
+
+
+def get_chapter_meta(data):
+    """v3: resumen del capítulo (sin los planos, que ya van en images[].shot)."""
+    ch = data.get("chapter")
+    if not isinstance(ch, dict):
+        return None
+    return {
+        "schema_version": ch.get("schema_version"),
+        "structure": ch.get("structure"),
+        "duration_s": ch.get("duration_s"),
+        "logline": ch.get("logline", ""),
+        "entry_question": ch.get("entry_question", ""),
+        "exit_question": ch.get("exit_question", ""),
+        "acts": [
+            {"key": a.get("key"), "label": a.get("label"), "start_s": a.get("start_s"), "end_s": a.get("end_s")}
+            for a in ch.get("acts", []) if isinstance(a, dict)
+        ],
+    }
 
 
 worlds = []
@@ -97,6 +121,10 @@ for world_path in sorted(worlds_dir.iterdir()):
             
             if branch_images:
                 branch_entry["images"] = branch_images
+
+            chapter_meta = get_chapter_meta(b)
+            if chapter_meta:
+                branch_entry["chapter_meta"] = chapter_meta
             
             branches.append(branch_entry)
     
@@ -118,7 +146,14 @@ for world_path in sorted(worlds_dir.iterdir()):
     
     if world_images:
         world_entry["images"] = world_images
-    
+
+    # v3: carátula (logline, pregunta central, semillas de rama)
+    if isinstance(w.get("cover"), dict):
+        world_entry["cover"] = w["cover"]
+    world_chapter = get_chapter_meta(w)
+    if world_chapter:
+        world_entry["chapter_meta"] = world_chapter
+
     worlds.append(world_entry)
 
 
