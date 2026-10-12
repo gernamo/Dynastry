@@ -1,0 +1,648 @@
+{
+  "name": "Copia en la oscuridad",
+  "tags": [
+    "thriller noir",
+    "conspiración",
+    "barroco futurista",
+    "solitario",
+    "caída y redención",
+    "cybercrime"
+  ],
+  "status": "developing",
+  "chapter": {
+    "acts": [
+      {
+        "key": "planteamiento",
+        "end_s": 15,
+        "label": "Planteamiento",
+        "shots": [
+          {
+            "id": "s01",
+            "act": "planteamiento",
+            "angle": "eye_level",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Teclas secas, un zumbido grave de servidores.",
+            "action": "En el monitor de tubo, el cursor verde borra una línea de registro y se detiene. Debajo aparece en letras más grandes: «Te vimos. Sabemos dónde está tu hermana.»",
+            "camera": "slow push-in",
+            "caption": "Alguien lleva rato mirando por encima de su hombro.",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "close_up",
+            "voiceover": "",
+            "characters": [],
+            "duration_s": 3,
+            "image_prompt": "Close-up of a curved-glass tube monitor filling the vertical frame, a green block cursor blinking at the left of a cleared line in the upper third, a larger block of glowing green characters beneath it, scanline glow, faint dust on the glass, dark vault in soft focus around the edges.",
+            "video_prompt": "The green cursor sweeps left erasing a line, stops and blinks; a larger line of text flickers on beneath it. Slow push-in toward the glass; low server hum and keystroke clicks.",
+            "image_path": "images/s01.jpg"
+          },
+          {
+            "id": "s02",
+            "act": "planteamiento",
+            "angle": "high",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Plic de la gota sobre la tecla, respiración contenida.",
+            "action": "PROGRAMADOR, de espaldas, mantiene los dedos quietos sobre el teclado. Una gota cae de una tubería y rebota en la tecla ENTER. Su otra mano saca de la capucha un pendrive con cinta negra.",
+            "camera": "static",
+            "caption": "Lo único que no piensa dejarles es lo que lleva escondido.",
+            "start_s": 3,
+            "dialogue": [
+              {
+                "line": "Borrad mis huellas. Esto no.",
+                "speaker": "PROGRAMADOR"
+              }
+            ],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "PROGRAMADOR"
+            ],
+            "duration_s": 6,
+            "image_prompt": "High-angle over-the-shoulder shot of PROGRAMADOR seen from behind in a dark hood, frame left, one hand frozen on a dirty keyboard in the lower third, a water drop splashing on the ENTER key, the other hand pulling a pendrive wrapped in black tape from the hood, green monitor glow lighting the keyboard and hood edge.",
+            "video_prompt": "A drop falls from above and bounces off the ENTER key; PROGRAMADOR's free hand draws the taped pendrive out of the hood and raises it as he mutters his line. Camera static; drip sound, low hum.",
+            "image_path": "images/s02.jpg"
+          },
+          {
+            "id": "s03",
+            "act": "planteamiento",
+            "angle": "low",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Clic del pendrive al encajar, pitido breve.",
+            "action": "PROGRAMADOR clava el pendrive en el puerto de un rack, entre dos columnas de servidores. Un led ámbar se enciende; al fondo, el monitor marca «COPIANDO: nombres.db — 0 %».",
+            "camera": "pan right",
+            "caption": "Cuatro letras de la lista pesan más que su propia vida.",
+            "start_s": 9,
+            "dialogue": [],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "PROGRAMADOR"
+            ],
+            "duration_s": 6,
+            "image_prompt": "Low-angle wide shot of a narrow server vault, two tall black server rack columns converging toward the back, PROGRAMADOR small in hood at frame right pushing a taped pendrive into a rack port between them, a single amber led glowing at mid-frame, the green tube monitor glowing far left in the background, rusty pipes overhead.",
+            "video_prompt": "PROGRAMADOR pushes the pendrive into the rack port, the amber led switches on and lights his fingers; camera pans right from the monitor to the rack. Plastic click, electronic beep, hum.",
+            "image_path": "images/s03.jpg"
+          }
+        ],
+        "start_s": 0
+      },
+      {
+        "key": "nudo",
+        "end_s": 45,
+        "label": "Nudo",
+        "shots": [
+          {
+            "id": "s04",
+            "act": "nudo",
+            "angle": "eye_level",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Zumbido grave de servidores, tecleo ausente, un goteo lejano.",
+            "action": "PROGRAMADOR, de espaldas en la esquina izquierda, mira el monitor de tubo. La barra verde salta de 12 % a 27 % y el código le baña la capucha.",
+            "camera": "slow push-in",
+            "caption": "Cada porcentaje es un nombre que ya no podrá esconderse.",
+            "start_s": 15,
+            "dialogue": [],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "PROGRAMADOR"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Over-the-shoulder view of PROGRAMADOR's hooded head and shoulder in the lower left foreground, in silhouette, facing a curved-glass tube monitor on the right filled with green code and a half-filled green progress bar. Green glow on the hood edge, dark server racks fading into black behind.",
+            "video_prompt": "The green bar jumps in stutters while code scrolls on the monitor; PROGRAMADOR stays motionless, the glow flickering across his hood; slow push-in; low server hum and distant dripping.",
+            "image_path": "images/s04.jpg"
+          },
+          {
+            "id": "s05",
+            "act": "nudo",
+            "angle": "high",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Golpe seco de relés; el zumbido de los servidores se apaga; solo queda el goteo.",
+            "action": "Las lámparas del techo se apagan fila por fila hasta el fondo de la bóveda. PROGRAMADOR, diminuto abajo a la derecha, queda iluminado solo por su monitor.",
+            "camera": "static",
+            "caption": "La oscuridad llega desde el fondo, como si avanzara hacia él.",
+            "start_s": 20,
+            "dialogue": [],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "PROGRAMADOR"
+            ],
+            "duration_s": 6,
+            "image_prompt": "High-angle wide shot down a long server vault with rows of ceiling lamps going dark one after another toward the far end, cold white light fading in the upper part of the frame. PROGRAMADOR is a tiny figure at lower right before a single glowing green monitor, rack corridors converging in the centre.",
+            "video_prompt": "Ceiling lamps switch off row by row from near to far, plunging the vault into darkness until only the green monitor remains; camera static; sharp relay clack, then the hum dies, leaving dripping.",
+            "image_path": "images/s05.jpg"
+          },
+          {
+            "id": "s06",
+            "act": "nudo",
+            "angle": "low",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Pasos metálicos sobre la rejilla, lentos, uno cada dos segundos.",
+            "action": "Las columnas de código neón sobre los monitores dibujan en la oscuridad la pasarela metálica del techo. Una silueta oscura avanza despacio sobre la rejilla.",
+            "camera": "tilt up",
+            "caption": "Alguien camina sobre su cabeza sin prisa.",
+            "start_s": 26,
+            "dialogue": [],
+            "shot_size": "extreme_wide",
+            "voiceover": "",
+            "characters": [],
+            "duration_s": 5,
+            "image_prompt": "Extreme wide low-angle view from floor level up into a pitch-black vault ceiling. Vertical green neon code columns from monitors in the bottom corners faintly trace a long metal catwalk grating across the upper frame. A faint dark figure stands on the grating at upper right.",
+            "video_prompt": "Camera tilts up from the glowing monitors along the neon-traced catwalk as a dark figure takes one slow step, then another two seconds later; metallic footsteps echo, dripping continues.",
+            "image_path": "images/s06.jpg"
+          },
+          {
+            "id": "s07",
+            "act": "nudo",
+            "angle": "eye_level",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Paso metálico sobre la rejilla; goteo.",
+            "action": "PROGRAMADOR levanta la cabeza hacia el techo. Polvo verde cae por las ranuras de la pasarela y le cruza la cara a la luz de las pantallas.",
+            "camera": "handheld",
+            "caption": "El polvo cae. Arriba ya no hay duda.",
+            "start_s": 31,
+            "dialogue": [],
+            "shot_size": "close_up",
+            "voiceover": "",
+            "characters": [
+              "PROGRAMADOR"
+            ],
+            "duration_s": 4,
+            "image_prompt": "Close-up of PROGRAMADOR's face tilted upward, centre-left, hood shadowing his brow, eyes fixed on the dark above. Specks of dust drift down through the frame, lit green from monitors out of frame at lower right. Black void behind, a faint orange reflection on his chin.",
+            "video_prompt": "PROGRAMADOR slowly lifts his head and stares up; green-lit dust specks drift down past his face; slight handheld sway; a slow footstep rings out above.",
+            "image_path": "images/s07.jpg"
+          },
+          {
+            "id": "s08",
+            "act": "nudo",
+            "angle": "top_down",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Los pasos se detienen justo encima; silencio, solo el goteo.",
+            "action": "La mano de PROGRAMADOR tapa el led ámbar del pendrive en el puerto del rack. Entre sus dedos se cuela un parpadeo naranja; el monitor, borroso detrás, marca 71 %.",
+            "camera": "static",
+            "caption": "Un parpadeo naranja puede delatarlo.",
+            "start_s": 35,
+            "dialogue": [],
+            "shot_size": "insert",
+            "voiceover": "",
+            "characters": [
+              "PROGRAMADOR"
+            ],
+            "duration_s": 4,
+            "image_prompt": "Top-down insert of a hand cupped over a pendrive wrapped in black tape, plugged into a rack port in the lower centre. Orange light leaks between the fingers. A blurred monitor with a green progress bar sits in the upper third, black rack metal around.",
+            "video_prompt": "The fingers press tighter over the pendrive as orange light pulses between them; camera static; footsteps stop abruptly and only dripping remains.",
+            "image_path": "images/s08.jpg"
+          },
+          {
+            "id": "s09",
+            "act": "nudo",
+            "angle": "dutch",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Un solo paso en la pasarela, luego el chirrido de una escalera de caracol.",
+            "action": "PROGRAMADOR arranca el pendrive del puerto con la mano derecha. La pantalla a su izquierda se llena de rojo y le tiñe la cara.",
+            "camera": "whip pan",
+            "caption": "Lo que se copió ya no se puede deshacer.",
+            "start_s": 39,
+            "dialogue": [],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [
+              "PROGRAMADOR"
+            ],
+            "duration_s": 6,
+            "image_prompt": "Tilted medium shot of PROGRAMADOR at frame right, pulling a taped pendrive from a rack port with his right hand, face turned toward a tube monitor on the left flooded with solid red light. Red glow on his hood and cheek, server racks falling into black behind him.",
+            "video_prompt": "PROGRAMADOR yanks the pendrive free and the screen floods red; he freezes and looks up as camera whip-pans toward the ceiling; one footstep, then a spiral staircase screeches.",
+            "image_path": "images/s09.jpg"
+          }
+        ],
+        "start_s": 15
+      },
+      {
+        "key": "desenlace",
+        "end_s": 60,
+        "label": "Desenlace",
+        "shots": [
+          {
+            "id": "s10",
+            "act": "desenlace",
+            "angle": "low",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Goteo constante. Roce de herrumbre seca.",
+            "action": "Programador, de rodillas junto a una tubería oxidada a la derecha, mete el pendrive en una grieta tras la válvula, lo tapa con herrumbre y se limpia las manos en el pantalón.",
+            "camera": "slow push-in",
+            "caption": "Lo único que ya no está en sus manos.",
+            "start_s": 45,
+            "dialogue": [],
+            "shot_size": "full",
+            "voiceover": "",
+            "characters": [
+              "PROGRAMADOR"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Low-angle full shot of PROGRAMADOR kneeling at frame right beside a thick rusted pipe, hood up, one hand pushing a small tape-wrapped drive into a crack behind a valve wheel. Dark vault with server racks fading into black on the left, faint green monitor glow on his cheek, water drip in the foreground.",
+            "video_prompt": "PROGRAMADOR slides the drive into the crack, crumbles a handful of rust over it, then wipes his palms on his trousers and stands; slow push-in; steady dripping and dry rust scrape.",
+            "image_path": "images/s10.jpg"
+          },
+          {
+            "id": "s11",
+            "act": "desenlace",
+            "angle": "eye_level",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Zumbido eléctrico de la lámpara de obra. Gota lejana.",
+            "action": "Programador, de espaldas en el umbral a la izquierda, abre sus manos vacías. Al fondo del pasillo, Ejecutivo, silueta a contraluz en una silla plegable, sostiene la foto bajo la lámpara.",
+            "camera": "static",
+            "caption": "Alguien ya había montado la sala de espera.",
+            "start_s": 50,
+            "dialogue": [
+              {
+                "line": "Enséñame las manos.",
+                "speaker": "EJECUTIVO"
+              }
+            ],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "PROGRAMADOR",
+              "EJECUTIVO"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Wide shot from inside the vault doorway: PROGRAMADOR seen from behind at frame left foreground, hood up, arms slightly raised. A long concrete corridor recedes to the right-centre, a work lamp hanging from a cable casts harsh white-yellow backlight on EJECUTIVO, a faceless dark-suited silhouette seated on a folding chair, holding a small photo up.",
+            "video_prompt": "EJECUTIVO speaks his line from the chair, the photo trembling slightly before the lamp; PROGRAMADOR slowly turns both hands palm up, empty; camera static; lamp buzz and distant drip.",
+            "image_path": "images/s11.jpg"
+          },
+          {
+            "id": "s12",
+            "act": "desenlace",
+            "angle": "eye_level",
+            "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+            "sound": "Roce del papel. Silencio tenso y zumbido de la lámpara.",
+            "action": "La mano de Ejecutivo, con anillo de sello, sostiene la foto de la hermana sonriendo en un portal y la gira con dos dedos: al dorso hay una hora escrita a bolígrafo.",
+            "camera": "rack focus",
+            "caption": "Sigue sonriendo. Alguien sabe dónde.",
+            "start_s": 55,
+            "dialogue": [],
+            "shot_size": "insert",
+            "voiceover": "",
+            "characters": [
+              "EJECUTIVO"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Close insert of a hand with a signet ring pinching a small photo of a smiling young woman in a doorway, held at frame centre-right, bright work lamp flaring behind it and rimming the fingers in white light. Dark blurred corridor wall in the left third, shallow depth of field.",
+            "video_prompt": "Two fingers flip the photo over to reveal handwritten blue ink on the back; rack focus shifts from the smiling face to the scrawled hour; lamp buzz, paper rustle, then silence.",
+            "image_path": "images/s12.jpg"
+          }
+        ],
+        "start_s": 45
+      }
+    ],
+    "logline": "Un programador atrapado en la bóveda deja de borrar sus huellas para copiar una lista de nombres, pero alguien se acerca por la pasarela antes de que termine.",
+    "language": "es",
+    "structure": "three_act",
+    "duration_s": 60,
+    "exit_question": "¿Dónde está su hermana ahora mismo?",
+    "entry_question": "¿Qué hay en la lista que vale más que su hermana?",
+    "schema_version": "3.0"
+  },
+  "world_id": "w_nf7k2m",
+  "branch_id": "b_c4xqw3",
+  "created_at": "2026-10-12T21:13:45.200Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "copia-en-la-oscuridad",
+  "description": "El programador ignora la amenaza y copia la lista de desaparecidos en un pendrive. Cuando abre la puerta, el ejecutivo lo espera con una foto de su hermana.",
+  "parent_slug": "neon-fall",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [],
+  "schema_version": "3.0",
+  "divergence_event": {
+    "description": "Un programador atrapado en la bóveda deja de borrar sus huellas para copiar una lista de nombres, pero alguien se acerca por la pasarela antes de que termine.",
+    "timeline_ref": "¿Qué hay en la lista que vale más que su hermana?"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "60s"
+    },
+    "start": {
+      "order": 1,
+      "marker": "0s"
+    },
+    "diverges_from": "Neon Fall",
+    "divergence_question": "¿Dónde está su hermana ahora mismo?"
+  },
+  "inherited_from_canon": {
+    "tone": [
+      "áspero",
+      "sin esperanza fácil",
+      "atrapado",
+      "obsesivo"
+    ],
+    "places_used": [
+      "Zona Industrial Abandonada — Bóveda de Servidores"
+    ],
+    "characters_used": [
+      "PROGRAMADOR",
+      "EJECUTIVO"
+    ],
+    "visual_treatment": "HIGH-CONTRAST NOIR COMIC"
+  },
+  "images": [
+    {
+      "role": "s01",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Alguien lleva rato mirando por encima de su hombro.",
+      "image_path": "images/s01.jpg",
+      "scene_text": "En el monitor de tubo, el cursor verde borra una línea de registro y se detiene. Debajo aparece en letras más grandes: «Te vimos. Sabemos dónde está tu hermana.»\n(Teclas secas, un zumbido grave de servidores.)",
+      "beat": "planteamiento",
+      "shot": {
+        "act": "planteamiento",
+        "angle": "eye_level",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Teclas secas, un zumbido grave de servidores.",
+        "camera": "slow push-in",
+        "start_s": 0,
+        "dialogue": [],
+        "shot_size": "close_up",
+        "voiceover": "",
+        "characters": [],
+        "duration_s": 3,
+        "video_prompt": "The green cursor sweeps left erasing a line, stops and blinks; a larger line of text flickers on beneath it. Slow push-in toward the glass; low server hum and keystroke clicks."
+      }
+    },
+    {
+      "role": "s02",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Lo único que no piensa dejarles es lo que lleva escondido.",
+      "image_path": "images/s02.jpg",
+      "scene_text": "PROGRAMADOR, de espaldas, mantiene los dedos quietos sobre el teclado. Una gota cae de una tubería y rebota en la tecla ENTER. Su otra mano saca de la capucha un pendrive con cinta negra.\nPROGRAMADOR: Borrad mis huellas. Esto no.\n(Plic de la gota sobre la tecla, respiración contenida.)",
+      "beat": "planteamiento",
+      "shot": {
+        "act": "planteamiento",
+        "angle": "high",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Plic de la gota sobre la tecla, respiración contenida.",
+        "camera": "static",
+        "start_s": 3,
+        "dialogue": [
+          {
+            "line": "Borrad mis huellas. Esto no.",
+            "speaker": "PROGRAMADOR"
+          }
+        ],
+        "shot_size": "over_shoulder",
+        "voiceover": "",
+        "characters": [
+          "PROGRAMADOR"
+        ],
+        "duration_s": 6,
+        "video_prompt": "A drop falls from above and bounces off the ENTER key; PROGRAMADOR's free hand draws the taped pendrive out of the hood and raises it as he mutters his line. Camera static; drip sound, low hum."
+      }
+    },
+    {
+      "role": "s03",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Cuatro letras de la lista pesan más que su propia vida.",
+      "image_path": "images/s03.jpg",
+      "scene_text": "PROGRAMADOR clava el pendrive en el puerto de un rack, entre dos columnas de servidores. Un led ámbar se enciende; al fondo, el monitor marca «COPIANDO: nombres.db — 0 %».\n(Clic del pendrive al encajar, pitido breve.)",
+      "beat": "planteamiento",
+      "shot": {
+        "act": "planteamiento",
+        "angle": "low",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Clic del pendrive al encajar, pitido breve.",
+        "camera": "pan right",
+        "start_s": 9,
+        "dialogue": [],
+        "shot_size": "wide",
+        "voiceover": "",
+        "characters": [
+          "PROGRAMADOR"
+        ],
+        "duration_s": 6,
+        "video_prompt": "PROGRAMADOR pushes the pendrive into the rack port, the amber led switches on and lights his fingers; camera pans right from the monitor to the rack. Plastic click, electronic beep, hum."
+      }
+    },
+    {
+      "role": "s04",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Cada porcentaje es un nombre que ya no podrá esconderse.",
+      "image_path": "images/s04.jpg",
+      "scene_text": "PROGRAMADOR, de espaldas en la esquina izquierda, mira el monitor de tubo. La barra verde salta de 12 % a 27 % y el código le baña la capucha.\n(Zumbido grave de servidores, tecleo ausente, un goteo lejano.)",
+      "beat": "nudo",
+      "shot": {
+        "act": "nudo",
+        "angle": "eye_level",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Zumbido grave de servidores, tecleo ausente, un goteo lejano.",
+        "camera": "slow push-in",
+        "start_s": 15,
+        "dialogue": [],
+        "shot_size": "over_shoulder",
+        "voiceover": "",
+        "characters": [
+          "PROGRAMADOR"
+        ],
+        "duration_s": 5,
+        "video_prompt": "The green bar jumps in stutters while code scrolls on the monitor; PROGRAMADOR stays motionless, the glow flickering across his hood; slow push-in; low server hum and distant dripping."
+      }
+    },
+    {
+      "role": "s05",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La oscuridad llega desde el fondo, como si avanzara hacia él.",
+      "image_path": "images/s05.jpg",
+      "scene_text": "Las lámparas del techo se apagan fila por fila hasta el fondo de la bóveda. PROGRAMADOR, diminuto abajo a la derecha, queda iluminado solo por su monitor.\n(Golpe seco de relés; el zumbido de los servidores se apaga; solo queda el goteo.)",
+      "beat": "nudo",
+      "shot": {
+        "act": "nudo",
+        "angle": "high",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Golpe seco de relés; el zumbido de los servidores se apaga; solo queda el goteo.",
+        "camera": "static",
+        "start_s": 20,
+        "dialogue": [],
+        "shot_size": "wide",
+        "voiceover": "",
+        "characters": [
+          "PROGRAMADOR"
+        ],
+        "duration_s": 6,
+        "video_prompt": "Ceiling lamps switch off row by row from near to far, plunging the vault into darkness until only the green monitor remains; camera static; sharp relay clack, then the hum dies, leaving dripping."
+      }
+    },
+    {
+      "role": "s06",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Alguien camina sobre su cabeza sin prisa.",
+      "image_path": "images/s06.jpg",
+      "scene_text": "Las columnas de código neón sobre los monitores dibujan en la oscuridad la pasarela metálica del techo. Una silueta oscura avanza despacio sobre la rejilla.\n(Pasos metálicos sobre la rejilla, lentos, uno cada dos segundos.)",
+      "beat": "nudo",
+      "shot": {
+        "act": "nudo",
+        "angle": "low",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Pasos metálicos sobre la rejilla, lentos, uno cada dos segundos.",
+        "camera": "tilt up",
+        "start_s": 26,
+        "dialogue": [],
+        "shot_size": "extreme_wide",
+        "voiceover": "",
+        "characters": [],
+        "duration_s": 5,
+        "video_prompt": "Camera tilts up from the glowing monitors along the neon-traced catwalk as a dark figure takes one slow step, then another two seconds later; metallic footsteps echo, dripping continues."
+      }
+    },
+    {
+      "role": "s07",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El polvo cae. Arriba ya no hay duda.",
+      "image_path": "images/s07.jpg",
+      "scene_text": "PROGRAMADOR levanta la cabeza hacia el techo. Polvo verde cae por las ranuras de la pasarela y le cruza la cara a la luz de las pantallas.\n(Paso metálico sobre la rejilla; goteo.)",
+      "beat": "nudo",
+      "shot": {
+        "act": "nudo",
+        "angle": "eye_level",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Paso metálico sobre la rejilla; goteo.",
+        "camera": "handheld",
+        "start_s": 31,
+        "dialogue": [],
+        "shot_size": "close_up",
+        "voiceover": "",
+        "characters": [
+          "PROGRAMADOR"
+        ],
+        "duration_s": 4,
+        "video_prompt": "PROGRAMADOR slowly lifts his head and stares up; green-lit dust specks drift down past his face; slight handheld sway; a slow footstep rings out above."
+      }
+    },
+    {
+      "role": "s08",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Un parpadeo naranja puede delatarlo.",
+      "image_path": "images/s08.jpg",
+      "scene_text": "La mano de PROGRAMADOR tapa el led ámbar del pendrive en el puerto del rack. Entre sus dedos se cuela un parpadeo naranja; el monitor, borroso detrás, marca 71 %.\n(Los pasos se detienen justo encima; silencio, solo el goteo.)",
+      "beat": "nudo",
+      "shot": {
+        "act": "nudo",
+        "angle": "top_down",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Los pasos se detienen justo encima; silencio, solo el goteo.",
+        "camera": "static",
+        "start_s": 35,
+        "dialogue": [],
+        "shot_size": "insert",
+        "voiceover": "",
+        "characters": [
+          "PROGRAMADOR"
+        ],
+        "duration_s": 4,
+        "video_prompt": "The fingers press tighter over the pendrive as orange light pulses between them; camera static; footsteps stop abruptly and only dripping remains."
+      }
+    },
+    {
+      "role": "s09",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Lo que se copió ya no se puede deshacer.",
+      "image_path": "images/s09.jpg",
+      "scene_text": "PROGRAMADOR arranca el pendrive del puerto con la mano derecha. La pantalla a su izquierda se llena de rojo y le tiñe la cara.\n(Un solo paso en la pasarela, luego el chirrido de una escalera de caracol.)",
+      "beat": "nudo",
+      "shot": {
+        "act": "nudo",
+        "angle": "dutch",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Un solo paso en la pasarela, luego el chirrido de una escalera de caracol.",
+        "camera": "whip pan",
+        "start_s": 39,
+        "dialogue": [],
+        "shot_size": "medium",
+        "voiceover": "",
+        "characters": [
+          "PROGRAMADOR"
+        ],
+        "duration_s": 6,
+        "video_prompt": "PROGRAMADOR yanks the pendrive free and the screen floods red; he freezes and looks up as camera whip-pans toward the ceiling; one footstep, then a spiral staircase screeches."
+      }
+    },
+    {
+      "role": "s10",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Lo único que ya no está en sus manos.",
+      "image_path": "images/s10.jpg",
+      "scene_text": "Programador, de rodillas junto a una tubería oxidada a la derecha, mete el pendrive en una grieta tras la válvula, lo tapa con herrumbre y se limpia las manos en el pantalón.\n(Goteo constante. Roce de herrumbre seca.)",
+      "beat": "desenlace",
+      "shot": {
+        "act": "desenlace",
+        "angle": "low",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Goteo constante. Roce de herrumbre seca.",
+        "camera": "slow push-in",
+        "start_s": 45,
+        "dialogue": [],
+        "shot_size": "full",
+        "voiceover": "",
+        "characters": [
+          "PROGRAMADOR"
+        ],
+        "duration_s": 5,
+        "video_prompt": "PROGRAMADOR slides the drive into the crack, crumbles a handful of rust over it, then wipes his palms on his trousers and stands; slow push-in; steady dripping and dry rust scrape."
+      }
+    },
+    {
+      "role": "s11",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Alguien ya había montado la sala de espera.",
+      "image_path": "images/s11.jpg",
+      "scene_text": "Programador, de espaldas en el umbral a la izquierda, abre sus manos vacías. Al fondo del pasillo, Ejecutivo, silueta a contraluz en una silla plegable, sostiene la foto bajo la lámpara.\nEJECUTIVO: Enséñame las manos.\n(Zumbido eléctrico de la lámpara de obra. Gota lejana.)",
+      "beat": "desenlace",
+      "shot": {
+        "act": "desenlace",
+        "angle": "eye_level",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Zumbido eléctrico de la lámpara de obra. Gota lejana.",
+        "camera": "static",
+        "start_s": 50,
+        "dialogue": [
+          {
+            "line": "Enséñame las manos.",
+            "speaker": "EJECUTIVO"
+          }
+        ],
+        "shot_size": "wide",
+        "voiceover": "",
+        "characters": [
+          "PROGRAMADOR",
+          "EJECUTIVO"
+        ],
+        "duration_s": 5,
+        "video_prompt": "EJECUTIVO speaks his line from the chair, the photo trembling slightly before the lamp; PROGRAMADOR slowly turns both hands palm up, empty; camera static; lamp buzz and distant drip."
+      }
+    },
+    {
+      "role": "s12",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Sigue sonriendo. Alguien sabe dónde.",
+      "image_path": "images/s12.jpg",
+      "scene_text": "La mano de Ejecutivo, con anillo de sello, sostiene la foto de la hermana sonriendo en un portal y la gira con dos dedos: al dorso hay una hora escrita a bolígrafo.\n(Roce del papel. Silencio tenso y zumbido de la lámpara.)",
+      "beat": "desenlace",
+      "shot": {
+        "act": "desenlace",
+        "angle": "eye_level",
+        "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+        "sound": "Roce del papel. Silencio tenso y zumbido de la lámpara.",
+        "camera": "rack focus",
+        "start_s": 55,
+        "dialogue": [],
+        "shot_size": "insert",
+        "voiceover": "",
+        "characters": [
+          "EJECUTIVO"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Two fingers flip the photo over to reveal handwritten blue ink on the back; rack focus shifts from the smiling face to the scrawled hour; lamp buzz, paper rustle, then silence."
+      }
+    }
+  ],
+  "cover_image": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s01.jpg"
+}
