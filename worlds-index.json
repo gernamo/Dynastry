@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-05T21:53:04.666088+00:00",
+  "generated_at": "2026-10-12T21:15:31.018130+00:00",
   "total_worlds": 45,
-  "total_branches": 59,
+  "total_branches": 60,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -5111,6 +5111,345 @@
       "created_at": "2026-05-22T14:30:00Z",
       "status": "developing",
       "branches": [
+        {
+          "branch_id": "b_c4xqw3",
+          "branch_slug": "copia-en-la-oscuridad",
+          "name": "Copia en la oscuridad",
+          "description": "El programador ignora la amenaza y copia la lista de desaparecidos en un pendrive. Cuando abre la puerta, el ejecutivo lo espera con una foto de su hermana.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-10-12T21:13:45.200Z",
+          "divergence_event": {
+            "description": "Un programador atrapado en la bóveda deja de borrar sus huellas para copiar una lista de nombres, pero alguien se acerca por la pasarela antes de que termine.",
+            "timeline_ref": "¿Qué hay en la lista que vale más que su hermana?"
+          },
+          "cover_image": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s01.jpg",
+          "images": [
+            {
+              "role": "s01",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Alguien lleva rato mirando por encima de su hombro.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s01.jpg",
+              "scene_text": "En el monitor de tubo, el cursor verde borra una línea de registro y se detiene. Debajo aparece en letras más grandes: «Te vimos. Sabemos dónde está tu hermana.»\n(Teclas secas, un zumbido grave de servidores.)",
+              "beat": "planteamiento",
+              "shot": {
+                "act": "planteamiento",
+                "angle": "eye_level",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Teclas secas, un zumbido grave de servidores.",
+                "camera": "slow push-in",
+                "start_s": 0,
+                "dialogue": [],
+                "shot_size": "close_up",
+                "voiceover": "",
+                "characters": [],
+                "duration_s": 3,
+                "video_prompt": "The green cursor sweeps left erasing a line, stops and blinks; a larger line of text flickers on beneath it. Slow push-in toward the glass; low server hum and keystroke clicks."
+              }
+            },
+            {
+              "role": "s02",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Lo único que no piensa dejarles es lo que lleva escondido.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s02.jpg",
+              "scene_text": "PROGRAMADOR, de espaldas, mantiene los dedos quietos sobre el teclado. Una gota cae de una tubería y rebota en la tecla ENTER. Su otra mano saca de la capucha un pendrive con cinta negra.\nPROGRAMADOR: Borrad mis huellas. Esto no.\n(Plic de la gota sobre la tecla, respiración contenida.)",
+              "beat": "planteamiento",
+              "shot": {
+                "act": "planteamiento",
+                "angle": "high",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Plic de la gota sobre la tecla, respiración contenida.",
+                "camera": "static",
+                "start_s": 3,
+                "dialogue": [
+                  {
+                    "line": "Borrad mis huellas. Esto no.",
+                    "speaker": "PROGRAMADOR"
+                  }
+                ],
+                "shot_size": "over_shoulder",
+                "voiceover": "",
+                "characters": [
+                  "PROGRAMADOR"
+                ],
+                "duration_s": 6,
+                "video_prompt": "A drop falls from above and bounces off the ENTER key; PROGRAMADOR's free hand draws the taped pendrive out of the hood and raises it as he mutters his line. Camera static; drip sound, low hum."
+              }
+            },
+            {
+              "role": "s03",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Cuatro letras de la lista pesan más que su propia vida.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s03.jpg",
+              "scene_text": "PROGRAMADOR clava el pendrive en el puerto de un rack, entre dos columnas de servidores. Un led ámbar se enciende; al fondo, el monitor marca «COPIANDO: nombres.db — 0 %».\n(Clic del pendrive al encajar, pitido breve.)",
+              "beat": "planteamiento",
+              "shot": {
+                "act": "planteamiento",
+                "angle": "low",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Clic del pendrive al encajar, pitido breve.",
+                "camera": "pan right",
+                "start_s": 9,
+                "dialogue": [],
+                "shot_size": "wide",
+                "voiceover": "",
+                "characters": [
+                  "PROGRAMADOR"
+                ],
+                "duration_s": 6,
+                "video_prompt": "PROGRAMADOR pushes the pendrive into the rack port, the amber led switches on and lights his fingers; camera pans right from the monitor to the rack. Plastic click, electronic beep, hum."
+              }
+            },
+            {
+              "role": "s04",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Cada porcentaje es un nombre que ya no podrá esconderse.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s04.jpg",
+              "scene_text": "PROGRAMADOR, de espaldas en la esquina izquierda, mira el monitor de tubo. La barra verde salta de 12 % a 27 % y el código le baña la capucha.\n(Zumbido grave de servidores, tecleo ausente, un goteo lejano.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "eye_level",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Zumbido grave de servidores, tecleo ausente, un goteo lejano.",
+                "camera": "slow push-in",
+                "start_s": 15,
+                "dialogue": [],
+                "shot_size": "over_shoulder",
+                "voiceover": "",
+                "characters": [
+                  "PROGRAMADOR"
+                ],
+                "duration_s": 5,
+                "video_prompt": "The green bar jumps in stutters while code scrolls on the monitor; PROGRAMADOR stays motionless, the glow flickering across his hood; slow push-in; low server hum and distant dripping."
+              }
+            },
+            {
+              "role": "s05",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La oscuridad llega desde el fondo, como si avanzara hacia él.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s05.jpg",
+              "scene_text": "Las lámparas del techo se apagan fila por fila hasta el fondo de la bóveda. PROGRAMADOR, diminuto abajo a la derecha, queda iluminado solo por su monitor.\n(Golpe seco de relés; el zumbido de los servidores se apaga; solo queda el goteo.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "high",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Golpe seco de relés; el zumbido de los servidores se apaga; solo queda el goteo.",
+                "camera": "static",
+                "start_s": 20,
+                "dialogue": [],
+                "shot_size": "wide",
+                "voiceover": "",
+                "characters": [
+                  "PROGRAMADOR"
+                ],
+                "duration_s": 6,
+                "video_prompt": "Ceiling lamps switch off row by row from near to far, plunging the vault into darkness until only the green monitor remains; camera static; sharp relay clack, then the hum dies, leaving dripping."
+              }
+            },
+            {
+              "role": "s06",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Alguien camina sobre su cabeza sin prisa.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s06.jpg",
+              "scene_text": "Las columnas de código neón sobre los monitores dibujan en la oscuridad la pasarela metálica del techo. Una silueta oscura avanza despacio sobre la rejilla.\n(Pasos metálicos sobre la rejilla, lentos, uno cada dos segundos.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "low",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Pasos metálicos sobre la rejilla, lentos, uno cada dos segundos.",
+                "camera": "tilt up",
+                "start_s": 26,
+                "dialogue": [],
+                "shot_size": "extreme_wide",
+                "voiceover": "",
+                "characters": [],
+                "duration_s": 5,
+                "video_prompt": "Camera tilts up from the glowing monitors along the neon-traced catwalk as a dark figure takes one slow step, then another two seconds later; metallic footsteps echo, dripping continues."
+              }
+            },
+            {
+              "role": "s07",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El polvo cae. Arriba ya no hay duda.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s07.jpg",
+              "scene_text": "PROGRAMADOR levanta la cabeza hacia el techo. Polvo verde cae por las ranuras de la pasarela y le cruza la cara a la luz de las pantallas.\n(Paso metálico sobre la rejilla; goteo.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "eye_level",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Paso metálico sobre la rejilla; goteo.",
+                "camera": "handheld",
+                "start_s": 31,
+                "dialogue": [],
+                "shot_size": "close_up",
+                "voiceover": "",
+                "characters": [
+                  "PROGRAMADOR"
+                ],
+                "duration_s": 4,
+                "video_prompt": "PROGRAMADOR slowly lifts his head and stares up; green-lit dust specks drift down past his face; slight handheld sway; a slow footstep rings out above."
+              }
+            },
+            {
+              "role": "s08",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Un parpadeo naranja puede delatarlo.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s08.jpg",
+              "scene_text": "La mano de PROGRAMADOR tapa el led ámbar del pendrive en el puerto del rack. Entre sus dedos se cuela un parpadeo naranja; el monitor, borroso detrás, marca 71 %.\n(Los pasos se detienen justo encima; silencio, solo el goteo.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "top_down",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Los pasos se detienen justo encima; silencio, solo el goteo.",
+                "camera": "static",
+                "start_s": 35,
+                "dialogue": [],
+                "shot_size": "insert",
+                "voiceover": "",
+                "characters": [
+                  "PROGRAMADOR"
+                ],
+                "duration_s": 4,
+                "video_prompt": "The fingers press tighter over the pendrive as orange light pulses between them; camera static; footsteps stop abruptly and only dripping remains."
+              }
+            },
+            {
+              "role": "s09",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Lo que se copió ya no se puede deshacer.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s09.jpg",
+              "scene_text": "PROGRAMADOR arranca el pendrive del puerto con la mano derecha. La pantalla a su izquierda se llena de rojo y le tiñe la cara.\n(Un solo paso en la pasarela, luego el chirrido de una escalera de caracol.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "dutch",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Un solo paso en la pasarela, luego el chirrido de una escalera de caracol.",
+                "camera": "whip pan",
+                "start_s": 39,
+                "dialogue": [],
+                "shot_size": "medium",
+                "voiceover": "",
+                "characters": [
+                  "PROGRAMADOR"
+                ],
+                "duration_s": 6,
+                "video_prompt": "PROGRAMADOR yanks the pendrive free and the screen floods red; he freezes and looks up as camera whip-pans toward the ceiling; one footstep, then a spiral staircase screeches."
+              }
+            },
+            {
+              "role": "s10",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Lo único que ya no está en sus manos.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s10.jpg",
+              "scene_text": "Programador, de rodillas junto a una tubería oxidada a la derecha, mete el pendrive en una grieta tras la válvula, lo tapa con herrumbre y se limpia las manos en el pantalón.\n(Goteo constante. Roce de herrumbre seca.)",
+              "beat": "desenlace",
+              "shot": {
+                "act": "desenlace",
+                "angle": "low",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Goteo constante. Roce de herrumbre seca.",
+                "camera": "slow push-in",
+                "start_s": 45,
+                "dialogue": [],
+                "shot_size": "full",
+                "voiceover": "",
+                "characters": [
+                  "PROGRAMADOR"
+                ],
+                "duration_s": 5,
+                "video_prompt": "PROGRAMADOR slides the drive into the crack, crumbles a handful of rust over it, then wipes his palms on his trousers and stands; slow push-in; steady dripping and dry rust scrape."
+              }
+            },
+            {
+              "role": "s11",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Alguien ya había montado la sala de espera.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s11.jpg",
+              "scene_text": "Programador, de espaldas en el umbral a la izquierda, abre sus manos vacías. Al fondo del pasillo, Ejecutivo, silueta a contraluz en una silla plegable, sostiene la foto bajo la lámpara.\nEJECUTIVO: Enséñame las manos.\n(Zumbido eléctrico de la lámpara de obra. Gota lejana.)",
+              "beat": "desenlace",
+              "shot": {
+                "act": "desenlace",
+                "angle": "eye_level",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Zumbido eléctrico de la lámpara de obra. Gota lejana.",
+                "camera": "static",
+                "start_s": 50,
+                "dialogue": [
+                  {
+                    "line": "Enséñame las manos.",
+                    "speaker": "EJECUTIVO"
+                  }
+                ],
+                "shot_size": "wide",
+                "voiceover": "",
+                "characters": [
+                  "PROGRAMADOR",
+                  "EJECUTIVO"
+                ],
+                "duration_s": 5,
+                "video_prompt": "EJECUTIVO speaks his line from the chair, the photo trembling slightly before the lamp; PROGRAMADOR slowly turns both hands palm up, empty; camera static; lamp buzz and distant drip."
+              }
+            },
+            {
+              "role": "s12",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Sigue sonriendo. Alguien sabe dónde.",
+              "image_path": "worlds/neon-fall/branches/copia-en-la-oscuridad/images/s12.jpg",
+              "scene_text": "La mano de Ejecutivo, con anillo de sello, sostiene la foto de la hermana sonriendo en un portal y la gira con dos dedos: al dorso hay una hora escrita a bolígrafo.\n(Roce del papel. Silencio tenso y zumbido de la lámpara.)",
+              "beat": "desenlace",
+              "shot": {
+                "act": "desenlace",
+                "angle": "eye_level",
+                "place": "Zona Industrial Abandonada — Bóveda de Servidores",
+                "sound": "Roce del papel. Silencio tenso y zumbido de la lámpara.",
+                "camera": "rack focus",
+                "start_s": 55,
+                "dialogue": [],
+                "shot_size": "insert",
+                "voiceover": "",
+                "characters": [
+                  "EJECUTIVO"
+                ],
+                "duration_s": 5,
+                "video_prompt": "Two fingers flip the photo over to reveal handwritten blue ink on the back; rack focus shifts from the smiling face to the scrawled hour; lamp buzz, paper rustle, then silence."
+              }
+            }
+          ],
+          "chapter_meta": {
+            "schema_version": "3.0",
+            "structure": "three_act",
+            "duration_s": 60,
+            "logline": "Un programador atrapado en la bóveda deja de borrar sus huellas para copiar una lista de nombres, pero alguien se acerca por la pasarela antes de que termine.",
+            "entry_question": "¿Qué hay en la lista que vale más que su hermana?",
+            "exit_question": "¿Dónde está su hermana ahora mismo?",
+            "acts": [
+              {
+                "key": "planteamiento",
+                "label": "Planteamiento",
+                "start_s": 0,
+                "end_s": 15
+              },
+              {
+                "key": "nudo",
+                "label": "Nudo",
+                "start_s": 15,
+                "end_s": 45
+              },
+              {
+                "key": "desenlace",
+                "label": "Desenlace",
+                "start_s": 45,
+                "end_s": 60
+              }
+            ]
+          }
+        },
         {
           "branch_id": "b_ng8k2p",
           "branch_slug": "negociacion-en-la-oscuridad",
