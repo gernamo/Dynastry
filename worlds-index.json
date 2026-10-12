@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-12T21:15:31.018130+00:00",
-  "total_worlds": 45,
+  "generated_at": "2026-10-12T21:36:39.340219+00:00",
+  "total_worlds": 46,
   "total_branches": 60,
   "worlds": [
     {
@@ -5750,6 +5750,252 @@
           "scene_text": "De vuelta en el sótano, Phillip coloca el frasco en un estante junto a otros experimentos fallidos. Algunos aún tienen color. Otros se han oxidado a café. Este brilla.\n\nEn su cuaderno escribe: «Si alguien lo encuentra, ¿sabrá que fue yo?» Luego tacha la pregunta.\n\nMañana volverá a clase. La verá. Ella no sabrá que el azul que vio en la ventanilla de un edificio lejano, ese color raro que podría jurar que vio anoche, fue él. Siempre será así."
         }
       ]
+    },
+    {
+      "world_id": "w_qdreru",
+      "slug": "placaje-sucio",
+      "name": "Placaje sucio",
+      "description": "Tras el accidente en el entrenamiento, Marcus abre la taquilla de su mejor amigo y encuentra un sobre que no debería existir. Harlow vive de los patrocinios, y alguien ha puesto precio a una rodilla.",
+      "tags": [],
+      "cover_image": "worlds/placaje-sucio/images/hero.jpg",
+      "created_by": "@germanna",
+      "created_at": "2026-10-12T21:34:07.064Z",
+      "status": "developing",
+      "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "MARCUS",
+          "arc_summary": "Pasa de proteger a su mejor amigo a investigarlo, y debe decidir si la lealtad vale más que la verdad.",
+          "visual_description": "Black college defensive lineman, 21, broad build, tape around his wrists, sweat-stained practice jersey, watchful unsmiling eyes",
+          "reference_image_path": "images/characters/marcus.jpg",
+          "reference_kind": "sheet"
+        },
+        {
+          "role": "support",
+          "label": "JAKE",
+          "arc_summary": "Guarda un secreto que lo salva y lo condena a la vez, y cada mentira lo aleja del único amigo que le queda.",
+          "visual_description": "Star quarterback, 21, lean build, leg in a knee brace, pale under the stadium lights, easy grin that has gone thin",
+          "reference_image_path": "images/characters/jake.jpg",
+          "reference_kind": "sheet"
+        }
+      ],
+      "places": [
+        {
+          "name": "Vestuario del estadio de Harlow",
+          "atmosphere": "frío, metálico, con sombras",
+          "visual_description": "Cold locker room under flickering tube lights, rows of grey metal lockers, wet concrete floor, pink and blue neon from the suites bleeding through a frosted glass door",
+          "reference_image_path": "images/places/vestuario-del-estadio-de-harlow.jpg",
+          "reference_kind": "sheet"
+        }
+      ],
+      "story_bible": {
+        "tone": "tenso, sombrío, metálico",
+        "setting": "Universidad de Harlow, ciudad industrial donde el campus depende de los patrocinios; el vestuario del estadio de noche, con tubos fluorescentes y neón de los palcos",
+        "timeline": {
+          "span": "una temporada de liga",
+          "type": "relative",
+          "unit": "semanas",
+          "anchor": "el día del accidente en el entrenamiento"
+        },
+        "world_rules": [
+          "El campus sobrevive gracias a los patrocinadores, y el rendimiento del equipo es moneda de cambio.",
+          "Nada se dice en voz alta en el vestuario: los secretos se guardan en taquillas, sobres y llamadas a media voz."
+        ],
+        "visual_treatment": "anime",
+        "default_structure": "three_act"
+      },
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Harlow está vacío. Marcus no debería estar aquí.",
+          "image_path": "worlds/placaje-sucio/images/hero.jpg",
+          "scene_text": "Marcus, diminuto en el centro del pasillo de taquillas grises, se detiene ante una puerta abierta. Los tubos parpadean sobre él y el neón rosa y azul entra por el cristal.\n(Goteo lejano, eco de una grada vacía.)",
+          "beat": "trailer",
+          "shot": {
+            "act": "trailer",
+            "angle": "high",
+            "place": "VESTUARIO DEL ESTADIO DE HARLOW",
+            "sound": "Goteo lejano, eco de una grada vacía.",
+            "camera": "slow push-in",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "MARCUS"
+            ],
+            "duration_s": 4,
+            "video_prompt": "The fluorescent tubes flicker above MARCUS as he stops and stands still before the open door; slow push-in from above; distant dripping and the echo of an empty stand."
+          }
+        },
+        {
+          "role": "s02",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Lo que Jake guardaba bajo llave.",
+          "image_path": "worlds/placaje-sucio/images/s02.jpg",
+          "scene_text": "La mano de Marcus, con cinta blanca en la muñeca, saca un sobre de la taquilla de Jake. Billetes verdes asoman y un contrato con sello en relieve resbala y cae.\n(Roce de papel, un golpe seco sobre el suelo mojado.)",
+          "beat": "trailer",
+          "shot": {
+            "act": "trailer",
+            "angle": "eye_level",
+            "place": "VESTUARIO DEL ESTADIO DE HARLOW",
+            "sound": "Roce de papel, un golpe seco sobre el suelo mojado.",
+            "camera": "static",
+            "start_s": 4,
+            "dialogue": [],
+            "shot_size": "insert",
+            "voiceover": "",
+            "characters": [
+              "MARCUS",
+              "JAKE"
+            ],
+            "duration_s": 3,
+            "video_prompt": "The taped hand draws the envelope out of the locker, banknotes shift at its edge, and the contract slips free and falls out of frame; camera static; paper rustle and a soft thud."
+          }
+        },
+        {
+          "role": "s03",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Una línea demasiado limpia para un partido.",
+          "image_path": "worlds/placaje-sucio/images/s03.jpg",
+          "scene_text": "El Médico, a la izquierda del encuadre, planta una radiografía contra la lámpara y señala con el bolígrafo una línea limpia dentro del hueso.\nMÉDICO: Un placaje no hace esto.\n(Zumbido de la lámpara.)",
+          "beat": "trailer",
+          "shot": {
+            "act": "trailer",
+            "angle": "eye_level",
+            "place": "CONSULTA DEL MÉDICO",
+            "sound": "Zumbido de la lámpara.",
+            "camera": "static",
+            "start_s": 7,
+            "dialogue": [
+              {
+                "line": "Un placaje no hace esto.",
+                "speaker": "MÉDICO"
+              }
+            ],
+            "shot_size": "full",
+            "voiceover": "",
+            "characters": [
+              "MÉDICO"
+            ],
+            "duration_s": 4,
+            "video_prompt": "The MÉDICO presses the X-ray against the lamp, taps the pen along the line in the bone and says his line flatly; camera static; low hum of the lightbox."
+          }
+        },
+        {
+          "role": "s04",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Alguien escuchaba al otro lado.",
+          "image_path": "worlds/placaje-sucio/images/s04.jpg",
+          "scene_text": "Tras el cristal esmerilado, una silueta con el teléfono pegado a la oreja se queda inmóvil. El neón rosa le tiñe el contorno.\n(Murmullo ahogado de una voz al teléfono, que se corta.)",
+          "beat": "trailer",
+          "shot": {
+            "act": "trailer",
+            "angle": "low",
+            "place": "VESTUARIO DEL ESTADIO DE HARLOW",
+            "sound": "Murmullo ahogado de una voz al teléfono, que se corta.",
+            "camera": "slow push-in",
+            "start_s": 11,
+            "dialogue": [],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [],
+            "duration_s": 3,
+            "video_prompt": "The silhouette behind the glass stops moving, phone still at its ear, as the pink neon pulses faintly; slow push-in toward the glass; a muffled voice cuts off."
+          }
+        },
+        {
+          "role": "s05",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Jake sonreía hasta ver el sobre.",
+          "image_path": "worlds/placaje-sucio/images/s05.jpg",
+          "scene_text": "Sobre el hombro de Marcus, en primer término a la izquierda, Jake aparece al fondo del pasillo con la rodilla en ortesis. Su sonrisa se queda a medias al ver el sobre.\nJAKE: Marcus, déjalo donde estaba.",
+          "beat": "trailer",
+          "shot": {
+            "act": "trailer",
+            "angle": "eye_level",
+            "place": "VESTUARIO DEL ESTADIO DE HARLOW",
+            "sound": "",
+            "camera": "rack focus",
+            "start_s": 14,
+            "dialogue": [
+              {
+                "line": "Marcus, déjalo donde estaba.",
+                "speaker": "JAKE"
+              }
+            ],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "MARCUS",
+              "JAKE"
+            ],
+            "duration_s": 3,
+            "video_prompt": "Focus shifts from MARCUS's shoulder to JAKE as his smile falters; he says his line low and firm; rack focus; faint dripping."
+          }
+        },
+        {
+          "role": "s06",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Dinero, sello y una rodilla. Falta el nombre.",
+          "image_path": "worlds/placaje-sucio/images/s06.jpg",
+          "scene_text": "Marcus y Jake tiran cada uno de un extremo del sobre, que empieza a rasgarse. Junto a la ortesis de Jake, en el suelo mojado, queda el contrato con su sello en relieve.\n(El papel se rasga despacio; un billete cae al suelo.)",
+          "beat": "trailer",
+          "shot": {
+            "act": "trailer",
+            "angle": "low",
+            "place": "VESTUARIO DEL ESTADIO DE HARLOW",
+            "sound": "El papel se rasga despacio; un billete cae al suelo.",
+            "camera": "handheld",
+            "start_s": 17,
+            "dialogue": [],
+            "shot_size": "close_up",
+            "voiceover": "",
+            "characters": [
+              "MARCUS",
+              "JAKE"
+            ],
+            "duration_s": 3,
+            "video_prompt": "Both hands yank the envelope, the paper rips further and a banknote drops beside the brace and the contract; handheld shake; sound of tearing paper."
+          }
+        }
+      ],
+      "cover": {
+        "logline": "Marcus necesita saber quién pagó por romperle la rodilla a su mejor amigo, pero el sobre con dinero de la taquilla de Jake apunta al propio Jake.",
+        "branch_seeds": [
+          {
+            "title": "La firma que Marcus no recuerda",
+            "what_if": "¿Y si el contrato del promotor lleva la firma de Marcus de hace dos años, y nunca la leyó?"
+          },
+          {
+            "title": "La línea dentro del hueso",
+            "what_if": "¿Y si la rodilla de Jake se rompió a propósito, con su consentimiento, para cobrar el seguro del promotor?"
+          },
+          {
+            "title": "El entrenador al teléfono",
+            "what_if": "¿Y si el entrenador vende a sus jugadores uno a uno para que el campus no pierda los patrocinios?"
+          }
+        ],
+        "central_question": "¿Hasta dónde llegarás por salvar a tu mejor amigo si pudo vender su propia caída?"
+      },
+      "chapter_meta": {
+        "schema_version": "3.0",
+        "structure": "trailer",
+        "duration_s": 20,
+        "logline": "Marcus necesita saber quién pagó por romperle la rodilla a su mejor amigo, pero el sobre con dinero de la taquilla de Jake apunta al propio Jake.",
+        "entry_question": "¿Por qué guarda Jake dinero y un contrato de un promotor en su taquilla?",
+        "exit_question": "¿Quién rompió de verdad la rodilla de Jake, y con permiso de quién?",
+        "acts": [
+          {
+            "key": "trailer",
+            "label": "Tráiler",
+            "start_s": 0,
+            "end_s": 20
+          }
+        ]
+      }
     },
     {
       "world_id": "w_sL9kX2",
