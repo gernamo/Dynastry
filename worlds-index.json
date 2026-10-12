@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-12T21:36:39.340219+00:00",
+  "generated_at": "2026-10-12T21:47:02.845315+00:00",
   "total_worlds": 46,
-  "total_branches": 60,
+  "total_branches": 61,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -5761,7 +5761,400 @@
       "created_by": "@germanna",
       "created_at": "2026-10-12T21:34:07.064Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_4acfd1",
+          "branch_slug": "la-mitad-que-delata",
+          "name": "La mitad que delata",
+          "description": "El sobre se rasga y Marcus lee en voz alta un recibo fechado antes del accidente. Jake calla, y alguien que los vigilaba desde el otro lado del cristal marca el número de Marcus.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-10-12T21:44:25.785Z",
+          "divergence_event": {
+            "description": "Marcus quiere saber quién pagó por romperle la rodilla a Jake, pero la mitad del sobre que se queda lleva la firma de su mejor amigo.",
+            "timeline_ref": "¿Qué hay en la mitad del sobre que se queda Marcus?"
+          },
+          "cover_image": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s01.jpg",
+          "images": [
+            {
+              "role": "s01",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Un sobre, dos puños, ninguna palabra.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s01.jpg",
+              "scene_text": "Un sobre se parte en dos entre las manos de Marcus y Jake. Billetes de veinte caen sobre el hormigón mojado del pasillo.\n(Papel que se rasga; billetes cayendo sobre el suelo mojado.)",
+              "beat": "planteamiento",
+              "shot": {
+                "act": "planteamiento",
+                "angle": "high",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Papel que se rasga; billetes cayendo sobre el suelo mojado.",
+                "camera": "static",
+                "start_s": 0,
+                "dialogue": [],
+                "shot_size": "insert",
+                "voiceover": "",
+                "characters": [
+                  "MARCUS",
+                  "JAKE"
+                ],
+                "duration_s": 3,
+                "video_prompt": "The envelope rips in two, bills flutter down and land on the wet concrete, water splashes lightly; camera static; sharp paper-tearing sound, then soft wet slaps of bills."
+              }
+            },
+            {
+              "role": "s02",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Jake recoge lo que pisa. Marcus guarda lo que queda.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s02.jpg",
+              "scene_text": "Marcus, de pie a la derecha, aprieta una mitad del sobre en el puño. Jake, arrodillado a la izquierda, recoge billetes del charco. Al fondo, el móvil de Marcus reposa junto a un casco sobre la taquilla.\nJAKE: Es mío. Todo es mío.\n(Crujido de la ortesis; goteo lejano.)",
+              "beat": "planteamiento",
+              "shot": {
+                "act": "planteamiento",
+                "angle": "eye_level",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Crujido de la ortesis; goteo lejano.",
+                "camera": "slow push-in",
+                "start_s": 3,
+                "dialogue": [
+                  {
+                    "line": "Es mío. Todo es mío.",
+                    "speaker": "JAKE"
+                  }
+                ],
+                "shot_size": "wide",
+                "voiceover": "",
+                "characters": [
+                  "MARCUS",
+                  "JAKE"
+                ],
+                "duration_s": 6,
+                "video_prompt": "Jake gathers wet bills that stick to his fingers while the brace creaks; Marcus stands rigid with the torn envelope half in his fist; slow push-in; Jake mutters his line; faint dripping."
+              }
+            },
+            {
+              "role": "s03",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Lo que Jake no quería que saliera del sobre.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s03.jpg",
+              "scene_text": "En el puño de Marcus, con salpicaduras de agua sobre la cinta blanca de la muñeca, asoma de la mitad del sobre una tira de papel doblada en cuatro.\n(Zumbido del tubo fluorescente que parpadea.)",
+              "beat": "planteamiento",
+              "shot": {
+                "act": "planteamiento",
+                "angle": "low",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Zumbido del tubo fluorescente que parpadea.",
+                "camera": "rack focus",
+                "start_s": 9,
+                "dialogue": [],
+                "shot_size": "extreme_close_up",
+                "voiceover": "",
+                "characters": [
+                  "MARCUS"
+                ],
+                "duration_s": 6,
+                "video_prompt": "The fluorescent light flickers over the fist as the folded paper strip slides slightly out of the envelope; rack focus from Jake's blurred figure to the strip; electric buzz and a drip."
+              }
+            },
+            {
+              "role": "s04",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Lo que se guardaba el sobre pesaba más que el dinero.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s04.jpg",
+              "scene_text": "Marcus, en primer plano a la izquierda, saca con dos dedos una tira doblada de la mitad del sobre y la despliega bajo el neón rosa. Jake, al fondo, sigue agachado junto al charco.\n(Zumbido del neón. Goteo en el desagüe.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "eye_level",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Zumbido del neón. Goteo en el desagüe.",
+                "camera": "slow push-in",
+                "start_s": 15,
+                "dialogue": [],
+                "shot_size": "wide",
+                "voiceover": "",
+                "characters": [
+                  "MARCUS",
+                  "JAKE"
+                ],
+                "duration_s": 5,
+                "video_prompt": "MARCUS pulls the folded strip out and opens it with a slow flick of his fingers while JAKE stays crouched in the background; slow push-in; neon buzz and a slow drip in the drain."
+              }
+            },
+            {
+              "role": "s05",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La sonrisa le dura lo que tarda en ver el papel.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s05.jpg",
+              "scene_text": "Jake, con un puñado de billetes mojados a medio camino del bolsillo de la chaqueta, deja la mano suspendida. Su sonrisa a medias se le apaga.\n(Goteo en el desagüe.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "low",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Goteo en el desagüe.",
+                "camera": "static",
+                "start_s": 20,
+                "dialogue": [],
+                "shot_size": "medium_close",
+                "voiceover": "",
+                "characters": [
+                  "JAKE"
+                ],
+                "duration_s": 4,
+                "video_prompt": "JAKE's hand stops mid-way to the pocket, bills sticking to his fingers, and the half-smile slowly drops from his face; camera static; slow drip in the drain."
+              }
+            },
+            {
+              "role": "s06",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Un martes por la mañana, antes de que nadie se lesionara.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s06.jpg",
+              "scene_text": "El pulgar vendado de Marcus recorre línea a línea un recibo con membrete, sostenido bajo el neón rosa.\nMARCUS: Martes, ocho y cuarenta de la mañana. Veinte mil. Concepto: rodilla.\n(Goteo en el desagüe, cada vez más espaciado.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "top_down",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Goteo en el desagüe, cada vez más espaciado.",
+                "camera": "static",
+                "start_s": 24,
+                "dialogue": [
+                  {
+                    "line": "Martes, ocho y cuarenta de la mañana. Veinte mil. Concepto: rodilla.",
+                    "speaker": "MARCUS"
+                  }
+                ],
+                "shot_size": "insert",
+                "voiceover": "",
+                "characters": [
+                  "MARCUS"
+                ],
+                "duration_s": 5,
+                "video_prompt": "The bandaged thumb slides slowly along each line of the receipt while MARCUS reads aloud, low and deliberate; camera static; drip in the drain growing slower."
+              }
+            },
+            {
+              "role": "s07",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Jake aprieta los dientes, pero no por la rodilla.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s07.jpg",
+              "scene_text": "Jake se levanta agarrándose a la taquilla metálica y su ortesis se engancha en la puerta, que chirría. Marcus, de espaldas y desenfocado en primer plano, habla.\nMARCUS: El entrenamiento fue a las once.\n(Chirrido metálico de la ortesis contra la puerta.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "low",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Chirrido metálico de la ortesis contra la puerta.",
+                "camera": "handheld",
+                "start_s": 29,
+                "dialogue": [
+                  {
+                    "line": "El entrenamiento fue a las once.",
+                    "speaker": "MARCUS"
+                  }
+                ],
+                "shot_size": "full",
+                "voiceover": "",
+                "characters": [
+                  "JAKE",
+                  "MARCUS"
+                ],
+                "duration_s": 5,
+                "video_prompt": "JAKE hauls himself up by the locker, the brace snags on the door and screeches as he tugs it free; MARCUS says his line off to the side; handheld sway; metallic squeal."
+              }
+            },
+            {
+              "role": "s08",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Una firma azul, y ninguna excusa.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s08.jpg",
+              "scene_text": "Marcus retrocede un paso y alza el recibo a la altura de la cara de Jake. Abajo, en tinta azul, se ve una firma.\nMARCUS: Y esto es tu letra.",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "eye_level",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "",
+                "camera": "rack focus",
+                "start_s": 34,
+                "dialogue": [
+                  {
+                    "line": "Y esto es tu letra.",
+                    "speaker": "MARCUS"
+                  }
+                ],
+                "shot_size": "over_shoulder",
+                "voiceover": "",
+                "characters": [
+                  "MARCUS",
+                  "JAKE"
+                ],
+                "duration_s": 4,
+                "video_prompt": "MARCUS steps back and raises the receipt until it fills the space before JAKE's face; focus shifts from MARCUS's shoulder to the paper; he says the line quietly; faint drip."
+              }
+            },
+            {
+              "role": "s09",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Alguien más estaba esperando que Marcus leyera esto.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s09.jpg",
+              "scene_text": "Jake ignora el recibo y desvía la mirada hacia el cristal esmerilado del fondo del pasillo. Marcus lo nota y gira lentamente la cabeza hacia el mismo punto.\n(Silencio tenso. Un último goteo lejano.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "high",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Silencio tenso. Un último goteo lejano.",
+                "camera": "slow push-in",
+                "start_s": 38,
+                "dialogue": [],
+                "shot_size": "medium",
+                "voiceover": "",
+                "characters": [
+                  "JAKE",
+                  "MARCUS"
+                ],
+                "duration_s": 7,
+                "video_prompt": "JAKE's eyes slide away from the receipt toward the glass; MARCUS notices, lowers the paper and slowly turns his head to follow the look; slow push-in; a last distant drip."
+              }
+            },
+            {
+              "role": "s10",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Jake ya no tiene nada que decir.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s10.jpg",
+              "scene_text": "Marcus, de pie a la izquierda, mira al fondo del pasillo. Jake, arrodillado en el charco a la derecha, abre la mano y los billetes mojados resbalan. Al fondo, la silueta se recorta tras el cristal.\nMARCUS: ¿Quién está ahí?\n(Goteo lento en el desagüe. Zumbido del fluorescente.)",
+              "beat": "desenlace",
+              "shot": {
+                "act": "desenlace",
+                "angle": "eye_level",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Goteo lento en el desagüe. Zumbido del fluorescente.",
+                "camera": "slow push-in",
+                "start_s": 45,
+                "dialogue": [
+                  {
+                    "line": "¿Quién está ahí?",
+                    "speaker": "MARCUS"
+                  }
+                ],
+                "shot_size": "wide",
+                "voiceover": "",
+                "characters": [
+                  "MARCUS",
+                  "JAKE",
+                  "SILUETA"
+                ],
+                "duration_s": 4,
+                "video_prompt": "MARCUS speaks his line toward the glass; JAKE's fingers uncurl and wet bills slide one by one into the puddle; the silhouette stays motionless behind the glass; slow push-in; dripping and fluorescent hum."
+              }
+            },
+            {
+              "role": "s11",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Alguien llevaba rato esperando este momento.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s11.jpg",
+              "scene_text": "Tras el cristal esmerilado, la silueta baja el teléfono y pulsa la pantalla con el pulgar. Una luz blanca le dibuja la mano contra el cristal.\n(Pitido breve de pulsación.)",
+              "beat": "desenlace",
+              "shot": {
+                "act": "desenlace",
+                "angle": "low",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Pitido breve de pulsación.",
+                "camera": "static",
+                "start_s": 49,
+                "dialogue": [],
+                "shot_size": "close_up",
+                "voiceover": "",
+                "characters": [
+                  "SILUETA"
+                ],
+                "duration_s": 3,
+                "video_prompt": "The silhouette lowers the phone, the thumb taps the screen and a white glow suddenly outlines the hand against the glass; camera static; faint tap sound."
+              }
+            },
+            {
+              "role": "s12",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El teléfono de Marcus suena justo ahora.",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s12.jpg",
+              "scene_text": "En lo alto de la taquilla, el móvil de Marcus se ilumina y gira sobre sí mismo junto al casco. Abajo, desenfocados, Marcus y Jake lo miran.\n(Vibración seca de un móvil sobre metal.)",
+              "beat": "desenlace",
+              "shot": {
+                "act": "desenlace",
+                "angle": "high",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "Vibración seca de un móvil sobre metal.",
+                "camera": "rack focus",
+                "start_s": 52,
+                "dialogue": [],
+                "shot_size": "insert",
+                "voiceover": "",
+                "characters": [
+                  "MARCUS",
+                  "JAKE"
+                ],
+                "duration_s": 4,
+                "video_prompt": "The phone buzzes, lights up and spins slowly against the metal beside the helmet; focus shifts from the phone to the two blurred faces watching; vibration rattle on metal."
+              }
+            },
+            {
+              "role": "s13",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "",
+              "image_path": "worlds/placaje-sucio/branches/la-mitad-que-delata/images/s13.jpg",
+              "scene_text": "Sobre el hombro de Marcus, se ve a Jake inmóvil en el charco. Al fondo, tras el cristal, la silueta vuelve a levantar el teléfono hacia la oreja y espera.\n(El móvil sigue vibrando, cada vez más sordo.)",
+              "beat": "desenlace",
+              "shot": {
+                "act": "desenlace",
+                "angle": "eye_level",
+                "place": "Vestuario del estadio de Harlow",
+                "sound": "El móvil sigue vibrando, cada vez más sordo.",
+                "camera": "static",
+                "start_s": 56,
+                "dialogue": [],
+                "shot_size": "over_shoulder",
+                "voiceover": "",
+                "characters": [
+                  "MARCUS",
+                  "JAKE",
+                  "SILUETA"
+                ],
+                "duration_s": 4,
+                "video_prompt": "The silhouette slowly raises the phone to its ear and stands still; MARCUS and JAKE do not move; camera static; muffled vibration fades under the fluorescent hum."
+              }
+            }
+          ],
+          "chapter_meta": {
+            "schema_version": "3.0",
+            "structure": "three_act",
+            "duration_s": 60,
+            "logline": "Marcus quiere saber quién pagó por romperle la rodilla a Jake, pero la mitad del sobre que se queda lleva la firma de su mejor amigo.",
+            "entry_question": "¿Qué hay en la mitad del sobre que se queda Marcus?",
+            "exit_question": "¿Quién llama a Marcus desde detrás del cristal?",
+            "acts": [
+              {
+                "key": "planteamiento",
+                "label": "Planteamiento",
+                "start_s": 0,
+                "end_s": 15
+              },
+              {
+                "key": "nudo",
+                "label": "Nudo",
+                "start_s": 15,
+                "end_s": 45
+              },
+              {
+                "key": "desenlace",
+                "label": "Desenlace",
+                "start_s": 45,
+                "end_s": 60
+              }
+            ]
+          }
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
