@@ -1,0 +1,304 @@
+{
+  "name": "Faros en la valla",
+  "tags": [
+    "aventura",
+    "rivalidad",
+    "anillos de poder",
+    "chatarra",
+    "humor"
+  ],
+  "status": "developing",
+  "chapter": {
+    "acts": [
+      {
+        "key": "planteamiento",
+        "end_s": 5,
+        "label": "Planteamiento",
+        "shots": [
+          {
+            "id": "s01",
+            "act": "planteamiento",
+            "angle": "high",
+            "place": "Mercado de chatarra del puerto seco",
+            "sound": "Rugido grave del motor tras la valla; chirrido metálico de la cadena.",
+            "action": "Kai arranca su chaleco naranja y lo echa sobre el anillo que brilla en la caja abierta, en primer plano. Tras la valla de cadena, al fondo, un camión sin matrícula espera con los faros apagados.",
+            "camera": "slow push-in",
+            "caption": "Lo que brilla en la caja no debería verse desde fuera.",
+            "start_s": 0,
+            "dialogue": [
+              {
+                "line": "Tápalo, tápalo.",
+                "speaker": "KAI"
+              }
+            ],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [
+              "KAI",
+              "MIRA"
+            ],
+            "duration_s": 5,
+            "image_prompt": "High-angle medium shot of KAI at frame left, leaning over an open metal crate in the lower third, tearing an orange vest off his shoulders and swinging it toward a small glowing ring inside. MIRA stands blurred at frame right. Behind them a chain-link fence and a dark truck with unlit headlights, in warm dusk orange light, ring glow in the foreground.",
+            "video_prompt": "KAI yanks the orange vest off and throws it over the glowing ring in the crate, saying his line urgently; the ring's glow disappears under the fabric. Slow push-in on the crate; truck engine growls behind the fence.",
+            "image_path": "images/s01.jpg"
+          }
+        ],
+        "start_s": 0
+      },
+      {
+        "key": "nudo",
+        "end_s": 15,
+        "label": "Nudo",
+        "shots": [
+          {
+            "id": "s02",
+            "act": "nudo",
+            "angle": "high",
+            "place": "Mercado de chatarra del puerto seco",
+            "sound": "Zumbido agudo de la aguja; metal contra metal.",
+            "action": "Mira arranca con la punta de la llave inglesa la aguja que zumba de su radar abierto, sobre la caja. Kai, a la derecha, sujeta la tapa con las dos manos.",
+            "camera": "slow push-in",
+            "caption": "Lo único que tenía, y lo entrega sin pestañear.",
+            "start_s": 5,
+            "dialogue": [
+              {
+                "line": "¿Era tu radar favorito?",
+                "speaker": "KAI"
+              },
+              {
+                "line": "Era el único.",
+                "speaker": "MIRA"
+              }
+            ],
+            "shot_size": "close_up",
+            "voiceover": "",
+            "characters": [
+              "MIRA",
+              "KAI"
+            ],
+            "duration_s": 5,
+            "image_prompt": "High-angle close-up over an open metal crate on the ground. MIRA's hands in the left of frame hold a stripped portable radar and pry a thin humming needle out with the tip of a wrench. KAI's hands grip the lid edge on the right. An orange vest is visible inside. Warm low sunset light from the left, dusty scrap blurred below.",
+            "video_prompt": "MIRA twists the wrench and the needle pops free, hovering above the open crate while KAI's hands tighten on the lid; slow push-in; sharp electronic whine, then a metallic click.",
+            "image_path": "images/s02.jpg"
+          },
+          {
+            "id": "s03",
+            "act": "nudo",
+            "angle": "low",
+            "place": "Mercado de chatarra del puerto seco",
+            "sound": "El motor sube de vueltas; los radares de los puestos chirrían, aún apuntando al suelo.",
+            "action": "Los faros del camión se encienden tras la valla y proyectan la sombra de los eslabones sobre la caja. Una manga naranja asoma por la rendija de la tapa. Mira se baja las gafas.",
+            "camera": "static",
+            "caption": "La valla ya no los separa de la luz.",
+            "start_s": 10,
+            "dialogue": [],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "MIRA",
+              "KAI"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Low-angle wide shot at ground level. In the foreground lower third, a closed crate with an orange sleeve poking from the lid gap, crossed by chain-link shadows. KAI crouches left of it, MIRA stands right pushing goggles down over her eyes. Beyond the fence, a truck's two white headlights blaze in the background, dusty dusk air, scrap stalls with radars pointing down.",
+            "video_prompt": "Headlights flare on behind the fence and the chain-link shadow sweeps over the crate; MIRA pulls her goggles down; camera static; engine revs rise, radars creak.",
+            "image_path": "images/s03.jpg"
+          }
+        ],
+        "start_s": 5
+      },
+      {
+        "key": "desenlace",
+        "end_s": 20,
+        "label": "Desenlace",
+        "shots": [
+          {
+            "id": "s04",
+            "act": "desenlace",
+            "angle": "low",
+            "place": "Mercado de chatarra del puerto seco",
+            "sound": "Golpe seco de la valla contra el suelo; pasos y jadeos entre el polvo.",
+            "action": "Kai corre con la caja al hombro entre las patas de las grúas quietas y levanta polvo; Mira corre a su lado. Detrás, la valla cae bajo el parachoques y un radar gira en el techo.",
+            "camera": "tracking",
+            "caption": "El radar del techo ya ha elegido su rumbo.",
+            "start_s": 15,
+            "dialogue": [],
+            "shot_size": "full",
+            "voiceover": "",
+            "characters": [
+              "KAI",
+              "MIRA"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Low-angle full shot of KAI in the left foreground, running toward camera with a metal crate on his shoulder, an orange sleeve poking out of the lid, MIRA running beside him on the right. Giant motionless crane legs frame them, dust rising at their feet. In the deep background, a truck's parachoques flattens a chain-link fence under its headlights, a small radar on its roof turned toward them. Warm dusk light, harsh white headlight glare behind.",
+            "video_prompt": "KAI and MIRA sprint toward the camera, dust kicking up around their feet; behind them the fence collapses under the truck's bumper and the roof radar rotates toward them; tracking shot moving backward ahead of them; dull metal thud of the fence hitting the ground, engine roar.",
+            "image_path": "images/s04.jpg"
+          }
+        ],
+        "start_s": 15
+      }
+    ],
+    "logline": "Kai y Mira quieren esconder el anillo recién despertado, pero un camión sin matrícula espera tras la valla y tiene los faros listos.",
+    "language": "es",
+    "structure": "three_act",
+    "duration_s": 20,
+    "exit_question": "¿Cómo sigue el camión el rastro de un anillo que ya nadie oye?",
+    "entry_question": "¿Quién conduce un camión sin matrícula hasta la valla del puerto?",
+    "schema_version": "3.0"
+  },
+  "world_id": "w_bbjgqd",
+  "branch_id": "b_oqtbur",
+  "created_at": "2026-10-24T21:49:33.387Z",
+  "created_by": "@germanna",
+  "new_places": [],
+  "branch_slug": "faros-en-la-valla",
+  "description": "Con el anillo aún encendido, Kai y Mira intentan callar a los radares del puerto antes de que un segundo camión derribe la valla. Tienen una caja pesada, un radar desmontado y unas grúas donde esconderse.",
+  "parent_slug": "la-caja-que-no-se-oxida",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [],
+  "schema_version": "3.0",
+  "divergence_event": {
+    "description": "Kai y Mira quieren esconder el anillo recién despertado, pero un camión sin matrícula espera tras la valla y tiene los faros listos.",
+    "timeline_ref": "¿Quién conduce un camión sin matrícula hasta la valla del puerto?"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "20s"
+    },
+    "start": {
+      "order": 1,
+      "marker": "0s"
+    },
+    "diverges_from": "La caja que no se oxida",
+    "divergence_question": "¿Cómo sigue el camión el rastro de un anillo que ya nadie oye?"
+  },
+  "inherited_from_canon": {
+    "tone": "Polvo, humor, rivalidad",
+    "places_used": [
+      "Mercado de chatarra del puerto seco"
+    ],
+    "characters_used": [
+      "KAI",
+      "MIRA"
+    ],
+    "visual_treatment": "anime"
+  },
+  "images": [
+    {
+      "role": "s01",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Lo que brilla en la caja no debería verse desde fuera.",
+      "image_path": "images/s01.jpg",
+      "scene_text": "Kai arranca su chaleco naranja y lo echa sobre el anillo que brilla en la caja abierta, en primer plano. Tras la valla de cadena, al fondo, un camión sin matrícula espera con los faros apagados.\nKAI: Tápalo, tápalo.\n(Rugido grave del motor tras la valla; chirrido metálico de la cadena.)",
+      "beat": "planteamiento",
+      "shot": {
+        "act": "planteamiento",
+        "angle": "high",
+        "place": "Mercado de chatarra del puerto seco",
+        "sound": "Rugido grave del motor tras la valla; chirrido metálico de la cadena.",
+        "camera": "slow push-in",
+        "start_s": 0,
+        "dialogue": [
+          {
+            "line": "Tápalo, tápalo.",
+            "speaker": "KAI"
+          }
+        ],
+        "shot_size": "medium",
+        "voiceover": "",
+        "characters": [
+          "KAI",
+          "MIRA"
+        ],
+        "duration_s": 5,
+        "video_prompt": "KAI yanks the orange vest off and throws it over the glowing ring in the crate, saying his line urgently; the ring's glow disappears under the fabric. Slow push-in on the crate; truck engine growls behind the fence."
+      }
+    },
+    {
+      "role": "s02",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Lo único que tenía, y lo entrega sin pestañear.",
+      "image_path": "images/s02.jpg",
+      "scene_text": "Mira arranca con la punta de la llave inglesa la aguja que zumba de su radar abierto, sobre la caja. Kai, a la derecha, sujeta la tapa con las dos manos.\nKAI: ¿Era tu radar favorito?\nMIRA: Era el único.\n(Zumbido agudo de la aguja; metal contra metal.)",
+      "beat": "nudo",
+      "shot": {
+        "act": "nudo",
+        "angle": "high",
+        "place": "Mercado de chatarra del puerto seco",
+        "sound": "Zumbido agudo de la aguja; metal contra metal.",
+        "camera": "slow push-in",
+        "start_s": 5,
+        "dialogue": [
+          {
+            "line": "¿Era tu radar favorito?",
+            "speaker": "KAI"
+          },
+          {
+            "line": "Era el único.",
+            "speaker": "MIRA"
+          }
+        ],
+        "shot_size": "close_up",
+        "voiceover": "",
+        "characters": [
+          "MIRA",
+          "KAI"
+        ],
+        "duration_s": 5,
+        "video_prompt": "MIRA twists the wrench and the needle pops free, hovering above the open crate while KAI's hands tighten on the lid; slow push-in; sharp electronic whine, then a metallic click."
+      }
+    },
+    {
+      "role": "s03",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "La valla ya no los separa de la luz.",
+      "image_path": "images/s03.jpg",
+      "scene_text": "Los faros del camión se encienden tras la valla y proyectan la sombra de los eslabones sobre la caja. Una manga naranja asoma por la rendija de la tapa. Mira se baja las gafas.\n(El motor sube de vueltas; los radares de los puestos chirrían, aún apuntando al suelo.)",
+      "beat": "nudo",
+      "shot": {
+        "act": "nudo",
+        "angle": "low",
+        "place": "Mercado de chatarra del puerto seco",
+        "sound": "El motor sube de vueltas; los radares de los puestos chirrían, aún apuntando al suelo.",
+        "camera": "static",
+        "start_s": 10,
+        "dialogue": [],
+        "shot_size": "wide",
+        "voiceover": "",
+        "characters": [
+          "MIRA",
+          "KAI"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Headlights flare on behind the fence and the chain-link shadow sweeps over the crate; MIRA pulls her goggles down; camera static; engine revs rise, radars creak."
+      }
+    },
+    {
+      "role": "s04",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "El radar del techo ya ha elegido su rumbo.",
+      "image_path": "images/s04.jpg",
+      "scene_text": "Kai corre con la caja al hombro entre las patas de las grúas quietas y levanta polvo; Mira corre a su lado. Detrás, la valla cae bajo el parachoques y un radar gira en el techo.\n(Golpe seco de la valla contra el suelo; pasos y jadeos entre el polvo.)",
+      "beat": "desenlace",
+      "shot": {
+        "act": "desenlace",
+        "angle": "low",
+        "place": "Mercado de chatarra del puerto seco",
+        "sound": "Golpe seco de la valla contra el suelo; pasos y jadeos entre el polvo.",
+        "camera": "tracking",
+        "start_s": 15,
+        "dialogue": [],
+        "shot_size": "full",
+        "voiceover": "",
+        "characters": [
+          "KAI",
+          "MIRA"
+        ],
+        "duration_s": 5,
+        "video_prompt": "KAI and MIRA sprint toward the camera, dust kicking up around their feet; behind them the fence collapses under the truck's bumper and the roof radar rotates toward them; tracking shot moving backward ahead of them; dull metal thud of the fence hitting the ground, engine roar."
+      }
+    }
+  ],
+  "cover_image": "worlds/la-caja-que-no-se-oxida/branches/faros-en-la-valla/images/s01.jpg"
+}
