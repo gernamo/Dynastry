@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-24T20:40:30.363788+00:00",
+  "generated_at": "2026-10-24T21:50:26.797900+00:00",
   "total_worlds": 47,
-  "total_branches": 61,
+  "total_branches": 62,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -4042,7 +4042,166 @@
       "created_by": "@germanna",
       "created_at": "2026-10-24T20:38:58.195Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_oqtbur",
+          "branch_slug": "faros-en-la-valla",
+          "name": "Faros en la valla",
+          "description": "Con el anillo aún encendido, Kai y Mira intentan callar a los radares del puerto antes de que un segundo camión derribe la valla. Tienen una caja pesada, un radar desmontado y unas grúas donde esconderse.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-10-24T21:49:33.387Z",
+          "divergence_event": {
+            "description": "Kai y Mira quieren esconder el anillo recién despertado, pero un camión sin matrícula espera tras la valla y tiene los faros listos.",
+            "timeline_ref": "¿Quién conduce un camión sin matrícula hasta la valla del puerto?"
+          },
+          "cover_image": "worlds/la-caja-que-no-se-oxida/branches/faros-en-la-valla/images/s01.jpg",
+          "images": [
+            {
+              "role": "s01",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Lo que brilla en la caja no debería verse desde fuera.",
+              "image_path": "worlds/la-caja-que-no-se-oxida/branches/faros-en-la-valla/images/s01.jpg",
+              "scene_text": "Kai arranca su chaleco naranja y lo echa sobre el anillo que brilla en la caja abierta, en primer plano. Tras la valla de cadena, al fondo, un camión sin matrícula espera con los faros apagados.\nKAI: Tápalo, tápalo.\n(Rugido grave del motor tras la valla; chirrido metálico de la cadena.)",
+              "beat": "planteamiento",
+              "shot": {
+                "act": "planteamiento",
+                "angle": "high",
+                "place": "Mercado de chatarra del puerto seco",
+                "sound": "Rugido grave del motor tras la valla; chirrido metálico de la cadena.",
+                "camera": "slow push-in",
+                "start_s": 0,
+                "dialogue": [
+                  {
+                    "line": "Tápalo, tápalo.",
+                    "speaker": "KAI"
+                  }
+                ],
+                "shot_size": "medium",
+                "voiceover": "",
+                "characters": [
+                  "KAI",
+                  "MIRA"
+                ],
+                "duration_s": 5,
+                "video_prompt": "KAI yanks the orange vest off and throws it over the glowing ring in the crate, saying his line urgently; the ring's glow disappears under the fabric. Slow push-in on the crate; truck engine growls behind the fence."
+              }
+            },
+            {
+              "role": "s02",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Lo único que tenía, y lo entrega sin pestañear.",
+              "image_path": "worlds/la-caja-que-no-se-oxida/branches/faros-en-la-valla/images/s02.jpg",
+              "scene_text": "Mira arranca con la punta de la llave inglesa la aguja que zumba de su radar abierto, sobre la caja. Kai, a la derecha, sujeta la tapa con las dos manos.\nKAI: ¿Era tu radar favorito?\nMIRA: Era el único.\n(Zumbido agudo de la aguja; metal contra metal.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "high",
+                "place": "Mercado de chatarra del puerto seco",
+                "sound": "Zumbido agudo de la aguja; metal contra metal.",
+                "camera": "slow push-in",
+                "start_s": 5,
+                "dialogue": [
+                  {
+                    "line": "¿Era tu radar favorito?",
+                    "speaker": "KAI"
+                  },
+                  {
+                    "line": "Era el único.",
+                    "speaker": "MIRA"
+                  }
+                ],
+                "shot_size": "close_up",
+                "voiceover": "",
+                "characters": [
+                  "MIRA",
+                  "KAI"
+                ],
+                "duration_s": 5,
+                "video_prompt": "MIRA twists the wrench and the needle pops free, hovering above the open crate while KAI's hands tighten on the lid; slow push-in; sharp electronic whine, then a metallic click."
+              }
+            },
+            {
+              "role": "s03",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La valla ya no los separa de la luz.",
+              "image_path": "worlds/la-caja-que-no-se-oxida/branches/faros-en-la-valla/images/s03.jpg",
+              "scene_text": "Los faros del camión se encienden tras la valla y proyectan la sombra de los eslabones sobre la caja. Una manga naranja asoma por la rendija de la tapa. Mira se baja las gafas.\n(El motor sube de vueltas; los radares de los puestos chirrían, aún apuntando al suelo.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "low",
+                "place": "Mercado de chatarra del puerto seco",
+                "sound": "El motor sube de vueltas; los radares de los puestos chirrían, aún apuntando al suelo.",
+                "camera": "static",
+                "start_s": 10,
+                "dialogue": [],
+                "shot_size": "wide",
+                "voiceover": "",
+                "characters": [
+                  "MIRA",
+                  "KAI"
+                ],
+                "duration_s": 5,
+                "video_prompt": "Headlights flare on behind the fence and the chain-link shadow sweeps over the crate; MIRA pulls her goggles down; camera static; engine revs rise, radars creak."
+              }
+            },
+            {
+              "role": "s04",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "El radar del techo ya ha elegido su rumbo.",
+              "image_path": "worlds/la-caja-que-no-se-oxida/branches/faros-en-la-valla/images/s04.jpg",
+              "scene_text": "Kai corre con la caja al hombro entre las patas de las grúas quietas y levanta polvo; Mira corre a su lado. Detrás, la valla cae bajo el parachoques y un radar gira en el techo.\n(Golpe seco de la valla contra el suelo; pasos y jadeos entre el polvo.)",
+              "beat": "desenlace",
+              "shot": {
+                "act": "desenlace",
+                "angle": "low",
+                "place": "Mercado de chatarra del puerto seco",
+                "sound": "Golpe seco de la valla contra el suelo; pasos y jadeos entre el polvo.",
+                "camera": "tracking",
+                "start_s": 15,
+                "dialogue": [],
+                "shot_size": "full",
+                "voiceover": "",
+                "characters": [
+                  "KAI",
+                  "MIRA"
+                ],
+                "duration_s": 5,
+                "video_prompt": "KAI and MIRA sprint toward the camera, dust kicking up around their feet; behind them the fence collapses under the truck's bumper and the roof radar rotates toward them; tracking shot moving backward ahead of them; dull metal thud of the fence hitting the ground, engine roar."
+              }
+            }
+          ],
+          "chapter_meta": {
+            "schema_version": "3.0",
+            "structure": "three_act",
+            "duration_s": 20,
+            "logline": "Kai y Mira quieren esconder el anillo recién despertado, pero un camión sin matrícula espera tras la valla y tiene los faros listos.",
+            "entry_question": "¿Quién conduce un camión sin matrícula hasta la valla del puerto?",
+            "exit_question": "¿Cómo sigue el camión el rastro de un anillo que ya nadie oye?",
+            "acts": [
+              {
+                "key": "planteamiento",
+                "label": "Planteamiento",
+                "start_s": 0,
+                "end_s": 5
+              },
+              {
+                "key": "nudo",
+                "label": "Nudo",
+                "start_s": 5,
+                "end_s": 15
+              },
+              {
+                "key": "desenlace",
+                "label": "Desenlace",
+                "start_s": 15,
+                "end_s": 20
+              }
+            ]
+          }
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
