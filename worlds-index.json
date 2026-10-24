@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-12T21:47:02.845315+00:00",
-  "total_worlds": 46,
+  "generated_at": "2026-10-24T20:40:30.363788+00:00",
+  "total_worlds": 47,
   "total_branches": 61,
   "worlds": [
     {
@@ -4025,6 +4025,244 @@
       "characters": [],
       "places": [],
       "story_bible": {}
+    },
+    {
+      "world_id": "w_bbjgqd",
+      "slug": "la-caja-que-no-se-oxida",
+      "name": "La caja que no se oxida",
+      "description": "En un puerto seco sin mar, Kai y Mira se disputan una caja sellada que llega en camión. Dentro hay un anillo, y todos los radares del mercado se vuelven hacia el suelo.",
+      "tags": [
+        "aventura",
+        "rivalidad",
+        "anillos de poder",
+        "chatarra",
+        "humor"
+      ],
+      "cover_image": "worlds/la-caja-que-no-se-oxida/images/hero.jpg",
+      "created_by": "@germanna",
+      "created_at": "2026-10-24T20:38:58.195Z",
+      "status": "developing",
+      "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "KAI",
+          "arc_summary": "Abre cajas a puñetazos sin pensar en lo que hay dentro. Va a tener que decidir qué anillos merece la pena abrir.",
+          "visual_description": "17-year-old boy, spiky black hair, torn orange vest, bandaged knuckles, lean and wiry build",
+          "reference_image_path": "images/characters/kai.jpg",
+          "reference_kind": "sheet"
+        },
+        {
+          "role": "protagonist",
+          "label": "MIRA",
+          "arc_summary": "Rivaliza con Kai por cada caja. Sus radares empiezan a señalar los anillos antes que nadie.",
+          "visual_description": "18-year-old girl, short teal hair, goggles pushed up on forehead, grease-stained jumpsuit, oversized wrench on her shoulder",
+          "reference_image_path": "images/characters/mira.jpg",
+          "reference_kind": "sheet"
+        }
+      ],
+      "places": [
+        {
+          "name": "Mercado de chatarra del puerto seco",
+          "atmosphere": "Calor seco, polvo y radares pitando",
+          "visual_description": "Rows of rusted metal stalls, idle cranes over dust-covered rails, a chain-link fence separating the dock from the cargo truck, dry heat haze"
+        }
+      ],
+      "story_bible": {
+        "tone": "Polvo, humor, rivalidad",
+        "setting": "Un puerto seco de chatarra a las afueras de una ciudad sin mar: puestos de metal oxidado, grúas quietas sobre vías con polvo y una valla de cadena que separa el muelle del camión de carga.",
+        "timeline": {
+          "span": "Unas semanas",
+          "type": "relative",
+          "unit": "día",
+          "anchor": "El día en que se abre el primer anillo"
+        },
+        "world_rules": [
+          "Los anillos de poder son de una civilización desaparecida y están dentro de cajas selladas bajo roca.",
+          "Cada anillo que se abre despierta algo que alguien quería mantener enterrado.",
+          "Los radares del puerto reaccionan a los anillos y giran hacia ellos."
+        ],
+        "visual_treatment": "anime",
+        "default_structure": "three_act"
+      },
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "¿Qué despierta cada anillo de poder, y quién quería que siguiera enterrado?",
+          "image_path": "worlds/la-caja-que-no-se-oxida/images/hero.jpg"
+        },
+        {
+          "role": "s01",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Todo aquí se pudre. Menos eso.",
+          "image_path": "worlds/la-caja-que-no-se-oxida/images/s01.jpg",
+          "scene_text": "Un camión de carga descarga junto a la valla de cadena una caja sellada incrustada en un bloque de roca, sin una mota de óxido. Al fondo, Kai, con chaleco naranja roto, trepa la valla.\n(Los radares de los puestos pitan a la vez, una sola vez.)",
+          "beat": "mundo",
+          "shot": {
+            "act": "mundo",
+            "angle": "high",
+            "place": "Mercado de chatarra del puerto seco",
+            "sound": "Los radares de los puestos pitan a la vez, una sola vez.",
+            "camera": "slow push-in",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "extreme_wide",
+            "voiceover": "",
+            "characters": [
+              "KAI"
+            ],
+            "duration_s": 5,
+            "video_prompt": "The truck bed tips and the rock block with the pristine box slides down and settles in the dust; in the background KAI pulls himself up the fence. All radars beep once together. Slow push-in from above."
+          }
+        },
+        {
+          "role": "s02",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Kai no pidió permiso a nadie para llegar el primero.",
+          "image_path": "worlds/la-caja-que-no-se-oxida/images/s02.jpg",
+          "scene_text": "Kai cae sobre el bloque de roca y hunde el puño de nudillos vendados en la piedra. Una grieta recorre la roca y deja a la vista, en la tapa de la caja, un hueco redondo.\nKAI: ¡Primero yo!\n(Golpe seco contra la roca, crujido de la piedra al partirse.)",
+          "beat": "protagonista",
+          "shot": {
+            "act": "protagonista",
+            "angle": "low",
+            "place": "Mercado de chatarra del puerto seco",
+            "sound": "Golpe seco contra la roca, crujido de la piedra al partirse.",
+            "camera": "slow push-in",
+            "start_s": 5,
+            "dialogue": [
+              {
+                "line": "¡Primero yo!",
+                "speaker": "KAI"
+              }
+            ],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [
+              "KAI"
+            ],
+            "duration_s": 5,
+            "video_prompt": "KAI lands on the block and drives his bandaged fist into the rock, shouting his line. The crack spreads across the stone and dust puffs up, revealing the round hollow on the lid. Slow push-in; sharp impact and cracking stone."
+          }
+        },
+        {
+          "role": "s03",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Dos manos, una sola caja, ningún acuerdo.",
+          "image_path": "worlds/la-caja-que-no-se-oxida/images/s03.jpg",
+          "scene_text": "Mira planta una llave inglesa enorme sobre la tapa de la caja, a un palmo del puño vendado de Kai. En su otra mano, el radar portátil tiene la aguja clavada en la caja.\nMIRA: Mi radar la encontró antes.\nKAI: Mi puño la abrió antes.\n(Golpe metálico de la llave sobre la tapa; el radar zumba agudo.)",
+          "beat": "conflicto",
+          "shot": {
+            "act": "conflicto",
+            "angle": "high",
+            "place": "Mercado de chatarra del puerto seco",
+            "sound": "Golpe metálico de la llave sobre la tapa; el radar zumba agudo.",
+            "camera": "slow push-in",
+            "start_s": 10,
+            "dialogue": [
+              {
+                "line": "Mi radar la encontró antes.",
+                "speaker": "MIRA"
+              },
+              {
+                "line": "Mi puño la abrió antes.",
+                "speaker": "KAI"
+              }
+            ],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "KAI",
+              "MIRA"
+            ],
+            "duration_s": 5,
+            "video_prompt": "MIRA brings the wrench down on the lid beside KAI's fist, then lifts the radar showing its needle locked on the box; KAI glares up and answers. Slow push-in; metallic clank, radar whine."
+          }
+        },
+        {
+          "role": "s04",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Algo bajo el puerto seco acaba de oír su nombre.",
+          "image_path": "worlds/la-caja-que-no-se-oxida/images/s04.jpg",
+          "scene_text": "La tapa se desliza bajo la llave inglesa y el puño vendado, y un anillo gris en el centro se enciende en naranja. Al fondo, los radares de los puestos giran hacia el suelo.\nMIRA: Esto no es chatarra.\n(Un zumbido grave sube mientras los radares de los puestos chirrían al girar a la vez.)",
+          "beat": "pregunta",
+          "shot": {
+            "act": "pregunta",
+            "angle": "low",
+            "place": "Mercado de chatarra del puerto seco",
+            "sound": "Un zumbido grave sube mientras los radares de los puestos chirrían al girar a la vez.",
+            "camera": "slow push-in",
+            "start_s": 15,
+            "dialogue": [
+              {
+                "line": "Esto no es chatarra.",
+                "speaker": "MIRA"
+              }
+            ],
+            "shot_size": "extreme_close_up",
+            "voiceover": "",
+            "characters": [
+              "KAI",
+              "MIRA"
+            ],
+            "duration_s": 5,
+            "video_prompt": "The lid slides sideways under the wrench and fist, the gray ring flares from gray to bright orange, dust trembles around it, and the background radar dishes swivel downward. Slow push-in toward the ring; rising low hum, metallic creaks, then MIRA's whispered line."
+          }
+        }
+      ],
+      "cover": {
+        "logline": "Kai, chatarrero de puños vendados, quiere abrir antes que Mira una caja sellada sin una mota de óxido, pero el anillo que guarda hace girar todos los radares del puerto.",
+        "synopsis": "En un puerto seco a las afueras de una ciudad sin mar, las grúas llevan años quietas sobre vías cubiertas de polvo. Allí se compra y se vende chatarra bajo un calor seco, entre radares que pitan en cada puesto. Cuando llega un camión con cajas selladas, los chatarreros pelean por ellas antes de saber qué contienen.\n\nKai tiene 17 años, un chaleco naranja roto y los nudillos vendados. Abre las cajas a puñetazos, rompiendo la roca que las sella. Mira tiene 18, una llave inglesa enorme y unas gafas sobre la frente. Arregla radares, y los suyos encuentran lo que otros no ven. Los dos van siempre a por la misma caja.\n\nUn día llega una caja sin una mota de óxido. Dentro hay un anillo de una civilización desaparecida, y al abrirla todos los radares del puerto giran hacia el suelo. Cada anillo que encuentren despierta algo que alguien quiso mantener enterrado. Lo que hay bajo el puerto, y quién quiere que siga allí, es lo que la serie va a averiguar.",
+        "branch_seeds": [
+          {
+            "title": "El dueño de la caja",
+            "what_if": "¿Y si el camionero que trajo la caja llevaba meses buscando a Kai y a Mira?"
+          },
+          {
+            "title": "Los radares no mienten",
+            "what_if": "¿Y si los radares de Mira empiezan a señalar el siguiente anillo, y también a quien lo busca?"
+          },
+          {
+            "title": "Círculo bajo las vías",
+            "what_if": "¿Y si el círculo del polvo se agranda cada noche y deja ver una puerta bajo el muelle?"
+          }
+        ],
+        "central_question": "¿Qué despierta cada anillo de poder, y quién quería que siguiera enterrado?"
+      },
+      "chapter_meta": {
+        "schema_version": "3.0",
+        "structure": "premise",
+        "duration_s": 20,
+        "logline": "Kai, chatarrero de puños vendados, quiere abrir antes que Mira una caja sellada sin una mota de óxido, pero el anillo que guarda hace girar todos los radares del puerto.",
+        "entry_question": "¿Por qué es la única caja del camión que no se ha oxidado?",
+        "exit_question": "¿Qué hay enterrado bajo el puerto seco, y qué acaba de despertar el anillo?",
+        "acts": [
+          {
+            "key": "mundo",
+            "label": "Mundo",
+            "start_s": 0,
+            "end_s": 5
+          },
+          {
+            "key": "protagonista",
+            "label": "Protagonista",
+            "start_s": 5,
+            "end_s": 10
+          },
+          {
+            "key": "conflicto",
+            "label": "Conflicto",
+            "start_s": 10,
+            "end_s": 15
+          },
+          {
+            "key": "pregunta",
+            "label": "Pregunta",
+            "start_s": 15,
+            "end_s": 20
+          }
+        ]
+      }
     },
     {
       "world_id": "w_esf7kx",
