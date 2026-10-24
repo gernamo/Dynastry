@@ -1,0 +1,315 @@
+{
+  "name": "El anillo sobre el mantel",
+  "slug": "el-anillo-sobre-el-mantel",
+  "tags": [
+    "romance incómodo",
+    "cena familiar",
+    "humor seco",
+    "pueblo"
+  ],
+  "cover": {
+    "logline": "Una nuera recién pedida quiere devolver el anillo en plena cena, pero su suegra se lo impide sin mirarla y sin decir una palabra de más.",
+    "synopsis": "En una casa de pueblo, la familia de Rosario cena cada domingo en torno a una mesa larga con mantel blanco. Esta noche Lucía, veintitantos, prometida con el hijo de la casa desde hace una semana, deja el anillo de pedida sobre el mantel. Quiere devolverlo sin montar una escena, pero en esa mesa las escenas no se montan: se sirven vino y pan. Rosario, la suegra, no discute ni pregunta. Esconde el anillo en la cesta del pan, donde ya esperan otros tres anillos de oro viejo, y manda a Lucía quedarse al postre. La serie sigue a Lucía dentro de esa casa, con su humor nervioso y su deseo de irse, frente a una mujer que lo controla todo con una botella y una cesta. En juego están el compromiso de Lucía, la libertad de decidir sin permiso y el secreto de los anillos anteriores. La serie pregunta qué pasó con las otras novias y si Lucía saldrá de ese comedor con el anillo o sin él.",
+    "branch_seeds": [
+      {
+        "title": "El primer anillo de la cesta",
+        "what_if": "¿Y si el anillo más viejo de la cesta perteneciera a una mujer que sigue viviendo en el pueblo?"
+      },
+      {
+        "title": "El hijo que no se sienta",
+        "what_if": "¿Y si el novio llegara al postre con un anillo nuevo en la mano, sin saber lo que ya hay en la cesta?"
+      },
+      {
+        "title": "La botella que no se acaba",
+        "what_if": "¿Y si en esa casa nadie pudiera levantarse hasta que Rosario vaciara la botella, y Lucía la vigilara?"
+      }
+    ],
+    "central_question": "¿Logrará Lucía salir de la casa de Rosario sin el anillo, o es la cena de los anillos la que decide quién se queda?"
+  },
+  "places": [],
+  "status": "developing",
+  "chapter": {
+    "acts": [
+      {
+        "key": "mundo",
+        "end_s": 5,
+        "label": "Mundo",
+        "shots": [
+          {
+            "id": "s01",
+            "act": "mundo",
+            "angle": "high",
+            "place": "Comedor de la casa de pueblo",
+            "sound": "Murmullo que se apaga; el hilo de vino cae en una copa.",
+            "action": "Once familiares sostienen los tenedores en el aire alrededor de la mesa larga. Lucía, de verde, retira la mano de un anillo sobre el mantel; en la cabecera, Rosario sigue sirviendo vino sin mirar.",
+            "camera": "slow push-in",
+            "caption": "En esta casa, nadie interrumpe la cena.",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "LUCÍA",
+              "ROSARIO"
+            ],
+            "duration_s": 5,
+            "image_prompt": "High-angle wide shot down a long table in a village dining room at night, eleven relatives frozen with forks raised on both sides, LUCÍA in a green dress in the lower left foreground pulling her hand back from a small gold ring on the white tablecloth, ROSARIO at the far head of the table pouring wine, eyes on the glass, warm amber light from a hanging lamp, dark walls behind.",
+            "video_prompt": "Forks hover motionless as LUCÍA slowly draws her hand away from the ring; at the far end ROSARIO keeps pouring wine in a steady stream; slow push-in down the table; the murmur fades, only the wine pouring is heard.",
+            "image_path": "images/s01.jpg"
+          }
+        ],
+        "start_s": 0
+      },
+      {
+        "key": "protagonista",
+        "end_s": 10,
+        "label": "Protagonista",
+        "shots": [
+          {
+            "id": "s02",
+            "act": "protagonista",
+            "angle": "high",
+            "place": "Comedor de la casa de pueblo",
+            "sound": "Roce de la uña sobre el mantel; el tintineo leve del anillo; silencio tenso de la mesa.",
+            "action": "En primer término, los dedos temblorosos de Lucía empujan el anillo un palmo sobre el mantel hacia el plato de Rosario; en su dedo queda una marca blanca y la uña araña la tela.",
+            "camera": "slow push-in",
+            "caption": "Lo que Lucía lleva años sin poder quitarse.",
+            "start_s": 5,
+            "dialogue": [
+              {
+                "line": "Solo quiero devolverlo.",
+                "speaker": "LUCÍA"
+              }
+            ],
+            "shot_size": "close_up",
+            "voiceover": "",
+            "characters": [
+              "LUCÍA",
+              "ROSARIO"
+            ],
+            "duration_s": 5,
+            "image_prompt": "High-angle close-up over a long dining table at night. In the left foreground LUCÍA's trembling hand in a green sleeve, a pale white band on her ring finger, pushes a small gold ring across the white tablecloth. Her fingernail drags a fold in the cloth. In the soft-focus upper right, ROSARIO's plate and a wine bottle sit under warm lamplight.",
+            "video_prompt": "LUCÍA's trembling fingertips slide the gold ring slowly across the tablecloth toward ROSARIO's plate, the nail dragging a fold in the cloth, then she murmurs her line softly. Slow push-in; faint ring scrape and heavy silence.",
+            "image_path": "images/s02.jpg"
+          }
+        ],
+        "start_s": 5
+      },
+      {
+        "key": "conflicto",
+        "end_s": 15,
+        "label": "Conflicto",
+        "shots": [
+          {
+            "id": "s03",
+            "act": "conflicto",
+            "angle": "high",
+            "place": "Comedor de la casa de pueblo",
+            "sound": "Vino cayendo en la copa, roce del cristal sobre el mantel, murmullo bajo de cubiertos.",
+            "action": "Rosario llena hasta el borde la copa de Lucía sin mirarla y con el culo de la botella desliza el anillo hasta la cesta del pan. Un tío la pasa y el paño de lino lo cubre.",
+            "camera": "slow push-in",
+            "caption": "En esta mesa, lo incómodo se tapa con pan.",
+            "start_s": 10,
+            "dialogue": [
+              {
+                "line": "El pan, que se enfría.",
+                "speaker": "ROSARIO"
+              }
+            ],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [
+              "ROSARIO",
+              "LUCÍA"
+            ],
+            "duration_s": 5,
+            "image_prompt": "High-angle medium shot over the long dining table under a warm lamp. ROSARIO at frame left, head bowed, pours red wine into LUCÍA's glass to the brim while the base of the bottle pushes a gold ring across the tablecloth toward a bread basket at lower right. LUCÍA in green sits upper right, hands still. A relative's arm reaches in with a linen cloth.",
+            "video_prompt": "ROSARIO pours wine to the brim, then slides the ring with the base of the bottle into the bread basket. A relative's hand lifts the basket and the linen cloth falls over the ring. Slow push-in; wine pouring, clink of glass.",
+            "image_path": "images/s03.jpg"
+          }
+        ],
+        "start_s": 10
+      },
+      {
+        "key": "pregunta",
+        "end_s": 20,
+        "label": "Pregunta",
+        "shots": [
+          {
+            "id": "s04",
+            "act": "pregunta",
+            "angle": "high",
+            "place": "Comedor de la casa de pueblo",
+            "sound": "Roce del lino, el vidrio de la botella al posarse sobre la mesa, silencio de los comensales.",
+            "action": "Lucía, en primer término, levanta el paño de lino de la cesta: sobre las migas hay tres anillos de oro viejo alineados junto al suyo. Al fondo, Rosario deja la botella y la mira.",
+            "camera": "slow push-in",
+            "caption": "Alguien más intentó devolverlo antes que ella.",
+            "start_s": 15,
+            "dialogue": [
+              {
+                "line": "Quédate, que falta el postre.",
+                "speaker": "ROSARIO"
+              }
+            ],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "LUCÍA",
+              "ROSARIO"
+            ],
+            "duration_s": 5,
+            "image_prompt": "High-angle over-the-shoulder shot from behind LUCÍA in a green dress, frame left foreground, her hand lifting a linen cloth from a wicker bread basket. Crumbs and four old gold rings in a neat row inside. Far end of the long table in the upper right, ROSARIO standing small, bottle set down, staring toward Lucía. Warm lamp glow, dark room.",
+            "video_prompt": "Lucía's fingers lift the linen cloth, revealing the row of rings among crumbs; at the far end Rosario sets the bottle down and raises her eyes to Lucía, then speaks calmly. Slow push-in; cloth rustle, bottle clink, hushed room.",
+            "image_path": "images/s04.jpg"
+          }
+        ],
+        "start_s": 15
+      }
+    ],
+    "logline": "Una nuera recién pedida quiere devolver el anillo en plena cena, pero su suegra se lo impide sin mirarla y sin decir una palabra de más.",
+    "language": "es",
+    "structure": "premise",
+    "duration_s": 20,
+    "exit_question": "¿Quién dejó esos otros tres anillos bajo el paño, y por qué Rosario mira por fin a Lucía?",
+    "entry_question": "¿Por qué deja Lucía el anillo en la mesa, delante de todos?",
+    "schema_version": "3.0"
+  },
+  "world_id": "w_ybjajs",
+  "characters": [],
+  "created_at": "2026-10-24T22:03:16.718Z",
+  "created_by": "@alba",
+  "description": "Lucía devuelve el anillo de pedida en mitad de la cena familiar. Rosario, la dueña de la casa, lo esconde en la cesta del pan, donde ya hay más.",
+  "story_bible": {
+    "tone": "romance incómodo con humor",
+    "setting": "Cena familiar en una casa de pueblo",
+    "timeline": {},
+    "world_rules": [],
+    "visual_treatment": "charcoal",
+    "default_structure": "three_act"
+  },
+  "schema_version": "3.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "¿Logrará Lucía salir de la casa de Rosario sin el anillo, o es la cena de los anillos la que decide quién se queda?",
+      "image_path": "images/hero.jpg"
+    },
+    {
+      "role": "s01",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "En esta casa, nadie interrumpe la cena.",
+      "image_path": "images/s01.jpg",
+      "scene_text": "Once familiares sostienen los tenedores en el aire alrededor de la mesa larga. Lucía, de verde, retira la mano de un anillo sobre el mantel; en la cabecera, Rosario sigue sirviendo vino sin mirar.\n(Murmullo que se apaga; el hilo de vino cae en una copa.)",
+      "beat": "mundo",
+      "shot": {
+        "act": "mundo",
+        "angle": "high",
+        "place": "Comedor de la casa de pueblo",
+        "sound": "Murmullo que se apaga; el hilo de vino cae en una copa.",
+        "camera": "slow push-in",
+        "start_s": 0,
+        "dialogue": [],
+        "shot_size": "wide",
+        "voiceover": "",
+        "characters": [
+          "LUCÍA",
+          "ROSARIO"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Forks hover motionless as LUCÍA slowly draws her hand away from the ring; at the far end ROSARIO keeps pouring wine in a steady stream; slow push-in down the table; the murmur fades, only the wine pouring is heard."
+      }
+    },
+    {
+      "role": "s02",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Lo que Lucía lleva años sin poder quitarse.",
+      "image_path": "images/s02.jpg",
+      "scene_text": "En primer término, los dedos temblorosos de Lucía empujan el anillo un palmo sobre el mantel hacia el plato de Rosario; en su dedo queda una marca blanca y la uña araña la tela.\nLUCÍA: Solo quiero devolverlo.\n(Roce de la uña sobre el mantel; el tintineo leve del anillo; silencio tenso de la mesa.)",
+      "beat": "protagonista",
+      "shot": {
+        "act": "protagonista",
+        "angle": "high",
+        "place": "Comedor de la casa de pueblo",
+        "sound": "Roce de la uña sobre el mantel; el tintineo leve del anillo; silencio tenso de la mesa.",
+        "camera": "slow push-in",
+        "start_s": 5,
+        "dialogue": [
+          {
+            "line": "Solo quiero devolverlo.",
+            "speaker": "LUCÍA"
+          }
+        ],
+        "shot_size": "close_up",
+        "voiceover": "",
+        "characters": [
+          "LUCÍA",
+          "ROSARIO"
+        ],
+        "duration_s": 5,
+        "video_prompt": "LUCÍA's trembling fingertips slide the gold ring slowly across the tablecloth toward ROSARIO's plate, the nail dragging a fold in the cloth, then she murmurs her line softly. Slow push-in; faint ring scrape and heavy silence."
+      }
+    },
+    {
+      "role": "s03",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "En esta mesa, lo incómodo se tapa con pan.",
+      "image_path": "images/s03.jpg",
+      "scene_text": "Rosario llena hasta el borde la copa de Lucía sin mirarla y con el culo de la botella desliza el anillo hasta la cesta del pan. Un tío la pasa y el paño de lino lo cubre.\nROSARIO: El pan, que se enfría.\n(Vino cayendo en la copa, roce del cristal sobre el mantel, murmullo bajo de cubiertos.)",
+      "beat": "conflicto",
+      "shot": {
+        "act": "conflicto",
+        "angle": "high",
+        "place": "Comedor de la casa de pueblo",
+        "sound": "Vino cayendo en la copa, roce del cristal sobre el mantel, murmullo bajo de cubiertos.",
+        "camera": "slow push-in",
+        "start_s": 10,
+        "dialogue": [
+          {
+            "line": "El pan, que se enfría.",
+            "speaker": "ROSARIO"
+          }
+        ],
+        "shot_size": "medium",
+        "voiceover": "",
+        "characters": [
+          "ROSARIO",
+          "LUCÍA"
+        ],
+        "duration_s": 5,
+        "video_prompt": "ROSARIO pours wine to the brim, then slides the ring with the base of the bottle into the bread basket. A relative's hand lifts the basket and the linen cloth falls over the ring. Slow push-in; wine pouring, clink of glass."
+      }
+    },
+    {
+      "role": "s04",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Alguien más intentó devolverlo antes que ella.",
+      "image_path": "images/s04.jpg",
+      "scene_text": "Lucía, en primer término, levanta el paño de lino de la cesta: sobre las migas hay tres anillos de oro viejo alineados junto al suyo. Al fondo, Rosario deja la botella y la mira.\nROSARIO: Quédate, que falta el postre.\n(Roce del lino, el vidrio de la botella al posarse sobre la mesa, silencio de los comensales.)",
+      "beat": "pregunta",
+      "shot": {
+        "act": "pregunta",
+        "angle": "high",
+        "place": "Comedor de la casa de pueblo",
+        "sound": "Roce del lino, el vidrio de la botella al posarse sobre la mesa, silencio de los comensales.",
+        "camera": "slow push-in",
+        "start_s": 15,
+        "dialogue": [
+          {
+            "line": "Quédate, que falta el postre.",
+            "speaker": "ROSARIO"
+          }
+        ],
+        "shot_size": "over_shoulder",
+        "voiceover": "",
+        "characters": [
+          "LUCÍA",
+          "ROSARIO"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Lucía's fingers lift the linen cloth, revealing the row of rings among crumbs; at the far end Rosario sets the bottle down and raises her eyes to Lucía, then speaks calmly. Slow push-in; cloth rustle, bottle clink, hushed room."
+      }
+    }
+  ],
+  "cover_image": "worlds/el-anillo-sobre-el-mantel/images/hero.jpg"
+}
