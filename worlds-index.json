@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-24T22:04:31.391671+00:00",
-  "total_worlds": 48,
+  "generated_at": "2026-10-24T22:32:33.920878+00:00",
+  "total_worlds": 49,
   "total_branches": 62,
   "worlds": [
     {
@@ -7461,6 +7461,195 @@
           "scene_text": "El sótano exhala.\n\nLos papeles están dispersos como las piezas de un juego que alguien acaba de ganar. Las colillas llenan el cenicero — cinco cigarrillos para un plan que cambió las vidas de cuatro personas.\n\nLa bombilla oscila. En la penumbra, el gancho del abrigo está vacío. El pañuelo rojo se fue con ella.\n\nEn el sótano, el silencio es un personaje más. Y ahora, espera."
         }
       ]
+    },
+    {
+      "world_id": "w_q80idb",
+      "slug": "taller-de-convivencia",
+      "name": "Taller de convivencia",
+      "description": "En el gimnasio de un instituto, cuatro jóvenes con poderes están obligados a convivir. Gala quiere irse y Alba se lo impide, sin que ninguna sepa lo que Hugo guarda en sus fichas.",
+      "tags": [],
+      "cover_image": "worlds/taller-de-convivencia/images/hero.jpg",
+      "created_by": "@loscuatrotontitos",
+      "created_at": "2026-10-24T22:31:21.810Z",
+      "status": "developing",
+      "branches": [],
+      "characters": [],
+      "places": [],
+      "story_bible": {
+        "tone": "Humor de choque, hermanas enemigas",
+        "setting": "",
+        "timeline": {},
+        "world_rules": [],
+        "visual_treatment": "gouache",
+        "default_structure": "three_act"
+      },
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "¿Pueden dos enemigas aprender a convivir antes de descubrir que son hermanas?",
+          "image_path": "worlds/taller-de-convivencia/images/hero.jpg"
+        },
+        {
+          "role": "s01",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Aquí nadie quiere estar, y aun así algo juega.",
+          "image_path": "worlds/taller-de-convivencia/images/s01.jpg",
+          "scene_text": "Gala flota con los brazos cruzados a un metro del parqué, bajo la pancarta atada a una canasta plegada. En el círculo de cuatro colchonetas, un balón rueda solo hasta rozar sus zapatillas.\n(Eco hueco del gimnasio vacío; el balón rueda con un roce de cuero sobre las colchonetas.)",
+          "beat": "mundo",
+          "shot": {
+            "act": "mundo",
+            "angle": "high",
+            "place": "Gimnasio del instituto",
+            "sound": "Eco hueco del gimnasio vacío; el balón rueda con un roce de cuero sobre las colchonetas.",
+            "camera": "slow push-in",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "extreme_wide",
+            "voiceover": "",
+            "characters": [
+              "HUGO"
+            ],
+            "duration_s": 5,
+            "video_prompt": "The ball rolls slowly across the mat circle and gently touches the sneakers of the floating girl, who stays motionless with arms crossed; slow push-in from above; hollow gym echo and soft leather roll."
+          }
+        },
+        {
+          "role": "s02",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Nadie le ha preguntado si quería venir.",
+          "image_path": "worlds/taller-de-convivencia/images/s02.jpg",
+          "scene_text": "En lo alto de las gradas metálicas, Gala firma con trazo seco una hoja de «BAJA VOLUNTARIA» apoyada en su rodilla, la dobla en cuatro marcando el pliegue con las uñas y la tiende hacia el pasillo.\n(Rasguido seco del bolígrafo, crujido de las gradas metálicas, el papel al doblarse.)",
+          "beat": "protagonista",
+          "shot": {
+            "act": "protagonista",
+            "angle": "low",
+            "place": "Gimnasio del instituto",
+            "sound": "Rasguido seco del bolígrafo, crujido de las gradas metálicas, el papel al doblarse.",
+            "camera": "slow push-in",
+            "start_s": 5,
+            "dialogue": [],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [],
+            "duration_s": 5,
+            "video_prompt": "GALA signs with a quick sharp stroke, lifts the sheet and folds it in four, pressing the crease with her fingernails, then extends the folded paper toward the aisle on the right. Slow push-in; pen scratch and metal creak."
+          }
+        },
+        {
+          "role": "s03",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Alguien más ocupa el asiento, aunque nadie lo vea.",
+          "image_path": "worlds/taller-de-convivencia/images/s03.jpg",
+          "scene_text": "En las gradas metálicas, junto a Gala, un hueco con bordes que brillan como aire caliente sobre una sudadera gris sujeta el papel doblado; el papel se escapa de los dedos de Gala y se rompe en dos mitades.\nGALA: Devuélvemelo, Alba.\nALBA: Si te largas, me toca a mí aguantarlos.\n(Rasgado seco del papel, eco de las gradas metálicas.)",
+          "beat": "conflicto",
+          "shot": {
+            "act": "conflicto",
+            "angle": "high",
+            "place": "Gimnasio del instituto",
+            "sound": "Rasgado seco del papel, eco de las gradas metálicas.",
+            "camera": "slow push-in",
+            "start_s": 10,
+            "dialogue": [
+              {
+                "line": "Devuélvemelo, Alba.",
+                "speaker": "GALA"
+              },
+              {
+                "line": "Si te largas, me toca a mí aguantarlos.",
+                "speaker": "ALBA"
+              }
+            ],
+            "shot_size": "medium_close",
+            "voiceover": "",
+            "characters": [],
+            "duration_s": 5,
+            "video_prompt": "The shimmering gap tugs the folded paper from GALA's fingers and it tears into two halves; GALA's voice says her line, then a faint second voice answers. Slow push-in; sharp paper rip, metallic echo."
+          }
+        },
+        {
+          "role": "s04",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Alguien ya las había apuntado juntas.",
+          "image_path": "worlds/taller-de-convivencia/images/s04.jpg",
+          "scene_text": "Al pie de las gradas, Hugo clava con chinchetas en un corcho dos fichas con foto, Gala y Alba, con el mismo apellido impreso: VIDAL. Arriba, ninguna de las dos mira.\nHUGO: Equipo uno. No se admiten bajas.\n(Golpecitos secos de las chinchetas contra el corcho. Eco del gimnasio vacío.)",
+          "beat": "pregunta",
+          "shot": {
+            "act": "pregunta",
+            "angle": "low",
+            "place": "Gimnasio del instituto",
+            "sound": "Golpecitos secos de las chinchetas contra el corcho. Eco del gimnasio vacío.",
+            "camera": "slow push-in",
+            "start_s": 15,
+            "dialogue": [
+              {
+                "line": "Equipo uno. No se admiten bajas.",
+                "speaker": "HUGO"
+              }
+            ],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "HUGO"
+            ],
+            "duration_s": 5,
+            "video_prompt": "HUGO presses the last pin into the cork board with his thumb, then speaks his line calmly without turning to the bleachers; slow push-in from the wide frame; pin taps and gym echo."
+          }
+        }
+      ],
+      "cover": {
+        "logline": "Gala, que vuela, firma su baja de un taller para jóvenes con poderes, pero Alba, invisible, le arranca el papel y el maestro Hugo no admite bajas.",
+        "synopsis": "Hoy, en un instituto de barrio, el gimnasio se usa por las tardes para el Taller de Convivencia, un programa discreto que reúne a cuatro jóvenes con poderes que no saben controlar ni compartir. Los dirige Hugo, un maestro de cárdigan mostaza y silbato, que solo tiene una norma: nadie se va hasta que el grupo funcione como equipo. Gala vuela y no soporta que nadie la frene. Alba es invisible y no soporta que nadie la ignore. Se han caído mal desde el primer día, y cada tarde terminan peleándose bajo los fluorescentes del gimnasio, entre colchonetas, balones que ruedan solos y gradas vacías. Gala quiere abandonar el taller; Alba quiere que se quede, aunque no lo admita. Lo que ninguna sabe es que Hugo guarda sus fichas juntas y que comparten apellido. La serie pregunta si dos enemigas pueden aprender a convivir antes de descubrir qué las une.",
+        "branch_seeds": [
+          {
+            "title": "El balón que nadie lanzó",
+            "what_if": "¿Y si Alba usara su invisibilidad para humillar a Gala delante de todo el taller?"
+          },
+          {
+            "title": "Dos mitades de una baja",
+            "what_if": "¿Y si Gala descubriera que Hugo conoce a su familia desde hace años?"
+          },
+          {
+            "title": "Cuatro colchonetas, tres poderes",
+            "what_if": "¿Y si uno de los otros dos jóvenes ocultara que su poder no funciona?"
+          }
+        ],
+        "central_question": "¿Pueden dos enemigas aprender a convivir antes de descubrir que son hermanas?"
+      },
+      "chapter_meta": {
+        "schema_version": "3.0",
+        "structure": "premise",
+        "duration_s": 20,
+        "logline": "Gala, que vuela, firma su baja de un taller para jóvenes con poderes, pero Alba, invisible, le arranca el papel y el maestro Hugo no admite bajas.",
+        "entry_question": "¿Quién empuja el balón que rueda solo hasta los pies de Gala?",
+        "exit_question": "¿Por qué dos chicas que se detestan comparten apellido en el corcho de Hugo?",
+        "acts": [
+          {
+            "key": "mundo",
+            "label": "Mundo",
+            "start_s": 0,
+            "end_s": 5
+          },
+          {
+            "key": "protagonista",
+            "label": "Protagonista",
+            "start_s": 5,
+            "end_s": 10
+          },
+          {
+            "key": "conflicto",
+            "label": "Conflicto",
+            "start_s": 10,
+            "end_s": 15
+          },
+          {
+            "key": "pregunta",
+            "label": "Pregunta",
+            "start_s": 15,
+            "end_s": 20
+          }
+        ]
+      }
     },
     {
       "world_id": "w_crabfm",
