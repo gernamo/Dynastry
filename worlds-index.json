@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-24T22:32:33.920878+00:00",
+  "generated_at": "2026-10-25T07:52:07.197372+00:00",
   "total_worlds": 49,
-  "total_branches": 62,
+  "total_branches": 63,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -2479,7 +2479,152 @@
       "created_by": "@alba",
       "created_at": "2026-10-24T22:03:16.718Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_4sgqoo",
+          "branch_slug": "la-marca-blanca-del-dedo",
+          "name": "La marca blanca del dedo",
+          "description": "Lucía aguanta la mesa de Rosario con una sonrisa y la copa vacía. Cuando por fin abre la boca, no habla: se encierra en el aseo con la marca blanca en el dedo.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-10-25T07:50:53.605Z",
+          "divergence_event": {
+            "description": "Lucía quiere decir en voz alta lo que ha visto en la cesta del pan, pero al oír su nombre solo consigue llegar hasta el aseo.",
+            "timeline_ref": "¿Cómo sonríe alguien que acaba de ver tres anillos viejos bajo un paño?"
+          },
+          "cover_image": "worlds/el-anillo-sobre-el-mantel/branches/la-marca-blanca-del-dedo/images/s01.jpg",
+          "images": [
+            {
+              "role": "s01",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Bajo el lino quedan tres anillos viejos.",
+              "image_path": "worlds/el-anillo-sobre-el-mantel/branches/la-marca-blanca-del-dedo/images/s01.jpg",
+              "scene_text": "Lucía, en primer término, deja caer el paño de lino sobre la cesta, sonríe con los dientes apretados y se sienta, manos planas sobre el mantel, marca blanca del dedo arriba.\nLUCÍA: Qué buena pinta tiene todo.\n(Murmullo de comensales y cubiertos contra los platos.)",
+              "beat": "planteamiento",
+              "shot": {
+                "act": "planteamiento",
+                "angle": "eye_level",
+                "place": "ASEO DE LA CASA",
+                "sound": "Murmullo de comensales y cubiertos contra los platos.",
+                "camera": "slow push-in",
+                "start_s": 0,
+                "dialogue": [
+                  {
+                    "line": "Qué buena pinta tiene todo.",
+                    "speaker": "LUCÍA"
+                  }
+                ],
+                "shot_size": "medium",
+                "voiceover": "",
+                "characters": [],
+                "duration_s": 5,
+                "video_prompt": "The linen cloth settles over the wicker basket as the woman sits, flattens her hands on the tablecloth and says her line through a tight smile; slow push-in; low dinner murmur and cutlery clinks."
+              }
+            },
+            {
+              "role": "s02",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "La cesta da la vuelta a la mesa sin prisa.",
+              "image_path": "worlds/el-anillo-sobre-el-mantel/branches/la-marca-blanca-del-dedo/images/s02.jpg",
+              "scene_text": "Lucía, en primer término a la izquierda, vacía la copa de un trago con los ojos clavados en la cesta que un tío pasa de mano en mano. Al fondo, Rosario se limpia los labios con la servilleta.\nROSARIO: Lucía, hija, ayúdame con los platos del postre.\n(Murmullo de sobremesa, cristal contra el mantel.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "eye_level",
+                "place": "ASEO DE LA CASA",
+                "sound": "Murmullo de sobremesa, cristal contra el mantel.",
+                "camera": "slow push-in",
+                "start_s": 5,
+                "dialogue": [
+                  {
+                    "line": "Lucía, hija, ayúdame con los platos del postre.",
+                    "speaker": "ROSARIO"
+                  }
+                ],
+                "shot_size": "medium_close",
+                "voiceover": "",
+                "characters": [],
+                "duration_s": 5,
+                "video_prompt": "LUCÍA lowers the empty glass, her eyes following the basket as a man's hands pass it along; in the background ROSARIO dabs her lips and speaks. Slow push-in on LUCÍA; murmur of dinner chatter, glass touching the tablecloth."
+              }
+            },
+            {
+              "role": "s03",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Todos esperan. Ella no encuentra qué decir.",
+              "image_path": "worlds/el-anillo-sobre-el-mantel/branches/la-marca-blanca-del-dedo/images/s03.jpg",
+              "scene_text": "Lucía, de pie junto a la silla echada hacia atrás, aprieta la servilleta en el puño y abre la boca sin decir nada. Detrás, los comensales mantienen los tenedores en el aire.\n(Chirrido de la silla contra el suelo, luego silencio.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "low",
+                "place": "ASEO DE LA CASA",
+                "sound": "Chirrido de la silla contra el suelo, luego silencio.",
+                "camera": "static",
+                "start_s": 10,
+                "dialogue": [],
+                "shot_size": "full",
+                "voiceover": "",
+                "characters": [],
+                "duration_s": 5,
+                "video_prompt": "The chair scrapes to a stop; LUCÍA tightens her fist on the napkin, opens her mouth and holds it, no sound comes out. Behind her the diners stay frozen with forks raised. Static camera; chair screech, then silence."
+              }
+            },
+            {
+              "role": "s04",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Al otro lado, alguien rebusca en la cesta.",
+              "image_path": "worlds/el-anillo-sobre-el-mantel/branches/la-marca-blanca-del-dedo/images/s04.jpg",
+              "scene_text": "Con la espalda contra la puerta cerrada, Lucía se mira en el espejo moteado bajo la bombilla desnuda y frota con el pulgar la marca blanca del anular.\n(V.O.) Cuatro.\n(Zumbido de la bombilla; al otro lado de la puerta, el crujido del mimbre de la cesta.)",
+              "beat": "desenlace",
+              "shot": {
+                "act": "desenlace",
+                "angle": "eye_level",
+                "place": "ASEO DE LA CASA",
+                "sound": "Zumbido de la bombilla; al otro lado de la puerta, el crujido del mimbre de la cesta.",
+                "camera": "slow push-in",
+                "start_s": 15,
+                "dialogue": [],
+                "shot_size": "medium_close",
+                "voiceover": "Cuatro.",
+                "characters": [
+                  "LUCÍA"
+                ],
+                "duration_s": 5,
+                "video_prompt": "Lucía's thumb rubs the white mark on her ring finger while her eyes stay fixed on her reflection; slow push-in toward her face; bulb hum, then wicker creaking faintly behind the door."
+              }
+            }
+          ],
+          "chapter_meta": {
+            "schema_version": "3.0",
+            "structure": "three_act",
+            "duration_s": 20,
+            "logline": "Lucía quiere decir en voz alta lo que ha visto en la cesta del pan, pero al oír su nombre solo consigue llegar hasta el aseo.",
+            "entry_question": "¿Cómo sonríe alguien que acaba de ver tres anillos viejos bajo un paño?",
+            "exit_question": "¿Volverá Lucía al comedor, y con qué intención, mientras su anillo sigue en la cesta?",
+            "acts": [
+              {
+                "key": "planteamiento",
+                "label": "Planteamiento",
+                "start_s": 0,
+                "end_s": 5
+              },
+              {
+                "key": "nudo",
+                "label": "Nudo",
+                "start_s": 5,
+                "end_s": 15
+              },
+              {
+                "key": "desenlace",
+                "label": "Desenlace",
+                "start_s": 15,
+                "end_s": 20
+              }
+            ]
+          }
+        }
+      ],
       "characters": [],
       "places": [],
       "story_bible": {
