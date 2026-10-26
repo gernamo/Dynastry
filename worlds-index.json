@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-25T07:52:07.197372+00:00",
-  "total_worlds": 49,
+  "generated_at": "2026-10-26T14:50:36.465905+00:00",
+  "total_worlds": 50,
   "total_branches": 63,
   "worlds": [
     {
@@ -5680,6 +5680,236 @@
           "scene_text": "EL INVESTIGADOR desliza una carpeta cerrada sobre el escritorio.\n\nEL INVESTIGADOR: No hay nada más. Lo siento.\n\nLA MADRE mira la carpeta. Dentro está todo lo que encontraron. Y dentro también está la confirmación de lo que ya sabía: que su hijo desapareció, y que nadie sabe por qué ni adónde.\n\nSus manos permanecen planas sobre el escritorio. No tiemblan. Ya no queda energía para temblar."
         }
       ]
+    },
+    {
+      "world_id": "w_gi1nkv",
+      "slug": "monedas-en-la-fuente-seca",
+      "name": "Monedas en la fuente seca",
+      "description": "Irene vuelve al amanecer al centro comercial donde desapareció su hermano Dani y encuentra un coche rojo limpio en la fuente seca. Las huellas de un pie pequeño la llevan hasta un carrusel roto.",
+      "tags": [],
+      "cover_image": "worlds/monedas-en-la-fuente-seca/images/hero.jpg",
+      "created_by": "@germanna",
+      "created_at": "2026-10-26T14:48:17.618Z",
+      "status": "developing",
+      "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "IRENE",
+          "arc_summary": "Fotógrafa de escenas de crimen que repite cada año la ruta del día en que perdió a su hermano.",
+          "visual_description": "woman around 30, slim build, short dark hair, worn olive field jacket, camera on strap, flashlight in hand",
+          "reference_image_path": "images/characters/irene.jpg",
+          "reference_kind": "sheet"
+        },
+        {
+          "role": "support",
+          "label": "DANI",
+          "arc_summary": "Hermano desaparecido a los seis años, visto solo en una foto vieja y en los coches rojos que aparecen.",
+          "visual_description": "small boy around 6, red raincoat, gap-toothed smile, holding a toy car",
+          "reference_image_path": "images/characters/dani.jpg",
+          "reference_kind": "sheet"
+        }
+      ],
+      "places": [
+        {
+          "name": "Galerías Norte, centro comercial en ruinas",
+          "atmosphere": "silencio húmedo, luz gris, pasos con eco",
+          "visual_description": "abandoned mall interior, dead escalators, cracked skylight letting in grey light, shuttered shop fronts with rusted grilles, a dry fountain with coins on the bottom, faded store signs, an old photo booth"
+        },
+        {
+          "name": "Área infantil y carrusel",
+          "atmosphere": "polvo intacto, juguetes rotos, frío",
+          "visual_description": "children's play area covered in thick grey dust, a broken carousel with chipped wooden horses, one covered by a grey tarp"
+        }
+      ],
+      "story_bible": {
+        "tone": "suspense frío",
+        "setting": "Centro comercial abandonado, de amanecer húmedo, con una ruta fija: fuente, cabina de fotos, área infantil.",
+        "timeline": {
+          "span": "18 años hasta hoy",
+          "type": "character_age",
+          "unit": "año",
+          "anchor": "Irene tenía 12 años y Dani 6 cuando Dani desapareció"
+        },
+        "world_rules": [
+          "El edificio está cerrado desde hace años y el polvo lo demuestra: lo limpio y las huellas nuevas se han dejado dentro.",
+          "Irene solo avanza siguiendo la ruta exacta que hizo con Dani el día de su desaparición."
+        ],
+        "visual_treatment": "charcoal",
+        "default_structure": "three_act"
+      },
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "¿Quién deja coches de juguete rojos y huellas de zapatilla pequeña en Galerías Norte, y qué pasó con Dani, desaparecido allí hace dieciocho años?",
+          "image_path": "worlds/monedas-en-la-fuente-seca/images/hero.jpg"
+        },
+        {
+          "role": "s01",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Amanecer en Galerías Norte, cerrado hace años. Irene repite el recorrido de aquel día.",
+          "image_path": "worlds/monedas-en-la-fuente-seca/images/s01.jpg",
+          "scene_text": "IRENE, de pie junto a la fuente seca, apunta la linterna a un coche de juguete rojo, sin polvo, entre las monedas grises del fondo.\n(Eco de un paso sobre el suelo húmedo)",
+          "beat": "mundo",
+          "shot": {
+            "act": "mundo",
+            "angle": "high",
+            "place": "Galerías Norte, fuente seca",
+            "sound": "Eco de un paso sobre el suelo húmedo",
+            "camera": "slow push-in",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "IRENE"
+            ],
+            "duration_s": 5,
+            "video_prompt": "Slow push-in from above toward the fountain while the flashlight beam trembles slightly on the red car. IRENE stays still, breath visible. A single echoing footstep in the damp silence."
+          }
+        },
+        {
+          "role": "s02",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Irene fotografía escenas de crimen. Su hermano Dani desapareció aquí hace dieciocho años.",
+          "image_path": "worlds/monedas-en-la-fuente-seca/images/s02.jpg",
+          "scene_text": "Las manos de IRENE sostienen el coche rojo junto a una foto vieja de DANI con un coche idéntico, dentro de la cabina de fotos.\nIRENE: Es el mismo coche que lleva Dani en la foto.",
+          "beat": "protagonista",
+          "shot": {
+            "act": "protagonista",
+            "angle": "top_down",
+            "place": "Galerías Norte, cabina de fotos",
+            "sound": "",
+            "camera": "static",
+            "start_s": 5,
+            "dialogue": [
+              {
+                "line": "Es el mismo coche que lleva Dani en la foto.",
+                "speaker": "IRENE"
+              }
+            ],
+            "shot_size": "insert",
+            "voiceover": "",
+            "characters": [
+              "IRENE"
+            ],
+            "duration_s": 5,
+            "video_prompt": "Static top-down shot. IRENE's fingers bring the car beside the snapshot and hold it still to compare. Faint rustle of the curtain, then her low voice."
+          }
+        },
+        {
+          "role": "s03",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Son huellas de pie de niño; el resto del polvo del suelo está intacto.",
+          "image_path": "worlds/monedas-en-la-fuente-seca/images/s03.jpg",
+          "scene_text": "IRENE, agachada en el área infantil, ilumina con la linterna una fila de huellas pequeñas de zapatilla en el polvo que llevan al carrusel roto del fondo.\nIRENE: Estas huellas son de hoy.",
+          "beat": "conflicto",
+          "shot": {
+            "act": "conflicto",
+            "angle": "low",
+            "place": "Galerías Norte, área infantil y carrusel",
+            "sound": "",
+            "camera": "tracking",
+            "start_s": 10,
+            "dialogue": [
+              {
+                "line": "Estas huellas son de hoy.",
+                "speaker": "IRENE"
+              }
+            ],
+            "shot_size": "full",
+            "voiceover": "",
+            "characters": [
+              "IRENE"
+            ],
+            "duration_s": 5,
+            "video_prompt": "Camera tracks low along the line of small footprints toward the carousel while the flashlight beam follows them. IRENE stays crouched. Water drips somewhere in the hall."
+          }
+        },
+        {
+          "role": "s04",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Dos coches iguales: uno en la fuente y otro bajo la lona del caballo.",
+          "image_path": "worlds/monedas-en-la-fuente-seca/images/s04.jpg",
+          "scene_text": "IRENE sostiene la lona levantada junto al caballo de madera del carrusel; sobre la silla, un segundo coche rojo idéntico al primero.\nIRENE: Son dos. En la foto Dani solo lleva uno.\n(Tarareo infantil muy bajo, lejano)",
+          "beat": "pregunta",
+          "shot": {
+            "act": "pregunta",
+            "angle": "eye_level",
+            "place": "Galerías Norte, área infantil y carrusel",
+            "sound": "Tarareo infantil muy bajo, lejano",
+            "camera": "rack focus",
+            "start_s": 15,
+            "dialogue": [
+              {
+                "line": "Son dos. En la foto Dani solo lleva uno.",
+                "speaker": "IRENE"
+              }
+            ],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "IRENE"
+            ],
+            "duration_s": 5,
+            "video_prompt": "Focus shifts from IRENE's shoulder to the red car on the saddle. Her flashlight hand tightens. A faint child's hum drifts in from the dark, low and distant."
+          }
+        }
+      ],
+      "cover": {
+        "logline": "Irene, fotógrafa de escenas de crimen, repite en Galerías Norte la ruta en la que su hermano Dani desapareció hace dieciocho años, pero los coches rojos limpios y las huellas de zapatilla pequeña no encajan con un edificio cerrado y cubierto de polvo.",
+        "synopsis": "Galerías Norte es un centro comercial cerrado desde hace años: escaleras mecánicas paradas, rejas oxidadas, una claraboya agrietada y una fuente seca con monedas en el fondo. Hace dieciocho años, Dani, de seis años y con impermeable rojo, desapareció allí mientras su hermana Irene, de doce, lo cuidaba. La policía archivó el caso sin respuestas. Irene tiene ahora treinta años y fotografía escenas de crimen. Vuelve al amanecer y repite la ruta de aquel día: fuente, cabina de fotos, área infantil. Esta mañana encuentra en la fuente un coche de juguete rojo, limpio de polvo, igual al que Dani sostiene en la única foto que conserva. Unas huellas de zapatilla pequeña la llevan hasta el carrusel roto y, bajo una lona, hay un segundo coche idéntico. La regla de este mundo es que el edificio está cerrado y el polvo lo demuestra, así que cada objeto limpio y cada huella nueva se han colocado o hecho dentro. Lo que está en juego es saber qué pasó con Dani. La pregunta de la serie: ¿quién deja coches rojos y huellas de niño en Galerías Norte?",
+        "branch_seeds": [
+          {
+            "title": "La foto de la cabina",
+            "what_if": "¿Y si Irene revela en la cabina de fotos una tira nueva con Dani sosteniendo el coche rojo?"
+          },
+          {
+            "title": "El guardia de las llaves",
+            "what_if": "¿Y si Irene encuentra en la garita de seguridad al antiguo vigilante, que aún conserva el llavero del carrusel?"
+          },
+          {
+            "title": "Las huellas de vuelta",
+            "what_if": "¿Y si Irene sigue las huellas pequeñas en sentido contrario y llegan hasta la escalera mecánica que baja al aparcamiento?"
+          }
+        ],
+        "central_question": "¿Quién deja coches de juguete rojos y huellas de zapatilla pequeña en Galerías Norte, y qué pasó con Dani, desaparecido allí hace dieciocho años?"
+      },
+      "chapter_meta": {
+        "schema_version": "3.0",
+        "structure": "premise",
+        "duration_s": 20,
+        "logline": "Irene, fotógrafa de escenas de crimen, repite en Galerías Norte la ruta en la que su hermano Dani desapareció hace dieciocho años, pero los coches rojos limpios y las huellas de zapatilla pequeña no encajan con un edificio cerrado y cubierto de polvo.",
+        "entry_question": "¿Por qué hay un coche de juguete rojo sin una mota de polvo entre las monedas de una fuente seca?",
+        "exit_question": "¿Quién dejó dos coches rojos idénticos y unas huellas de niño en un centro comercial cerrado desde hace años?",
+        "acts": [
+          {
+            "key": "mundo",
+            "label": "Mundo",
+            "start_s": 0,
+            "end_s": 5
+          },
+          {
+            "key": "protagonista",
+            "label": "Protagonista",
+            "start_s": 5,
+            "end_s": 10
+          },
+          {
+            "key": "conflicto",
+            "label": "Conflicto",
+            "start_s": 10,
+            "end_s": 15
+          },
+          {
+            "key": "pregunta",
+            "label": "Pregunta",
+            "start_s": 15,
+            "end_s": 20
+          }
+        ]
+      }
     },
     {
       "world_id": "w_nvtrd7",
