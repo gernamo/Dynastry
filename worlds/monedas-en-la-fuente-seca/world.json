@@ -1,0 +1,338 @@
+{
+  "name": "Monedas en la fuente seca",
+  "slug": "monedas-en-la-fuente-seca",
+  "tags": [],
+  "cover": {
+    "logline": "Irene, fotógrafa de escenas de crimen, repite en Galerías Norte la ruta en la que su hermano Dani desapareció hace dieciocho años, pero los coches rojos limpios y las huellas de zapatilla pequeña no encajan con un edificio cerrado y cubierto de polvo.",
+    "synopsis": "Galerías Norte es un centro comercial cerrado desde hace años: escaleras mecánicas paradas, rejas oxidadas, una claraboya agrietada y una fuente seca con monedas en el fondo. Hace dieciocho años, Dani, de seis años y con impermeable rojo, desapareció allí mientras su hermana Irene, de doce, lo cuidaba. La policía archivó el caso sin respuestas. Irene tiene ahora treinta años y fotografía escenas de crimen. Vuelve al amanecer y repite la ruta de aquel día: fuente, cabina de fotos, área infantil. Esta mañana encuentra en la fuente un coche de juguete rojo, limpio de polvo, igual al que Dani sostiene en la única foto que conserva. Unas huellas de zapatilla pequeña la llevan hasta el carrusel roto y, bajo una lona, hay un segundo coche idéntico. La regla de este mundo es que el edificio está cerrado y el polvo lo demuestra, así que cada objeto limpio y cada huella nueva se han colocado o hecho dentro. Lo que está en juego es saber qué pasó con Dani. La pregunta de la serie: ¿quién deja coches rojos y huellas de niño en Galerías Norte?",
+    "branch_seeds": [
+      {
+        "title": "La foto de la cabina",
+        "what_if": "¿Y si Irene revela en la cabina de fotos una tira nueva con Dani sosteniendo el coche rojo?"
+      },
+      {
+        "title": "El guardia de las llaves",
+        "what_if": "¿Y si Irene encuentra en la garita de seguridad al antiguo vigilante, que aún conserva el llavero del carrusel?"
+      },
+      {
+        "title": "Las huellas de vuelta",
+        "what_if": "¿Y si Irene sigue las huellas pequeñas en sentido contrario y llegan hasta la escalera mecánica que baja al aparcamiento?"
+      }
+    ],
+    "central_question": "¿Quién deja coches de juguete rojos y huellas de zapatilla pequeña en Galerías Norte, y qué pasó con Dani, desaparecido allí hace dieciocho años?"
+  },
+  "places": [
+    {
+      "name": "Galerías Norte, centro comercial en ruinas",
+      "atmosphere": "silencio húmedo, luz gris, pasos con eco",
+      "visual_description": "abandoned mall interior, dead escalators, cracked skylight letting in grey light, shuttered shop fronts with rusted grilles, a dry fountain with coins on the bottom, faded store signs, an old photo booth"
+    },
+    {
+      "name": "Área infantil y carrusel",
+      "atmosphere": "polvo intacto, juguetes rotos, frío",
+      "visual_description": "children's play area covered in thick grey dust, a broken carousel with chipped wooden horses, one covered by a grey tarp"
+    }
+  ],
+  "status": "developing",
+  "chapter": {
+    "acts": [
+      {
+        "key": "mundo",
+        "end_s": 5,
+        "label": "Mundo",
+        "shots": [
+          {
+            "id": "s01",
+            "act": "mundo",
+            "angle": "high",
+            "place": "Galerías Norte, fuente seca",
+            "sound": "Eco de un paso sobre el suelo húmedo",
+            "action": "IRENE, de pie junto a la fuente seca, apunta la linterna a un coche de juguete rojo, sin polvo, entre las monedas grises del fondo.",
+            "camera": "slow push-in",
+            "caption": "Amanecer en Galerías Norte, cerrado hace años. Irene repite el recorrido de aquel día.",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "IRENE"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Wide high-angle view of an abandoned mall atrium. IRENE, woman around 30, short dark hair, worn olive field jacket, camera on strap, flashlight in hand, stands small at the left rim of a dry fountain, beam aimed down at a clean glossy red toy car lying among dull dusty coins. One dead escalator at the back right. Cold grey light from a cracked skylight above, damp concrete floor.",
+            "video_prompt": "Slow push-in from above toward the fountain while the flashlight beam trembles slightly on the red car. IRENE stays still, breath visible. A single echoing footstep in the damp silence.",
+            "image_path": "images/s01.jpg"
+          }
+        ],
+        "start_s": 0
+      },
+      {
+        "key": "protagonista",
+        "end_s": 10,
+        "label": "Protagonista",
+        "shots": [
+          {
+            "id": "s02",
+            "act": "protagonista",
+            "angle": "top_down",
+            "place": "Galerías Norte, cabina de fotos",
+            "sound": "",
+            "action": "Las manos de IRENE sostienen el coche rojo junto a una foto vieja de DANI con un coche idéntico, dentro de la cabina de fotos.",
+            "camera": "static",
+            "caption": "Irene fotografía escenas de crimen. Su hermano Dani desapareció aquí hace dieciocho años.",
+            "start_s": 5,
+            "dialogue": [
+              {
+                "line": "Es el mismo coche que lleva Dani en la foto.",
+                "speaker": "IRENE"
+              }
+            ],
+            "shot_size": "insert",
+            "voiceover": "",
+            "characters": [
+              "IRENE"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Top-down close view inside a worn photo booth. IRENE's hands, in the cuffs of a worn olive field jacket, hold a clean red toy car on the left and a faded snapshot of a small boy in a red raincoat, gap-toothed smile, holding the same toy car on the right. Camera strap across the upper edge. Cold grey light from the open curtain, scuffed bench below.",
+            "video_prompt": "Static top-down shot. IRENE's fingers bring the car beside the snapshot and hold it still to compare. Faint rustle of the curtain, then her low voice.",
+            "image_path": "images/s02.jpg"
+          }
+        ],
+        "start_s": 5
+      },
+      {
+        "key": "conflicto",
+        "end_s": 15,
+        "label": "Conflicto",
+        "shots": [
+          {
+            "id": "s03",
+            "act": "conflicto",
+            "angle": "low",
+            "place": "Galerías Norte, área infantil y carrusel",
+            "sound": "",
+            "action": "IRENE, agachada en el área infantil, ilumina con la linterna una fila de huellas pequeñas de zapatilla en el polvo que llevan al carrusel roto del fondo.",
+            "camera": "tracking",
+            "caption": "Son huellas de pie de niño; el resto del polvo del suelo está intacto.",
+            "start_s": 10,
+            "dialogue": [
+              {
+                "line": "Estas huellas son de hoy.",
+                "speaker": "IRENE"
+              }
+            ],
+            "shot_size": "full",
+            "voiceover": "",
+            "characters": [
+              "IRENE"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Low-angle full shot in a ruined children's play area. IRENE, woman around 30, short dark hair, worn olive field jacket, camera on strap, flashlight in hand, crouches in the left foreground, beam lighting a line of small sneaker prints in thick grey dust running into the distance. A broken carousel with a wooden horse at the back right. Grey skylight haze.",
+            "video_prompt": "Camera tracks low along the line of small footprints toward the carousel while the flashlight beam follows them. IRENE stays crouched. Water drips somewhere in the hall.",
+            "image_path": "images/s03.jpg"
+          }
+        ],
+        "start_s": 10
+      },
+      {
+        "key": "pregunta",
+        "end_s": 20,
+        "label": "Pregunta",
+        "shots": [
+          {
+            "id": "s04",
+            "act": "pregunta",
+            "angle": "eye_level",
+            "place": "Galerías Norte, área infantil y carrusel",
+            "sound": "Tarareo infantil muy bajo, lejano",
+            "action": "IRENE sostiene la lona levantada junto al caballo de madera del carrusel; sobre la silla, un segundo coche rojo idéntico al primero.",
+            "camera": "rack focus",
+            "caption": "Dos coches iguales: uno en la fuente y otro bajo la lona del caballo.",
+            "start_s": 15,
+            "dialogue": [
+              {
+                "line": "Son dos. En la foto Dani solo lleva uno.",
+                "speaker": "IRENE"
+              }
+            ],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "IRENE"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Over-the-shoulder shot from behind IRENE, woman around 30, short dark hair, worn olive field jacket, camera on strap, flashlight in hand, her other hand holding a grey tarp lifted aside. In the centre, a chipped wooden carousel horse with a second clean glossy red toy car on its saddle. Dim grey skylight, damp cold air.",
+            "video_prompt": "Focus shifts from IRENE's shoulder to the red car on the saddle. Her flashlight hand tightens. A faint child's hum drifts in from the dark, low and distant.",
+            "image_path": "images/s04.jpg"
+          }
+        ],
+        "start_s": 15
+      }
+    ],
+    "logline": "Irene, fotógrafa de escenas de crimen, repite en Galerías Norte la ruta en la que su hermano Dani desapareció hace dieciocho años, pero los coches rojos limpios y las huellas de zapatilla pequeña no encajan con un edificio cerrado y cubierto de polvo.",
+    "language": "es",
+    "structure": "premise",
+    "duration_s": 20,
+    "exit_question": "¿Quién dejó dos coches rojos idénticos y unas huellas de niño en un centro comercial cerrado desde hace años?",
+    "entry_question": "¿Por qué hay un coche de juguete rojo sin una mota de polvo entre las monedas de una fuente seca?",
+    "schema_version": "3.0"
+  },
+  "world_id": "w_gi1nkv",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "IRENE",
+      "arc_summary": "Fotógrafa de escenas de crimen que repite cada año la ruta del día en que perdió a su hermano.",
+      "visual_description": "woman around 30, slim build, short dark hair, worn olive field jacket, camera on strap, flashlight in hand",
+      "reference_image_path": "images/characters/irene.jpg",
+      "reference_kind": "sheet"
+    },
+    {
+      "role": "support",
+      "label": "DANI",
+      "arc_summary": "Hermano desaparecido a los seis años, visto solo en una foto vieja y en los coches rojos que aparecen.",
+      "visual_description": "small boy around 6, red raincoat, gap-toothed smile, holding a toy car",
+      "reference_image_path": "images/characters/dani.jpg",
+      "reference_kind": "sheet"
+    }
+  ],
+  "created_at": "2026-10-26T14:48:17.618Z",
+  "created_by": "@germanna",
+  "description": "Irene vuelve al amanecer al centro comercial donde desapareció su hermano Dani y encuentra un coche rojo limpio en la fuente seca. Las huellas de un pie pequeño la llevan hasta un carrusel roto.",
+  "story_bible": {
+    "tone": "suspense frío",
+    "setting": "Centro comercial abandonado, de amanecer húmedo, con una ruta fija: fuente, cabina de fotos, área infantil.",
+    "timeline": {
+      "span": "18 años hasta hoy",
+      "type": "character_age",
+      "unit": "año",
+      "anchor": "Irene tenía 12 años y Dani 6 cuando Dani desapareció"
+    },
+    "world_rules": [
+      "El edificio está cerrado desde hace años y el polvo lo demuestra: lo limpio y las huellas nuevas se han dejado dentro.",
+      "Irene solo avanza siguiendo la ruta exacta que hizo con Dani el día de su desaparición."
+    ],
+    "visual_treatment": "charcoal",
+    "default_structure": "three_act"
+  },
+  "schema_version": "3.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "¿Quién deja coches de juguete rojos y huellas de zapatilla pequeña en Galerías Norte, y qué pasó con Dani, desaparecido allí hace dieciocho años?",
+      "image_path": "images/hero.jpg"
+    },
+    {
+      "role": "s01",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Amanecer en Galerías Norte, cerrado hace años. Irene repite el recorrido de aquel día.",
+      "image_path": "images/s01.jpg",
+      "scene_text": "IRENE, de pie junto a la fuente seca, apunta la linterna a un coche de juguete rojo, sin polvo, entre las monedas grises del fondo.\n(Eco de un paso sobre el suelo húmedo)",
+      "beat": "mundo",
+      "shot": {
+        "act": "mundo",
+        "angle": "high",
+        "place": "Galerías Norte, fuente seca",
+        "sound": "Eco de un paso sobre el suelo húmedo",
+        "camera": "slow push-in",
+        "start_s": 0,
+        "dialogue": [],
+        "shot_size": "wide",
+        "voiceover": "",
+        "characters": [
+          "IRENE"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Slow push-in from above toward the fountain while the flashlight beam trembles slightly on the red car. IRENE stays still, breath visible. A single echoing footstep in the damp silence."
+      }
+    },
+    {
+      "role": "s02",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Irene fotografía escenas de crimen. Su hermano Dani desapareció aquí hace dieciocho años.",
+      "image_path": "images/s02.jpg",
+      "scene_text": "Las manos de IRENE sostienen el coche rojo junto a una foto vieja de DANI con un coche idéntico, dentro de la cabina de fotos.\nIRENE: Es el mismo coche que lleva Dani en la foto.",
+      "beat": "protagonista",
+      "shot": {
+        "act": "protagonista",
+        "angle": "top_down",
+        "place": "Galerías Norte, cabina de fotos",
+        "sound": "",
+        "camera": "static",
+        "start_s": 5,
+        "dialogue": [
+          {
+            "line": "Es el mismo coche que lleva Dani en la foto.",
+            "speaker": "IRENE"
+          }
+        ],
+        "shot_size": "insert",
+        "voiceover": "",
+        "characters": [
+          "IRENE"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Static top-down shot. IRENE's fingers bring the car beside the snapshot and hold it still to compare. Faint rustle of the curtain, then her low voice."
+      }
+    },
+    {
+      "role": "s03",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Son huellas de pie de niño; el resto del polvo del suelo está intacto.",
+      "image_path": "images/s03.jpg",
+      "scene_text": "IRENE, agachada en el área infantil, ilumina con la linterna una fila de huellas pequeñas de zapatilla en el polvo que llevan al carrusel roto del fondo.\nIRENE: Estas huellas son de hoy.",
+      "beat": "conflicto",
+      "shot": {
+        "act": "conflicto",
+        "angle": "low",
+        "place": "Galerías Norte, área infantil y carrusel",
+        "sound": "",
+        "camera": "tracking",
+        "start_s": 10,
+        "dialogue": [
+          {
+            "line": "Estas huellas son de hoy.",
+            "speaker": "IRENE"
+          }
+        ],
+        "shot_size": "full",
+        "voiceover": "",
+        "characters": [
+          "IRENE"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Camera tracks low along the line of small footprints toward the carousel while the flashlight beam follows them. IRENE stays crouched. Water drips somewhere in the hall."
+      }
+    },
+    {
+      "role": "s04",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Dos coches iguales: uno en la fuente y otro bajo la lona del caballo.",
+      "image_path": "images/s04.jpg",
+      "scene_text": "IRENE sostiene la lona levantada junto al caballo de madera del carrusel; sobre la silla, un segundo coche rojo idéntico al primero.\nIRENE: Son dos. En la foto Dani solo lleva uno.\n(Tarareo infantil muy bajo, lejano)",
+      "beat": "pregunta",
+      "shot": {
+        "act": "pregunta",
+        "angle": "eye_level",
+        "place": "Galerías Norte, área infantil y carrusel",
+        "sound": "Tarareo infantil muy bajo, lejano",
+        "camera": "rack focus",
+        "start_s": 15,
+        "dialogue": [
+          {
+            "line": "Son dos. En la foto Dani solo lleva uno.",
+            "speaker": "IRENE"
+          }
+        ],
+        "shot_size": "over_shoulder",
+        "voiceover": "",
+        "characters": [
+          "IRENE"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Focus shifts from IRENE's shoulder to the red car on the saddle. Her flashlight hand tightens. A faint child's hum drifts in from the dark, low and distant."
+      }
+    }
+  ],
+  "cover_image": "worlds/monedas-en-la-fuente-seca/images/hero.jpg"
+}
