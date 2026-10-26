@@ -1,0 +1,333 @@
+{
+  "name": "La caja de cereales",
+  "slug": "la-caja-de-cereales",
+  "tags": [
+    "noir",
+    "ciencia",
+    "paranoia",
+    "energía",
+    "espionaje"
+  ],
+  "cover": {
+    "logline": "Emil, un científico que ha escondido su fórmula de energía en una caja de cereales, quiere que Vance, asesor del gobierno, se marche sin tocarla.",
+    "synopsis": "En una ciudad donde llueve sin parar, Emil, un científico de mediana edad, vive solo en un piso pequeño con azulejos desgastados y una lámpara que parpadea en la cocina. Ha descubierto una fuente de energía nueva y ha escrito la fórmula en una hoja que esconde dentro de una caja de cereales sobre la encimera. Una noche, Vance, asesor del gobierno, llama a su puerta con un sobre grueso y una sonrisa fría para ofrecerle un trato. Emil quiere conservar su descubrimiento y decidir quién lo usa; Vance quiere la fórmula y tiene recursos para conseguirla. La regla de este mundo es que nadie habla alto de lo que sabe: todo se dice con sobres, sonrisas y silencios. Lo que está en juego es quién controlará la energía y si Emil podrá seguir siendo libre. La pregunta de la serie es si Emil logrará proteger la fórmula de la caja de cereales sin que el gobierno la encuentre.",
+    "branch_seeds": [
+      {
+        "title": "El sobre sin abrir",
+        "what_if": "¿Y si Emil abre el sobre de Vance y encuentra dentro una foto de su hija?"
+      },
+      {
+        "title": "La caja equivocada",
+        "what_if": "¿Y si Emil sale a comprar el pan y al volver encuentra la caja de cereales vacía sobre la encimera?"
+      },
+      {
+        "title": "El vecino de arriba",
+        "what_if": "¿Y si el vecino de arriba llama a la puerta de Emil con la misma caja de cereales en las manos?"
+      }
+    ],
+    "central_question": "¿Logrará Emil proteger la fórmula escondida en la caja de cereales de Vance y del gobierno?"
+  },
+  "places": [
+    {
+      "name": "El piso de Emil",
+      "atmosphere": "húmeda, silenciosa, bajo la lluvia",
+      "visual_description": "Small kitchen with worn tiles, cereal box on the counter, flickering ceiling lamp, rain-streaked window"
+    }
+  ],
+  "status": "developing",
+  "chapter": {
+    "acts": [
+      {
+        "key": "mundo",
+        "end_s": 5,
+        "label": "Mundo",
+        "shots": [
+          {
+            "id": "s01",
+            "act": "mundo",
+            "angle": "eye_level",
+            "place": "El piso de Emil",
+            "sound": "Lluvia golpeando el cristal.",
+            "action": "Emil, de pie junto a la encimera al fondo, sujeta una hoja doblada y mira hacia la puerta en alerta; la caja de cereales abierta ocupa el centro en primer término.",
+            "camera": "slow push-in",
+            "caption": "Emil esconde algo en su propia cocina y teme que alguien llegue.",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "EMIL"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Wide shot of a small apartment kitchen at night. A cereal box with its flaps open and a corner of paper sticking out sits large in the centre foreground on the counter. EMIL stands behind it in the left background, tense, a folded sheet in his hand, head turned toward a closed door at the far right. Warm lamp light, rain-streaked window behind, cold blue tint at the edges.",
+            "video_prompt": "EMIL tightens his grip on the folded sheet and keeps his eyes on the door; rain streaks run down the window; slow push-in toward the cereal box; steady rain sound.",
+            "image_path": "images/s01.jpg"
+          }
+        ],
+        "start_s": 0
+      },
+      {
+        "key": "protagonista",
+        "end_s": 10,
+        "label": "Protagonista",
+        "shots": [
+          {
+            "id": "s02",
+            "act": "protagonista",
+            "angle": "high",
+            "place": "El piso de Emil",
+            "sound": "Papel rozando cartón.",
+            "action": "Emil, con los dedos manchados de tinta, desliza la hoja doblada entre los cereales de la caja abierta sobre la encimera, con la lámpara reflejada en los azulejos.",
+            "camera": "slow push-in",
+            "caption": "Emil es químico y esconde aquí su investigación para que nadie la encuentre.",
+            "start_s": 5,
+            "dialogue": [],
+            "shot_size": "medium_close",
+            "voiceover": "",
+            "characters": [
+              "EMIL"
+            ],
+            "duration_s": 5,
+            "image_prompt": "High-angle medium close-up of EMIL at the kitchen counter, frame left, his ink-stained fingers pushing a folded sheet of paper down into an open cereal box in the lower right foreground, cereal pieces visible inside the open top, warm lamp light reflected on the tiles behind, dark rainy window in the upper background.",
+            "video_prompt": "EMIL's ink-stained fingers push the folded sheet down between the cereal until only a corner shows; slow push-in from above; soft paper rubbing on cardboard, faint rain on glass.",
+            "image_path": "images/s02.jpg"
+          }
+        ],
+        "start_s": 5
+      },
+      {
+        "key": "conflicto",
+        "end_s": 15,
+        "label": "Conflicto",
+        "shots": [
+          {
+            "id": "s03",
+            "act": "conflicto",
+            "angle": "eye_level",
+            "place": "El piso de Emil",
+            "sound": "Tres golpes en la puerta; lluvia contra el cristal.",
+            "action": "Vance, en el umbral de la puerta abierta al fondo, sonríe y sostiene un sobre grueso; Emil, de espaldas en primer término, tapa con el cuerpo la caja de cereales sobre la encimera.",
+            "camera": "slow push-in",
+            "caption": "Vance es un desconocido que viene a comprar lo que Emil esconde en la caja.",
+            "start_s": 10,
+            "dialogue": [
+              {
+                "line": "Buenas noches, doctor. Le traigo una oferta que no va a querer rechazar.",
+                "speaker": "VANCE"
+              }
+            ],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "EMIL",
+              "VANCE"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Over-the-shoulder shot from behind EMIL, large dark silhouette in the left foreground, his body shielding a cereal box on the kitchen counter at lower right. In the background VANCE stands in the open doorway, smiling, holding a thick envelope in one hand. Cold hallway light behind Vance, warm lamp glow on the counter tiles.",
+            "video_prompt": "VANCE raises the thick envelope slightly and speaks with a smile while EMIL stays rigid, shoulders tensing over the cereal box; slow push-in; three knocks, then rain against the window.",
+            "image_path": "images/s03.jpg"
+          }
+        ],
+        "start_s": 10
+      },
+      {
+        "key": "pregunta",
+        "end_s": 20,
+        "label": "Pregunta",
+        "shots": [
+          {
+            "id": "s04",
+            "act": "pregunta",
+            "angle": "high",
+            "place": "El piso de Emil",
+            "sound": "Sobre golpeando la encimera; lluvia en el cristal.",
+            "action": "El sobre grueso de Vance reposa en la encimera pegado a la caja de cereales, y la mano manchada de tinta de Emil queda suspendida entre ambos, con los dedos tensos.",
+            "camera": "slow push-in",
+            "caption": "Vance ofrece dinero por lo que Emil guarda; Emil debe decidir antes de mañana.",
+            "start_s": 15,
+            "dialogue": [
+              {
+                "line": "Piénselo bien, Emil. Volveré mañana.",
+                "speaker": "VANCE"
+              }
+            ],
+            "shot_size": "close_up",
+            "voiceover": "",
+            "characters": [
+              "EMIL",
+              "VANCE"
+            ],
+            "duration_s": 5,
+            "image_prompt": "High-angle close-up of a kitchen counter: a thick manila envelope in the right foreground pressed against an open cereal box at left, EMIL's ink-stained hand hovering in the middle just above both, fingers spread and trembling, undecided. VANCE's blurred dark figure in the doorway at the upper edge. Warm lamp light, reflected in the tiles behind.",
+            "video_prompt": "The envelope has just landed; EMIL's ink-stained hand hovers and the fingers tighten, unable to choose between envelope and box. VANCE's blurred silhouette turns away in the background. Slow push-in; rain on glass, envelope thud.",
+            "image_path": "images/s04.jpg"
+          }
+        ],
+        "start_s": 15
+      }
+    ],
+    "logline": "Emil, un científico que ha escondido su fórmula de energía en una caja de cereales, quiere que Vance, asesor del gobierno, se marche sin tocarla.",
+    "language": "es",
+    "structure": "premise",
+    "duration_s": 20,
+    "exit_question": "¿Qué hará Emil con el sobre grueso que Vance deja junto a la caja de cereales?",
+    "entry_question": "¿Qué guarda Emil dentro de una caja de cereales que esconde con tanto cuidado?",
+    "schema_version": "3.0"
+  },
+  "world_id": "w_mgyekd",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "EMIL",
+      "arc_summary": "Quiere proteger su descubrimiento y decidir quién lo usa, aunque cada vez tiene menos aliados.",
+      "visual_description": "Tired middle-aged man, medium build, messy dark hair, dark circles under his eyes, wrinkled shirt, hands stained with ink, carries a folded sheet of paper",
+      "reference_image_path": "images/characters/emil.jpg",
+      "reference_kind": "sheet"
+    },
+    {
+      "role": "antagonist",
+      "label": "VANCE",
+      "arc_summary": "Busca la fórmula para el gobierno y ofrece un trato que esconde una amenaza.",
+      "visual_description": "Impeccable man in his forties, slicked dark hair, dark tailored suit, cold smile, holds a thick envelope",
+      "reference_image_path": "images/characters/vance.jpg",
+      "reference_kind": "sheet"
+    }
+  ],
+  "created_at": "2026-10-26T20:31:09.801Z",
+  "created_by": "@germanna",
+  "description": "En un piso de ciudad lluviosa, un científico esconde su mayor hallazgo en la caja de cereales de su cocina. Un asesor del gobierno llega con un sobre y una sonrisa.",
+  "story_bible": {
+    "tone": "noir, tenso, paranoico",
+    "setting": "Piso pequeño en una ciudad donde llueve sin parar, con cocina de azulejos desgastados y lámpara que parpadea",
+    "timeline": {
+      "span": "Unos días",
+      "type": "relative",
+      "unit": "noche",
+      "anchor": "La noche en que Vance llama a la puerta"
+    },
+    "world_rules": [
+      "Nadie habla abiertamente de lo que sabe: todo se dice con sobres, sonrisas y silencios.",
+      "La fórmula existe solo en una hoja de papel escondida en la caja de cereales."
+    ],
+    "visual_treatment": "noir",
+    "default_structure": "three_act"
+  },
+  "schema_version": "3.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "¿Logrará Emil proteger la fórmula escondida en la caja de cereales de Vance y del gobierno?",
+      "image_path": "images/hero.jpg"
+    },
+    {
+      "role": "s01",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Emil esconde algo en su propia cocina y teme que alguien llegue.",
+      "image_path": "images/s01.jpg",
+      "scene_text": "Emil, de pie junto a la encimera al fondo, sujeta una hoja doblada y mira hacia la puerta en alerta; la caja de cereales abierta ocupa el centro en primer término.\n(Lluvia golpeando el cristal.)",
+      "beat": "mundo",
+      "shot": {
+        "act": "mundo",
+        "angle": "eye_level",
+        "place": "El piso de Emil",
+        "sound": "Lluvia golpeando el cristal.",
+        "camera": "slow push-in",
+        "start_s": 0,
+        "dialogue": [],
+        "shot_size": "wide",
+        "voiceover": "",
+        "characters": [
+          "EMIL"
+        ],
+        "duration_s": 5,
+        "video_prompt": "EMIL tightens his grip on the folded sheet and keeps his eyes on the door; rain streaks run down the window; slow push-in toward the cereal box; steady rain sound."
+      }
+    },
+    {
+      "role": "s02",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Emil es químico y esconde aquí su investigación para que nadie la encuentre.",
+      "image_path": "images/s02.jpg",
+      "scene_text": "Emil, con los dedos manchados de tinta, desliza la hoja doblada entre los cereales de la caja abierta sobre la encimera, con la lámpara reflejada en los azulejos.\n(Papel rozando cartón.)",
+      "beat": "protagonista",
+      "shot": {
+        "act": "protagonista",
+        "angle": "high",
+        "place": "El piso de Emil",
+        "sound": "Papel rozando cartón.",
+        "camera": "slow push-in",
+        "start_s": 5,
+        "dialogue": [],
+        "shot_size": "medium_close",
+        "voiceover": "",
+        "characters": [
+          "EMIL"
+        ],
+        "duration_s": 5,
+        "video_prompt": "EMIL's ink-stained fingers push the folded sheet down between the cereal until only a corner shows; slow push-in from above; soft paper rubbing on cardboard, faint rain on glass."
+      }
+    },
+    {
+      "role": "s03",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Vance es un desconocido que viene a comprar lo que Emil esconde en la caja.",
+      "image_path": "images/s03.jpg",
+      "scene_text": "Vance, en el umbral de la puerta abierta al fondo, sonríe y sostiene un sobre grueso; Emil, de espaldas en primer término, tapa con el cuerpo la caja de cereales sobre la encimera.\nVANCE: Buenas noches, doctor. Le traigo una oferta que no va a querer rechazar.\n(Tres golpes en la puerta; lluvia contra el cristal.)",
+      "beat": "conflicto",
+      "shot": {
+        "act": "conflicto",
+        "angle": "eye_level",
+        "place": "El piso de Emil",
+        "sound": "Tres golpes en la puerta; lluvia contra el cristal.",
+        "camera": "slow push-in",
+        "start_s": 10,
+        "dialogue": [
+          {
+            "line": "Buenas noches, doctor. Le traigo una oferta que no va a querer rechazar.",
+            "speaker": "VANCE"
+          }
+        ],
+        "shot_size": "over_shoulder",
+        "voiceover": "",
+        "characters": [
+          "EMIL",
+          "VANCE"
+        ],
+        "duration_s": 5,
+        "video_prompt": "VANCE raises the thick envelope slightly and speaks with a smile while EMIL stays rigid, shoulders tensing over the cereal box; slow push-in; three knocks, then rain against the window."
+      }
+    },
+    {
+      "role": "s04",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Vance ofrece dinero por lo que Emil guarda; Emil debe decidir antes de mañana.",
+      "image_path": "images/s04.jpg",
+      "scene_text": "El sobre grueso de Vance reposa en la encimera pegado a la caja de cereales, y la mano manchada de tinta de Emil queda suspendida entre ambos, con los dedos tensos.\nVANCE: Piénselo bien, Emil. Volveré mañana.\n(Sobre golpeando la encimera; lluvia en el cristal.)",
+      "beat": "pregunta",
+      "shot": {
+        "act": "pregunta",
+        "angle": "high",
+        "place": "El piso de Emil",
+        "sound": "Sobre golpeando la encimera; lluvia en el cristal.",
+        "camera": "slow push-in",
+        "start_s": 15,
+        "dialogue": [
+          {
+            "line": "Piénselo bien, Emil. Volveré mañana.",
+            "speaker": "VANCE"
+          }
+        ],
+        "shot_size": "close_up",
+        "voiceover": "",
+        "characters": [
+          "EMIL",
+          "VANCE"
+        ],
+        "duration_s": 5,
+        "video_prompt": "The envelope has just landed; EMIL's ink-stained hand hovers and the fingers tighten, unable to choose between envelope and box. VANCE's blurred silhouette turns away in the background. Slow push-in; rain on glass, envelope thud."
+      }
+    }
+  ],
+  "cover_image": "worlds/la-caja-de-cereales/images/hero.jpg"
+}
