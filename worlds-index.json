@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-26T20:33:16.475017+00:00",
-  "total_worlds": 51,
+  "generated_at": "2026-10-27T12:34:15.310359+00:00",
+  "total_worlds": 52,
   "total_branches": 63,
   "worlds": [
     {
@@ -1656,6 +1656,256 @@
           "scene_text": "Están sentadas. La carta está en la mesa. El silencio respira entre ellas.\n\nLA MADRE: No pedí perdón en la carta. No sabía cómo.\n\nELLA: ¿Y ahora?\n\nLA MADRE no responde. Pero por primera vez en 15 años, se miran de verdad. No saben si esto es un comienzo o el final de algo que murió hace mucho. Lo único cierto es que ahora lo saben ambas."
         }
       ]
+    },
+    {
+      "world_id": "w_hzroed",
+      "slug": "camara-en-el-detector",
+      "name": "Cámara en el detector",
+      "description": "Dos alumnos esconden una cámara en la sala de profesores y graban al director falsificando notas. Ahora tienen la prueba, y él empieza a buscar quién la tiene.",
+      "tags": [
+        "instituto",
+        "fraude",
+        "cámara oculta"
+      ],
+      "cover_image": "worlds/camara-en-el-detector/images/hero.jpg",
+      "created_by": "@germanna",
+      "created_at": "2026-10-27T12:32:23.535Z",
+      "status": "developing",
+      "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "NOA",
+          "arc_summary": "Pasa de anotar todo en silencio a decidir cuándo y a quién entregar la prueba.",
+          "visual_description": "17-year-old girl, short hair dyed red, long dark coat, headphones around her neck, small notebook in hand",
+          "reference_image_path": "images/characters/noa.jpg",
+          "reference_kind": "sheet"
+        },
+        {
+          "role": "protagonist",
+          "label": "BRUNO",
+          "arc_summary": "Pasa de entrar por la ventana por diversión a pagar el riesgo de haberlo hecho.",
+          "visual_description": "18-year-old tall boy, shaved head, worn leather jacket, scar through one eyebrow, crooked smile",
+          "reference_image_path": "images/characters/bruno.jpg",
+          "reference_kind": "sheet"
+        },
+        {
+          "role": "antagonist",
+          "label": "EL DIRECTOR",
+          "arc_summary": "Cambia notas por dinero y empieza a buscar quién lo graba.",
+          "visual_description": "55-year-old heavyset man, grey hair combed back, round glasses, charcoal suit, loosened maroon tie",
+          "reference_image_path": "images/characters/el-director.jpg",
+          "reference_kind": "sheet"
+        }
+      ],
+      "places": [
+        {
+          "name": "El patio trasero",
+          "atmosphere": "Atardecer gris, vacío",
+          "visual_description": "Back yard of a school with a metal fire escape, cracked concrete benches and a high lit staff-room window"
+        },
+        {
+          "name": "La sala de profesores",
+          "atmosphere": "Fría, silenciosa, fluorescente",
+          "visual_description": "Staff room with a long wooden table, a laptop, a metal desk with a drawer, a white smoke detector on the ceiling, cold fluorescent light"
+        }
+      ],
+      "story_bible": {
+        "tone": "Tenso, thriller",
+        "setting": "Un instituto público de ciudad, con la sala de profesores como centro y un patio trasero con escalera de incendios",
+        "timeline": {
+          "span": "Unas semanas hasta la entrega de notas",
+          "type": "relative",
+          "unit": "días",
+          "anchor": "Jueves de otoño en que se instala la cámara"
+        },
+        "world_rules": [
+          "El director controla las notas y los expedientes desde un único portátil.",
+          "Solo la sala de profesores tiene cámara oculta; el resto del instituto no tiene vigilancia.",
+          "Quien denuncie al director sin pruebas puede ser expulsado."
+        ],
+        "visual_treatment": "anime",
+        "default_structure": "three_act"
+      },
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "¿Podrán Noa y Bruno entregar la grabación del director y su sobre de billetes antes de que él descubra quién la hizo?",
+          "image_path": "worlds/camara-en-el-detector/images/hero.jpg"
+        },
+        {
+          "role": "s01",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Bruno y Noa se cuelan de noche en el instituto para vigilar al director.",
+          "image_path": "worlds/camara-en-el-detector/images/s01.jpg",
+          "scene_text": "Bruno, con cazadora de cuero, está de pie en la escalera de incendios y mete el destornillador en la carcasa abierta de un detector de humo, visible tras la ventana alta iluminada.\nNOA: Tienes dos minutos. Si oyes pasos, bajas.\n(Metal de la escalera que cruje bajo las botas.)",
+          "beat": "mundo",
+          "shot": {
+            "act": "mundo",
+            "angle": "low",
+            "place": "El patio trasero",
+            "sound": "Metal de la escalera que cruje bajo las botas.",
+            "camera": "slow push-in",
+            "start_s": 0,
+            "dialogue": [
+              {
+                "line": "Tienes dos minutos. Si oyes pasos, bajas.",
+                "speaker": "NOA"
+              }
+            ],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "BRUNO",
+              "NOA"
+            ],
+            "duration_s": 5,
+            "video_prompt": "BRUNO turns the screwdriver inside the open detector casing, the stairs flex slightly under his boots; NOA looks up from below and whispers her line; slow push-in; metal creaking, night quiet."
+          }
+        },
+        {
+          "role": "s02",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Bruno es el chico que vigila a Noa y ayuda a grabar al director.",
+          "image_path": "worlds/camara-en-el-detector/images/s02.jpg",
+          "scene_text": "Bruno, con sonrisa torcida, sostiene con dos dedos una cámara negra diminuta ya encajada en la carcasa abierta del detector de humo, en el techo sobre él.\nBRUNO: Ya está dentro. Ahora a esperar al director.\n(Clic seco de la carcasa.)",
+          "beat": "protagonista",
+          "shot": {
+            "act": "protagonista",
+            "angle": "low",
+            "place": "La sala de profesores",
+            "sound": "Clic seco de la carcasa.",
+            "camera": "slow push-in",
+            "start_s": 5,
+            "dialogue": [
+              {
+                "line": "Ya está dentro. Ahora a esperar al director.",
+                "speaker": "BRUNO"
+              }
+            ],
+            "shot_size": "close_up",
+            "voiceover": "",
+            "characters": [
+              "BRUNO"
+            ],
+            "duration_s": 5,
+            "video_prompt": "BRUNO keeps his fingers on the camera, his crooked smile widens slightly and he speaks his line quietly; the casing gives a dry click. Slow push-in toward his face; faint fluorescent hum."
+          }
+        },
+        {
+          "role": "s03",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "El director vende notas a los alumnos; Noa y Bruno quieren pruebas.",
+          "image_path": "worlds/camara-en-el-detector/images/s03.jpg",
+          "scene_text": "El director, sentado ante un portátil abierto, teclea con una mano y aprieta con la otra un sobre abierto lleno de billetes sobre el escritorio.\nEL DIRECTOR: Un cinco pasa a notable. Son quinientos euros.\n(Teclas rápidas.)",
+          "beat": "conflicto",
+          "shot": {
+            "act": "conflicto",
+            "angle": "high",
+            "place": "La sala de profesores",
+            "sound": "Teclas rápidas.",
+            "camera": "slow push-in",
+            "start_s": 10,
+            "dialogue": [
+              {
+                "line": "Un cinco pasa a notable. Son quinientos euros.",
+                "speaker": "EL DIRECTOR"
+              }
+            ],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [
+              "EL DIRECTOR"
+            ],
+            "duration_s": 5,
+            "video_prompt": "EL DIRECTOR types quickly with one hand while the other keeps the envelope of banknotes pressed on the desk and he speaks his line; slow push-in toward him; rapid keyboard clicks."
+          }
+        },
+        {
+          "role": "s04",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "La grabación del detector muestra al director guardando el sobre, y ahora él mira la cámara.",
+          "image_path": "worlds/camara-en-el-detector/images/s04.jpg",
+          "scene_text": "Noa, en el patio, sostiene el móvil en primer término; en la pantalla el director, de pie bajo el detector, alza la cabeza hacia la cámara con el sobre en la mano.\nNOA: Bruno, sal ya. Nos ha visto.\n(Respiración contenida de Noa; zumbido leve del móvil.)",
+          "beat": "pregunta",
+          "shot": {
+            "act": "pregunta",
+            "angle": "high",
+            "place": "La sala de profesores",
+            "sound": "Respiración contenida de Noa; zumbido leve del móvil.",
+            "camera": "slow push-in",
+            "start_s": 15,
+            "dialogue": [
+              {
+                "line": "Bruno, sal ya. Nos ha visto.",
+                "speaker": "NOA"
+              }
+            ],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "NOA",
+              "EL DIRECTOR"
+            ],
+            "duration_s": 5,
+            "video_prompt": "On the phone screen the director keeps his gaze fixed on the detector, the envelope trembling slightly in his hand; Noa's thumb tightens on the phone. Slow push-in toward the screen; tense silence, her whispered line."
+          }
+        }
+      ],
+      "cover": {
+        "logline": "Noa y Bruno, dos alumnos rebeldes, graban al director del instituto cambiando notas y guardando billetes, pero él puede borrar sus propias notas, y las de ellos.",
+        "synopsis": "Un instituto de ciudad, un jueves de otoño por la tarde, con los pasillos casi vacíos. Noa, de 17 años, cerebral, lo graba y lo anota todo en una libreta. Bruno, de 18, temerario, entra donde no debe. Los dos sospechan que el director cambia notas a cambio de dinero y esconden una cámara diminuta en el detector de humo de la sala de profesores. Desde el patio trasero, Noa recibe la imagen en su móvil y ve al director teclear en un portátil y guardar un sobre de billetes en un cajón. En su mano está la prueba, pero también el riesgo: el director controla las notas, los expedientes y las expulsiones, y puede borrar a quien lo denuncie. En este mundo, quien tiene el portátil decide qué alumnos aprueban. La pregunta de la serie es si Noa y Bruno podrán entregar la grabación antes de que el director descubra quién la hizo.",
+        "branch_seeds": [
+          {
+            "title": "El director mira el detector",
+            "what_if": "¿Qué pasaría si el director sube a una silla, abre el detector de humo y encuentra la cámara vacía?"
+          },
+          {
+            "title": "La copia en la libreta",
+            "what_if": "¿Qué pasaría si Noa copia en su libreta los nombres de los alumnos que aparecen en el portátil del director?"
+          },
+          {
+            "title": "El cajón con llave",
+            "what_if": "¿Qué pasaría si Bruno entra por la ventana de noche y fuerza el cajón donde el director guarda el sobre?"
+          }
+        ],
+        "central_question": "¿Podrán Noa y Bruno entregar la grabación del director y su sobre de billetes antes de que él descubra quién la hizo?"
+      },
+      "chapter_meta": {
+        "schema_version": "3.0",
+        "structure": "premise",
+        "duration_s": 20,
+        "logline": "Noa y Bruno, dos alumnos rebeldes, graban al director del instituto cambiando notas y guardando billetes, pero él puede borrar sus propias notas, y las de ellos.",
+        "entry_question": "¿Qué hace un chico subido a una escalera de incendios con el detector de humo de la sala de profesores abierto?",
+        "exit_question": "¿Qué hará Noa con la grabación que muestra al director guardando el sobre, ahora que él mira hacia el detector?",
+        "acts": [
+          {
+            "key": "mundo",
+            "label": "Mundo",
+            "start_s": 0,
+            "end_s": 5
+          },
+          {
+            "key": "protagonista",
+            "label": "Protagonista",
+            "start_s": 5,
+            "end_s": 10
+          },
+          {
+            "key": "conflicto",
+            "label": "Conflicto",
+            "start_s": 10,
+            "end_s": 15
+          },
+          {
+            "key": "pregunta",
+            "label": "Pregunta",
+            "start_s": 15,
+            "end_s": 20
+          }
+        ]
+      }
     },
     {
       "world_id": "w_cmpho",
