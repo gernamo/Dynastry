@@ -1,0 +1,344 @@
+{
+  "name": "La caja de galletas",
+  "slug": "la-caja-de-galletas",
+  "tags": [],
+  "cover": {
+    "logline": "Ji-ho, dueño de una panadería de Seúl, quiere saber quién dejó en su mostrador una caja con la letra de su carta de instituto, y Seo-yeon, la repartidora que la trajo, calla.",
+    "synopsis": "Seúl, hoy, en la Panadería Moon, un local pequeño de barrio con mostrador de piedra clara, estantes de madera y un timbre de latón sobre la puerta. Ji-ho, de 32 años, heredó el negocio y cuenta las ventas cada noche. Seo-yeon, también de 32, reparte el pan cada mañana en bicicleta y lleva las cajas atadas con cuerda. Hace quince años fueron compañeros de instituto. En el último día de clase ella se mudó a Busan sin despedirse y él le escribió una carta que nunca tuvo respuesta. Una tarde, Ji-ho encuentra en el mostrador una caja de galletas con la letra de esa carta pegada dentro de la tapa. Seo-yeon, que hace el reparto, dice no saber nada. Lo que está en juego es si podrán hablar de aquel último día o seguirán trabajando juntos en silencio. La pregunta de la serie: ¿quién dejó la caja y qué respuesta le debe Seo-yeon a Ji-ho?",
+    "branch_seeds": [
+      {
+        "title": "La caja de la mañana",
+        "what_if": "¿Y si Ji-ho revisa las cajas del reparto de Seo-yeon y encuentra en otra la misma letra?"
+      },
+      {
+        "title": "El tren a Busan",
+        "what_if": "¿Y si Seo-yeon saca de su bolsa un billete de tren a Busan que guarda desde hace quince años?"
+      },
+      {
+        "title": "La carta contestada",
+        "what_if": "¿Y si Ji-ho encuentra bajo el mostrador una respuesta escrita hace quince años que nunca se envió?"
+      }
+    ],
+    "central_question": "¿Quién dejó la caja de galletas con la carta en el mostrador de Ji-ho y qué respuesta le debe Seo-yeon quince años después?"
+  },
+  "places": [
+    {
+      "name": "Panadería Moon",
+      "atmosphere": "luz cálida de tarde, silenciosa, nostálgica",
+      "visual_description": "small modern bakery in a quiet Seoul neighborhood, clear stone counter, pale wood shelves lined with bread and pastries, a large street-facing window, a brass bell over the door, a chalkboard menu"
+    }
+  ],
+  "status": "developing",
+  "chapter": {
+    "acts": [
+      {
+        "key": "mundo",
+        "end_s": 5,
+        "label": "Mundo",
+        "shots": [
+          {
+            "id": "s01",
+            "act": "mundo",
+            "angle": "eye_level",
+            "place": "Panadería Moon",
+            "sound": "El timbre de latón sobre la puerta.",
+            "action": "JI-HO, de pie tras el mostrador de piedra clara, mira una caja de galletas colocada sola en el centro, mientras la luz de la tarde entra por el ventanal.",
+            "camera": "slow push-in",
+            "caption": "Panadería Moon, Seúl, última hora de la tarde. Ji-ho cuenta las ventas cada día.",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "JI-HO"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Wide vertical shot inside a small modern Seoul bakery. JI-HO, a man of 32 with round glasses, rolled-up shirt sleeves and an apron with a small tear, stands behind a clear stone counter in the middle of the frame, looking down at a single cookie box placed alone on it. Pale wood shelves of bread on the left. Warm low late-afternoon sun from the large window on the right.",
+            "video_prompt": "Slow push-in toward Ji-ho as he stares at the lone box on the counter. Dust floats in the sunbeam. The brass bell over the door rings faintly once.",
+            "image_path": "images/s01.jpg"
+          }
+        ],
+        "start_s": 0
+      },
+      {
+        "key": "protagonista",
+        "end_s": 10,
+        "label": "Protagonista",
+        "shots": [
+          {
+            "id": "s02",
+            "act": "protagonista",
+            "angle": "high",
+            "place": "Panadería Moon",
+            "sound": "Silencio del local; un crujido leve del cartón.",
+            "action": "Ji-ho sostiene con los dedos de ambas manos la tapa levantada de la caja; dentro, una carta doblada con renglones de tinta azul a mano está pegada.",
+            "camera": "slow push-in",
+            "caption": "Ji-ho escribió esa carta hace quince años y nunca supo si fue leída.",
+            "start_s": 5,
+            "dialogue": [
+              {
+                "line": "Esta letra... la reconozco. Es la mía.",
+                "speaker": "JI-HO"
+              }
+            ],
+            "shot_size": "medium_close",
+            "voiceover": "",
+            "characters": [
+              "JI-HO"
+            ],
+            "duration_s": 5,
+            "image_prompt": "High-angle medium close-up of JI-HO behind a pale stone counter, both hands gripping the raised lid of an open cookie tin at the lower right. On the lid's inner side a folded handwritten letter is taped, its blue ink lines and a large looped first character clearly visible. His eyes look down at it. Warm afternoon window light from the left, soft bakery shelves blurred behind.",
+            "video_prompt": "JI-HO holds the lid steady, his eyes move along the handwritten lines and his lips part to speak the line quietly; slow push-in toward the letter and his face; faint cardboard creak.",
+            "image_path": "images/s02.jpg"
+          }
+        ],
+        "start_s": 5
+      },
+      {
+        "key": "conflicto",
+        "end_s": 15,
+        "label": "Conflicto",
+        "shots": [
+          {
+            "id": "s03",
+            "act": "conflicto",
+            "angle": "eye_level",
+            "place": "Panadería Moon",
+            "sound": "Lluvia suave tras la puerta; el timbre de latón vibra un instante.",
+            "action": "Seo-yeon, junto a la puerta con impermeable amarillo y casco colgado de la muñeca, sujeta una cuerda y mira al suelo, mientras Ji-ho la observa desde el fondo.",
+            "camera": "slow push-in",
+            "caption": "Seo-yeon reparte las cajas de galletas de la panadería.",
+            "start_s": 10,
+            "dialogue": [
+              {
+                "line": "¿Quién trajo esta caja?",
+                "speaker": "JI-HO"
+              },
+              {
+                "line": "Yo solo las llevo.",
+                "speaker": "SEO-YEON"
+              }
+            ],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [
+              "SEO-YEON",
+              "JI-HO"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Medium shot in a bakery, SEO-YEON in the left foreground by the glass door in a yellow raincoat, a helmet hanging from her wrist, one hand gripping a rope, her gaze lowered away from the room. JI-HO, small and blurred in the background right behind the pale stone counter. Cool grey daylight from the door, warm lamp glow at the back.",
+            "video_prompt": "JI-HO speaks his question from the back; SEO-YEON keeps her eyes down, tightens her grip on the rope and answers briefly; slow push-in toward her; soft rain and brass bell sound.",
+            "image_path": "images/s03.jpg"
+          }
+        ],
+        "start_s": 10
+      },
+      {
+        "key": "pregunta",
+        "end_s": 20,
+        "label": "Pregunta",
+        "shots": [
+          {
+            "id": "s04",
+            "act": "pregunta",
+            "angle": "top_down",
+            "place": "Panadería Moon",
+            "sound": "Un bolígrafo que se posa sobre la piedra.",
+            "action": "JI-HO deja sobre el mostrador de piedra una hoja en blanco y un bolígrafo, junto a la caja abierta, con la mano apoyada junto al papel.",
+            "camera": "static",
+            "caption": "Ji-ho nunca recibió respuesta a su carta. Hoy quiere escribir la suya.",
+            "start_s": 15,
+            "dialogue": [
+              {
+                "line": "Quince años tarde, pero esta vez sí contesto.",
+                "speaker": "JI-HO"
+              }
+            ],
+            "shot_size": "insert",
+            "voiceover": "",
+            "characters": [
+              "JI-HO"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Top-down insert shot of a clear stone counter. In the center, an open cookie box with a folded handwritten sheet inside its lid; in front of it a blank sheet of paper and a pen. JI-HO's hand with a rolled-up shirt sleeve rests beside the paper at the lower right. Warm amber light from the upper left, long soft shadows.",
+            "video_prompt": "Static top-down view. Ji-ho's hand lays the pen next to the blank page and stays there. A soft click of the pen on stone. Warm light holds steady.",
+            "image_path": "images/s04.jpg"
+          }
+        ],
+        "start_s": 15
+      }
+    ],
+    "logline": "Ji-ho, dueño de una panadería de Seúl, quiere saber quién dejó en su mostrador una caja con la letra de su carta de instituto, y Seo-yeon, la repartidora que la trajo, calla.",
+    "language": "es",
+    "structure": "premise",
+    "duration_s": 20,
+    "exit_question": "¿Responderá Seo-yeon a la carta que Ji-ho escribió hace quince años?",
+    "entry_question": "¿Por qué hay en el mostrador de Ji-ho una caja de galletas con la letra de su antigua carta?",
+    "schema_version": "3.0"
+  },
+  "world_id": "w_o2eayg",
+  "characters": [
+    {
+      "role": "protagonist",
+      "label": "JI-HO",
+      "arc_summary": "Quiere dar por fin respuesta a una carta que nunca tuvo contestación.",
+      "visual_description": "man, 32, rolled-up shirt sleeves, round glasses, apron with a small tear",
+      "reference_image_path": "images/characters/ji-ho.jpg",
+      "reference_kind": "sheet"
+    },
+    {
+      "role": "protagonist",
+      "label": "SEO-YEON",
+      "arc_summary": "Calla sobre la caja y sobre el último día de instituto, pero sigue llegando cada mañana.",
+      "visual_description": "woman, 32, short hair, yellow raincoat, bicycle helmet hanging from her wrist",
+      "reference_image_path": "images/characters/seo-yeon.jpg",
+      "reference_kind": "sheet"
+    }
+  ],
+  "created_at": "2026-11-19T14:03:57.745Z",
+  "created_by": "@germanna",
+  "description": "Quince años después de un último día de instituto sin despedida, Ji-ho y Seo-yeon trabajan en la misma panadería de Seúl. Una caja de galletas vuelve a abrir una carta que nunca tuvo respuesta.",
+  "story_bible": {
+    "tone": "tierno y melancólico",
+    "setting": "Panadería de barrio en Seúl, con mostrador de piedra clara, estantes de madera y un gran ventanal a la calle",
+    "timeline": {
+      "span": "Quince años",
+      "type": "relative",
+      "unit": "años",
+      "anchor": "El último día de instituto, hace quince años"
+    },
+    "world_rules": [
+      "Seo-yeon hace el reparto de la mañana en bicicleta y ata las cajas con cuerda",
+      "Ji-ho cuenta las ventas cada noche en el mostrador",
+      "La carta de instituto de Ji-ho nunca tuvo respuesta"
+    ],
+    "visual_treatment": "anime",
+    "default_structure": "three_act"
+  },
+  "schema_version": "3.0",
+  "images": [
+    {
+      "role": "hero",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "¿Quién dejó la caja de galletas con la carta en el mostrador de Ji-ho y qué respuesta le debe Seo-yeon quince años después?",
+      "image_path": "images/hero.jpg"
+    },
+    {
+      "role": "s01",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Panadería Moon, Seúl, última hora de la tarde. Ji-ho cuenta las ventas cada día.",
+      "image_path": "images/s01.jpg",
+      "scene_text": "JI-HO, de pie tras el mostrador de piedra clara, mira una caja de galletas colocada sola en el centro, mientras la luz de la tarde entra por el ventanal.\n(El timbre de latón sobre la puerta.)",
+      "beat": "mundo",
+      "shot": {
+        "act": "mundo",
+        "angle": "eye_level",
+        "place": "Panadería Moon",
+        "sound": "El timbre de latón sobre la puerta.",
+        "camera": "slow push-in",
+        "start_s": 0,
+        "dialogue": [],
+        "shot_size": "wide",
+        "voiceover": "",
+        "characters": [
+          "JI-HO"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Slow push-in toward Ji-ho as he stares at the lone box on the counter. Dust floats in the sunbeam. The brass bell over the door rings faintly once."
+      }
+    },
+    {
+      "role": "s02",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ji-ho escribió esa carta hace quince años y nunca supo si fue leída.",
+      "image_path": "images/s02.jpg",
+      "scene_text": "Ji-ho sostiene con los dedos de ambas manos la tapa levantada de la caja; dentro, una carta doblada con renglones de tinta azul a mano está pegada.\nJI-HO: Esta letra... la reconozco. Es la mía.\n(Silencio del local; un crujido leve del cartón.)",
+      "beat": "protagonista",
+      "shot": {
+        "act": "protagonista",
+        "angle": "high",
+        "place": "Panadería Moon",
+        "sound": "Silencio del local; un crujido leve del cartón.",
+        "camera": "slow push-in",
+        "start_s": 5,
+        "dialogue": [
+          {
+            "line": "Esta letra... la reconozco. Es la mía.",
+            "speaker": "JI-HO"
+          }
+        ],
+        "shot_size": "medium_close",
+        "voiceover": "",
+        "characters": [
+          "JI-HO"
+        ],
+        "duration_s": 5,
+        "video_prompt": "JI-HO holds the lid steady, his eyes move along the handwritten lines and his lips part to speak the line quietly; slow push-in toward the letter and his face; faint cardboard creak."
+      }
+    },
+    {
+      "role": "s03",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Seo-yeon reparte las cajas de galletas de la panadería.",
+      "image_path": "images/s03.jpg",
+      "scene_text": "Seo-yeon, junto a la puerta con impermeable amarillo y casco colgado de la muñeca, sujeta una cuerda y mira al suelo, mientras Ji-ho la observa desde el fondo.\nJI-HO: ¿Quién trajo esta caja?\nSEO-YEON: Yo solo las llevo.\n(Lluvia suave tras la puerta; el timbre de latón vibra un instante.)",
+      "beat": "conflicto",
+      "shot": {
+        "act": "conflicto",
+        "angle": "eye_level",
+        "place": "Panadería Moon",
+        "sound": "Lluvia suave tras la puerta; el timbre de latón vibra un instante.",
+        "camera": "slow push-in",
+        "start_s": 10,
+        "dialogue": [
+          {
+            "line": "¿Quién trajo esta caja?",
+            "speaker": "JI-HO"
+          },
+          {
+            "line": "Yo solo las llevo.",
+            "speaker": "SEO-YEON"
+          }
+        ],
+        "shot_size": "medium",
+        "voiceover": "",
+        "characters": [
+          "SEO-YEON",
+          "JI-HO"
+        ],
+        "duration_s": 5,
+        "video_prompt": "JI-HO speaks his question from the back; SEO-YEON keeps her eyes down, tightens her grip on the rope and answers briefly; slow push-in toward her; soft rain and brass bell sound."
+      }
+    },
+    {
+      "role": "s04",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ji-ho nunca recibió respuesta a su carta. Hoy quiere escribir la suya.",
+      "image_path": "images/s04.jpg",
+      "scene_text": "JI-HO deja sobre el mostrador de piedra una hoja en blanco y un bolígrafo, junto a la caja abierta, con la mano apoyada junto al papel.\nJI-HO: Quince años tarde, pero esta vez sí contesto.\n(Un bolígrafo que se posa sobre la piedra.)",
+      "beat": "pregunta",
+      "shot": {
+        "act": "pregunta",
+        "angle": "top_down",
+        "place": "Panadería Moon",
+        "sound": "Un bolígrafo que se posa sobre la piedra.",
+        "camera": "static",
+        "start_s": 15,
+        "dialogue": [
+          {
+            "line": "Quince años tarde, pero esta vez sí contesto.",
+            "speaker": "JI-HO"
+          }
+        ],
+        "shot_size": "insert",
+        "voiceover": "",
+        "characters": [
+          "JI-HO"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Static top-down view. Ji-ho's hand lays the pen next to the blank page and stays there. A soft click of the pen on stone. Warm light holds steady."
+      }
+    }
+  ],
+  "cover_image": "worlds/la-caja-de-galletas/images/hero.jpg"
+}
