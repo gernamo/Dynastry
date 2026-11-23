@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-11-19T14:06:14.033868+00:00",
-  "total_worlds": 53,
+  "generated_at": "2026-11-23T07:06:33.905778+00:00",
+  "total_worlds": 54,
   "total_branches": 63,
   "worlds": [
     {
@@ -3314,6 +3314,241 @@
           "scene_text": "Ella entra a la cocina después del servicio. El chef la ve pero no dice nada — en este lugar, eso es permitido solo una vez.\n\nVALENTINA camina hasta la ventanilla. Marco está aún allí, limpiando.\n\n«El postre», dice ella. «¿Eso eras tú?»\n\nMarco levanta la vista. Por primera vez, ve algo en su expresión que no es observación. Es reconocimiento."
         }
       ]
+    },
+    {
+      "world_id": "w_a7e6r0",
+      "slug": "el-torneo-de-los-elementales",
+      "name": "El torneo de los elementales",
+      "description": "En la Arena Vítrea, construida solo para el torneo de portadores de armas elementales, TOXIRA desafía a OCEAN con veneno. MELA, con su arma de fuego, y sus aliados tendrán que descubrir qué quiere marcar.",
+      "tags": [],
+      "cover_image": "worlds/el-torneo-de-los-elementales/images/hero.jpg",
+      "created_by": "@maspok",
+      "created_at": "2026-11-23T07:03:50.375Z",
+      "status": "developing",
+      "branches": [],
+      "characters": [
+        {
+          "role": "protagonist",
+          "label": "MELA",
+          "arc_summary": "Quiere ganar el torneo y proteger a sus aliados de rivales como TOXIRA.",
+          "visual_description": "Young woman, intense gaze, red hair, scar through her eyebrow, wearing a dark fitted fighting outfit with orange details, carrying a fire weapon that turns into a whip or shield",
+          "reference_image_path": "images/characters/mela.jpg",
+          "reference_kind": "sheet"
+        },
+        {
+          "role": "protagonist",
+          "label": "OCEAN",
+          "arc_summary": "Debe descubrir qué significa la marca que TOXIRA grabó junto a él.",
+          "visual_description": "Calm young man, dark navy-blue hair, light eyes, wearing a light blue and white fighting outfit, carrying a trident made of flowing water",
+          "reference_image_path": "images/characters/ocean.jpg",
+          "reference_kind": "sheet"
+        },
+        {
+          "role": "antagonist",
+          "label": "TOXIRA",
+          "arc_summary": "Provoca a OCEAN con veneno y una inicial cuyo sentido solo ella conoce.",
+          "visual_description": "Elegant woman, black hair pulled back in a bun, lips painted green, long dark fitted coat, a whip dripping green venom",
+          "reference_image_path": "images/characters/toxira.jpg",
+          "reference_kind": "sheet"
+        }
+      ],
+      "places": [
+        {
+          "name": "Arena Vítrea",
+          "atmosphere": "Brillante, fría y solemne",
+          "visual_description": "Futuristic tournament arena with bluish glass stands, glass boxes suspended above a glass ring and a dome open to the sky"
+        }
+      ],
+      "story_bible": {
+        "tone": "épico, misterioso, provocador",
+        "setting": "Arena Vítrea: recinto futurista de gradas de cristal azulado, palcos suspendidos sobre el ring y cúpula abierta al cielo, construido solo para el torneo de los elementales.",
+        "timeline": {
+          "span": "Los días del torneo",
+          "type": "relative",
+          "unit": "ronda",
+          "anchor": "Primera ronda del torneo"
+        },
+        "world_rules": [
+          "Cada portador lleva un arma de un único elemento que cambia de forma según su voluntad.",
+          "El torneo se celebra solo en la Arena Vítrea y reúne portadores de fuego, agua, rayo, veneno, luz, oscuridad y hielo."
+        ],
+        "visual_treatment": "anime",
+        "default_structure": "three_act"
+      },
+      "images": [
+        {
+          "role": "hero",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "¿Qué quiere decir la inicial que TOXIRA grabó en el ring de la Arena Vítrea, y sobrevivirán MELA y OCEAN al torneo para saberlo?",
+          "image_path": "worlds/el-torneo-de-los-elementales/images/hero.jpg"
+        },
+        {
+          "role": "s01",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "OCEAN es uno de los elementales que compiten hoy en el torneo.",
+          "image_path": "worlds/el-torneo-de-los-elementales/images/s01.jpg",
+          "scene_text": "OCEAN, pequeño en el centro del ring de cristal, baja la mirada hacia una gran gota verde brillante en primer plano, rodeado por las gradas azuladas en círculo.\n(Un goteo seco sobre el cristal.)",
+          "beat": "mundo",
+          "shot": {
+            "act": "mundo",
+            "angle": "high",
+            "place": "Arena Vítrea",
+            "sound": "Un goteo seco sobre el cristal.",
+            "camera": "slow push-in",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "OCEAN"
+            ],
+            "duration_s": 5,
+            "video_prompt": "The green droplet quivers on the glass and a faint ripple spreads; OCEAN stays still, head lowered; slow push-in toward the drop; a dry drip sound echoes in the arena."
+          }
+        },
+        {
+          "role": "s02",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "OCEAN es el elemental de agua; el palco es el de TOXIRA.",
+          "image_path": "worlds/el-torneo-de-los-elementales/images/s02.jpg",
+          "scene_text": "OCEAN sostiene en la mano derecha su tridente de agua con la punta hacia abajo y alza la mirada serena hacia un palco lejano, donde cuelga un látigo verde.\nOCEAN: Ese veneno no es de ninguno de mis rivales de hoy.\n(Goteo seco sobre el cristal.)",
+          "beat": "protagonista",
+          "shot": {
+            "act": "protagonista",
+            "angle": "low",
+            "place": "Arena Vítrea",
+            "sound": "Goteo seco sobre el cristal.",
+            "camera": "slow push-in",
+            "start_s": 5,
+            "dialogue": [
+              {
+                "line": "Ese veneno no es de ninguno de mis rivales de hoy.",
+                "speaker": "OCEAN"
+              }
+            ],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [
+              "OCEAN"
+            ],
+            "duration_s": 5,
+            "video_prompt": "OCEAN keeps the trident point down and raises his eyes toward the glass box, speaking calmly. A green drop falls from the whip in the box. Slow push-in toward his face; faint dripping on glass."
+          }
+        },
+        {
+          "role": "s03",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "TOXIRA es la rival que envenenó el ring donde OCEAN va a combatir.",
+          "image_path": "worlds/el-torneo-de-los-elementales/images/s03.jpg",
+          "scene_text": "TOXIRA, inclinada sobre la barandilla de un palco de cristal en lo alto, sostiene su látigo verde del que cae una gota hacia OCEAN, diminuto en el ring.\nTOXIRA: Sonríe, agua. Ese veneno es mío.\n(Chasquido del látigo y goteo seco sobre el cristal.)",
+          "beat": "conflicto",
+          "shot": {
+            "act": "conflicto",
+            "angle": "low",
+            "place": "Arena Vítrea",
+            "sound": "Chasquido del látigo y goteo seco sobre el cristal.",
+            "camera": "slow push-in",
+            "start_s": 10,
+            "dialogue": [
+              {
+                "line": "Sonríe, agua. Ese veneno es mío.",
+                "speaker": "TOXIRA"
+              }
+            ],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "TOXIRA",
+              "OCEAN"
+            ],
+            "duration_s": 5,
+            "video_prompt": "TOXIRA smiles and speaks while a drop of green venom detaches from the whip and falls toward the ring below; the whip cracks lightly. Slow push-in; whip crack and dry dripping sound."
+          }
+        },
+        {
+          "role": "s04",
+          "aspect_ratio": "9:16",
+          "narrative_caption": "Toxira ha marcado a Ocean con su inicial antes del combate.",
+          "image_path": "worlds/el-torneo-de-los-elementales/images/s04.jpg",
+          "scene_text": "Una grieta quemada de borde verde forma una gran T en el centro del cristal; la bota de Ocean toca su borde inferior derecho y el trazo apunta al palco de Toxira.\nOCEAN: Me ha marcado. Pero ¿para qué?\n(Siseo del veneno sobre el cristal.)",
+          "beat": "pregunta",
+          "shot": {
+            "act": "pregunta",
+            "angle": "top_down",
+            "place": "Arena Vítrea",
+            "sound": "Siseo del veneno sobre el cristal.",
+            "camera": "slow push-in",
+            "start_s": 15,
+            "dialogue": [
+              {
+                "line": "Me ha marcado. Pero ¿para qué?",
+                "speaker": "OCEAN"
+              }
+            ],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [
+              "OCEAN",
+              "TOXIRA"
+            ],
+            "duration_s": 5,
+            "video_prompt": "Green venom hisses and smokes along the edges of the T-shaped crack, OCEAN's boot stays still at the corner; slow push-in toward the center of the letter; faint venom hissing sound."
+          }
+        }
+      ],
+      "cover": {
+        "logline": "OCEAN, portador del arma de agua, pelea en la Arena Vítrea mientras TOXIRA, desde un palco, le deja una marca de veneno en el ring.",
+        "synopsis": "La Arena Vítrea es un recinto construido solo para el torneo de los elementales: gradas de cristal azulado, palcos suspendidos sobre el ring y una cúpula abierta al cielo. Allí compiten portadores de armas mágicas que cambian de forma, cada una de un elemento distinto: fuego, agua, rayo, veneno, luz, oscuridad, hielo. MELA, de pelo rojizo y cicatriz en la ceja, lleva un arma de fuego que se convierte en látigo o escudo. OCEAN, sereno y de pelo azul oscuro, maneja un tridente de agua. THUNDRAI, amigo de MELA, porta una lanza de rayo que chisporrotea cuando se emociona. En la primera ronda, TOXIRA, portadora del veneno, deja caer una gota desde su palco a los pies de OCEAN y después abre con su látigo una grieta en el ring con forma de inicial. Cada arma sigue la voluntad de su portador, y eso convierte el torneo en una prueba de carácter. En juego está ganar el torneo y entender por qué TOXIRA marca a OCEAN.",
+        "branch_seeds": [
+          {
+            "title": "La inicial en el cristal",
+            "what_if": "¿Y si MELA pisa la grieta verde del ring y descubre que el veneno de TOXIRA no quema el cristal, sino que lo borra?"
+          },
+          {
+            "title": "Chispas en el palco",
+            "what_if": "¿Y si THUNDRAI clava su lanza de rayo en la barandilla del palco de TOXIRA para exigirle que explique la marca?"
+          },
+          {
+            "title": "Agua contra veneno",
+            "what_if": "¿Y si OCEAN convierte su tridente en un escudo de agua para frenar el látigo de TOXIRA delante de todas las gradas?"
+          }
+        ],
+        "central_question": "¿Qué quiere decir la inicial que TOXIRA grabó en el ring de la Arena Vítrea, y sobrevivirán MELA y OCEAN al torneo para saberlo?"
+      },
+      "chapter_meta": {
+        "schema_version": "3.0",
+        "structure": "premise",
+        "duration_s": 20,
+        "logline": "OCEAN, portador del arma de agua, pelea en la Arena Vítrea mientras TOXIRA, desde un palco, le deja una marca de veneno en el ring.",
+        "entry_question": "¿Por qué hay una gota de veneno verde a los pies de OCEAN en mitad del ring?",
+        "exit_question": "¿Qué significa la inicial que TOXIRA ha trazado en la grieta, y a quién señala?",
+        "acts": [
+          {
+            "key": "mundo",
+            "label": "Mundo",
+            "start_s": 0,
+            "end_s": 5
+          },
+          {
+            "key": "protagonista",
+            "label": "Protagonista",
+            "start_s": 5,
+            "end_s": 10
+          },
+          {
+            "key": "conflicto",
+            "label": "Conflicto",
+            "start_s": 10,
+            "end_s": 15
+          },
+          {
+            "key": "pregunta",
+            "label": "Pregunta",
+            "start_s": 15,
+            "end_s": 20
+          }
+        ]
+      }
     },
     {
       "world_id": "w_elarion01",
