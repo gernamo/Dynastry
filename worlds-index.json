@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-11-23T07:06:33.905778+00:00",
+  "generated_at": "2026-11-24T09:48:57.192913+00:00",
   "total_worlds": 54,
-  "total_branches": 63,
+  "total_branches": 64,
   "worlds": [
     {
       "world_id": "w_thr0ld",
@@ -3325,7 +3325,169 @@
       "created_by": "@maspok",
       "created_at": "2026-11-23T07:03:50.375Z",
       "status": "developing",
-      "branches": [],
+      "branches": [
+        {
+          "branch_id": "b_k4uabv",
+          "branch_slug": "la-noche-del-tio-ash",
+          "name": "La noche del tío ASH",
+          "description": "Una noche, en la Arena Vítrea vacía, la madre de OCEAN planta cara a ASH, su cuñado, mientras OCEAN niño lo ve desde un palco. La pelea termina con el cristal roto y el niño al descubierto.",
+          "parent_branch": "canon",
+          "created_by": "@germanna",
+          "created_at": "2026-11-24T06:36:56.960Z",
+          "divergence_event": {
+            "description": "Un OCEAN niño mira desde un palco cómo su madre se enfrenta en el ring vacío a ASH, su tío, que no se detiene.",
+            "timeline_ref": "¿Por qué se enfrentan la madre de OCEAN y ASH en la arena vacía?"
+          },
+          "cover_image": "worlds/el-torneo-de-los-elementales/branches/la-noche-del-tio-ash/images/s01.jpg",
+          "images": [
+            {
+              "role": "s01",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "ASH, el tío de OCEAN, reclama al niño. Su madre se lo impide.",
+              "image_path": "worlds/el-torneo-de-los-elementales/branches/la-noche-del-tio-ash/images/s01.jpg",
+              "scene_text": "OCEAN NIÑO, en primer término a la izquierda, aprieta con ambas manos la barandilla de cristal del palco mientras abajo ASH señala hacia él y su madre le cierra el paso.\n(Goteo del tridente sobre el cristal.)",
+              "beat": "planteamiento",
+              "shot": {
+                "act": "planteamiento",
+                "angle": "high",
+                "place": "Arena Vítrea de noche",
+                "sound": "Goteo del tridente sobre el cristal.",
+                "camera": "slow push-in",
+                "start_s": 0,
+                "dialogue": [],
+                "shot_size": "over_shoulder",
+                "voiceover": "",
+                "characters": [
+                  "OCEAN NIÑO",
+                  "MADRE DE OCEAN",
+                  "ASH"
+                ],
+                "duration_s": 5,
+                "video_prompt": "OCEAN NIÑO's knuckles tighten on the glass railing as ASH's black flame flickers and MADRE DE OCEAN shifts her stance below; slow push-in over the boy's shoulder; trident drips on glass."
+              }
+            },
+            {
+              "role": "s02",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ash exige al hijo de la mujer que defiende la arena.",
+              "image_path": "worlds/el-torneo-de-los-elementales/branches/la-noche-del-tio-ash/images/s02.jpg",
+              "scene_text": "En el centro del ring, el tridente de agua de la madre y la llama negra del brazo de Ash chocan en el aire; al fondo, el niño se agarra a la barandilla del palco.\nASH: Entrégame al niño y esto termina esta noche.\n(Choque seco de agua contra fuego.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "low",
+                "place": "Arena Vítrea de noche",
+                "sound": "Choque seco de agua contra fuego.",
+                "camera": "slow push-in",
+                "start_s": 5,
+                "dialogue": [
+                  {
+                    "line": "Entrégame al niño y esto termina esta noche.",
+                    "speaker": "ASH"
+                  }
+                ],
+                "shot_size": "wide",
+                "voiceover": "",
+                "characters": [
+                  "MADRE DE OCEAN",
+                  "ASH",
+                  "OCEAN NIÑO"
+                ],
+                "duration_s": 5,
+                "video_prompt": "Water and black flame collide at center, sparks and droplets burst outward, cracks creep across the glass floor; ASH speaks his line; slow push-in; sharp hiss of water against fire."
+              }
+            },
+            {
+              "role": "s03",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "Ella se convierte en el único escudo de su hijo.",
+              "image_path": "worlds/el-torneo-de-los-elementales/branches/la-noche-del-tio-ash/images/s03.jpg",
+              "scene_text": "Madre de Ocean, de espaldas a la cámara y con los brazos abiertos de lado, sostiene el tridente goteando en la mano derecha, interponiéndose entre Ash y el palco.\nMADRE DE OCEAN: Antes tendrás que pasar sobre mí.\n(Crujido del cristal bajo sus botas.)",
+              "beat": "nudo",
+              "shot": {
+                "act": "nudo",
+                "angle": "eye_level",
+                "place": "Arena Vítrea de noche",
+                "sound": "Crujido del cristal bajo sus botas.",
+                "camera": "static",
+                "start_s": 10,
+                "dialogue": [
+                  {
+                    "line": "Antes tendrás que pasar sobre mí.",
+                    "speaker": "MADRE DE OCEAN"
+                  }
+                ],
+                "shot_size": "medium",
+                "voiceover": "",
+                "characters": [
+                  "MADRE DE OCEAN"
+                ],
+                "duration_s": 5,
+                "video_prompt": "MADRE DE OCEAN steps back one pace, arms wide, water dripping from the trident; she speaks her line firmly; camera static; glass cracking under her boots."
+              }
+            },
+            {
+              "role": "s04",
+              "aspect_ratio": "9:16",
+              "narrative_caption": "ASH ha venido a llevarse a OCEAN, y el niño acaba de bajar al ring.",
+              "image_path": "worlds/el-torneo-de-los-elementales/branches/la-noche-del-tio-ash/images/s04.jpg",
+              "scene_text": "MADRE DE OCEAN, de espaldas en primer término a la derecha, tiene la cabeza vuelta hacia OCEAN NIÑO, que está de pie, pequeño y medio oculto por el humo, al fondo del ring.\nMADRE DE OCEAN: Te dije que no bajaras.\n(Goteo del tridente sobre el cristal roto.)",
+              "beat": "desenlace",
+              "shot": {
+                "act": "desenlace",
+                "angle": "eye_level",
+                "place": "Arena Vítrea de noche",
+                "sound": "Goteo del tridente sobre el cristal roto.",
+                "camera": "slow push-in",
+                "start_s": 15,
+                "dialogue": [
+                  {
+                    "line": "Te dije que no bajaras.",
+                    "speaker": "MADRE DE OCEAN"
+                  }
+                ],
+                "shot_size": "over_shoulder",
+                "voiceover": "",
+                "characters": [
+                  "MADRE DE OCEAN",
+                  "OCEAN NIÑO",
+                  "ASH"
+                ],
+                "duration_s": 5,
+                "video_prompt": "MADRE DE OCEAN holds her turned head toward the boy while water drips from the trident; smoke drifts slowly across the cracked glass between them; slow push-in over her shoulder; soft dripping sound."
+              }
+            }
+          ],
+          "chapter_meta": {
+            "schema_version": "3.0",
+            "structure": "three_act",
+            "duration_s": 20,
+            "logline": "Un OCEAN niño mira desde un palco cómo su madre se enfrenta en el ring vacío a ASH, su tío, que no se detiene.",
+            "entry_question": "¿Por qué se enfrentan la madre de OCEAN y ASH en la arena vacía?",
+            "exit_question": "¿Qué hará la madre de OCEAN ahora que su hijo está a la vista de ASH?",
+            "acts": [
+              {
+                "key": "planteamiento",
+                "label": "Planteamiento",
+                "start_s": 0,
+                "end_s": 5
+              },
+              {
+                "key": "nudo",
+                "label": "Nudo",
+                "start_s": 5,
+                "end_s": 15
+              },
+              {
+                "key": "desenlace",
+                "label": "Desenlace",
+                "start_s": 15,
+                "end_s": 20
+              }
+            ]
+          }
+        }
+      ],
       "characters": [
         {
           "role": "protagonist",
