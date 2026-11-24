@@ -1,0 +1,329 @@
+{
+  "name": "La noche del tío ASH",
+  "tags": [],
+  "status": "developing",
+  "chapter": {
+    "acts": [
+      {
+        "key": "planteamiento",
+        "end_s": 5,
+        "label": "Planteamiento",
+        "shots": [
+          {
+            "id": "s01",
+            "act": "planteamiento",
+            "angle": "high",
+            "place": "Arena Vítrea de noche",
+            "sound": "Goteo del tridente sobre el cristal.",
+            "action": "OCEAN NIÑO, en primer término a la izquierda, aprieta con ambas manos la barandilla de cristal del palco mientras abajo ASH señala hacia él y su madre le cierra el paso.",
+            "camera": "slow push-in",
+            "caption": "ASH, el tío de OCEAN, reclama al niño. Su madre se lo impide.",
+            "start_s": 0,
+            "dialogue": [],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "OCEAN NIÑO",
+              "MADRE DE OCEAN",
+              "ASH"
+            ],
+            "duration_s": 5,
+            "image_prompt": "High-angle over-the-shoulder view from a glass balcony at night: OCEAN NIÑO small in the left foreground, seen from behind, both hands gripping a glass railing, head tilted down. Far below in the empty glass arena, ASH, with a black flame on his arm, points up at the balcony while MADRE DE OCEAN, holding a dripping water trident, stands between them. Cold blue moonlight, with a faint black-orange glow from ASH.",
+            "video_prompt": "OCEAN NIÑO's knuckles tighten on the glass railing as ASH's black flame flickers and MADRE DE OCEAN shifts her stance below; slow push-in over the boy's shoulder; trident drips on glass.",
+            "image_path": "images/s01.jpg"
+          }
+        ],
+        "start_s": 0
+      },
+      {
+        "key": "nudo",
+        "end_s": 15,
+        "label": "Nudo",
+        "shots": [
+          {
+            "id": "s02",
+            "act": "nudo",
+            "angle": "low",
+            "place": "Arena Vítrea de noche",
+            "sound": "Choque seco de agua contra fuego.",
+            "action": "En el centro del ring, el tridente de agua de la madre y la llama negra del brazo de Ash chocan en el aire; al fondo, el niño se agarra a la barandilla del palco.",
+            "camera": "slow push-in",
+            "caption": "Ash exige al hijo de la mujer que defiende la arena.",
+            "start_s": 5,
+            "dialogue": [
+              {
+                "line": "Entrégame al niño y esto termina esta noche.",
+                "speaker": "ASH"
+              }
+            ],
+            "shot_size": "wide",
+            "voiceover": "",
+            "characters": [
+              "MADRE DE OCEAN",
+              "ASH",
+              "OCEAN NIÑO"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Low-angle wide shot of a glass arena ring at night. MADRE DE OCEAN at frame left and ASH at frame right, arms extended, her water trident and his black-flame arm meeting in mid-air at center, thin cracks spreading in the glass floor beneath them. In the upper background, small OCEAN NIÑO grips a glass balcony railing. Blue water glow against black flame, dark night sky.",
+            "video_prompt": "Water and black flame collide at center, sparks and droplets burst outward, cracks creep across the glass floor; ASH speaks his line; slow push-in; sharp hiss of water against fire.",
+            "image_path": "images/s02.jpg"
+          },
+          {
+            "id": "s03",
+            "act": "nudo",
+            "angle": "eye_level",
+            "place": "Arena Vítrea de noche",
+            "sound": "Crujido del cristal bajo sus botas.",
+            "action": "Madre de Ocean, de espaldas a la cámara y con los brazos abiertos de lado, sostiene el tridente goteando en la mano derecha, interponiéndose entre Ash y el palco.",
+            "camera": "static",
+            "caption": "Ella se convierte en el único escudo de su hijo.",
+            "start_s": 10,
+            "dialogue": [
+              {
+                "line": "Antes tendrás que pasar sobre mí.",
+                "speaker": "MADRE DE OCEAN"
+              }
+            ],
+            "shot_size": "medium",
+            "voiceover": "",
+            "characters": [
+              "MADRE DE OCEAN"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Medium shot from slightly behind MADRE DE OCEAN, centered, arms spread wide to both sides, trident dripping in her right hand, boots planted on cracked glass. In the blurred background, ASH's black flame glows at the right edge and the balcony rises faintly in the upper left. Cold blue moonlight, orange-black flame rim light.",
+            "video_prompt": "MADRE DE OCEAN steps back one pace, arms wide, water dripping from the trident; she speaks her line firmly; camera static; glass cracking under her boots.",
+            "image_path": "images/s03.jpg"
+          }
+        ],
+        "start_s": 5
+      },
+      {
+        "key": "desenlace",
+        "end_s": 20,
+        "label": "Desenlace",
+        "shots": [
+          {
+            "id": "s04",
+            "act": "desenlace",
+            "angle": "eye_level",
+            "place": "Arena Vítrea de noche",
+            "sound": "Goteo del tridente sobre el cristal roto.",
+            "action": "MADRE DE OCEAN, de espaldas en primer término a la derecha, tiene la cabeza vuelta hacia OCEAN NIÑO, que está de pie, pequeño y medio oculto por el humo, al fondo del ring.",
+            "camera": "slow push-in",
+            "caption": "ASH ha venido a llevarse a OCEAN, y el niño acaba de bajar al ring.",
+            "start_s": 15,
+            "dialogue": [
+              {
+                "line": "Te dije que no bajaras.",
+                "speaker": "MADRE DE OCEAN"
+              }
+            ],
+            "shot_size": "over_shoulder",
+            "voiceover": "",
+            "characters": [
+              "MADRE DE OCEAN",
+              "OCEAN NIÑO",
+              "ASH"
+            ],
+            "duration_s": 5,
+            "image_prompt": "Over-the-shoulder shot from behind MADRE DE OCEAN, large dark silhouette in the right foreground, head turned in profile toward the left, trident dripping in her right hand. Far away in the left background, OCEAN NIÑO stands small, half hidden by pale smoke rising from cracked glass floor. Cold blue moonlight, faint orange glow from ASH's arm at the far edge.",
+            "video_prompt": "MADRE DE OCEAN holds her turned head toward the boy while water drips from the trident; smoke drifts slowly across the cracked glass between them; slow push-in over her shoulder; soft dripping sound.",
+            "image_path": "images/s04.jpg"
+          }
+        ],
+        "start_s": 15
+      }
+    ],
+    "logline": "Un OCEAN niño mira desde un palco cómo su madre se enfrenta en el ring vacío a ASH, su tío, que no se detiene.",
+    "language": "es",
+    "structure": "three_act",
+    "duration_s": 20,
+    "exit_question": "¿Qué hará la madre de OCEAN ahora que su hijo está a la vista de ASH?",
+    "entry_question": "¿Por qué se enfrentan la madre de OCEAN y ASH en la arena vacía?",
+    "schema_version": "3.0"
+  },
+  "world_id": "w_a7e6r0",
+  "branch_id": "b_k4uabv",
+  "created_at": "2026-11-24T06:36:56.960Z",
+  "created_by": "@germanna",
+  "new_places": [
+    {
+      "name": "Arena Vítrea de noche",
+      "atmosphere": "Silencioso, frío y solemne",
+      "visual_description": "The same bluish glass arena, empty, with the dome open and a starry sky above the glass ring"
+    }
+  ],
+  "branch_slug": "la-noche-del-tio-ash",
+  "description": "Una noche, en la Arena Vítrea vacía, la madre de OCEAN planta cara a ASH, su cuñado, mientras OCEAN niño lo ve desde un palco. La pelea termina con el cristal roto y el niño al descubierto.",
+  "parent_slug": "el-torneo-de-los-elementales",
+  "is_canonical": false,
+  "parent_branch": "canon",
+  "new_characters": [
+    {
+      "role": "Tío de OCEAN por parte de padre, portador del fuego de un clan rival, enemigo de la madre",
+      "label": "ASH",
+      "visual_description": "Man with a sharp face and dark eyes, a black flame coiling around his right arm, dark clothes",
+      "reference_image_path": "images/characters/ash.jpg",
+      "reference_kind": "sheet"
+    },
+    {
+      "role": "Madre de OCEAN, portadora del agua, enfrentada a ASH",
+      "label": "MADRE DE OCEAN",
+      "visual_description": "Woman with long dark navy-blue hair, light eyes, light blue and white fighting outfit, a trident made of flowing water",
+      "reference_image_path": "images/characters/madre-de-ocean.jpg",
+      "reference_kind": "sheet"
+    },
+    {
+      "role": "OCEAN de niño, observa desde el palco",
+      "label": "OCEAN NIÑO",
+      "visual_description": "Small boy of about eight with dark navy-blue hair, light eyes, light blue and white tunic",
+      "reference_image_path": "images/characters/ocean-nino.jpg",
+      "reference_kind": "sheet"
+    }
+  ],
+  "schema_version": "3.0",
+  "divergence_event": {
+    "description": "Un OCEAN niño mira desde un palco cómo su madre se enfrenta en el ring vacío a ASH, su tío, que no se detiene.",
+    "timeline_ref": "¿Por qué se enfrentan la madre de OCEAN y ASH en la arena vacía?"
+  },
+  "timeline_position": {
+    "end": {
+      "order": 2,
+      "marker": "20s"
+    },
+    "start": {
+      "order": 1,
+      "marker": "0s"
+    },
+    "diverges_from": "El torneo de los elementales",
+    "divergence_question": "¿Qué hará la madre de OCEAN ahora que su hijo está a la vista de ASH?"
+  },
+  "inherited_from_canon": {
+    "tone": "épico, misterioso, provocador",
+    "places_used": [
+      "Arena Vítrea de noche"
+    ],
+    "characters_used": [],
+    "visual_treatment": "anime"
+  },
+  "images": [
+    {
+      "role": "s01",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "ASH, el tío de OCEAN, reclama al niño. Su madre se lo impide.",
+      "image_path": "images/s01.jpg",
+      "scene_text": "OCEAN NIÑO, en primer término a la izquierda, aprieta con ambas manos la barandilla de cristal del palco mientras abajo ASH señala hacia él y su madre le cierra el paso.\n(Goteo del tridente sobre el cristal.)",
+      "beat": "planteamiento",
+      "shot": {
+        "act": "planteamiento",
+        "angle": "high",
+        "place": "Arena Vítrea de noche",
+        "sound": "Goteo del tridente sobre el cristal.",
+        "camera": "slow push-in",
+        "start_s": 0,
+        "dialogue": [],
+        "shot_size": "over_shoulder",
+        "voiceover": "",
+        "characters": [
+          "OCEAN NIÑO",
+          "MADRE DE OCEAN",
+          "ASH"
+        ],
+        "duration_s": 5,
+        "video_prompt": "OCEAN NIÑO's knuckles tighten on the glass railing as ASH's black flame flickers and MADRE DE OCEAN shifts her stance below; slow push-in over the boy's shoulder; trident drips on glass."
+      }
+    },
+    {
+      "role": "s02",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ash exige al hijo de la mujer que defiende la arena.",
+      "image_path": "images/s02.jpg",
+      "scene_text": "En el centro del ring, el tridente de agua de la madre y la llama negra del brazo de Ash chocan en el aire; al fondo, el niño se agarra a la barandilla del palco.\nASH: Entrégame al niño y esto termina esta noche.\n(Choque seco de agua contra fuego.)",
+      "beat": "nudo",
+      "shot": {
+        "act": "nudo",
+        "angle": "low",
+        "place": "Arena Vítrea de noche",
+        "sound": "Choque seco de agua contra fuego.",
+        "camera": "slow push-in",
+        "start_s": 5,
+        "dialogue": [
+          {
+            "line": "Entrégame al niño y esto termina esta noche.",
+            "speaker": "ASH"
+          }
+        ],
+        "shot_size": "wide",
+        "voiceover": "",
+        "characters": [
+          "MADRE DE OCEAN",
+          "ASH",
+          "OCEAN NIÑO"
+        ],
+        "duration_s": 5,
+        "video_prompt": "Water and black flame collide at center, sparks and droplets burst outward, cracks creep across the glass floor; ASH speaks his line; slow push-in; sharp hiss of water against fire."
+      }
+    },
+    {
+      "role": "s03",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "Ella se convierte en el único escudo de su hijo.",
+      "image_path": "images/s03.jpg",
+      "scene_text": "Madre de Ocean, de espaldas a la cámara y con los brazos abiertos de lado, sostiene el tridente goteando en la mano derecha, interponiéndose entre Ash y el palco.\nMADRE DE OCEAN: Antes tendrás que pasar sobre mí.\n(Crujido del cristal bajo sus botas.)",
+      "beat": "nudo",
+      "shot": {
+        "act": "nudo",
+        "angle": "eye_level",
+        "place": "Arena Vítrea de noche",
+        "sound": "Crujido del cristal bajo sus botas.",
+        "camera": "static",
+        "start_s": 10,
+        "dialogue": [
+          {
+            "line": "Antes tendrás que pasar sobre mí.",
+            "speaker": "MADRE DE OCEAN"
+          }
+        ],
+        "shot_size": "medium",
+        "voiceover": "",
+        "characters": [
+          "MADRE DE OCEAN"
+        ],
+        "duration_s": 5,
+        "video_prompt": "MADRE DE OCEAN steps back one pace, arms wide, water dripping from the trident; she speaks her line firmly; camera static; glass cracking under her boots."
+      }
+    },
+    {
+      "role": "s04",
+      "aspect_ratio": "9:16",
+      "narrative_caption": "ASH ha venido a llevarse a OCEAN, y el niño acaba de bajar al ring.",
+      "image_path": "images/s04.jpg",
+      "scene_text": "MADRE DE OCEAN, de espaldas en primer término a la derecha, tiene la cabeza vuelta hacia OCEAN NIÑO, que está de pie, pequeño y medio oculto por el humo, al fondo del ring.\nMADRE DE OCEAN: Te dije que no bajaras.\n(Goteo del tridente sobre el cristal roto.)",
+      "beat": "desenlace",
+      "shot": {
+        "act": "desenlace",
+        "angle": "eye_level",
+        "place": "Arena Vítrea de noche",
+        "sound": "Goteo del tridente sobre el cristal roto.",
+        "camera": "slow push-in",
+        "start_s": 15,
+        "dialogue": [
+          {
+            "line": "Te dije que no bajaras.",
+            "speaker": "MADRE DE OCEAN"
+          }
+        ],
+        "shot_size": "over_shoulder",
+        "voiceover": "",
+        "characters": [
+          "MADRE DE OCEAN",
+          "OCEAN NIÑO",
+          "ASH"
+        ],
+        "duration_s": 5,
+        "video_prompt": "MADRE DE OCEAN holds her turned head toward the boy while water drips from the trident; smoke drifts slowly across the cracked glass between them; slow push-in over her shoulder; soft dripping sound."
+      }
+    }
+  ],
+  "cover_image": "worlds/el-torneo-de-los-elementales/branches/la-noche-del-tio-ash/images/s01.jpg"
+}
